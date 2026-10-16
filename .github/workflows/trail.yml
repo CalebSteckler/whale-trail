@@ -1,0 +1,48 @@
+# Runs trail.mjs around the clock on GitHub's runners.
+# Jobs cap at 6h, so each run trails for ~5h30m, then dispatches its own successor.
+# The cron is only a safety net in case a handoff is lost; the concurrency group queues it behind a live run.
+name: whale-trail
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+concurrency:
+  group: trail
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  trail:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Configure git
+        run: |
+          git config user.name "whale-trail-bot"
+          git config user.email "whale-trail-bot@users.noreply.github.com"
+      - name: Trail, saving state every 10 minutes
+        run: |
+          save() {
+            git add data/state.json data/events.jsonl
+            git diff --cached --quiet || { git commit -q -m "trail: state $(date -u +%FT%TZ)" && git push -q; }
+          }
+          RUN_MIN=330 node trail.mjs | tee -a data/trail.log &
+          pid=$!
+          while kill -0 $pid 2>/dev/null; do sleep 600; save || true; done
+          node report.mjs > data/report.txt || true
+          git add data/report.txt
+          save
+      - name: Hand off to the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run trail.yml --ref ${{ github.ref_name }}

@@ -1,0 +1,6 @@
+{
+  "name": "whale-trail",
+  "private": true,
+  "type": "module",
+  "description": "Paper-trade copying of profitable Polymarket wallets"
+}
