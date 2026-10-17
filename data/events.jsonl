@@ -136,3 +136,8 @@
 {"t":"2026-10-17T22:20:22.667Z","type":"copy","name":"DelidelaDele","title":"CA Tucumán vs. CA Rosario Central: O/U 2.5","outcome":"Over","note":"whale $1696 @0.390 -> us @0.400 (2.6% worse, 128s lag)"}
 {"t":"2026-10-17T22:26:23.401Z","type":"skip","name":"tiger105","title":"Minnesota United FC vs. St. Louis City SC: O/U 4.5","outcome":"Over","note":"book too thin"}
 {"t":"2026-10-17T22:36:23.999Z","type":"copy","name":"tiger105","title":"Botafogo FR vs. Associação Chapecoense de Futebol: O/U 1.5","outcome":"Over","note":"whale $2000 @0.559 -> us @0.510 (8.7% better, 122s lag)"}
+{"t":"2026-10-17T22:47:24.151Z","type":"copy","name":"defillama7","title":"Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"whale $14420 @0.620 -> us @0.640 (3.2% worse, 199s lag)"}
+{"t":"2026-10-17T22:47:24.285Z","type":"close","name":"defillama7","title":"Will Flávio Bolsonaro win the 2026 Brazilian presidential election?","outcome":"Yes","note":"$-0.13 (whale sold @0.775, we exit @0.774)"}
+{"t":"2026-10-17T22:50:23.743Z","type":"copy","name":"DelidelaDele","title":"Will New York Red Bulls win on 2026-10-17?","outcome":"Yes","note":"whale $81200 @0.580 -> us @0.580 (0.0% better, 222s lag)"}
+{"t":"2026-10-17T22:51:24.080Z","type":"copy","name":"tiger105","title":"Will CA Mineiro win on 2026-10-17?","outcome":"Yes","note":"whale $2000 @0.510 -> us @0.500 (2.0% better, 43s lag)"}
+{"t":"2026-10-17T22:54:25.444Z","type":"close","name":"Kch-Temp","title":"Georgia Tech vs. Virginia Tech: O/U 55.5","outcome":"Under","note":"$-100.00 (resolved LOSS)"}
