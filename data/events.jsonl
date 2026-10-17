@@ -131,3 +131,7 @@
 {"t":"2026-10-17T21:11:47.319Z","type":"close","name":"Kch-Temp","title":"Spread: Temple (-19.5)","outcome":"Charlotte","note":"+$92.31 (resolved WIN)"}
 {"t":"2026-10-17T21:11:47.335Z","type":"close","name":"Kch-Temp","title":"Spread: Temple (-17.5)","outcome":"Charlotte","note":"+$92.31 (resolved WIN)"}
 {"t":"2026-10-17T22:10:24.499Z","type":"close","name":"Kch-Temp","title":"Arizona State vs. Texas Tech: O/U 49.5","outcome":"Over","note":"+$88.68 (resolved WIN)"}
+{"t":"2026-10-17T22:17:22.533Z","type":"copy","name":"defillama7","title":"Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?","outcome":"Yes","note":"whale $4275 @0.620 -> us @0.630 (1.6% worse, 259s lag)"}
+{"t":"2026-10-17T22:20:22.530Z","type":"copy","name":"DelidelaDele","title":"Will CA Rosario Central win on 2026-10-17?","outcome":"Yes","note":"whale $22909 @0.437 -> us @0.420 (3.9% better, 307s lag)"}
+{"t":"2026-10-17T22:20:22.667Z","type":"copy","name":"DelidelaDele","title":"CA Tucumán vs. CA Rosario Central: O/U 2.5","outcome":"Over","note":"whale $1696 @0.390 -> us @0.400 (2.6% worse, 128s lag)"}
+{"t":"2026-10-17T22:26:23.401Z","type":"skip","name":"tiger105","title":"Minnesota United FC vs. St. Louis City SC: O/U 4.5","outcome":"Over","note":"book too thin"}
