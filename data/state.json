@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792189457,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792182404,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792204062,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792204530,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792181269,
@@ -237,6 +237,24 @@
       "stake": 100,
       "lagS": 246,
       "openedAt": "2026-10-17T02:24:59.630Z"
+    },
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:32946988346851809083717853909672502303533938428804197173672614672441945179683": {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "32946988346851809083717853909672502303533938428804197173672614672441945179683",
+      "conditionId": "0x50b78cd83de62d75d504d7a184ba1171436628068b3c3d4dd0384e65d4a40d1b",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the New York governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republicans-win-the-new-york-governor-race-in-2026",
+      "eventSlug": "new-york-governor-winner-2026",
+      "whalePrice": 0.956,
+      "whaleUsd": 333.7396,
+      "ourPrice": 0.961,
+      "shares": 104.0582726326743,
+      "stake": 100,
+      "lagS": 261,
+      "openedAt": "2026-10-17T02:35:59.605Z"
     }
   },
   "closed": [
