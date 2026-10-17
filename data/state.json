@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792255070,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792265148,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792266111,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792266516,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792265781,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792266323,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792264982,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792259937,
@@ -309,24 +309,6 @@
       "stake": 100,
       "lagS": 47,
       "openedAt": "2026-10-17T16:44:37.002Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:33526712010392613900533666574683516913303071135041925239202147209773401158482": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "33526712010392613900533666574683516913303071135041925239202147209773401158482",
-      "conditionId": "0x12be59de6f613fabaf4fd604d011b4f9799923604bd976592532a3ba796f4d79",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: HAVU vs Phantom - Map 2 Winner",
-      "outcome": "Phantom",
-      "slug": "cs2-havu-pha-2026-10-17-game2",
-      "eventSlug": "cs2-havu-pha-2026-10-17",
-      "whalePrice": 0.72,
-      "whaleUsd": 797.8608,
-      "ourPrice": 0.7526294993132255,
-      "shares": 132.8675,
-      "stake": 100,
-      "lagS": 82,
-      "openedAt": "2026-10-17T16:58:37.558Z"
     },
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139:46080656021637320396243728892155742885034686164240210465185331304815961313": {
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -1084,6 +1066,28 @@
       "proceeds": 212.76595744680853,
       "pnl": 112.76595744680853,
       "closedAt": "2026-10-17T19:45:44.373Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "33526712010392613900533666574683516913303071135041925239202147209773401158482",
+      "conditionId": "0x12be59de6f613fabaf4fd604d011b4f9799923604bd976592532a3ba796f4d79",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: HAVU vs Phantom - Map 2 Winner",
+      "outcome": "Phantom",
+      "slug": "cs2-havu-pha-2026-10-17-game2",
+      "eventSlug": "cs2-havu-pha-2026-10-17",
+      "whalePrice": 0.72,
+      "whaleUsd": 797.8608,
+      "ourPrice": 0.7526294993132255,
+      "shares": 132.8675,
+      "stake": 100,
+      "lagS": 82,
+      "openedAt": "2026-10-17T16:58:37.558Z",
+      "proceeds": 132.8675,
+      "pnl": 32.86750000000001,
+      "closedAt": "2026-10-17T19:55:45.383Z",
       "note": "resolved WIN"
     }
   ]

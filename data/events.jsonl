@@ -118,3 +118,4 @@
 {"t":"2026-10-17T19:29:42.660Z","type":"copy","name":"Kch-Temp","title":"Arizona State vs. Texas Tech: O/U 49.5","outcome":"Over","note":"whale $10974 @0.519 -> us @0.530 (2.1% worse, 295s lag)"}
 {"t":"2026-10-17T19:37:42.847Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: MVK Esports vs FURIA Esports - Game 2 Winner","outcome":"MVK Esports","note":"book too thin"}
 {"t":"2026-10-17T19:45:44.373Z","type":"close","name":"THEHIGHLIFE","title":"Counter-Strike: Team Falcons vs BetBoom Team - Map 2 Winner","outcome":"BetBoom Team","note":"+$112.77 (resolved WIN)"}
+{"t":"2026-10-17T19:55:45.383Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: HAVU vs Phantom - Map 2 Winner","outcome":"Phantom","note":"+$32.87 (resolved WIN)"}
