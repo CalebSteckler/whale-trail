@@ -1,18 +1,20 @@
-Paper copies: 25 ($2500 staked) | closed 6, open 19
-Realized +$216.42 | open marked to bid -$65.33 | total +$151.09
-Median price vs whale: 0.5% worse | avg detection lag 160s
-Capital tied up now: $1900 in 19 positions | avg days locked per copy 0.2
-Wins/losses closed: 5/1
+Paper copies: 40 ($4000 staked) | closed 17, open 23
+Realized +$366.00 | open marked to bid +$359.79 | total +$725.80
+Median price vs whale: 0.5% worse | avg detection lag 171s
+Capital tied up now: $2300 in 23 positions | avg days locked per copy 0.3
+Wins/losses closed: 12/5
 
 By whale:
-  tiger105                     2 copies  +$112.58
-  para-Vision                  4 copies  +$105.02
+  tiger105                     8 copies  +$390.28
+  DelidelaDele                 1 copies  +$117.17
+  para-Vision                  5 copies  +$95.76
+  Tokenn                       1 copies  +$56.25
+  qwen4.1.fund                 4 copies  +$53.01
   bitbe                        1 copies  +$51.52
-  Tokenn                       1 copies  +$35.94
+  Kch-Temp                     2 copies  +$5.46
   defillama7                   1 copies  -$1.03
   Bigggggggg                   1 copies  -$1.11
-  SpringlyFawl                 3 copies  -$3.97
-  JohnLKellyJr                 3 copies  -$6.79
-  zerone777                    4 copies  -$7.99
-  qwen4.1.fund                 4 copies  -$33.07
-  THEHIGHLIFE                  1 copies  -$100.00
+  SpringlyFawl                 3 copies  -$3.34
+  THEHIGHLIFE                  2 copies  -$7.15
+  zerone777                    4 copies  -$9.81
+  JohnLKellyJr                 7 copies  -$21.22
