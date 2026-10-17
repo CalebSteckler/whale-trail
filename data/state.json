@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792189457,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792235024,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792235589,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792235633,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
@@ -273,24 +273,6 @@
       "stake": 100,
       "lagS": 339,
       "openedAt": "2026-10-17T09:01:53.905Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:71621446957191812761021263577683372866641102834252494339485539205693690898454": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "71621446957191812761021263577683372866641102834252494339485539205693690898454",
-      "conditionId": "0xe2dc9cdf57db98f2bed58cead509e3056a72ac8826bb9720f40fedfce5dd4a09",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Eternal Fire vs Nuclear TigeRES - Map 2 Winner",
-      "outcome": "Eternal Fire",
-      "slug": "cs2-ef1-ntr-2026-10-17-game2",
-      "eventSlug": "cs2-ef1-ntr-2026-10-17",
-      "whalePrice": 0.5696774705,
-      "whaleUsd": 359.084799980265,
-      "ourPrice": 0.58,
-      "shares": 172.41379310344828,
-      "stake": 100,
-      "lagS": 168,
-      "openedAt": "2026-10-17T09:06:54.072Z"
     },
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139:114349832905836423147098008480946207115237400745777523322813403923319670202369": {
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -605,6 +587,28 @@
       "pnl": 53.84615384615384,
       "closedAt": "2026-10-17T09:28:58.074Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "71621446957191812761021263577683372866641102834252494339485539205693690898454",
+      "conditionId": "0xe2dc9cdf57db98f2bed58cead509e3056a72ac8826bb9720f40fedfce5dd4a09",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Eternal Fire vs Nuclear TigeRES - Map 2 Winner",
+      "outcome": "Eternal Fire",
+      "slug": "cs2-ef1-ntr-2026-10-17-game2",
+      "eventSlug": "cs2-ef1-ntr-2026-10-17",
+      "whalePrice": 0.5696774705,
+      "whaleUsd": 359.084799980265,
+      "ourPrice": 0.58,
+      "shares": 172.41379310344828,
+      "stake": 100,
+      "lagS": 168,
+      "openedAt": "2026-10-17T09:06:54.072Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-17T11:19:42.212Z",
+      "note": "resolved LOSS"
     }
   ]
 }
