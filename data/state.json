@@ -2,14 +2,14 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792239305,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792235024,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792243241,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792243809,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792239347,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792243656,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792240310,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792181269,
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792243560,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792242495,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792189235,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792242996,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792195124,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792235442,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792231835,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792242981
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792243655
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -310,24 +310,6 @@
       "lagS": 128,
       "openedAt": "2026-10-17T10:57:40.261Z"
     },
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:93691562407064903277875067693144693261758771217101336105536876121028085431254": {
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "93691562407064903277875067693144693261758771217101336105536876121028085431254",
-      "conditionId": "0xf0bcb2c342ff81a657231e85df5b68f82b25e1764cd07f27611617e429fb7b20",
-      "outcomeIndex": 0,
-      "title": "Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev",
-      "outcome": "Rafael Jodar",
-      "slug": "atp-jodar-medvede-2026-10-17",
-      "eventSlug": "atp-jodar-medvede-2026-10-17",
-      "whalePrice": 0.38,
-      "whaleUsd": 2000.0000001,
-      "ourPrice": 0.38000000000000006,
-      "shares": 263.1578947368421,
-      "stake": 100,
-      "lagS": 229,
-      "openedAt": "2026-10-17T11:02:40.251Z"
-    },
     "0xddc38b82423310f5bbf2e2dc58745661a624029c:9312293679810295525294008572582549199397458560209622432756706251892665023418": {
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
       "name": "JohnLKellyJr",
@@ -346,24 +328,6 @@
       "lagS": 167,
       "openedAt": "2026-10-17T11:07:40.650Z"
     },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:6926743156444946116779492371702051482545786955262197214841368849354732242810": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "6926743156444946116779492371702051482545786955262197214841368849354732242810",
-      "conditionId": "0x1879e7b16cd02f83cd6111f6c2081d5f610e5a5eb24aa4f2e156c1b1f6a9aeb9",
-      "outcomeIndex": 1,
-      "title": "LoL: BNK FEARX vs Team WE - Game 3 Winner",
-      "outcome": "Team WE",
-      "slug": "lol-fox1-we-2026-10-17-game3",
-      "eventSlug": "lol-fox1-we-2026-10-17",
-      "whalePrice": 0.5529060257914504,
-      "whaleUsd": 4121.986300058616,
-      "ourPrice": 0.5185285919600675,
-      "shares": 192.85339622641507,
-      "stake": 100,
-      "lagS": 314,
-      "openedAt": "2026-10-17T11:13:40.688Z"
-    },
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:113913508077617768714661106342111232768567380459365526358483609846397264786990": {
       "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
       "name": "tiger105",
@@ -381,6 +345,24 @@
       "stake": 100,
       "lagS": 129,
       "openedAt": "2026-10-17T13:18:45.374Z"
+    },
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:41082569309716725561072854357112469069398994090621562172707341417427245903713": {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "41082569309716725561072854357112469069398994090621562172707341417427245903713",
+      "conditionId": "0xf480bf1b4d25a9a90d0a2496d5167203d31ece141d397f6f32d0724900f4f19d",
+      "outcomeIndex": 0,
+      "title": "Will Leyton Orient FC win on 2026-10-17?",
+      "outcome": "Yes",
+      "slug": "el1-ley-bla-2026-10-17-ley",
+      "eventSlug": "el1-ley-bla-2026-10-17",
+      "whalePrice": 0.4475418679,
+      "whaleUsd": 4408.3053004897165,
+      "ourPrice": 0.46,
+      "shares": 217.39130434782606,
+      "stake": 100,
+      "lagS": 405,
+      "openedAt": "2026-10-17T13:32:45.993Z"
     }
   },
   "closed": [
@@ -646,6 +628,50 @@
       "proceeds": 151.5151515151515,
       "pnl": 51.5151515151515,
       "closedAt": "2026-10-17T13:20:46.997Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "93691562407064903277875067693144693261758771217101336105536876121028085431254",
+      "conditionId": "0xf0bcb2c342ff81a657231e85df5b68f82b25e1764cd07f27611617e429fb7b20",
+      "outcomeIndex": 0,
+      "title": "Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev",
+      "outcome": "Rafael Jodar",
+      "slug": "atp-jodar-medvede-2026-10-17",
+      "eventSlug": "atp-jodar-medvede-2026-10-17",
+      "whalePrice": 0.38,
+      "whaleUsd": 2000.0000001,
+      "ourPrice": 0.38000000000000006,
+      "shares": 263.1578947368421,
+      "stake": 100,
+      "lagS": 229,
+      "openedAt": "2026-10-17T11:02:40.251Z",
+      "proceeds": 263.1578947368421,
+      "pnl": 163.15789473684208,
+      "closedAt": "2026-10-17T13:31:48.510Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "6926743156444946116779492371702051482545786955262197214841368849354732242810",
+      "conditionId": "0x1879e7b16cd02f83cd6111f6c2081d5f610e5a5eb24aa4f2e156c1b1f6a9aeb9",
+      "outcomeIndex": 1,
+      "title": "LoL: BNK FEARX vs Team WE - Game 3 Winner",
+      "outcome": "Team WE",
+      "slug": "lol-fox1-we-2026-10-17-game3",
+      "eventSlug": "lol-fox1-we-2026-10-17",
+      "whalePrice": 0.5529060257914504,
+      "whaleUsd": 4121.986300058616,
+      "ourPrice": 0.5185285919600675,
+      "shares": 192.85339622641507,
+      "stake": 100,
+      "lagS": 314,
+      "openedAt": "2026-10-17T11:13:40.688Z",
+      "proceeds": 192.85339622641507,
+      "pnl": 92.85339622641507,
+      "closedAt": "2026-10-17T13:31:48.570Z",
       "note": "resolved WIN"
     }
   ]

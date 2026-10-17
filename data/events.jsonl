@@ -59,3 +59,6 @@
 {"t":"2026-10-17T13:18:45.374Z","type":"copy","name":"tiger105","title":"Will Club Atlético de Madrid win on 2026-10-17?","outcome":"Yes","note":"whale $2000 @0.519 -> us @0.520 (0.1% worse, 129s lag)"}
 {"t":"2026-10-17T13:18:45.887Z","type":"skip","name":"JohnLKellyJr","title":"Will Middlesbrough FC win on 2026-10-17?","outcome":"Yes","note":"price moved 0.399 -> 0.292 before we saw it"}
 {"t":"2026-10-17T13:20:46.997Z","type":"close","name":"qwen4.1.fund","title":"Will 100 Thieves win VALORANT Champions 2026?","outcome":"No","note":"+$51.52 (resolved WIN)"}
+{"t":"2026-10-17T13:31:48.510Z","type":"close","name":"tiger105","title":"Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev","outcome":"Rafael Jodar","note":"+$163.16 (resolved WIN)"}
+{"t":"2026-10-17T13:31:48.570Z","type":"close","name":"THEHIGHLIFE","title":"LoL: BNK FEARX vs Team WE - Game 3 Winner","outcome":"Team WE","note":"+$92.85 (resolved WIN)"}
+{"t":"2026-10-17T13:32:45.993Z","type":"copy","name":"DelidelaDele","title":"Will Leyton Orient FC win on 2026-10-17?","outcome":"Yes","note":"whale $4408 @0.448 -> us @0.460 (2.8% worse, 405s lag)"}
