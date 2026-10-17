@@ -145,3 +145,5 @@
 {"t":"2026-10-17T23:16:26.374Z","type":"close","name":"Kch-Temp","title":"Will St. Louis City SC win on 2026-10-17?","outcome":"No","note":"+$61.29 (resolved WIN)"}
 {"t":"2026-10-17T23:16:27.110Z","type":"close","name":"Kch-Temp","title":"UNLV vs. Air Force","outcome":"Air Force","note":"+$100.00 (resolved WIN)"}
 {"t":"2026-10-17T23:21:25.662Z","type":"copy","name":"tiger105","title":"CA Paranaense vs. SE Palmeiras: O/U 3.5","outcome":"Over","note":"whale $2000 @0.528 -> us @0.530 (0.4% worse, 112s lag)"}
+{"t":"2026-10-17T23:38:27.270Z","type":"close","name":"Kch-Temp","title":"Toledo vs. Eastern Michigan","outcome":"Toledo","note":"+$38.89 (resolved WIN)"}
+{"t":"2026-10-17T23:38:27.328Z","type":"close","name":"Kch-Temp","title":"Spread: Toledo (-6.5)","outcome":"Toledo","note":"+$81.82 (resolved WIN)"}
