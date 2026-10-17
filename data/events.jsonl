@@ -47,3 +47,6 @@
 {"t":"2026-10-17T10:48:40.935Z","type":"copy","name":"Kch-Temp","title":"Will St. Louis City SC win on 2026-10-17?","outcome":"No","note":"whale $3810 @0.610 -> us @0.620 (1.6% worse, 53s lag)"}
 {"t":"2026-10-17T10:57:40.261Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: ENCE vs Phantom - Map 2 Winner","outcome":"Phantom","note":"whale $355 @0.710 -> us @0.778 (9.5% worse, 128s lag)"}
 {"t":"2026-10-17T11:02:40.251Z","type":"copy","name":"tiger105","title":"Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev","outcome":"Rafael Jodar","note":"whale $2000 @0.380 -> us @0.380 (0.0% worse, 229s lag)"}
+{"t":"2026-10-17T11:07:40.650Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: EYEBALLERS vs GamerLegion - Map 2 Winner","outcome":"GamerLegion","note":"whale $632 @0.729 -> us @0.740 (1.5% worse, 167s lag)"}
+{"t":"2026-10-17T11:08:40.817Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: BNK FEARX vs Team WE - Game 3 Winner","outcome":"Team WE","note":"price moved 0.465 -> 0.530 before we saw it"}
+{"t":"2026-10-17T11:13:40.689Z","type":"copy","name":"THEHIGHLIFE","title":"LoL: BNK FEARX vs Team WE - Game 3 Winner","outcome":"Team WE","note":"whale $4122 @0.553 -> us @0.519 (6.2% better, 314s lag)"}
