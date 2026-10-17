@@ -141,3 +141,4 @@
 {"t":"2026-10-17T22:50:23.743Z","type":"copy","name":"DelidelaDele","title":"Will New York Red Bulls win on 2026-10-17?","outcome":"Yes","note":"whale $81200 @0.580 -> us @0.580 (0.0% better, 222s lag)"}
 {"t":"2026-10-17T22:51:24.080Z","type":"copy","name":"tiger105","title":"Will CA Mineiro win on 2026-10-17?","outcome":"Yes","note":"whale $2000 @0.510 -> us @0.500 (2.0% better, 43s lag)"}
 {"t":"2026-10-17T22:54:25.444Z","type":"close","name":"Kch-Temp","title":"Georgia Tech vs. Virginia Tech: O/U 55.5","outcome":"Under","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-17T23:06:24.740Z","type":"skip","name":"tiger105","title":"América FC vs. Operário Ferroviário EC: O/U 0.5","outcome":"Over","note":"price moved 0.452 -> 0.776 before we saw it"}
