@@ -66,3 +66,6 @@
 {"t":"2026-10-17T14:03:47.565Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FURIA vs Aurora Gaming - Map 1 Winner","outcome":"Aurora Gaming","note":"price moved 0.499 -> 0.550 before we saw it"}
 {"t":"2026-10-17T14:04:49.430Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: EYEBALLERS vs GamerLegion - Map 2 Winner","outcome":"GamerLegion","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-17T14:08:47.896Z","type":"copy","name":"tiger105","title":"Will VfB Stuttgart win on 2026-10-17?","outcome":"Yes","note":"whale $2000 @0.590 -> us @0.580 (1.6% better, 300s lag)"}
+{"t":"2026-10-17T14:26:50.220Z","type":"close","name":"tiger105","title":"Will Club Atlético de Madrid win on 2026-10-17?","outcome":"Yes","note":"+$92.31 (resolved WIN)"}
+{"t":"2026-10-17T14:28:49.046Z","type":"copy","name":"Kch-Temp","title":"Spread: Temple (-19.5)","outcome":"Charlotte","note":"whale $12582 @0.510 -> us @0.520 (2.0% worse, 73s lag)"}
+{"t":"2026-10-17T14:33:49.325Z","type":"copy","name":"tiger105","title":"Venezia FC vs. SSC Napoli: O/U 1.5","outcome":"Over","note":"whale $2000 @0.630 -> us @0.600 (4.8% better, 157s lag)"}
