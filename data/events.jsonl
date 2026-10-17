@@ -44,3 +44,4 @@
 {"t":"2026-10-17T10:15:56.489Z","type":"skip","name":"para-Vision","title":"LoL: BNK FEARX vs Team WE - Game 2 Winner","outcome":"BNK FEARX","note":"price moved 0.570 -> 0.675 before we saw it"}
 {"t":"2026-10-17T10:22:56.768Z","type":"skip","name":"tiger105","title":"Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina","outcome":"Alexander Zverev","note":"price moved 0.570 -> 0.270 before we saw it"}
 {"t":"2026-10-17T10:37:40.532Z","type":"copy","name":"JohnLKellyJr","title":"Map Handicap: PHA (-1.5) vs ENCE (+1.5)","outcome":"Phantom","note":"whale $531 @0.480 -> us @0.490 (2.1% worse, 232s lag)"}
+{"t":"2026-10-17T10:48:40.935Z","type":"copy","name":"Kch-Temp","title":"Will St. Louis City SC win on 2026-10-17?","outcome":"No","note":"whale $3810 @0.610 -> us @0.620 (1.6% worse, 53s lag)"}
