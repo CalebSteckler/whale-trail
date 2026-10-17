@@ -1,0 +1,15 @@
+Paper copies: 15 ($1500 staked) | closed 4, open 11
+Realized +$66.50 | open marked to bid +$80.28 | total +$146.77
+Median price vs whale: 0.5% worse | avg detection lag 155s
+Capital tied up now: $1100 in 11 positions | avg days locked per copy 0.2
+Wins/losses closed: 3/1
+
+By whale:
+  para-Vision                  3 copies  +$148.29
+  tiger105                     1 copies  +$58.73
+  bitbe                        1 copies  +$51.52
+  defillama7                   1 copies  -$0.52
+  qwen4.1.fund                 3 copies  -$2.15
+  zerone777                    3 copies  -$4.35
+  SpringlyFawl                 2 copies  -$4.74
+  THEHIGHLIFE                  1 copies  -$100.00
