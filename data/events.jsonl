@@ -73,3 +73,5 @@
 {"t":"2026-10-17T14:49:49.803Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Betclic Apogee Esports vs Team Nemesis - Map 1 Winner","outcome":"Betclic Apogee Esports","note":"price moved 0.555 -> 0.683 before we saw it"}
 {"t":"2026-10-17T14:59:50.401Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Betclic Apogee Esports vs Team Nemesis - Map 2 Winner","outcome":"Team Nemesis","note":"whale $543 @0.670 -> us @0.680 (1.5% worse, 75s lag)"}
 {"t":"2026-10-17T15:03:50.543Z","type":"copy","name":"tiger105","title":"Will Liverpool FC win on 2026-10-17?","outcome":"Yes","note":"whale $2000 @0.360 -> us @0.360 (0.0% better, 273s lag)"}
+{"t":"2026-10-17T15:10:50.880Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FURIA vs Aurora Gaming - Map 2 Winner","outcome":"FURIA","note":"price moved 0.669 -> 0.780 before we saw it"}
+{"t":"2026-10-17T15:14:50.581Z","type":"skip","name":"tiger105","title":"1. FC Union Berlin vs. BV Borussia 09 Dortmund: O/U 0.5","outcome":"Over","note":"price moved 0.404 -> 0.332 before we saw it"}
