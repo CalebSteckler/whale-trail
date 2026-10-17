@@ -100,3 +100,7 @@
 {"t":"2026-10-17T18:05:39.739Z","type":"skip","name":"JohnLKellyJr","title":"Map 2 Rounds Handicap: Team Falcons (-3.5) vs BetBoom Team (+3.5)","outcome":"Team Falcons","note":"price moved 0.604 -> 0.810 before we saw it"}
 {"t":"2026-10-17T18:07:40.885Z","type":"close","name":"qwen4.1.fund","title":"Will Elon Musk post 115-139 tweets from October 15 to October 17, 2026?","outcome":"No","note":"+$22.43 (resolved WIN)"}
 {"t":"2026-10-17T18:15:39.876Z","type":"skip","name":"tiger105","title":"FC Bayern München vs. RB Leipzig: O/U 6.5","outcome":"Over","note":"price moved 0.532 -> 0.410 before we saw it"}
+{"t":"2026-10-17T18:37:40.700Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: Team Falcons vs BetBoom Team - Map 2 Winner","outcome":"BetBoom Team","note":"price moved 0.410 -> 0.500 before we saw it"}
+{"t":"2026-10-17T18:41:41.312Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Team Falcons vs BetBoom Team - Map 2 Winner","outcome":"Team Falcons","note":"price moved 0.336 -> 0.230 before we saw it"}
+{"t":"2026-10-17T18:44:40.694Z","type":"copy","name":"Kch-Temp","title":"Toledo vs. Eastern Michigan","outcome":"Toledo","note":"whale $41147 @0.700 -> us @0.720 (2.9% worse, 100s lag)"}
+{"t":"2026-10-17T18:44:40.798Z","type":"copy","name":"Kch-Temp","title":"Spread: Toledo (-6.5)","outcome":"Toledo","note":"whale $39361 @0.532 -> us @0.550 (3.4% worse, 77s lag)"}
