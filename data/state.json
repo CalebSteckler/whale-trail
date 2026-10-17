@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792189457,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792182404,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792197851,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792199172,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792181269,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792181269,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792195124,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792195416,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792195569,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792199124,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792187192
   },
   "open": {
@@ -112,24 +112,6 @@
       "openedAt": "2026-10-16T22:59:20.946Z",
       "eventSlug": "mlb-tb-cle-2026-10-16"
     },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:88420143718549182866658472074650961465688028327674093693509660309250917473065": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "88420143718549182866658472074650961465688028327674093693509660309250917473065",
-      "conditionId": "0xbacbdefe6f7e5cd71abe6c83e2ddd176c5dd92169e0f8136daab7f1f35a610af",
-      "outcomeIndex": 1,
-      "title": "LoL: FURIA Esports vs Cloud9 - Game 3 Winner",
-      "outcome": "Cloud9",
-      "slug": "lol-fur-c9-2026-10-16-game3",
-      "whalePrice": 0.44999999999999996,
-      "whaleUsd": 2448.207,
-      "ourPrice": 0.15,
-      "shares": 666.6666666666667,
-      "stake": 100,
-      "lagS": 186,
-      "openedAt": "2026-10-16T23:12:21.663Z",
-      "eventSlug": "lol-fur-c9-2026-10-16"
-    },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
       "name": "zerone777",
@@ -201,6 +183,24 @@
       "stake": 100,
       "lagS": 25,
       "openedAt": "2026-10-17T00:43:55.736Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:74689626926090438088388928859072696143043535361373192870214612911658135370782": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "74689626926090438088388928859072696143043535361373192870214612911658135370782",
+      "conditionId": "0x6308d82766cb29e299cf3bbb67e6b90537a8fd019113a2f64191d38d0ec6b537",
+      "outcomeIndex": 0,
+      "title": "Bruins vs. Ducks",
+      "outcome": "Bruins",
+      "slug": "nhl-bos-ana-2026-10-16",
+      "eventSlug": "nhl-bos-ana-2026-10-16",
+      "whalePrice": 0.51,
+      "whaleUsd": 40800,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "lagS": 33,
+      "openedAt": "2026-10-17T01:05:57.567Z"
     }
   },
   "closed": [
@@ -225,6 +225,28 @@
       "pnl": 56.25,
       "closedAt": "2026-10-17T00:16:55.685Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "88420143718549182866658472074650961465688028327674093693509660309250917473065",
+      "conditionId": "0xbacbdefe6f7e5cd71abe6c83e2ddd176c5dd92169e0f8136daab7f1f35a610af",
+      "outcomeIndex": 1,
+      "title": "LoL: FURIA Esports vs Cloud9 - Game 3 Winner",
+      "outcome": "Cloud9",
+      "slug": "lol-fur-c9-2026-10-16-game3",
+      "whalePrice": 0.44999999999999996,
+      "whaleUsd": 2448.207,
+      "ourPrice": 0.15,
+      "shares": 666.6666666666667,
+      "stake": 100,
+      "lagS": 186,
+      "openedAt": "2026-10-16T23:12:21.663Z",
+      "eventSlug": "lol-fur-c9-2026-10-16",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-17T01:11:57.456Z",
+      "note": "resolved LOSS"
     }
   ]
 }
