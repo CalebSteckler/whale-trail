@@ -9,3 +9,4 @@
 {"t":"2026-10-16T23:13:44.431Z","type":"copy","name":"zerone777","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"whale $261 @0.795 -> us @0.800 (0.6% worse, 195s lag)"}
 {"t":"2026-10-17T00:00:54.735Z","type":"copy","name":"tiger105","title":"Will Mirassol FC win on 2026-10-16?","outcome":"Yes","note":"whale $2000 @0.630 -> us @0.630 (0.0% worse, 261s lag)"}
 {"t":"2026-10-17T00:07:54.549Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: FURIA Esports vs Cloud9 - Game 4 Winner","outcome":"FURIA Esports","note":"already $200 on lol-fur-c9"}
+{"t":"2026-10-17T00:16:55.685Z","type":"close","name":"para-Vision","title":"LoL: FURIA Esports vs Cloud9 - Game 1 Winner","outcome":"Cloud9","note":"+$56.25 (resolved WIN)"}

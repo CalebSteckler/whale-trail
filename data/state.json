@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792189457,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792182404,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792195494,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792196082,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792181269,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792181269,
@@ -57,24 +57,6 @@
       "lagS": 260,
       "openedAt": "2026-10-16T20:34:19.683Z",
       "eventSlug": "ohio-senate-election-winner"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:16668111802888293161380834349583448262058071661366822281917147456949256493563": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "16668111802888293161380834349583448262058071661366822281917147456949256493563",
-      "conditionId": "0xf76920ff56237b93f5497f49c676f2ad5c321e254294e497c2bfddafd2733834",
-      "outcomeIndex": 1,
-      "title": "LoL: FURIA Esports vs Cloud9 - Game 1 Winner",
-      "outcome": "Cloud9",
-      "slug": "lol-fur-c9-2026-10-16-game1",
-      "whalePrice": 0.68,
-      "whaleUsd": 9815.657200000001,
-      "ourPrice": 0.64,
-      "shares": 156.25,
-      "stake": 100,
-      "lagS": 174,
-      "openedAt": "2026-10-16T20:57:20.241Z",
-      "eventSlug": "lol-fur-c9-2026-10-16"
     },
     "0xfbedb045813457be883ad83dd1078e88a2a1a665:79191939610100241429039499950443680906623179487184628479206155805558220344190": {
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -185,5 +167,28 @@
       "openedAt": "2026-10-17T00:00:54.734Z"
     }
   },
-  "closed": []
+  "closed": [
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "16668111802888293161380834349583448262058071661366822281917147456949256493563",
+      "conditionId": "0xf76920ff56237b93f5497f49c676f2ad5c321e254294e497c2bfddafd2733834",
+      "outcomeIndex": 1,
+      "title": "LoL: FURIA Esports vs Cloud9 - Game 1 Winner",
+      "outcome": "Cloud9",
+      "slug": "lol-fur-c9-2026-10-16-game1",
+      "whalePrice": 0.68,
+      "whaleUsd": 9815.657200000001,
+      "ourPrice": 0.64,
+      "shares": 156.25,
+      "stake": 100,
+      "lagS": 174,
+      "openedAt": "2026-10-16T20:57:20.241Z",
+      "eventSlug": "lol-fur-c9-2026-10-16",
+      "proceeds": 156.25,
+      "pnl": 56.25,
+      "closedAt": "2026-10-17T00:16:55.685Z",
+      "note": "resolved WIN"
+    }
+  ]
 }
