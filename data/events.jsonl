@@ -45,3 +45,5 @@
 {"t":"2026-10-17T10:22:56.768Z","type":"skip","name":"tiger105","title":"Shanghai Rolex Masters: Alexander Zverev vs Alejandro Davidovich Fokina","outcome":"Alexander Zverev","note":"price moved 0.570 -> 0.270 before we saw it"}
 {"t":"2026-10-17T10:37:40.532Z","type":"copy","name":"JohnLKellyJr","title":"Map Handicap: PHA (-1.5) vs ENCE (+1.5)","outcome":"Phantom","note":"whale $531 @0.480 -> us @0.490 (2.1% worse, 232s lag)"}
 {"t":"2026-10-17T10:48:40.935Z","type":"copy","name":"Kch-Temp","title":"Will St. Louis City SC win on 2026-10-17?","outcome":"No","note":"whale $3810 @0.610 -> us @0.620 (1.6% worse, 53s lag)"}
+{"t":"2026-10-17T10:57:40.261Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: ENCE vs Phantom - Map 2 Winner","outcome":"Phantom","note":"whale $355 @0.710 -> us @0.778 (9.5% worse, 128s lag)"}
+{"t":"2026-10-17T11:02:40.251Z","type":"copy","name":"tiger105","title":"Shanghai Rolex Masters: Rafael Jodar vs Daniil Medvedev","outcome":"Rafael Jodar","note":"whale $2000 @0.380 -> us @0.380 (0.0% worse, 229s lag)"}
