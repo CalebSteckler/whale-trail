@@ -135,3 +135,4 @@
 {"t":"2026-10-17T22:20:22.530Z","type":"copy","name":"DelidelaDele","title":"Will CA Rosario Central win on 2026-10-17?","outcome":"Yes","note":"whale $22909 @0.437 -> us @0.420 (3.9% better, 307s lag)"}
 {"t":"2026-10-17T22:20:22.667Z","type":"copy","name":"DelidelaDele","title":"CA Tucumán vs. CA Rosario Central: O/U 2.5","outcome":"Over","note":"whale $1696 @0.390 -> us @0.400 (2.6% worse, 128s lag)"}
 {"t":"2026-10-17T22:26:23.401Z","type":"skip","name":"tiger105","title":"Minnesota United FC vs. St. Louis City SC: O/U 4.5","outcome":"Over","note":"book too thin"}
+{"t":"2026-10-17T22:36:23.999Z","type":"copy","name":"tiger105","title":"Botafogo FR vs. Associação Chapecoense de Futebol: O/U 1.5","outcome":"Over","note":"whale $2000 @0.559 -> us @0.510 (8.7% better, 122s lag)"}
