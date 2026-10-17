@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792189457,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792182404,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792218304,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792219098,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792181269,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792209671,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792219167,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792213481,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792181269,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792217992,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792218894,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792189235,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792194993,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792181269,
@@ -201,6 +201,24 @@
       "stake": 100,
       "lagS": 261,
       "openedAt": "2026-10-17T02:35:59.605Z"
+    },
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665:67933292644373744581888685518110880721664485231071869823090699958992859556569": {
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "67933292644373744581888685518110880721664485231071869823090699958992859556569",
+      "conditionId": "0xd88213e25cb330a0afe25f4f440bb71238d9aa66b4c66d816539d07516951c7c",
+      "outcomeIndex": 0,
+      "title": "Will there be no Hormuz agreement by October 23 or oil at least $80, and the Democrats win the Senate?",
+      "outcome": "Yes",
+      "slug": "no-hormuz-agreement-by-oct-23-or-oil-at-least-80-and-the-democrats-win-the-senate",
+      "eventSlug": "who-wins-the-senate-pending-hormuz-agreement-by-oct-23-and-oil-below-80",
+      "whalePrice": 0.628,
+      "whaleUsd": 271.924,
+      "ourPrice": 0.636,
+      "shares": 157.2327044025157,
+      "stake": 100,
+      "lagS": 174,
+      "openedAt": "2026-10-17T06:37:48.401Z"
     }
   },
   "closed": [
