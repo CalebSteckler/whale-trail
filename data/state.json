@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792277213,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792291068,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792292387,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792293102,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
@@ -309,24 +309,6 @@
       "stake": 100,
       "lagS": 199,
       "openedAt": "2026-10-17T22:47:24.151Z"
-    },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:80890576621994224645344837146652012212764083390973008788330127753961779281619": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "80890576621994224645344837146652012212764083390973008788330127753961779281619",
-      "conditionId": "0xda5af372a3563a9ad0aa4ade394e47a9a63f41263bebc7d29bff3e3cc800e94f",
-      "outcomeIndex": 0,
-      "title": "Will Real Salt Lake win on 2026-10-17?",
-      "outcome": "Yes",
-      "slug": "mls-skc-rsl-2026-10-17-rsl",
-      "eventSlug": "mls-skc-rsl-2026-10-17",
-      "whalePrice": 0.4299577789473684,
-      "whaleUsd": 8169.1978,
-      "ourPrice": 0.43,
-      "shares": 232.55813953488374,
-      "stake": 100,
-      "lagS": 282,
-      "openedAt": "2026-10-17T23:50:26.364Z"
     },
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:114836266096583205495297578152390297516093843825578944264348471235719207728765": {
       "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
@@ -1399,6 +1381,28 @@
       "pnl": -100,
       "closedAt": "2026-10-18T02:55:34.603Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "80890576621994224645344837146652012212764083390973008788330127753961779281619",
+      "conditionId": "0xda5af372a3563a9ad0aa4ade394e47a9a63f41263bebc7d29bff3e3cc800e94f",
+      "outcomeIndex": 0,
+      "title": "Will Real Salt Lake win on 2026-10-17?",
+      "outcome": "Yes",
+      "slug": "mls-skc-rsl-2026-10-17-rsl",
+      "eventSlug": "mls-skc-rsl-2026-10-17",
+      "whalePrice": 0.4299577789473684,
+      "whaleUsd": 8169.1978,
+      "ourPrice": 0.43,
+      "shares": 232.55813953488374,
+      "stake": 100,
+      "lagS": 282,
+      "openedAt": "2026-10-17T23:50:26.364Z",
+      "proceeds": 232.55813953488374,
+      "pnl": 132.55813953488374,
+      "closedAt": "2026-10-18T03:08:09.243Z",
+      "note": "resolved WIN"
     }
   ]
 }
