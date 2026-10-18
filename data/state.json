@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792319603,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792355568,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792355681,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792356138,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792351619,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792354190,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792355958,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792355072,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792354500,
@@ -489,6 +489,24 @@
       "stake": 100,
       "lagS": 328,
       "openedAt": "2026-10-18T20:23:45.508Z"
+    },
+    "0xe949065b6c64308369c26dc590121623a5a4dea6:100965401820238560292011503543834205298588334859536142057486338070550323881409": {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "100965401820238560292011503543834205298588334859536142057486338070550323881409",
+      "conditionId": "0xacc40b8c680180a2cb89ba2d8135edab6f3e4546ef102a9dffff86863d53cc01",
+      "outcomeIndex": 1,
+      "title": "Will there be no Hormuz agreement by October 23 or oil at least $80, and the Republicans win the Senate?",
+      "outcome": "No",
+      "slug": "no-hormuz-agreement-by-oct-23-or-oil-at-least-80-and-the-republicans-win-the-senate",
+      "eventSlug": "who-wins-the-senate-pending-hormuz-agreement-by-oct-23-and-oil-below-80",
+      "whalePrice": 0.675,
+      "whaleUsd": 359.99775000000005,
+      "ourPrice": 0.6810503434011616,
+      "shares": 146.83202346041054,
+      "stake": 100,
+      "lagS": 268,
+      "openedAt": "2026-10-18T20:43:46.875Z"
     }
   },
   "closed": [

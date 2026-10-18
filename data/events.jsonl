@@ -271,3 +271,6 @@
 {"t":"2026-10-18T20:24:46.789Z","type":"close","name":"Kch-Temp","title":"Bears vs. Falcons: O/U 52.5","outcome":"Under","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-18T20:24:47.148Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: ex-RUSTEC vs Nuclear TigeRES - Map 2 Winner","outcome":"Nuclear TigeRES","note":"+$30.94 (resolved WIN)"}
 {"t":"2026-10-18T20:34:46.586Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: FURIA vs BetBoom Team - Map 4 Winner","outcome":"FURIA","note":"already $200 on cs2-furia-bb3"}
+{"t":"2026-10-18T20:43:46.665Z","type":"skip","name":"zerone777","title":"Will there be a Hormuz agreement by October 23, oil below $80, and the Republicans win the Senate?","outcome":"No","note":"whale paid 0.984"}
+{"t":"2026-10-18T20:43:46.666Z","type":"skip","name":"zerone777","title":"Will there be a Hormuz agreement by October 23, oil below $80, and the Democrats win the Senate?","outcome":"No","note":"whale paid 0.977"}
+{"t":"2026-10-18T20:43:46.875Z","type":"copy","name":"zerone777","title":"Will there be no Hormuz agreement by October 23 or oil at least $80, and the Republicans win the Senate?","outcome":"No","note":"whale $360 @0.675 -> us @0.681 (0.9% worse, 268s lag)"}
