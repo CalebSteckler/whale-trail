@@ -217,3 +217,6 @@
 {"t":"2026-10-18T14:58:50.434Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: EYEBALLERS vs Team Nemesis - Map 1 Winner","outcome":"Team Nemesis","note":"price moved 0.310 -> 0.224 before we saw it"}
 {"t":"2026-10-18T14:58:50.597Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs","outcome":"Team Falcons","note":"$-95.12 (whale sold @0.074, we exit @0.020)"}
 {"t":"2026-10-18T15:04:50.744Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Brute vs BET-M 33 (BO3) - NODWIN Clutch Series Group Stage","outcome":"Brute","note":"+$36.16 (whale sold @0.802, we exit @0.760)"}
+{"t":"2026-10-18T15:09:50.956Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Brute vs BET-M 33 (BO3) - NODWIN Clutch Series Group Stage","outcome":"Brute","note":"price moved 0.730 -> 0.830 before we saw it"}
+{"t":"2026-10-18T15:14:51.125Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Brute vs BET-M 33 - Map 2 Winner","outcome":"Brute","note":"whale $2032 @0.588 -> us @0.572 (2.7% better, 312s lag)"}
+{"t":"2026-10-18T15:14:51.295Z","type":"copy","name":"JohnLKellyJr","title":"Map Handicap: FURIA (-1.5) vs BetBoom Team (+1.5)","outcome":"FURIA","note":"whale $7097 @0.560 -> us @0.570 (1.8% worse, 76s lag)"}
