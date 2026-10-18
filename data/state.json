@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792277213,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792298385,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792302777,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792303377,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792301666,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792296767,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792303400,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792303184,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792281215,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792301505,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792303296,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792289466,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -75,24 +75,6 @@
       "lagS": 151,
       "openedAt": "2026-10-16T22:11:21.063Z",
       "eventSlug": "brazil-presidential-election"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:91683183963257916680594532559326295765393957646687893681765316288063853356557": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "91683183963257916680594532559326295765393957646687893681765316288063853356557",
-      "conditionId": "0x26b5ef627ebddd730da4491dfac7f4ac22e4b4a73c4ac0fa8ea211d9da6af3a4",
-      "outcomeIndex": 0,
-      "title": "Tampa Bay Rays vs. Cleveland Guardians",
-      "outcome": "Tampa Bay Rays",
-      "slug": "mlb-tb-cle-2026-10-16",
-      "whalePrice": 0.51,
-      "whaleUsd": 4021.6611,
-      "ourPrice": 0.52,
-      "shares": 192.3076923076923,
-      "stake": 100,
-      "lagS": 65,
-      "openedAt": "2026-10-16T22:59:20.946Z",
-      "eventSlug": "mlb-tb-cle-2026-10-16"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -1411,6 +1393,28 @@
       "pnl": -100,
       "closedAt": "2026-10-18T04:58:14.962Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "91683183963257916680594532559326295765393957646687893681765316288063853356557",
+      "conditionId": "0x26b5ef627ebddd730da4491dfac7f4ac22e4b4a73c4ac0fa8ea211d9da6af3a4",
+      "outcomeIndex": 0,
+      "title": "Tampa Bay Rays vs. Cleveland Guardians",
+      "outcome": "Tampa Bay Rays",
+      "slug": "mlb-tb-cle-2026-10-16",
+      "whalePrice": 0.51,
+      "whaleUsd": 4021.6611,
+      "ourPrice": 0.52,
+      "shares": 192.3076923076923,
+      "stake": 100,
+      "lagS": 65,
+      "openedAt": "2026-10-16T22:59:20.946Z",
+      "eventSlug": "mlb-tb-cle-2026-10-16",
+      "proceeds": 192.3076923076923,
+      "pnl": 92.30769230769229,
+      "closedAt": "2026-10-18T06:03:16.667Z",
+      "note": "resolved WIN"
     }
   ]
 }
