@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792277213,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792291068,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792291470,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792291758,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
@@ -309,24 +309,6 @@
       "stake": 100,
       "lagS": 199,
       "openedAt": "2026-10-17T22:47:24.151Z"
-    },
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:60027316050750000293569444290487033123246147078851915502948710959221510496790": {
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "60027316050750000293569444290487033123246147078851915502948710959221510496790",
-      "conditionId": "0x860383a783132c0ec24b61f38af9b2f5d1f83d49276e759d4a005c7227d56767",
-      "outcomeIndex": 0,
-      "title": "CA Paranaense vs. SE Palmeiras: O/U 3.5",
-      "outcome": "Over",
-      "slug": "bra-cap-pal-2026-10-17-total-3pt5",
-      "eventSlug": "bra-cap-pal-2026-10-17-more-markets",
-      "whalePrice": 0.5280541204,
-      "whaleUsd": 1999.999998824374,
-      "ourPrice": 0.53,
-      "shares": 188.67924528301887,
-      "stake": 100,
-      "lagS": 112,
-      "openedAt": "2026-10-17T23:21:25.662Z"
     },
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508:80890576621994224645344837146652012212764083390973008788330127753961779281619": {
       "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
@@ -1395,6 +1377,28 @@
       "pnl": 138.0952380952381,
       "closedAt": "2026-10-18T02:44:34.004Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "60027316050750000293569444290487033123246147078851915502948710959221510496790",
+      "conditionId": "0x860383a783132c0ec24b61f38af9b2f5d1f83d49276e759d4a005c7227d56767",
+      "outcomeIndex": 0,
+      "title": "CA Paranaense vs. SE Palmeiras: O/U 3.5",
+      "outcome": "Over",
+      "slug": "bra-cap-pal-2026-10-17-total-3pt5",
+      "eventSlug": "bra-cap-pal-2026-10-17-more-markets",
+      "whalePrice": 0.5280541204,
+      "whaleUsd": 1999.999998824374,
+      "ourPrice": 0.53,
+      "shares": 188.67924528301887,
+      "stake": 100,
+      "lagS": 112,
+      "openedAt": "2026-10-17T23:21:25.662Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-18T02:55:34.603Z",
+      "note": "resolved LOSS"
     }
   ]
 }
