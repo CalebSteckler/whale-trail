@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792277213,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792281105,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792287603,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792289087,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792287086,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792287569,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792288659,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792281215,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792287699,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792288817,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792287647,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -363,24 +363,6 @@
       "stake": 100,
       "lagS": 222,
       "openedAt": "2026-10-17T22:50:23.742Z"
-    },
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:3285462626992833947696577871913431025841995021277189739262500945133166191165": {
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "3285462626992833947696577871913431025841995021277189739262500945133166191165",
-      "conditionId": "0x985ba44860c5ffc3634c45e540d8f390d54e30ecc7d0bcbab318c2a047356fae",
-      "outcomeIndex": 0,
-      "title": "Will CA Mineiro win on 2026-10-17?",
-      "outcome": "Yes",
-      "slug": "bra-cam-cor-2026-10-17-cam",
-      "eventSlug": "bra-cam-cor-2026-10-17",
-      "whalePrice": 0.5099999999,
-      "whaleUsd": 1999.9999998878432,
-      "ourPrice": 0.5,
-      "shares": 200,
-      "stake": 100,
-      "lagS": 43,
-      "openedAt": "2026-10-17T22:51:24.080Z"
     },
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:60027316050750000293569444290487033123246147078851915502948710959221510496790": {
       "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
@@ -1361,6 +1343,28 @@
       "pnl": -100,
       "closedAt": "2026-10-18T01:28:31.423Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "3285462626992833947696577871913431025841995021277189739262500945133166191165",
+      "conditionId": "0x985ba44860c5ffc3634c45e540d8f390d54e30ecc7d0bcbab318c2a047356fae",
+      "outcomeIndex": 0,
+      "title": "Will CA Mineiro win on 2026-10-17?",
+      "outcome": "Yes",
+      "slug": "bra-cam-cor-2026-10-17-cam",
+      "eventSlug": "bra-cam-cor-2026-10-17",
+      "whalePrice": 0.5099999999,
+      "whaleUsd": 1999.9999998878432,
+      "ourPrice": 0.5,
+      "shares": 200,
+      "stake": 100,
+      "lagS": 43,
+      "openedAt": "2026-10-17T22:51:24.080Z",
+      "proceeds": 200,
+      "pnl": 100,
+      "closedAt": "2026-10-18T02:00:34.586Z",
+      "note": "resolved WIN"
     }
   ]
 }
