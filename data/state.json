@@ -1,16 +1,16 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792319603,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792353165,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792352984,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792353348,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792353771,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792351619,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792353330,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792353953,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792347861,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792353291,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792353450,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792349306,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792249775,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792349252,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792349699,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792352963
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792353620
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -364,42 +364,6 @@
       "lagS": 138,
       "openedAt": "2026-10-18T16:39:54.921Z"
     },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:32385268492741978487280090321500247941944593969788342854453844642638655882639": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "32385268492741978487280090321500247941944593969788342854453844642638655882639",
-      "conditionId": "0x9437a6ad91b3d5112da6a8a916c92059defd95f7932026fffc95c41be6c03322",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: FORZE Reload vs BakS eSports (BO3) - CCT Europe Series #11 Group Stage",
-      "outcome": "FORZE Reload",
-      "slug": "cs2-forzer-baks-2026-10-18",
-      "eventSlug": "cs2-forzer-baks-2026-10-18",
-      "whalePrice": 0.59,
-      "whaleUsd": 498.56769999999995,
-      "ourPrice": 0.6,
-      "shares": 166.66666666666669,
-      "stake": 100,
-      "lagS": 399,
-      "openedAt": "2026-10-18T16:50:54.720Z"
-    },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:31676926196252653150132625115745251207839043406095479849278479101279991272275": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "31676926196252653150132625115745251207839043406095479849278479101279991272275",
-      "conditionId": "0x72d35f60f7aca2751f7036ff6fc35554278c08f47c78c9ccacc83a175b8cdae1",
-      "outcomeIndex": 1,
-      "title": "Will Racing Club win on 2026-10-18?",
-      "outcome": "No",
-      "slug": "arg-rac-ind-2026-10-18-rac",
-      "eventSlug": "arg-rac-ind-2026-10-18",
-      "whalePrice": 0.5999812857,
-      "whaleUsd": 8399.7379998,
-      "ourPrice": 0.62,
-      "shares": 161.29032258064515,
-      "stake": 100,
-      "lagS": 72,
-      "openedAt": "2026-10-18T16:57:53.931Z"
-    },
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508:38367475616182369004285105061657298206762663042534555609721011384064991611031": {
       "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
       "name": "DelidelaDele",
@@ -543,6 +507,24 @@
       "stake": 100,
       "lagS": 301,
       "openedAt": "2026-10-18T19:00:00.182Z"
+    },
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c:16656821354363710656144620752847761299405665952961168887788915183531487968541": {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "16656821354363710656144620752847761299405665952961168887788915183531487968541",
+      "conditionId": "0xc2c604ee747b6eba6eaebb1f91227f6586c8274ecee248d849f917905044ada7",
+      "outcomeIndex": 0,
+      "title": "Juventus FC vs. SS Lazio: O/U 2.5",
+      "outcome": "Over",
+      "slug": "sea-juv-laz-2026-10-18-total-2pt5",
+      "eventSlug": "sea-juv-laz-2026-10-18-more-markets",
+      "whalePrice": 0.41,
+      "whaleUsd": 1435,
+      "ourPrice": 0.37,
+      "shares": 270.27027027027026,
+      "stake": 100,
+      "lagS": 298,
+      "openedAt": "2026-10-18T20:02:45.212Z"
     }
   },
   "closed": [
@@ -1974,6 +1956,50 @@
       "proceeds": 178.57142857142856,
       "pnl": 78.57142857142856,
       "closedAt": "2026-10-18T19:40:46.402Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "32385268492741978487280090321500247941944593969788342854453844642638655882639",
+      "conditionId": "0x9437a6ad91b3d5112da6a8a916c92059defd95f7932026fffc95c41be6c03322",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FORZE Reload vs BakS eSports (BO3) - CCT Europe Series #11 Group Stage",
+      "outcome": "FORZE Reload",
+      "slug": "cs2-forzer-baks-2026-10-18",
+      "eventSlug": "cs2-forzer-baks-2026-10-18",
+      "whalePrice": 0.59,
+      "whaleUsd": 498.56769999999995,
+      "ourPrice": 0.6,
+      "shares": 166.66666666666669,
+      "stake": 100,
+      "lagS": 399,
+      "openedAt": "2026-10-18T16:50:54.720Z",
+      "proceeds": 166.66666666666669,
+      "pnl": 66.66666666666669,
+      "closedAt": "2026-10-18T20:02:46.425Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "31676926196252653150132625115745251207839043406095479849278479101279991272275",
+      "conditionId": "0x72d35f60f7aca2751f7036ff6fc35554278c08f47c78c9ccacc83a175b8cdae1",
+      "outcomeIndex": 1,
+      "title": "Will Racing Club win on 2026-10-18?",
+      "outcome": "No",
+      "slug": "arg-rac-ind-2026-10-18-rac",
+      "eventSlug": "arg-rac-ind-2026-10-18",
+      "whalePrice": 0.5999812857,
+      "whaleUsd": 8399.7379998,
+      "ourPrice": 0.62,
+      "shares": 161.29032258064515,
+      "stake": 100,
+      "lagS": 72,
+      "openedAt": "2026-10-18T16:57:53.931Z",
+      "proceeds": 161.29032258064515,
+      "pnl": 61.29032258064515,
+      "closedAt": "2026-10-18T20:02:46.489Z",
       "note": "resolved WIN"
     }
   ]
