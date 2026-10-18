@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792277213,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792281105,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792280852,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792282467,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792280727,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792281215,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792279689,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792282305,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792277066,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792279173,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -219,24 +219,6 @@
       "stake": 100,
       "lagS": 235,
       "openedAt": "2026-10-17T09:23:54.905Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:46080656021637320396243728892155742885034686164240210465185331304815961313": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "46080656021637320396243728892155742885034686164240210465185331304815961313",
-      "conditionId": "0xe3da5443f88a13fe91aa81322603e0f9e52c06467a11290d7cb72642f9023377",
-      "outcomeIndex": 1,
-      "title": "Kraken vs. Panthers: O/U 6.5",
-      "outcome": "Under",
-      "slug": "nhl-sea-fla-2026-10-17-total-6pt5",
-      "eventSlug": "nhl-sea-fla-2026-10-17",
-      "whalePrice": 0.55,
-      "whaleUsd": 684.9425,
-      "ourPrice": 0.56,
-      "shares": 178.57142857142856,
-      "stake": 100,
-      "lagS": 79,
-      "openedAt": "2026-10-17T17:02:37.775Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:68812357106656914371995657348187525467262478688912849792269854665727885188690": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -1331,6 +1313,28 @@
       "pnl": 81.81818181818181,
       "closedAt": "2026-10-17T23:38:27.328Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "46080656021637320396243728892155742885034686164240210465185331304815961313",
+      "conditionId": "0xe3da5443f88a13fe91aa81322603e0f9e52c06467a11290d7cb72642f9023377",
+      "outcomeIndex": 1,
+      "title": "Kraken vs. Panthers: O/U 6.5",
+      "outcome": "Under",
+      "slug": "nhl-sea-fla-2026-10-17-total-6pt5",
+      "eventSlug": "nhl-sea-fla-2026-10-17",
+      "whalePrice": 0.55,
+      "whaleUsd": 684.9425,
+      "ourPrice": 0.56,
+      "shares": 178.57142857142856,
+      "stake": 100,
+      "lagS": 79,
+      "openedAt": "2026-10-17T17:02:37.775Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-18T00:11:27.606Z",
+      "note": "resolved LOSS"
     }
   ]
 }
