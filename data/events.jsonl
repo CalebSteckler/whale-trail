@@ -207,3 +207,5 @@
 {"t":"2026-10-18T13:50:09.230Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Grand Theft Auto VI Launch Trailer\" get between 60 and 80 million views on week 1?","outcome":"No","note":"price moved 0.479 -> 0.663 before we saw it"}
 {"t":"2026-10-18T13:58:50.838Z","type":"close","name":"tiger105","title":"Wuhan Tennis Open: Maja Chwalinska vs Sonay Kartal","outcome":"Maja Chwalinska","note":"+$96.08 (resolved WIN)"}
 {"t":"2026-10-18T14:01:47.968Z","type":"skip","name":"JohnLKellyJr","title":"Map Handicap: NEM (-1.5) vs EYEBALLERS (+1.5)","outcome":"Team Nemesis","note":"price moved 0.370 -> 0.595 before we saw it"}
+{"t":"2026-10-18T14:11:49.351Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Brute vs BET-M 33 - Map 2 Winner","outcome":"Brute","note":"price moved 0.539 -> 0.775 before we saw it"}
+{"t":"2026-10-18T14:11:49.513Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Brute vs BET-M 33 (BO3) - NODWIN Clutch Series Group Stage","outcome":"Brute","note":"whale $512 @0.542 -> us @0.558 (2.9% worse, 236s lag)"}
