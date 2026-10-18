@@ -256,24 +256,6 @@
       "lagS": 199,
       "openedAt": "2026-10-17T22:47:24.151Z"
     },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:16934013089216774640801055425864702757622733804020879650825893679982682253183": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "16934013089216774640801055425864702757622733804020879650825893679982682253183",
-      "conditionId": "0x4f1283b50de13f729d4124254dd81bdb151c027847b5a1e73e0ebba4cad395e1",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: FAL (-1.5) vs Aurora Gaming (+1.5)",
-      "outcome": "Team Falcons",
-      "slug": "cs2-aur1-fal2-2026-10-18-map-handicap-home-1pt5",
-      "eventSlug": "cs2-aur1-fal2-2026-10-18",
-      "whalePrice": 0.33,
-      "whaleUsd": 451.96139999999997,
-      "ourPrice": 0.33999999999999997,
-      "shares": 294.11764705882354,
-      "stake": 100,
-      "lagS": 264,
-      "openedAt": "2026-10-18T09:34:00.283Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:63644763464034691367428527733393916036342796100129702980469514153898496549749": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -1663,6 +1645,28 @@
       "pnl": 36.15857543859647,
       "closedAt": "2026-10-18T15:04:50.744Z",
       "note": "whale sold @0.802, we exit @0.760"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "16934013089216774640801055425864702757622733804020879650825893679982682253183",
+      "conditionId": "0x4f1283b50de13f729d4124254dd81bdb151c027847b5a1e73e0ebba4cad395e1",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: FAL (-1.5) vs Aurora Gaming (+1.5)",
+      "outcome": "Team Falcons",
+      "slug": "cs2-aur1-fal2-2026-10-18-map-handicap-home-1pt5",
+      "eventSlug": "cs2-aur1-fal2-2026-10-18",
+      "whalePrice": 0.33,
+      "whaleUsd": 451.96139999999997,
+      "ourPrice": 0.33999999999999997,
+      "shares": 294.11764705882354,
+      "stake": 100,
+      "lagS": 264,
+      "openedAt": "2026-10-18T09:34:00.283Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-18T15:48:55.392Z",
+      "note": "resolved LOSS"
     }
   ]
 }
