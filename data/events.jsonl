@@ -198,3 +198,5 @@
 {"t":"2026-10-18T11:48:05.479Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Aurora Gaming vs Team Falcons - Map 1 Winner","outcome":"Team Falcons","note":"price moved 0.617 -> 0.800 before we saw it"}
 {"t":"2026-10-18T11:57:05.509Z","type":"close","name":"qwen4.1.fund","title":"Will the highest temperature in Wellington be 17°C on October 18?","outcome":"No","note":"+$2.97 (resolved WIN)"}
 {"t":"2026-10-18T12:38:06.718Z","type":"copy","name":"Kch-Temp","title":"Titans vs. Colts: O/U 44.5","outcome":"Under","note":"whale $66836 @0.506 -> us @0.520 (2.7% worse, 250s lag)"}
+{"t":"2026-10-18T12:41:07.164Z","type":"close","name":"qwen4.1.fund","title":"Will LOUD win VALORANT Champions 2026?","outcome":"No","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-18T12:44:08.542Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Aurora Gaming vs Team Falcons - Map 2 Winner","outcome":"Team Falcons","note":"whale $7328 @0.549 -> us @0.560 (1.9% worse, 26s lag)"}
