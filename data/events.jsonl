@@ -227,3 +227,6 @@
 {"t":"2026-10-18T16:18:53.182Z","type":"copy","name":"Kch-Temp","title":"Spread: Panthers (-3.5)","outcome":"Eagles","note":"whale $80324 @0.550 -> us @0.560 (1.8% worse, 81s lag)"}
 {"t":"2026-10-18T16:26:53.004Z","type":"copy","name":"tiger105","title":"Will Real Sociedad de Fútbol win on 2026-10-18?","outcome":"Yes","note":"whale $2000 @0.470 -> us @0.470 (0.0% better, 500s lag)"}
 {"t":"2026-10-18T16:26:53.164Z","type":"copy","name":"tiger105","title":"Will Arsenal FC win on 2026-10-18?","outcome":"Yes","note":"whale $2000 @0.530 -> us @0.550 (3.8% worse, 401s lag)"}
+{"t":"2026-10-18T16:31:53.463Z","type":"skip","name":"tiger105","title":"Will AS Monaco FC win on 2026-10-18?","outcome":"Yes","note":"price moved 0.400 -> 0.360 before we saw it"}
+{"t":"2026-10-18T16:32:53.371Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: FURIA vs BetBoom Team - Map 1 Winner","outcome":"BetBoom Team","note":"price moved 0.110 -> 0.140 before we saw it"}
+{"t":"2026-10-18T16:36:53.305Z","type":"copy","name":"tiger105","title":"KKS Lech Poznan vs. Korona Kielce: O/U 5.5","outcome":"Over","note":"whale $2000 @0.587 -> us @0.560 (4.6% better, 267s lag)"}
