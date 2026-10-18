@@ -6,7 +6,7 @@
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792231542,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792278138,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792287086,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792284170,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792281215,
@@ -327,24 +327,6 @@
       "stake": 100,
       "lagS": 307,
       "openedAt": "2026-10-17T22:20:22.530Z"
-    },
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:66207648968208451982851456906122029515234664374961449605838711147888647077131": {
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "66207648968208451982851456906122029515234664374961449605838711147888647077131",
-      "conditionId": "0x9e37073a85fea0bcaa3b0bc45e6727346889dbc70939674b385513c4d584e262",
-      "outcomeIndex": 0,
-      "title": "Botafogo FR vs. Associação Chapecoense de Futebol: O/U 1.5",
-      "outcome": "Over",
-      "slug": "bra-bot-cha-2026-10-17-total-1pt5",
-      "eventSlug": "bra-bot-cha-2026-10-17-more-markets",
-      "whalePrice": 0.5585425332,
-      "whaleUsd": 2000.0000000238676,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "lagS": 122,
-      "openedAt": "2026-10-17T22:36:23.999Z"
     },
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:71659760023836608828189051368262623172491813904827045019785561054238970210854": {
       "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
@@ -1339,6 +1321,28 @@
       "pnl": 150,
       "closedAt": "2026-10-18T01:17:30.985Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "66207648968208451982851456906122029515234664374961449605838711147888647077131",
+      "conditionId": "0x9e37073a85fea0bcaa3b0bc45e6727346889dbc70939674b385513c4d584e262",
+      "outcomeIndex": 0,
+      "title": "Botafogo FR vs. Associação Chapecoense de Futebol: O/U 1.5",
+      "outcome": "Over",
+      "slug": "bra-bot-cha-2026-10-17-total-1pt5",
+      "eventSlug": "bra-bot-cha-2026-10-17-more-markets",
+      "whalePrice": 0.5585425332,
+      "whaleUsd": 2000.0000000238676,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "lagS": 122,
+      "openedAt": "2026-10-17T22:36:23.999Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-18T01:28:31.423Z",
+      "note": "resolved LOSS"
     }
   ]
 }

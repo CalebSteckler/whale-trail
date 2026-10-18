@@ -154,3 +154,4 @@
 {"t":"2026-10-18T01:17:29.131Z","type":"skip","name":"tiger105","title":"New York City FC vs. Los Angeles FC: O/U 2.5","outcome":"Over","note":"price moved 0.544 -> 0.460 before we saw it"}
 {"t":"2026-10-18T01:17:29.251Z","type":"skip","name":"tiger105","title":"Orlando City SC vs. D.C. United SC: O/U 4.5","outcome":"Over","note":"price moved 0.656 -> 0.580 before we saw it"}
 {"t":"2026-10-18T01:17:30.985Z","type":"close","name":"DelidelaDele","title":"CA Tucumán vs. CA Rosario Central: O/U 2.5","outcome":"Over","note":"+$150.00 (resolved WIN)"}
+{"t":"2026-10-18T01:28:31.423Z","type":"close","name":"tiger105","title":"Botafogo FR vs. Associação Chapecoense de Futebol: O/U 1.5","outcome":"Over","note":"$-100.00 (resolved LOSS)"}
