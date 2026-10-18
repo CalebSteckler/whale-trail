@@ -180,3 +180,4 @@
 {"t":"2026-10-18T08:14:20.026Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Wuhan be 22°C on October 18?","outcome":"No","note":"whale paid 0.990"}
 {"t":"2026-10-18T08:27:57.901Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Butterfly vs ex-RUSTEC (BO3) - NODWIN Clutch Series Group Stage","outcome":"Butterfly","note":"price moved 0.459 -> 0.577 before we saw it"}
 {"t":"2026-10-18T08:39:57.172Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Tokyo be 25°C on October 18?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-18T09:34:00.283Z","type":"copy","name":"JohnLKellyJr","title":"Map Handicap: FAL (-1.5) vs Aurora Gaming (+1.5)","outcome":"Team Falcons","note":"whale $452 @0.330 -> us @0.340 (3.0% worse, 264s lag)"}
