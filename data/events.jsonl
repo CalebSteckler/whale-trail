@@ -216,3 +216,4 @@
 {"t":"2026-10-18T14:53:50.237Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs","outcome":"Team Falcons","note":"whale $3960 @0.407 -> us @0.410 (0.8% worse, 84s lag)"}
 {"t":"2026-10-18T14:58:50.434Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: EYEBALLERS vs Team Nemesis - Map 1 Winner","outcome":"Team Nemesis","note":"price moved 0.310 -> 0.224 before we saw it"}
 {"t":"2026-10-18T14:58:50.597Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Aurora Gaming vs Team Falcons (BO3) - Thunderpick World Championship Playoffs","outcome":"Team Falcons","note":"$-95.12 (whale sold @0.074, we exit @0.020)"}
+{"t":"2026-10-18T15:04:50.744Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Brute vs BET-M 33 (BO3) - NODWIN Clutch Series Group Stage","outcome":"Brute","note":"+$36.16 (whale sold @0.802, we exit @0.760)"}
