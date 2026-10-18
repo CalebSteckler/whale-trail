@@ -151,3 +151,6 @@
 {"t":"2026-10-18T00:11:27.607Z","type":"close","name":"para-Vision","title":"Kraken vs. Panthers: O/U 6.5","outcome":"Under","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-18T00:43:28.055Z","type":"skip","name":"SpringlyFawl","title":"Will Flávio Bolsonaro win the 2026 Brazilian presidential election?","outcome":"Yes","note":"already $200 on brazil-presidential-election"}
 {"t":"2026-10-18T00:52:28.282Z","type":"skip","name":"tiger105","title":"CD Guadalajara vs. Tigres de la UANL: O/U 1.5","outcome":"Over","note":"book too thin"}
+{"t":"2026-10-18T01:17:29.131Z","type":"skip","name":"tiger105","title":"New York City FC vs. Los Angeles FC: O/U 2.5","outcome":"Over","note":"price moved 0.544 -> 0.460 before we saw it"}
+{"t":"2026-10-18T01:17:29.251Z","type":"skip","name":"tiger105","title":"Orlando City SC vs. D.C. United SC: O/U 4.5","outcome":"Over","note":"price moved 0.656 -> 0.580 before we saw it"}
+{"t":"2026-10-18T01:17:30.985Z","type":"close","name":"DelidelaDele","title":"CA Tucumán vs. CA Rosario Central: O/U 2.5","outcome":"Over","note":"+$150.00 (resolved WIN)"}
