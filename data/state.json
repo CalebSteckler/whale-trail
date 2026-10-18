@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792319603,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792320408,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792320282,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792320645,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792320837,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
@@ -309,24 +309,6 @@
       "stake": 100,
       "lagS": 224,
       "openedAt": "2026-10-18T06:23:16.187Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:85873941912248617212831955772112386692096655845761984989481572532619750371426": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "85873941912248617212831955772112386692096655845761984989481572532619750371426",
-      "conditionId": "0x160b0edb35f6cf9d7f84aab6b1ecfd44d5bf623874a44e1bb80cb6b79ee532f7",
-      "outcomeIndex": 1,
-      "title": "Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs",
-      "outcome": "Team Vitality",
-      "slug": "val-loud-vit-2026-10-18",
-      "eventSlug": "val-loud-vit-2026-10-18",
-      "whalePrice": 0.43000000000000005,
-      "whaleUsd": 526.4619,
-      "ourPrice": 0.44,
-      "shares": 227.27272727272728,
-      "stake": 100,
-      "lagS": 150,
-      "openedAt": "2026-10-18T08:13:21.215Z"
     },
     "0xddc38b82423310f5bbf2e2dc58745661a624029c:16934013089216774640801055425864702757622733804020879650825893679982682253183": {
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -1509,6 +1491,28 @@
       "pnl": 7.666666666666657,
       "closedAt": "2026-10-18T10:35:01.634Z",
       "note": "whale sold @0.670, we exit @0.484"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "85873941912248617212831955772112386692096655845761984989481572532619750371426",
+      "conditionId": "0x160b0edb35f6cf9d7f84aab6b1ecfd44d5bf623874a44e1bb80cb6b79ee532f7",
+      "outcomeIndex": 1,
+      "title": "Valorant: LOUD vs Team Vitality (BO5) - VCT Champions Playoffs",
+      "outcome": "Team Vitality",
+      "slug": "val-loud-vit-2026-10-18",
+      "eventSlug": "val-loud-vit-2026-10-18",
+      "whalePrice": 0.43000000000000005,
+      "whaleUsd": 526.4619,
+      "ourPrice": 0.44,
+      "shares": 227.27272727272728,
+      "stake": 100,
+      "lagS": 150,
+      "openedAt": "2026-10-18T08:13:21.215Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-18T10:51:03.592Z",
+      "note": "resolved LOSS"
     }
   ]
 }
