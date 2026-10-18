@@ -172,3 +172,5 @@
 {"t":"2026-10-18T05:38:13.685Z","type":"skip","name":"qwen4.1.fund","title":"Will Tom Steyer win the California Governor Election in 2026?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-18T05:39:14.465Z","type":"skip","name":"Bigggggggg","title":"Will Tom Steyer win the California Governor Election in 2026?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-18T06:03:16.667Z","type":"close","name":"para-Vision","title":"Tampa Bay Rays vs. Cleveland Guardians","outcome":"Tampa Bay Rays","note":"+$92.31 (resolved WIN)"}
+{"t":"2026-10-18T06:23:16.187Z","type":"copy","name":"tiger105","title":"Wuhan Tennis Open: Maja Chwalinska vs Sonay Kartal","outcome":"Maja Chwalinska","note":"whale $10000 @0.503 -> us @0.510 (1.4% worse, 224s lag)"}
+{"t":"2026-10-18T06:23:16.327Z","type":"copy","name":"tiger105","title":"Shanghai Rolex Masters: Alejandro Davidovich Fokina vs Rafael Jodar","outcome":"Alejandro Davidovich Fokina","note":"whale $10000 @0.440 -> us @0.450 (2.3% worse, 205s lag)"}
