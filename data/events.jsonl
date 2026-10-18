@@ -230,3 +230,5 @@
 {"t":"2026-10-18T16:31:53.463Z","type":"skip","name":"tiger105","title":"Will AS Monaco FC win on 2026-10-18?","outcome":"Yes","note":"price moved 0.400 -> 0.360 before we saw it"}
 {"t":"2026-10-18T16:32:53.371Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: FURIA vs BetBoom Team - Map 1 Winner","outcome":"BetBoom Team","note":"price moved 0.110 -> 0.140 before we saw it"}
 {"t":"2026-10-18T16:36:53.305Z","type":"copy","name":"tiger105","title":"KKS Lech Poznan vs. Korona Kielce: O/U 5.5","outcome":"Over","note":"whale $2000 @0.587 -> us @0.560 (4.6% better, 267s lag)"}
+{"t":"2026-10-18T16:39:54.921Z","type":"copy","name":"JohnLKellyJr","title":"Map Handicap: FURIA (-2.5) vs BetBoom Team (+2.5)","outcome":"FURIA","note":"whale $1184 @0.446 -> us @0.449 (0.7% worse, 138s lag)"}
+{"t":"2026-10-18T16:44:55.363Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner","outcome":"FURIA","note":"already $200 on cs2-furia-bb3"}
