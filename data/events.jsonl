@@ -237,3 +237,4 @@
 {"t":"2026-10-18T16:57:53.931Z","type":"copy","name":"DelidelaDele","title":"Will Racing Club win on 2026-10-18?","outcome":"No","note":"whale $8400 @0.600 -> us @0.620 (3.3% worse, 72s lag)"}
 {"t":"2026-10-18T17:02:54.163Z","type":"copy","name":"DelidelaDele","title":"Will CA Independiente win on 2026-10-18?","outcome":"Yes","note":"whale $5751 @0.298 -> us @0.300 (0.5% worse, 229s lag)"}
 {"t":"2026-10-18T17:06:55.721Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner","outcome":"FURIA","note":"already $200 on cs2-furia-bb3"}
+{"t":"2026-10-18T17:34:56.956Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: FORZE Reload vs BakS eSports - Map 1 Winner","outcome":"FORZE Reload","note":"whale $1102 @0.640 -> us @0.671 (4.8% worse, 207s lag)"}
