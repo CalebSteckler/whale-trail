@@ -255,3 +255,4 @@
 {"t":"2026-10-18T18:53:59.719Z","type":"copy","name":"tiger105","title":"Will Olympique Lyonnais win on 2026-10-18?","outcome":"Yes","note":"whale $2000 @0.470 -> us @0.500 (6.4% worse, 333s lag)"}
 {"t":"2026-10-18T18:54:00.026Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: FURIA vs BetBoom Team - Map 3 Winner","outcome":"BetBoom Team","note":"already $200 on cs2-furia-bb3"}
 {"t":"2026-10-18T18:54:59.041Z","type":"copy","name":"Kch-Temp","title":"Cardinals vs. Rams","outcome":"Cardinals","note":"whale $3371 @0.130 -> us @0.140 (7.7% worse, 351s lag)"}
+{"t":"2026-10-18T19:00:00.182Z","type":"copy","name":"para-Vision","title":"Sharks vs. Maple Leafs","outcome":"Maple Leafs","note":"whale $1291 @0.560 -> us @0.580 (3.6% worse, 301s lag)"}
