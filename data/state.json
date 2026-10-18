@@ -1,7 +1,7 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792319603,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792323645,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792324665,
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792323359,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
@@ -201,24 +201,6 @@
       "stake": 100,
       "lagS": 235,
       "openedAt": "2026-10-17T09:23:54.905Z"
-    },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:68812357106656914371995657348187525467262478688912849792269854665727885188690": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "68812357106656914371995657348187525467262478688912849792269854665727885188690",
-      "conditionId": "0x5ee7ddbfc88ce9dfa2b5dfc8df258d85f26d93f1444c270f45c41563f942fb8f",
-      "outcomeIndex": 1,
-      "title": "Will the highest temperature in Wellington be 17°C on October 18?",
-      "outcome": "No",
-      "slug": "highest-temperature-in-wellington-on-october-18-2026-17c",
-      "eventSlug": "highest-temperature-in-wellington-on-october-18-2026",
-      "whalePrice": 0.9668012689948757,
-      "whaleUsd": 280.362699995824,
-      "ourPrice": 0.9711431742508322,
-      "shares": 102.97142857142859,
-      "stake": 100,
-      "lagS": 311,
-      "openedAt": "2026-10-17T17:10:37.470Z"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:107516035603650985174253368241692944789056496652916551006453839235487841190002": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -1513,6 +1495,28 @@
       "pnl": -100,
       "closedAt": "2026-10-18T10:51:03.592Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "68812357106656914371995657348187525467262478688912849792269854665727885188690",
+      "conditionId": "0x5ee7ddbfc88ce9dfa2b5dfc8df258d85f26d93f1444c270f45c41563f942fb8f",
+      "outcomeIndex": 1,
+      "title": "Will the highest temperature in Wellington be 17°C on October 18?",
+      "outcome": "No",
+      "slug": "highest-temperature-in-wellington-on-october-18-2026-17c",
+      "eventSlug": "highest-temperature-in-wellington-on-october-18-2026",
+      "whalePrice": 0.9668012689948757,
+      "whaleUsd": 280.362699995824,
+      "ourPrice": 0.9711431742508322,
+      "shares": 102.97142857142859,
+      "stake": 100,
+      "lagS": 311,
+      "openedAt": "2026-10-17T17:10:37.470Z",
+      "proceeds": 102.97142857142859,
+      "pnl": 2.9714285714285893,
+      "closedAt": "2026-10-18T11:57:05.509Z",
+      "note": "resolved WIN"
     }
   ]
 }
