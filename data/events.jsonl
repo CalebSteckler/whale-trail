@@ -232,3 +232,6 @@
 {"t":"2026-10-18T16:36:53.305Z","type":"copy","name":"tiger105","title":"KKS Lech Poznan vs. Korona Kielce: O/U 5.5","outcome":"Over","note":"whale $2000 @0.587 -> us @0.560 (4.6% better, 267s lag)"}
 {"t":"2026-10-18T16:39:54.921Z","type":"copy","name":"JohnLKellyJr","title":"Map Handicap: FURIA (-2.5) vs BetBoom Team (+2.5)","outcome":"FURIA","note":"whale $1184 @0.446 -> us @0.449 (0.7% worse, 138s lag)"}
 {"t":"2026-10-18T16:44:55.363Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FURIA vs BetBoom Team - Map 2 Winner","outcome":"FURIA","note":"already $200 on cs2-furia-bb3"}
+{"t":"2026-10-18T16:50:54.720Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: FORZE Reload vs BakS eSports (BO3) - CCT Europe Series #11 Group Stage","outcome":"FORZE Reload","note":"whale $499 @0.590 -> us @0.600 (1.7% worse, 399s lag)"}
+{"t":"2026-10-18T16:55:55.793Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FORZE Reload vs BakS eSports - Map 1 Winner","outcome":"FORZE Reload","note":"price moved 0.620 -> 0.754 before we saw it"}
+{"t":"2026-10-18T16:57:53.931Z","type":"copy","name":"DelidelaDele","title":"Will Racing Club win on 2026-10-18?","outcome":"No","note":"whale $8400 @0.600 -> us @0.620 (3.3% worse, 72s lag)"}
