@@ -373,3 +373,14 @@
 {"t":"2026-10-19T14:11:27.394Z","type":"skip","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $255 on October 19?","outcome":"Yes","note":"price moved 0.730 -> 0.840 before we saw it"}
 {"t":"2026-10-19T14:11:27.552Z","type":"copy","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $265 on October 19?","outcome":"No","note":"whale $700 @0.932 -> us @0.920 (1.3% better, 82s lag)"}
 {"t":"2026-10-19T14:11:30.607Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport (BO3) - DraculaN Group A","outcome":"aimclub","note":"whale $260 @0.816 -> us @0.870 (6.6% worse, 352s lag)"}
+{"t":"2026-10-19T14:16:27.240Z","type":"skip","name":"thanksforplayin","title":"Will NVIDIA (NVDA) close above $215 on October 19?","outcome":"Yes","note":"already $200 on nvda-close-above"}
+{"t":"2026-10-19T14:16:27.437Z","type":"copy","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $360 on October 19?","outcome":"Yes","note":"whale $700 @0.660 -> us @0.670 (1.5% worse, 133s lag)"}
+{"t":"2026-10-19T14:16:27.502Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.994"}
+{"t":"2026-10-19T14:16:27.502Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.976"}
+{"t":"2026-10-19T14:16:27.502Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-19T14:17:28.361Z","type":"skip","name":"zerone777","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.973"}
+{"t":"2026-10-19T14:17:29.458Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport - Map 1 Winner","outcome":"aimclub","note":"already $200 on cs2-aim1-ins"}
+{"t":"2026-10-19T14:21:27.865Z","type":"copy","name":"thanksforplayin","title":"Will Microsoft (MSFT) close above $530 on October 19?","outcome":"Yes","note":"whale $687 @0.730 -> us @0.730 (0.0% better, 304s lag)"}
+{"t":"2026-10-19T14:21:28.044Z","type":"close","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $260 on October 19?","outcome":"No","note":"$-42.57 (whale sold @0.619, we exit @0.486)"}
+{"t":"2026-10-19T14:21:28.285Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Earrings – Malcom Todd\" be the #2 song in the US for 2026?","outcome":"No","note":"price moved 0.572 -> 0.881 before we saw it"}
+{"t":"2026-10-19T14:22:29.923Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Nuclear TigeRES - Map 1 Winner","outcome":"Team Nemesis","note":"already $200 on cs2-nem-ntr"}

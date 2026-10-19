@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792419012,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792419578,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792417295,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792418957,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792419665,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792418421,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792416657,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792419428,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792419191,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792418699,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792419164,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792415088,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792249775,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792356764,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792349699,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792418741
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792419473
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -526,24 +526,6 @@
       "lagS": 110,
       "openedAt": "2026-10-19T13:35:26.216Z"
     },
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:99711336521751957299038003514222349299489619072691700205944530994758949996797": {
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "99711336521751957299038003514222349299489619072691700205944530994758949996797",
-      "conditionId": "0x01bfe375f65564cdef2c55c3d85a35ecdb5e230a278c6fa61d2139066d4e731d",
-      "outcomeIndex": 1,
-      "title": "Will Amazon (AMZN) close above $260 on October 19?",
-      "outcome": "No",
-      "slug": "amzn-close-above-260-on-october-19-2026",
-      "eventSlug": "amzn-close-above-on-october-19-2026",
-      "whalePrice": 0.842,
-      "whaleUsd": 699.702,
-      "ourPrice": 0.847,
-      "shares": 118.06375442739079,
-      "stake": 100,
-      "lagS": 309,
-      "openedAt": "2026-10-19T13:40:26.205Z"
-    },
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:93128067651624508466874413283734134278650484526866952384911618204253408660128": {
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
       "name": "thanksforplayin",
@@ -723,6 +705,42 @@
       "stake": 100,
       "lagS": 352,
       "openedAt": "2026-10-19T14:11:30.607Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:86048029446655736605176012060334132118929050832427479520901904865537602755835": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "86048029446655736605176012060334132118929050832427479520901904865537602755835",
+      "conditionId": "0x0e40d7640c138dcf14e13f243b6caa3c76d2bd5e30a55c822f7aedbf4ae03fc9",
+      "outcomeIndex": 0,
+      "title": "Will Tesla (TSLA) close above $360 on October 19?",
+      "outcome": "Yes",
+      "slug": "tsla-close-above-360-on-october-19-2026",
+      "eventSlug": "tsla-close-above-on-october-19-2026",
+      "whalePrice": 0.66,
+      "whaleUsd": 700.26,
+      "ourPrice": 0.67,
+      "shares": 149.25373134328356,
+      "stake": 100,
+      "lagS": 133,
+      "openedAt": "2026-10-19T14:16:27.437Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:33442201262276805492826011275173199028508158438062844629188347306148362805418": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "33442201262276805492826011275173199028508158438062844629188347306148362805418",
+      "conditionId": "0xc0936e21d238ad0d70402e0e34ff032f7dcea2be33c232ff7924f447336ab5c5",
+      "outcomeIndex": 0,
+      "title": "Will Microsoft (MSFT) close above $530 on October 19?",
+      "outcome": "Yes",
+      "slug": "msft-close-above-530-on-october-19-2026",
+      "eventSlug": "msft-close-above-on-october-19-2026",
+      "whalePrice": 0.73,
+      "whaleUsd": 686.93,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "lagS": 304,
+      "openedAt": "2026-10-19T14:21:27.865Z"
     }
   },
   "closed": [
@@ -2639,6 +2657,28 @@
       "pnl": 42.85714285714286,
       "closedAt": "2026-10-19T13:41:29.209Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "99711336521751957299038003514222349299489619072691700205944530994758949996797",
+      "conditionId": "0x01bfe375f65564cdef2c55c3d85a35ecdb5e230a278c6fa61d2139066d4e731d",
+      "outcomeIndex": 1,
+      "title": "Will Amazon (AMZN) close above $260 on October 19?",
+      "outcome": "No",
+      "slug": "amzn-close-above-260-on-october-19-2026",
+      "eventSlug": "amzn-close-above-on-october-19-2026",
+      "whalePrice": 0.842,
+      "whaleUsd": 699.702,
+      "ourPrice": 0.847,
+      "shares": 118.06375442739079,
+      "stake": 100,
+      "lagS": 309,
+      "openedAt": "2026-10-19T13:40:26.205Z",
+      "proceeds": 57.42866587957497,
+      "pnl": -42.57133412042503,
+      "closedAt": "2026-10-19T14:21:28.044Z",
+      "note": "whale sold @0.619, we exit @0.486"
     }
   ]
 }
