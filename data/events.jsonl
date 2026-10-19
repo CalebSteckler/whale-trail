@@ -311,3 +311,5 @@
 {"t":"2026-10-19T07:37:28.773Z","type":"close","name":"tiger105","title":"Ningbo Open: Elise Mertens vs Leylah Fernandez","outcome":"Elise Mertens","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-19T07:52:27.147Z","type":"skip","name":"tiger105","title":"Guangzhou 2: James McCabe vs Elias Ymer","outcome":"James McCabe","note":"price moved 0.661 -> 0.770 before we saw it"}
 {"t":"2026-10-19T08:00:27.413Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Copenhagen Wolves vs Prestige (BO3) - United21 Gorup A","outcome":"Prestige","note":"price moved 0.505 -> 0.564 before we saw it"}
+{"t":"2026-10-19T08:11:28.091Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Copenhagen Wolves vs Prestige (BO3) - United21 Gorup A","outcome":"Prestige","note":"price moved 0.582 -> 0.697 before we saw it"}
+{"t":"2026-10-19T08:11:28.249Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Copenhagen Wolves vs Prestige - Map 1 Winner","outcome":"Prestige","note":"price moved 0.683 -> 0.828 before we saw it"}
