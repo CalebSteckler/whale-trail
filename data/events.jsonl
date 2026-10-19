@@ -361,3 +361,7 @@
 {"t":"2026-10-19T13:35:26.372Z","type":"skip","name":"thanksforplayin","title":"Will Micron Technology, Inc. (MU) hit (HIGH) $960 Week of October 19 2026?","outcome":"No","note":"price moved 0.570 -> 0.710 before we saw it"}
 {"t":"2026-10-19T13:40:26.205Z","type":"copy","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $260 on October 19?","outcome":"No","note":"whale $700 @0.842 -> us @0.847 (0.6% worse, 309s lag)"}
 {"t":"2026-10-19T13:41:29.209Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: BIG vs PRIVATE - Map 1 Winner","outcome":"BIG","note":"+$42.86 (resolved WIN)"}
+{"t":"2026-10-19T13:45:26.428Z","type":"copy","name":"thanksforplayin","title":"Will NVIDIA (NVDA) close above $210 on October 19?","outcome":"Yes","note":"whale $700 @0.880 -> us @0.910 (3.4% worse, 318s lag)"}
+{"t":"2026-10-19T13:45:26.585Z","type":"copy","name":"thanksforplayin","title":"Will Microsoft (MSFT) close above $540 on October 19?","outcome":"No","note":"whale $700 @0.900 -> us @0.920 (2.2% worse, 39s lag)"}
+{"t":"2026-10-19T13:49:28.173Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Nuclear TigeRES (BO3) - PGL Bucharest Closed Qualifier Playoffs","outcome":"Team Nemesis","note":"whale $1171 @0.580 -> us @0.610 (5.2% worse, 341s lag)"}
+{"t":"2026-10-19T13:50:26.671Z","type":"copy","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $370 on October 19?","outcome":"No","note":"whale $700 @0.886 -> us @0.837 (5.5% better, 302s lag)"}
