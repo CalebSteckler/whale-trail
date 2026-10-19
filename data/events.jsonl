@@ -336,3 +336,8 @@
 {"t":"2026-10-19T12:10:24.858Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: BIG vs PRIVATE - Map 1 Winner","outcome":"BIG","note":"whale $1837 @0.699 -> us @0.700 (0.2% worse, 184s lag)"}
 {"t":"2026-10-19T12:21:25.509Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Omega (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs","outcome":"Omega","note":"price moved 0.525 -> 0.639 before we saw it"}
 {"t":"2026-10-19T12:21:25.677Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Omega - Map 1 Winner","outcome":"Omega","note":"price moved 0.560 -> 0.771 before we saw it"}
+{"t":"2026-10-19T12:27:25.700Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Omega (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs","outcome":"Omega","note":"price moved 0.590 -> 0.690 before we saw it"}
+{"t":"2026-10-19T12:28:23.752Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Leave\" win the Alberta independence referendum?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-19T12:28:23.752Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Remain\" win the Alberta independence referendum by less than 20%?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-19T12:28:23.752Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Remain\" win the Alberta independence referendum by at least 80%?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-19T12:28:23.921Z","type":"copy","name":"qwen4.1.fund","title":"Will \"Remain\" win the Alberta independence referendum by 20–40%?","outcome":"No","note":"whale $252 @0.900 -> us @0.929 (3.2% worse, 111s lag)"}
