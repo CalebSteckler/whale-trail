@@ -368,3 +368,8 @@
 {"t":"2026-10-19T13:55:27.018Z","type":"copy","name":"thanksforplayin","title":"Will Apple (AAPL) close above $340 on October 19?","outcome":"Yes","note":"whale $700 @0.800 -> us @0.840 (5.0% worse, 174s lag)"}
 {"t":"2026-10-19T14:00:27.148Z","type":"copy","name":"thanksforplayin","title":"Will Apple (AAPL) close above $350 on October 19?","outcome":"No","note":"whale $700 @0.900 -> us @0.879 (2.3% better, 216s lag)"}
 {"t":"2026-10-19T14:00:28.253Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport - Map 2 Winner","outcome":"aimclub","note":"whale $413 @0.815 -> us @0.859 (5.3% worse, 475s lag)"}
+{"t":"2026-10-19T14:06:29.774Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Nuclear TigeRES - Map 2 Winner","outcome":"Team Nemesis","note":"whale $307 @0.644 -> us @0.689 (6.9% worse, 548s lag)"}
+{"t":"2026-10-19T14:06:29.944Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike:  Phantom Academy vs Ryvex - Map 1 Winner","outcome":" Phantom Academy","note":"price moved 0.585 -> 0.705 before we saw it"}
+{"t":"2026-10-19T14:11:27.394Z","type":"skip","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $255 on October 19?","outcome":"Yes","note":"price moved 0.730 -> 0.840 before we saw it"}
+{"t":"2026-10-19T14:11:27.552Z","type":"copy","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $265 on October 19?","outcome":"No","note":"whale $700 @0.932 -> us @0.920 (1.3% better, 82s lag)"}
+{"t":"2026-10-19T14:11:30.607Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport (BO3) - DraculaN Group A","outcome":"aimclub","note":"whale $260 @0.816 -> us @0.870 (6.6% worse, 352s lag)"}

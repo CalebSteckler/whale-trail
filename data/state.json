@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792418414,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792419012,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792417295,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792418289,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792418957,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792416657,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792416203,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792418699,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792415088,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792249775,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792356764,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792349699,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792417953
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792418741
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -669,6 +669,60 @@
       "stake": 100,
       "lagS": 475,
       "openedAt": "2026-10-19T14:00:28.253Z"
+    },
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c:12003938124591149411341184848176167345382506060426514869838689943983722514993": {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "12003938124591149411341184848176167345382506060426514869838689943983722514993",
+      "conditionId": "0x435d613f750d747c7830242a4fee6e47a8f6bbd8d5fe6039fada33c3999e7c23",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Team Nemesis vs Nuclear TigeRES - Map 2 Winner",
+      "outcome": "Team Nemesis",
+      "slug": "cs2-nem-ntr-2026-10-19-game2",
+      "eventSlug": "cs2-nem-ntr-2026-10-19",
+      "whalePrice": 0.6442528133,
+      "whaleUsd": 307.43099997862697,
+      "ourPrice": 0.6888420565030184,
+      "shares": 145.17115942028985,
+      "stake": 100,
+      "lagS": 548,
+      "openedAt": "2026-10-19T14:06:29.773Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:33610147064276421890000518043599752885164869337025074114695037806751520582088": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "33610147064276421890000518043599752885164869337025074114695037806751520582088",
+      "conditionId": "0x4b72be9f1fef93783a876d9af3c15abb395709ff9a6c863c922ec1a52c4354fb",
+      "outcomeIndex": 1,
+      "title": "Will Amazon (AMZN) close above $265 on October 19?",
+      "outcome": "No",
+      "slug": "amzn-close-above-265-on-october-19-2026",
+      "eventSlug": "amzn-close-above-on-october-19-2026",
+      "whalePrice": 0.932,
+      "whaleUsd": 699.932,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "lagS": 82,
+      "openedAt": "2026-10-19T14:11:27.552Z"
+    },
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c:33457696567371474582846973390103687646460935327741129176506819358985867193401": {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "33457696567371474582846973390103687646460935327741129176506819358985867193401",
+      "conditionId": "0xa46298c427da73749b650cb4612a0c80a7d36607b67c1a249c799d7764f53ec0",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: aimclub vs Insiders Esport (BO3) - DraculaN Group A",
+      "outcome": "aimclub",
+      "slug": "cs2-aim1-ins-2026-10-19",
+      "eventSlug": "cs2-aim1-ins-2026-10-19",
+      "whalePrice": 0.8159649013,
+      "whaleUsd": 259.909300011089,
+      "ourPrice": 0.87,
+      "shares": 114.94252873563218,
+      "stake": 100,
+      "lagS": 352,
+      "openedAt": "2026-10-19T14:11:30.607Z"
     }
   },
   "closed": [
