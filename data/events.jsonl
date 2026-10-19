@@ -300,3 +300,5 @@
 {"t":"2026-10-19T04:03:42.014Z","type":"copy","name":"tiger105","title":"Ningbo Open: Elise Mertens vs Leylah Fernandez","outcome":"Elise Mertens","note":"whale $10000 @0.557 -> us @0.570 (2.3% worse, 270s lag)"}
 {"t":"2026-10-19T05:23:46.081Z","type":"close","name":"tiger105","title":"Will AD Cali win on 2026-10-18?","outcome":"Yes","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-19T05:24:44.336Z","type":"copy","name":"Bigggggggg","title":"Will \"Remain\" win the Alberta independence referendum by 60–80%?","outcome":"No","note":"whale $374 @0.900 -> us @0.887 (1.4% better, 69s lag)"}
+{"t":"2026-10-19T05:46:44.711Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 90-114 tweets from October 17 to October 19, 2026?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-19T05:46:44.887Z","type":"copy","name":"qwen4.1.fund","title":"Will Elon Musk post 65-89 tweets from October 17 to October 19, 2026?","outcome":"No","note":"whale $275 @0.610 -> us @0.626 (2.6% worse, 155s lag)"}
