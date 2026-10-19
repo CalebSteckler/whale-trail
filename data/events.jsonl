@@ -387,3 +387,5 @@
 {"t":"2026-10-19T14:31:28.002Z","type":"skip","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $380 on October 19?","outcome":"No","note":"already $200 on tsla-close-above"}
 {"t":"2026-10-19T14:36:28.439Z","type":"copy","name":"thanksforplayin","title":"Will NVIDIA (NVDA) hit (HIGH) $224 Week of October 19 2026?","outcome":"No","note":"whale $636 @0.550 -> us @0.540 (1.8% better, 205s lag)"}
 {"t":"2026-10-19T14:41:28.787Z","type":"close","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $370 on October 19?","outcome":"No","note":"$-6.58 (whale sold @0.780, we exit @0.782)"}
+{"t":"2026-10-19T14:47:28.638Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Grand Theft Auto VI Launch Trailer\" get between 80 and 100 million views on week 1?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-19T14:50:30.539Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: fnatic vs Liquid - Map 1 Winner","outcome":"Liquid","note":"whale $885 @0.607 -> us @0.590 (2.8% better, 205s lag)"}
