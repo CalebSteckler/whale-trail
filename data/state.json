@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792424304,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792424711,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792417295,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792424064,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792424822,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792424226,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792424438,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792419191,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792424226,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792424436,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792422986,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -471,24 +471,6 @@
       "stake": 100,
       "lagS": 99,
       "openedAt": "2026-10-19T12:40:24.354Z"
-    },
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:28760943246062702444153309216633127187082591064723472408313361954758134260327": {
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "28760943246062702444153309216633127187082591064723472408313361954758134260327",
-      "conditionId": "0x2ca7dd06411832e4dc05c9754b1ddcc826dd78a1f77dd0d7beb42dec49b3d265",
-      "outcomeIndex": 1,
-      "title": "Will NVIDIA (NVDA) close above $220 on October 19?",
-      "outcome": "No",
-      "slug": "nvda-close-above-220-on-october-19-2026",
-      "eventSlug": "nvda-close-above-on-october-19-2026",
-      "whalePrice": 0.83,
-      "whaleUsd": 699.6899999999999,
-      "ourPrice": 0.82,
-      "shares": 121.95121951219512,
-      "stake": 100,
-      "lagS": 138,
-      "openedAt": "2026-10-19T13:35:26.062Z"
     },
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:68494830425552617155440857528200365770736086065597065569001326146706427929915": {
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -2775,6 +2757,28 @@
       "pnl": -100,
       "closedAt": "2026-10-19T15:42:34.830Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "28760943246062702444153309216633127187082591064723472408313361954758134260327",
+      "conditionId": "0x2ca7dd06411832e4dc05c9754b1ddcc826dd78a1f77dd0d7beb42dec49b3d265",
+      "outcomeIndex": 1,
+      "title": "Will NVIDIA (NVDA) close above $220 on October 19?",
+      "outcome": "No",
+      "slug": "nvda-close-above-220-on-october-19-2026",
+      "eventSlug": "nvda-close-above-on-october-19-2026",
+      "whalePrice": 0.83,
+      "whaleUsd": 699.6899999999999,
+      "ourPrice": 0.82,
+      "shares": 121.95121951219512,
+      "stake": 100,
+      "lagS": 138,
+      "openedAt": "2026-10-19T13:35:26.062Z",
+      "proceeds": 76.42975609756098,
+      "pnl": -23.570243902439017,
+      "closedAt": "2026-10-19T15:49:31.297Z",
+      "note": "whale sold @0.600, we exit @0.627"
     }
   ]
 }

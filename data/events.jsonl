@@ -397,3 +397,4 @@
 {"t":"2026-10-19T15:38:30.916Z","type":"close","name":"thanksforplayin","title":"Will Microsoft (MSFT) close above $530 on October 19?","outcome":"Yes","note":"+$26.03 (whale sold @0.940, we exit @0.920)"}
 {"t":"2026-10-19T15:38:31.073Z","type":"close","name":"thanksforplayin","title":"Will Apple (AAPL) close above $340 on October 19?","outcome":"Yes","note":"+$3.64 (whale sold @0.890, we exit @0.871)"}
 {"t":"2026-10-19T15:42:34.830Z","type":"close","name":"tiger105","title":"Lyon Open: Jaime Faria vs Felix Balshaw","outcome":"Jaime Faria","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-19T15:49:31.297Z","type":"close","name":"thanksforplayin","title":"Will NVIDIA (NVDA) close above $220 on October 19?","outcome":"No","note":"$-23.57 (whale sold @0.600, we exit @0.627)"}
