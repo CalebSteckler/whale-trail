@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792319603,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792370265,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792373714,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792374435,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792372131,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792371374,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792374137,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792373993,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792372830,
@@ -327,24 +327,6 @@
       "stake": 100,
       "lagS": 78,
       "openedAt": "2026-10-18T21:00:47.108Z"
-    },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:41037594098616694120070643390962875741315093392205392131215229176034551038084": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "41037594098616694120070643390962875741315093392205392131215229176034551038084",
-      "conditionId": "0x93ff56e73f9344f06c0a1d42eabde8ed9168f3a8163817e49354ae635efdc054",
-      "outcomeIndex": 0,
-      "title": "CA Belgrano vs. CA River Plate: O/U 2.5",
-      "outcome": "Over",
-      "slug": "arg-bel-riv-2026-10-18-total-2pt5",
-      "eventSlug": "arg-bel-riv-2026-10-18-more-markets",
-      "whalePrice": 0.38,
-      "whaleUsd": 2280,
-      "ourPrice": 0.39,
-      "shares": 256.4102564102564,
-      "stake": 100,
-      "lagS": 107,
-      "openedAt": "2026-10-18T22:28:50.561Z"
     },
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:10072449704595518769610326629299024032456876056726640815971149312883583872516": {
       "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
@@ -2147,6 +2129,28 @@
       "pnl": -100,
       "closedAt": "2026-10-18T23:31:54.153Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "41037594098616694120070643390962875741315093392205392131215229176034551038084",
+      "conditionId": "0x93ff56e73f9344f06c0a1d42eabde8ed9168f3a8163817e49354ae635efdc054",
+      "outcomeIndex": 0,
+      "title": "CA Belgrano vs. CA River Plate: O/U 2.5",
+      "outcome": "Over",
+      "slug": "arg-bel-riv-2026-10-18-total-2pt5",
+      "eventSlug": "arg-bel-riv-2026-10-18-more-markets",
+      "whalePrice": 0.38,
+      "whaleUsd": 2280,
+      "ourPrice": 0.39,
+      "shares": 256.4102564102564,
+      "stake": 100,
+      "lagS": 107,
+      "openedAt": "2026-10-18T22:28:50.561Z",
+      "proceeds": 256.4102564102564,
+      "pnl": 156.4102564102564,
+      "closedAt": "2026-10-19T01:44:37.548Z",
+      "note": "resolved WIN"
     }
   ]
 }
