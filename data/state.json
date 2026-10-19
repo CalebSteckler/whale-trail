@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792445025,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792451073,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792448750,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792450619,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792451417,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792450656,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792450781,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792451028,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792451028,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792450476,
@@ -543,24 +543,6 @@
       "stake": 100,
       "lagS": 209,
       "openedAt": "2026-10-19T18:19:26.057Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:105101904004129604067706802922137705484142511008764341217822612830552384265805": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "105101904004129604067706802922137705484142511008764341217822612830552384265805",
-      "conditionId": "0x729879fdfe15eaa4b692bcfd3941d350decf3fabf248c8ff5eb3393b252a828b",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: 9INE vs UNiTY esports (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs",
-      "outcome": "9INE",
-      "slug": "cs2-9ine-unity-2026-10-19",
-      "eventSlug": "cs2-9ine-unity-2026-10-19",
-      "whalePrice": 0.5364833404,
-      "whaleUsd": 314.7815999797,
-      "ourPrice": 0.5878812758817222,
-      "shares": 170.10237288135593,
-      "stake": 100,
-      "lagS": 112,
-      "openedAt": "2026-10-19T18:57:28.850Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:57742256856248000050883894902521902517029635628575388314389121618186791473379": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -3011,6 +2993,28 @@
       "pnl": 9.890109890109883,
       "closedAt": "2026-10-19T22:19:37.817Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "105101904004129604067706802922137705484142511008764341217822612830552384265805",
+      "conditionId": "0x729879fdfe15eaa4b692bcfd3941d350decf3fabf248c8ff5eb3393b252a828b",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: 9INE vs UNiTY esports (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs",
+      "outcome": "9INE",
+      "slug": "cs2-9ine-unity-2026-10-19",
+      "eventSlug": "cs2-9ine-unity-2026-10-19",
+      "whalePrice": 0.5364833404,
+      "whaleUsd": 314.7815999797,
+      "ourPrice": 0.5878812758817222,
+      "shares": 170.10237288135593,
+      "stake": 100,
+      "lagS": 112,
+      "openedAt": "2026-10-19T18:57:28.850Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-19T23:04:39.177Z",
+      "note": "resolved LOSS"
     }
   ]
 }
