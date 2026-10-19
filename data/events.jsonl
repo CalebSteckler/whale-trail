@@ -392,3 +392,4 @@
 {"t":"2026-10-19T14:57:29.190Z","type":"close","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $265 on October 19?","outcome":"No","note":"$-11.95 (whale sold @0.896, we exit @0.810)"}
 {"t":"2026-10-19T14:57:30.758Z","type":"copy","name":"para-Vision","title":"LoL: Mental Rush vs SK Gaming Avarosa (BO5) - LGC Rising Playoffs","outcome":"Mental Rush","note":"whale $1343 @0.567 -> us @0.609 (7.4% worse, 228s lag)"}
 {"t":"2026-10-19T15:00:32.346Z","type":"copy","name":"JohnLKellyJr","title":"El Gouna SC vs. Smouha SC: O/U 1.5","outcome":"Over","note":"whale $627 @0.330 -> us @0.327 (1.0% better, 110s lag)"}
+{"t":"2026-10-19T15:22:31.377Z","type":"skip","name":"tiger105","title":"Lisbon: Tristan Boyer vs Elmer Moeller","outcome":"Elmer Moeller","note":"price moved 0.524 -> 0.740 before we saw it"}
