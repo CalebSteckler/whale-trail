@@ -341,3 +341,12 @@
 {"t":"2026-10-19T12:28:23.752Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Remain\" win the Alberta independence referendum by less than 20%?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-19T12:28:23.752Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Remain\" win the Alberta independence referendum by at least 80%?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-19T12:28:23.921Z","type":"copy","name":"qwen4.1.fund","title":"Will \"Remain\" win the Alberta independence referendum by 20–40%?","outcome":"No","note":"whale $252 @0.900 -> us @0.929 (3.2% worse, 111s lag)"}
+{"t":"2026-10-19T12:40:24.202Z","type":"copy","name":"Bigggggggg","title":"Will Benjamin Netanyahu be the next leader out before 2027?","outcome":"No","note":"whale $344 @0.670 -> us @0.710 (6.0% worse, 99s lag)"}
+{"t":"2026-10-19T12:40:24.354Z","type":"copy","name":"Bigggggggg","title":"Will Sébastien Lecornu be the next leader out before 2027?","outcome":"No","note":"whale $496 @0.966 -> us @0.968 (0.2% worse, 99s lag)"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will Miguel Díaz-Canel be the next leader out before 2027?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will Emmanuel Macron be the next leader out before 2027?","outcome":"No","note":"whale paid 0.989"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will Xi Jinping be the next leader out before 2027?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will Pedro Sánchez be the next leader out before 2027?","outcome":"No","note":"whale paid 0.971"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will Mahmoud Abbas be the next leader out before 2027?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will Volodymyr Zelenskyy be the next leader out before 2027?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-19T12:40:24.355Z","type":"skip","name":"Bigggggggg","title":"Will no listed leader be out before 2027?","outcome":"No","note":"already $200 on next-leader-out"}
