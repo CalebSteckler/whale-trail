@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792417797,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792418414,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792417295,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792417757,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792418289,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792417331,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792418421,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792416657,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792249775,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792356764,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792349699,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792417490
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792417953
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -615,6 +615,60 @@
       "stake": 100,
       "lagS": 302,
       "openedAt": "2026-10-19T13:50:26.671Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:48259587441559728603373578928814799971431438232128495412355110570613495520627": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "48259587441559728603373578928814799971431438232128495412355110570613495520627",
+      "conditionId": "0x344594b529f2a2e373d79c504432a02ab723ca0f70d74652ecdd8d6ae23f45c7",
+      "outcomeIndex": 0,
+      "title": "Will Apple (AAPL) close above $340 on October 19?",
+      "outcome": "Yes",
+      "slug": "aapl-close-above-340-on-october-19-2026",
+      "eventSlug": "aapl-close-above-on-october-19-2026",
+      "whalePrice": 0.8,
+      "whaleUsd": 700,
+      "ourPrice": 0.84,
+      "shares": 119.04761904761905,
+      "stake": 100,
+      "lagS": 174,
+      "openedAt": "2026-10-19T13:55:27.018Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:51298857781747495842632856800330198075751750795442980344507507591961561151179": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "51298857781747495842632856800330198075751750795442980344507507591961561151179",
+      "conditionId": "0xd1eb5a72275e99cae36b548d5ffb4f64b990d9a98e5133db60cf7d94766c9629",
+      "outcomeIndex": 1,
+      "title": "Will Apple (AAPL) close above $350 on October 19?",
+      "outcome": "No",
+      "slug": "aapl-close-above-350-on-october-19-2026",
+      "eventSlug": "aapl-close-above-on-october-19-2026",
+      "whalePrice": 0.9,
+      "whaleUsd": 700.2,
+      "ourPrice": 0.879472316610034,
+      "shares": 113.70454545454545,
+      "stake": 100,
+      "lagS": 216,
+      "openedAt": "2026-10-19T14:00:27.148Z"
+    },
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c:55670611320740917377864633907278509386087490171722469196294551769104487946588": {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "55670611320740917377864633907278509386087490171722469196294551769104487946588",
+      "conditionId": "0xd3b07893575cba7fc65b6c4bb07862a87e479639676f472179b53c6b6ba3127b",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: aimclub vs Insiders Esport - Map 2 Winner",
+      "outcome": "aimclub",
+      "slug": "cs2-aim1-ins-2026-10-19-game2",
+      "eventSlug": "cs2-aim1-ins-2026-10-19",
+      "whalePrice": 0.8153329911,
+      "whaleUsd": 412.941700002417,
+      "ourPrice": 0.8587119321018473,
+      "shares": 116.45348837209302,
+      "stake": 100,
+      "lagS": 475,
+      "openedAt": "2026-10-19T14:00:28.253Z"
     }
   },
   "closed": [

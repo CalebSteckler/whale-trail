@@ -365,3 +365,6 @@
 {"t":"2026-10-19T13:45:26.585Z","type":"copy","name":"thanksforplayin","title":"Will Microsoft (MSFT) close above $540 on October 19?","outcome":"No","note":"whale $700 @0.900 -> us @0.920 (2.2% worse, 39s lag)"}
 {"t":"2026-10-19T13:49:28.173Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Nuclear TigeRES (BO3) - PGL Bucharest Closed Qualifier Playoffs","outcome":"Team Nemesis","note":"whale $1171 @0.580 -> us @0.610 (5.2% worse, 341s lag)"}
 {"t":"2026-10-19T13:50:26.671Z","type":"copy","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $370 on October 19?","outcome":"No","note":"whale $700 @0.886 -> us @0.837 (5.5% better, 302s lag)"}
+{"t":"2026-10-19T13:55:27.018Z","type":"copy","name":"thanksforplayin","title":"Will Apple (AAPL) close above $340 on October 19?","outcome":"Yes","note":"whale $700 @0.800 -> us @0.840 (5.0% worse, 174s lag)"}
+{"t":"2026-10-19T14:00:27.148Z","type":"copy","name":"thanksforplayin","title":"Will Apple (AAPL) close above $350 on October 19?","outcome":"No","note":"whale $700 @0.900 -> us @0.879 (2.3% better, 216s lag)"}
+{"t":"2026-10-19T14:00:28.253Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport - Map 2 Winner","outcome":"aimclub","note":"whale $413 @0.815 -> us @0.859 (5.3% worse, 475s lag)"}
