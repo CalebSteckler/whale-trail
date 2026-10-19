@@ -436,3 +436,5 @@
 {"t":"2026-10-19T18:57:28.850Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: 9INE vs UNiTY esports (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs","outcome":"9INE","note":"whale $315 @0.536 -> us @0.588 (9.6% worse, 112s lag)"}
 {"t":"2026-10-19T18:57:29.033Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: 9INE vs UNiTY esports - Map 1 Winner","outcome":"9INE","note":"price moved 0.538 -> 0.620 before we saw it"}
 {"t":"2026-10-19T19:03:29.259Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: 9INE vs UNiTY esports - Map 2 Winner","outcome":"9INE","note":"whale $447 @0.620 -> us @0.640 (3.2% worse, 132s lag)"}
+{"t":"2026-10-19T19:11:27.974Z","type":"skip","name":"tiger105","title":"Getafe CF vs. Rayo Vallecano de Madrid: O/U 1.5","outcome":"Over","note":"price moved 0.610 -> 0.861 before we saw it"}
+{"t":"2026-10-19T19:11:28.162Z","type":"skip","name":"tiger105","title":"Parma Calcio 1913 vs. Torino FC: O/U 2.5","outcome":"Over","note":"price moved 0.630 -> 0.890 before we saw it"}
