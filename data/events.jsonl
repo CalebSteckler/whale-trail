@@ -439,3 +439,4 @@
 {"t":"2026-10-19T19:11:27.974Z","type":"skip","name":"tiger105","title":"Getafe CF vs. Rayo Vallecano de Madrid: O/U 1.5","outcome":"Over","note":"price moved 0.610 -> 0.861 before we saw it"}
 {"t":"2026-10-19T19:11:28.162Z","type":"skip","name":"tiger105","title":"Parma Calcio 1913 vs. Torino FC: O/U 2.5","outcome":"Over","note":"price moved 0.630 -> 0.890 before we saw it"}
 {"t":"2026-10-19T19:19:28.197Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: 9INE vs UNiTY esports - Map 1 Winner","outcome":"9INE","note":"already $200 on cs2-9ine-unity"}
+{"t":"2026-10-19T19:29:28.931Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Sashi Esport vs HyperSpirit - Map 2 Winner","outcome":"HyperSpirit","note":"whale $809 @0.551 -> us @0.498 (9.6% better, 217s lag)"}
