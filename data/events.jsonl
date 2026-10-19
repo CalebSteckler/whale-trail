@@ -450,3 +450,7 @@
 {"t":"2026-10-19T20:06:30.483Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: WBT vs Nexus - Map 2 Winner","outcome":"Nexus","note":"price moved 0.464 -> 0.812 before we saw it"}
 {"t":"2026-10-19T20:17:30.691Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: WBT vs Nexus - Map 2 Winner","outcome":"Nexus","note":"price moved 0.395 -> 0.526 before we saw it"}
 {"t":"2026-10-19T20:29:34.381Z","type":"close","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $360 on October 19?","outcome":"Yes","note":"+$49.25 (resolved WIN)"}
+{"t":"2026-10-19T20:40:30.815Z","type":"copy","name":"Bigggggggg","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale $1812 @0.615 -> us @0.615 (0.0% worse, 52s lag)"}
+{"t":"2026-10-19T20:40:30.985Z","type":"copy","name":"Bigggggggg","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale $763 @0.620 -> us @0.680 (9.6% worse, 52s lag)"}
+{"t":"2026-10-19T20:40:30.985Z","type":"skip","name":"Bigggggggg","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israel-election-likud"}
+{"t":"2026-10-19T20:40:30.985Z","type":"skip","name":"Bigggggggg","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.997"}
