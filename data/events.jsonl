@@ -356,3 +356,8 @@
 {"t":"2026-10-19T13:09:25.802Z","type":"copy","name":"tiger105","title":"Lyon Open: Jaime Faria vs Felix Balshaw","outcome":"Jaime Faria","note":"whale $10000 @0.616 -> us @0.640 (3.9% worse, 277s lag)"}
 {"t":"2026-10-19T13:21:27.898Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Omega - Map 2 Winner","outcome":"Omega","note":"price moved 0.604 -> 0.456 before we saw it"}
 {"t":"2026-10-19T13:27:27.516Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport - Map 1 Winner","outcome":"aimclub","note":"price moved 0.770 -> 0.935 before we saw it"}
+{"t":"2026-10-19T13:35:26.062Z","type":"copy","name":"thanksforplayin","title":"Will NVIDIA (NVDA) close above $220 on October 19?","outcome":"No","note":"whale $700 @0.830 -> us @0.820 (1.2% better, 138s lag)"}
+{"t":"2026-10-19T13:35:26.216Z","type":"copy","name":"thanksforplayin","title":"Will Google (GOOGL) close above $350 on October 19?","outcome":"No","note":"whale $700 @0.890 -> us @0.910 (2.2% worse, 110s lag)"}
+{"t":"2026-10-19T13:35:26.372Z","type":"skip","name":"thanksforplayin","title":"Will Micron Technology, Inc. (MU) hit (HIGH) $960 Week of October 19 2026?","outcome":"No","note":"price moved 0.570 -> 0.710 before we saw it"}
+{"t":"2026-10-19T13:40:26.205Z","type":"copy","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $260 on October 19?","outcome":"No","note":"whale $700 @0.842 -> us @0.847 (0.6% worse, 309s lag)"}
+{"t":"2026-10-19T13:41:29.209Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: BIG vs PRIVATE - Map 1 Winner","outcome":"BIG","note":"+$42.86 (resolved WIN)"}
