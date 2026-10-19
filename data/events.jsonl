@@ -355,3 +355,4 @@
 {"t":"2026-10-19T13:04:25.055Z","type":"skip","name":"qwen4.1.fund","title":"Will Blue and White win 3.25% or more of the vote in the 2026 Knesset elections?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-19T13:09:25.802Z","type":"copy","name":"tiger105","title":"Lyon Open: Jaime Faria vs Felix Balshaw","outcome":"Jaime Faria","note":"whale $10000 @0.616 -> us @0.640 (3.9% worse, 277s lag)"}
 {"t":"2026-10-19T13:21:27.898Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Omega - Map 2 Winner","outcome":"Omega","note":"price moved 0.604 -> 0.456 before we saw it"}
+{"t":"2026-10-19T13:27:27.516Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: aimclub vs Insiders Esport - Map 1 Winner","outcome":"aimclub","note":"price moved 0.770 -> 0.935 before we saw it"}
