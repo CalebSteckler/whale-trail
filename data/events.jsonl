@@ -385,3 +385,5 @@
 {"t":"2026-10-19T14:21:28.285Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Earrings – Malcom Todd\" be the #2 song in the US for 2026?","outcome":"No","note":"price moved 0.572 -> 0.881 before we saw it"}
 {"t":"2026-10-19T14:22:29.923Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Nuclear TigeRES - Map 1 Winner","outcome":"Team Nemesis","note":"already $200 on cs2-nem-ntr"}
 {"t":"2026-10-19T14:31:28.002Z","type":"skip","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $380 on October 19?","outcome":"No","note":"already $200 on tsla-close-above"}
+{"t":"2026-10-19T14:36:28.439Z","type":"copy","name":"thanksforplayin","title":"Will NVIDIA (NVDA) hit (HIGH) $224 Week of October 19 2026?","outcome":"No","note":"whale $636 @0.550 -> us @0.540 (1.8% better, 205s lag)"}
+{"t":"2026-10-19T14:41:28.787Z","type":"close","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $370 on October 19?","outcome":"No","note":"$-6.58 (whale sold @0.780, we exit @0.782)"}

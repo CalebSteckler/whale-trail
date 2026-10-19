@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792420263,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792420880,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792417295,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792420238,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792420472,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792419191,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792420004,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792420934,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792283744,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792415088,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -580,24 +580,6 @@
       "lagS": 341,
       "openedAt": "2026-10-19T13:49:28.173Z"
     },
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:11844325583373812291469407691933410865442948513833202104693962752420518146587": {
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "11844325583373812291469407691933410865442948513833202104693962752420518146587",
-      "conditionId": "0x8bec7af1b04af87285559ac3a0b30ba057a999d13fe95cd0fccfde61a5bf1e5c",
-      "outcomeIndex": 1,
-      "title": "Will Tesla (TSLA) close above $370 on October 19?",
-      "outcome": "No",
-      "slug": "tsla-close-above-370-on-october-19-2026",
-      "eventSlug": "tsla-close-above-on-october-19-2026",
-      "whalePrice": 0.8860000000000001,
-      "whaleUsd": 699.94,
-      "ourPrice": 0.837,
-      "shares": 119.47431302270013,
-      "stake": 100,
-      "lagS": 302,
-      "openedAt": "2026-10-19T13:50:26.671Z"
-    },
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:48259587441559728603373578928814799971431438232128495412355110570613495520627": {
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
       "name": "thanksforplayin",
@@ -741,6 +723,24 @@
       "stake": 100,
       "lagS": 304,
       "openedAt": "2026-10-19T14:21:27.865Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:72431056001054479432450036407065578492732429469366498657990249441926662810361": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "72431056001054479432450036407065578492732429469366498657990249441926662810361",
+      "conditionId": "0x38da6a2de9a9e6e0bdc11b1b46a6dcacf2b2d52ea9fb06905590cae558da1a73",
+      "outcomeIndex": 1,
+      "title": "Will NVIDIA (NVDA) hit (HIGH) $224 Week of October 19 2026?",
+      "outcome": "No",
+      "slug": "will-nvda-reach-224-by-october-19-2026",
+      "eventSlug": "will-nvda-hit-week-of-october-19-2026",
+      "whalePrice": 0.55,
+      "whaleUsd": 636.35,
+      "ourPrice": 0.54,
+      "shares": 185.18518518518516,
+      "stake": 100,
+      "lagS": 205,
+      "openedAt": "2026-10-19T14:36:28.439Z"
     }
   },
   "closed": [
@@ -2679,6 +2679,28 @@
       "pnl": -42.57133412042503,
       "closedAt": "2026-10-19T14:21:28.044Z",
       "note": "whale sold @0.619, we exit @0.486"
+    },
+    {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "11844325583373812291469407691933410865442948513833202104693962752420518146587",
+      "conditionId": "0x8bec7af1b04af87285559ac3a0b30ba057a999d13fe95cd0fccfde61a5bf1e5c",
+      "outcomeIndex": 1,
+      "title": "Will Tesla (TSLA) close above $370 on October 19?",
+      "outcome": "No",
+      "slug": "tsla-close-above-370-on-october-19-2026",
+      "eventSlug": "tsla-close-above-on-october-19-2026",
+      "whalePrice": 0.8860000000000001,
+      "whaleUsd": 699.94,
+      "ourPrice": 0.837,
+      "shares": 119.47431302270013,
+      "stake": 100,
+      "lagS": 302,
+      "openedAt": "2026-10-19T13:50:26.671Z",
+      "proceeds": 93.4236439665472,
+      "pnl": -6.576356033452797,
+      "closedAt": "2026-10-19T14:41:28.787Z",
+      "note": "whale sold @0.780, we exit @0.782"
     }
   ]
 }
