@@ -298,3 +298,5 @@
 {"t":"2026-10-19T01:44:37.548Z","type":"close","name":"DelidelaDele","title":"CA Belgrano vs. CA River Plate: O/U 2.5","outcome":"Over","note":"+$156.41 (resolved WIN)"}
 {"t":"2026-10-19T02:03:36.147Z","type":"skip","name":"qwen4.1.fund","title":"Will China GDP growth in Q3 2026 be between 4.0% and 4.3%?","outcome":"No","note":"whale paid 0.996"}
 {"t":"2026-10-19T04:03:42.014Z","type":"copy","name":"tiger105","title":"Ningbo Open: Elise Mertens vs Leylah Fernandez","outcome":"Elise Mertens","note":"whale $10000 @0.557 -> us @0.570 (2.3% worse, 270s lag)"}
+{"t":"2026-10-19T05:23:46.081Z","type":"close","name":"tiger105","title":"Will AD Cali win on 2026-10-18?","outcome":"Yes","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-19T05:24:44.336Z","type":"copy","name":"Bigggggggg","title":"Will \"Remain\" win the Alberta independence referendum by 60–80%?","outcome":"No","note":"whale $374 @0.900 -> us @0.887 (1.4% better, 69s lag)"}
