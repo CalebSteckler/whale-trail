@@ -389,3 +389,6 @@
 {"t":"2026-10-19T14:41:28.787Z","type":"close","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $370 on October 19?","outcome":"No","note":"$-6.58 (whale sold @0.780, we exit @0.782)"}
 {"t":"2026-10-19T14:47:28.638Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Grand Theft Auto VI Launch Trailer\" get between 80 and 100 million views on week 1?","outcome":"No","note":"whale paid 0.995"}
 {"t":"2026-10-19T14:50:30.539Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: fnatic vs Liquid - Map 1 Winner","outcome":"Liquid","note":"whale $885 @0.607 -> us @0.590 (2.8% better, 205s lag)"}
+{"t":"2026-10-19T14:57:29.190Z","type":"close","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $265 on October 19?","outcome":"No","note":"$-11.95 (whale sold @0.896, we exit @0.810)"}
+{"t":"2026-10-19T14:57:30.758Z","type":"copy","name":"para-Vision","title":"LoL: Mental Rush vs SK Gaming Avarosa (BO5) - LGC Rising Playoffs","outcome":"Mental Rush","note":"whale $1343 @0.567 -> us @0.609 (7.4% worse, 228s lag)"}
+{"t":"2026-10-19T15:00:32.346Z","type":"copy","name":"JohnLKellyJr","title":"El Gouna SC vs. Smouha SC: O/U 1.5","outcome":"Over","note":"whale $627 @0.330 -> us @0.327 (1.0% better, 110s lag)"}
