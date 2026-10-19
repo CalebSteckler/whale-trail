@@ -416,3 +416,5 @@
 {"t":"2026-10-19T18:06:28.352Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Nuclear TigeRES (BO3) - PGL Bucharest Closed Qualifier Playoffs","outcome":"Team Nemesis","note":"+$63.93 (resolved WIN)"}
 {"t":"2026-10-19T18:06:28.988Z","type":"close","name":"JohnLKellyJr","title":"El Gouna SC vs. Smouha SC: O/U 1.5","outcome":"Over","note":"+$206.06 (resolved WIN)"}
 {"t":"2026-10-19T18:07:24.892Z","type":"close","name":"thanksforplayin","title":"Will Apple (AAPL) close above $350 on October 19?","outcome":"No","note":"$-74.77 (whale sold @0.989, we exit @0.222)"}
+{"t":"2026-10-19T18:16:25.890Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: PARIVISION vs magic - Map 2 Winner","outcome":"magic","note":"price moved 0.320 -> 0.358 before we saw it"}
+{"t":"2026-10-19T18:19:26.057Z","type":"copy","name":"SpringlyFawl","title":"Will the Democratic Party win the FL-07 House seat?","outcome":"No","note":"whale $336 @0.690 -> us @0.720 (4.3% worse, 209s lag)"}
