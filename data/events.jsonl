@@ -574,3 +574,6 @@
 {"t":"2026-10-20T12:09:45.006Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Lucknow be 26°C or below on October 20?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-20T12:09:45.006Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Lucknow be 28°C on October 20?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-20T12:15:45.546Z","type":"copy","name":"Tokenn","title":"Dota 2: Team Lynx vs Power Rangers - Game 1 Winner","outcome":"Team Lynx","note":"whale $395 @0.620 -> us @0.581 (6.3% better, 286s lag)"}
+{"t":"2026-10-20T12:21:46.208Z","type":"copy","name":"ethBELIVER","title":"Will Yashar win the most seats in the 2026 Israeli legislative election?","outcome":"Yes","note":"whale $14600 @0.730 -> us @0.730 (0.0% better, 335s lag)"}
+{"t":"2026-10-20T12:21:46.316Z","type":"copy","name":"ethBELIVER","title":"Will Benjamin Netanyahu be the next Prime Minister of Israel?","outcome":"No","note":"whale $13213 @0.710 -> us @0.730 (2.8% worse, 280s lag)"}
+{"t":"2026-10-20T12:28:46.193Z","type":"copy","name":"zerone777","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale $1827 @0.860 -> us @0.860 (0.0% better, 47s lag)"}
