@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792504694,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792504919,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792503825,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792504467,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792505144,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792503728,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792505027,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792503101,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792458732,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792433856,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792491071,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792504092
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792504878
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -669,42 +669,6 @@
       "stake": 100,
       "lagS": 243,
       "openedAt": "2026-10-20T11:47:45.621Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:56976015560545681336115119270134885811174647211406358944447571955406760593986": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "56976015560545681336115119270134885811174647211406358944447571955406760593986",
-      "conditionId": "0x32a39d4fa249c7811445b831d5521aabfaec956bb99d7ff566fb85b9a04fee9f",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Envy vs BASEMENT BOYS (BO3) - DraculaN Playoffs",
-      "outcome": "Envy",
-      "slug": "cs2-envy-bmb-2026-10-20",
-      "eventSlug": "cs2-envy-bmb-2026-10-20",
-      "whalePrice": 0.5221229852330856,
-      "whaleUsd": 1731.1092,
-      "ourPrice": 0.5636242821206512,
-      "shares": 177.42315789473685,
-      "stake": 100,
-      "lagS": 97,
-      "openedAt": "2026-10-20T11:52:45.811Z"
-    },
-    "0x55d94368a50750f264cf42096e9034315d9c832c:23751941456873448145018274015459050361931883417703332922036972128342337337178": {
-      "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
-      "name": "Tokenn",
-      "asset": "23751941456873448145018274015459050361931883417703332922036972128342337337178",
-      "conditionId": "0xab30575f4f19debc2c304e3f2951f92b80d51d683cd4420e087e340b1777e9b1",
-      "outcomeIndex": 0,
-      "title": "Dota 2: Team Lynx vs Power Rangers - Game 1 Winner",
-      "outcome": "Team Lynx",
-      "slug": "dota2-lynx-pr1-2026-10-20-game1",
-      "eventSlug": "dota2-lynx-pr1-2026-10-20",
-      "whalePrice": 0.62,
-      "whaleUsd": 394.8718,
-      "ourPrice": 0.5811782946652758,
-      "shares": 172.0642372881356,
-      "stake": 100,
-      "lagS": 286,
-      "openedAt": "2026-10-20T12:15:45.546Z"
     },
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1:9025448570994866714151390167666974197623007132973626623412960268955048642964": {
       "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
@@ -3353,6 +3317,50 @@
       "pnl": 38.307500000000005,
       "closedAt": "2026-10-20T13:54:50.564Z",
       "note": "whale sold @0.999, we exit @0.999"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "56976015560545681336115119270134885811174647211406358944447571955406760593986",
+      "conditionId": "0x32a39d4fa249c7811445b831d5521aabfaec956bb99d7ff566fb85b9a04fee9f",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Envy vs BASEMENT BOYS (BO3) - DraculaN Playoffs",
+      "outcome": "Envy",
+      "slug": "cs2-envy-bmb-2026-10-20",
+      "eventSlug": "cs2-envy-bmb-2026-10-20",
+      "whalePrice": 0.5221229852330856,
+      "whaleUsd": 1731.1092,
+      "ourPrice": 0.5636242821206512,
+      "shares": 177.42315789473685,
+      "stake": 100,
+      "lagS": 97,
+      "openedAt": "2026-10-20T11:52:45.811Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-20T13:59:53.280Z",
+      "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
+      "name": "Tokenn",
+      "asset": "23751941456873448145018274015459050361931883417703332922036972128342337337178",
+      "conditionId": "0xab30575f4f19debc2c304e3f2951f92b80d51d683cd4420e087e340b1777e9b1",
+      "outcomeIndex": 0,
+      "title": "Dota 2: Team Lynx vs Power Rangers - Game 1 Winner",
+      "outcome": "Team Lynx",
+      "slug": "dota2-lynx-pr1-2026-10-20-game1",
+      "eventSlug": "dota2-lynx-pr1-2026-10-20",
+      "whalePrice": 0.62,
+      "whaleUsd": 394.8718,
+      "ourPrice": 0.5811782946652758,
+      "shares": 172.0642372881356,
+      "stake": 100,
+      "lagS": 286,
+      "openedAt": "2026-10-20T12:15:45.546Z",
+      "proceeds": 172.0642372881356,
+      "pnl": 72.06423728813559,
+      "closedAt": "2026-10-20T13:59:53.299Z",
+      "note": "resolved WIN"
     }
   ]
 }

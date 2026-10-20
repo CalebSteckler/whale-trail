@@ -600,3 +600,7 @@
 {"t":"2026-10-20T13:35:48.642Z","type":"skip","name":"qwen4.1.fund","title":"Will George Simion be the next Prime Minister of Romania?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-20T13:54:50.455Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Liquid vs magic - Map 2 Winner","outcome":"magic","note":"+$95.88 (whale sold @0.999, we exit @0.999)"}
 {"t":"2026-10-20T13:54:50.564Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Eternal Fire vs Infinite - Map 2 Winner","outcome":"Eternal Fire","note":"+$38.31 (whale sold @0.999, we exit @0.999)"}
+{"t":"2026-10-20T13:59:53.280Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Envy vs BASEMENT BOYS (BO3) - DraculaN Playoffs","outcome":"Envy","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-20T13:59:53.299Z","type":"close","name":"Tokenn","title":"Dota 2: Team Lynx vs Power Rangers - Game 1 Winner","outcome":"Team Lynx","note":"+$72.06 (resolved WIN)"}
+{"t":"2026-10-20T14:05:51.117Z","type":"skip","name":"JohnLKellyJr","title":"Map Handicap: LG (-1.5) vs Nexus (+1.5)","outcome":"Luminosity","note":"price moved 0.561 -> 0.840 before we saw it"}
+{"t":"2026-10-20T14:05:51.219Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Nice Try vs aimclub - Map 1 Winner","outcome":"Nice Try","note":"price moved 0.543 -> 0.600 before we saw it"}
