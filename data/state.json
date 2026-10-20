@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792509237,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792509596,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792503825,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792509363,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792509894,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792509132,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792509473,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792509356,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
@@ -741,6 +741,42 @@
       "stake": 100,
       "lagS": 183,
       "openedAt": "2026-10-20T14:35:51.891Z"
+    },
+    "0x511f9c771449162349795d17becf8b37031acbe1:99022754974273593712169107950966362381135367847817057340833124556779655646769": {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "99022754974273593712169107950966362381135367847817057340833124556779655646769",
+      "conditionId": "0x855152e266859a1c910490064c3d27251c44fa43e26d0715f605a254b15a5e14",
+      "outcomeIndex": 1,
+      "title": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by 10%-20%?",
+      "outcome": "No",
+      "slug": "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-10-20",
+      "eventSlug": "bulgaria-presidential-election-first-round-margin-of-victory",
+      "whalePrice": 0.825706044,
+      "whaleUsd": 450.835500024,
+      "ourPrice": 0.84,
+      "shares": 119.04761904761905,
+      "stake": 100,
+      "lagS": 303,
+      "openedAt": "2026-10-20T15:19:53.255Z"
+    },
+    "0x511f9c771449162349795d17becf8b37031acbe1:79118149439309757267455443718734674416431762063614639186961272012854030039138": {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "79118149439309757267455443718734674416431762063614639186961272012854030039138",
+      "conditionId": "0xccf8e8626aa7f6f7a54ea02c4f0850c9416ae8b9e3220c4078da9025417640ce",
+      "outcomeIndex": 1,
+      "title": "Will Iliana Iotova win the 2026 Bulgarian presidential first round by 30%-40%?",
+      "outcome": "No",
+      "slug": "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-30-40",
+      "eventSlug": "bulgaria-presidential-election-first-round-margin-of-victory",
+      "whalePrice": 0.9405257509000001,
+      "whaleUsd": 513.5270599914,
+      "ourPrice": 0.9567129861041688,
+      "shares": 104.52455590386624,
+      "stake": 100,
+      "lagS": 303,
+      "openedAt": "2026-10-20T15:19:53.356Z"
     }
   },
   "closed": [
