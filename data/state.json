@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792451838,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792448750,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792455339,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792456233,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
@@ -471,24 +471,6 @@
       "stake": 100,
       "lagS": 205,
       "openedAt": "2026-10-19T14:36:28.439Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:68798827347052164716985991623955407347344878607865033903050256048971731639291": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "68798827347052164716985991623955407347344878607865033903050256048971731639291",
-      "conditionId": "0x9c9cda710b5c90afbb6dcebb15dfe1e8e9631b80d472ecac65f3dc3d170cf899",
-      "outcomeIndex": 0,
-      "title": "LoL: Mental Rush vs SK Gaming Avarosa (BO5) - LGC Rising Playoffs",
-      "outcome": "Mental Rush",
-      "slug": "lol-mr-ska-2026-10-19",
-      "eventSlug": "lol-mr-ska-2026-10-19",
-      "whalePrice": 0.5670476009,
-      "whaleUsd": 1342.5418998908399,
-      "ourPrice": 0.6087824351297405,
-      "shares": 164.2622950819672,
-      "stake": 100,
-      "lagS": 228,
-      "openedAt": "2026-10-19T14:57:30.758Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:112833774316104951988690985316609270957261648365641646812446420693891587882096": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -3033,6 +3015,28 @@
       "pnl": -100,
       "closedAt": "2026-10-19T23:04:39.177Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "68798827347052164716985991623955407347344878607865033903050256048971731639291",
+      "conditionId": "0x9c9cda710b5c90afbb6dcebb15dfe1e8e9631b80d472ecac65f3dc3d170cf899",
+      "outcomeIndex": 0,
+      "title": "LoL: Mental Rush vs SK Gaming Avarosa (BO5) - LGC Rising Playoffs",
+      "outcome": "Mental Rush",
+      "slug": "lol-mr-ska-2026-10-19",
+      "eventSlug": "lol-mr-ska-2026-10-19",
+      "whalePrice": 0.5670476009,
+      "whaleUsd": 1342.5418998908399,
+      "ourPrice": 0.6087824351297405,
+      "shares": 164.2622950819672,
+      "stake": 100,
+      "lagS": 228,
+      "openedAt": "2026-10-19T14:57:30.758Z",
+      "proceeds": 164.2622950819672,
+      "pnl": 64.26229508196721,
+      "closedAt": "2026-10-20T00:32:40.111Z",
+      "note": "resolved WIN"
     }
   ]
 }
