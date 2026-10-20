@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792534719,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792530885,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792534577,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792535217,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
@@ -741,24 +741,6 @@
       "stake": 100,
       "lagS": 314,
       "openedAt": "2026-10-20T17:04:46.554Z"
-    },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:95953190762966885745900197433430036029455312834487837255202418827614595621946": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "95953190762966885745900197433430036029455312834487837255202418827614595621946",
-      "conditionId": "0x862265a3138636e82aba5122e410dfa0b4fb2496e71c7883873acefe2e60748e",
-      "outcomeIndex": 1,
-      "title": "Paris Saint-Germain FC to score first vs. FC Barcelona?",
-      "outcome": "No",
-      "slug": "ucl-psg-fcb-2026-10-20-first-to-score-home",
-      "eventSlug": "ucl-psg-fcb-2026-10-20-first-to-score",
-      "whalePrice": 0.49,
-      "whaleUsd": 352.8,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "lagS": 118,
-      "openedAt": "2026-10-20T18:54:51.053Z"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:104526794566859391085042814952967251260974275524059793655101271789052995794634": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -3615,6 +3597,28 @@
       "pnl": 61.89661290322579,
       "closedAt": "2026-10-20T22:16:53.069Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "95953190762966885745900197433430036029455312834487837255202418827614595621946",
+      "conditionId": "0x862265a3138636e82aba5122e410dfa0b4fb2496e71c7883873acefe2e60748e",
+      "outcomeIndex": 1,
+      "title": "Paris Saint-Germain FC to score first vs. FC Barcelona?",
+      "outcome": "No",
+      "slug": "ucl-psg-fcb-2026-10-20-first-to-score-home",
+      "eventSlug": "ucl-psg-fcb-2026-10-20-first-to-score",
+      "whalePrice": 0.49,
+      "whaleUsd": 352.8,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "lagS": 118,
+      "openedAt": "2026-10-20T18:54:51.053Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-20T22:27:54.275Z",
+      "note": "resolved LOSS"
     }
   ]
 }
