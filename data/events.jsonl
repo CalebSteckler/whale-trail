@@ -766,3 +766,6 @@
 {"t":"2026-10-20T23:18:51.858Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
 {"t":"2026-10-20T23:18:51.858Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4–8%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
 {"t":"2026-10-20T23:21:53.086Z","type":"copy","name":"para-Vision","title":"Kings vs. Capitals","outcome":"Kings","note":"whale $4003 @0.400 -> us @0.410 (2.5% worse, 240s lag)"}
+{"t":"2026-10-20T23:38:52.898Z","type":"copy","name":"qwen4.1.fund","title":"Will the Democrats win the Texas Senate race in 2026?","outcome":"No","note":"whale $1955 @0.362 -> us @0.370 (2.2% worse, 52s lag)"}
+{"t":"2026-10-20T23:38:52.898Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republicans win the Texas Senate race in 2026?","outcome":"No","note":"already $200 on texas-senate-election"}
+{"t":"2026-10-20T23:39:53.523Z","type":"skip","name":"Bigggggggg","title":"Will the Democrats win the Texas Senate race in 2026?","outcome":"No","note":"already $200 on texas-senate-election"}
