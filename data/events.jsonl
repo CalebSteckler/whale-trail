@@ -544,3 +544,6 @@
 {"t":"2026-10-20T08:59:52.411Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Alliance vs PRIVATE - Map 1 Winner","outcome":"PRIVATE","note":"price moved 0.464 -> 0.600 before we saw it"}
 {"t":"2026-10-20T09:04:52.784Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FORZE Reload vs Azuolas (BO3) - CCT Europe Series #12 Group Stage","outcome":"FORZE Reload","note":"price moved 0.614 -> 0.798 before we saw it"}
 {"t":"2026-10-20T09:04:52.882Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Alliance vs PRIVATE - Map 1 Winner","outcome":"PRIVATE","note":"price moved 0.618 -> 0.692 before we saw it"}
+{"t":"2026-10-20T09:14:53.356Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Bushido Wildcats - Map 2 Winner","outcome":"GenOne","note":"already $200 on cs2-g1-bw"}
+{"t":"2026-10-20T09:15:52.276Z","type":"copy","name":"SpringlyFawl","title":"Will Kylian Mbappé finish 3rd in the 2026 Ballon d'Or?","outcome":"No","note":"whale $402 @0.760 -> us @0.780 (2.6% worse, 137s lag)"}
+{"t":"2026-10-20T09:15:52.378Z","type":"copy","name":"SpringlyFawl","title":"Will Lionel Messi finish 3rd in the 2026 Ballon d'Or?","outcome":"No","note":"whale $501 @0.948 -> us @0.948 (0.0% worse, 137s lag)"}
