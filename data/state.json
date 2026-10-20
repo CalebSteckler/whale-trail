@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792491933,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792494312,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792466268,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792493897,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792494444,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792487432,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792490789,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792493943,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792493879,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792493756,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792493930,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792463123,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792436870,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792245482,
@@ -615,24 +615,6 @@
       "stake": 100,
       "lagS": 39,
       "openedAt": "2026-10-20T07:59:49.786Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:3221441694674340514219871154889683850469366783522706403624232084470441610803": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "3221441694674340514219871154889683850469366783522706403624232084470441610803",
-      "conditionId": "0x402b78bbdfa03c7a8b8e01ed57398d83db9bd47c72c186462874a8762bb6d64e",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: GenOne vs Bushido Wildcats - Map 1 Winner",
-      "outcome": "GenOne",
-      "slug": "cs2-g1-bw-2026-10-20-game1",
-      "eventSlug": "cs2-g1-bw-2026-10-20",
-      "whalePrice": 0.5458974042186743,
-      "whaleUsd": 397.680799999262,
-      "ourPrice": 0.5911586315071787,
-      "shares": 169.1593333333333,
-      "stake": 100,
-      "lagS": 238,
-      "openedAt": "2026-10-20T08:20:51.037Z"
     },
     "0xddc38b82423310f5bbf2e2dc58745661a624029c:35844570791236337891588661396079567205748009923357479196860749617944515915677": {
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -3175,6 +3157,28 @@
       "pnl": 85.18518518518516,
       "closedAt": "2026-10-20T03:50:47.687Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "3221441694674340514219871154889683850469366783522706403624232084470441610803",
+      "conditionId": "0x402b78bbdfa03c7a8b8e01ed57398d83db9bd47c72c186462874a8762bb6d64e",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: GenOne vs Bushido Wildcats - Map 1 Winner",
+      "outcome": "GenOne",
+      "slug": "cs2-g1-bw-2026-10-20-game1",
+      "eventSlug": "cs2-g1-bw-2026-10-20",
+      "whalePrice": 0.5458974042186743,
+      "whaleUsd": 397.680799999262,
+      "ourPrice": 0.5911586315071787,
+      "shares": 169.1593333333333,
+      "stake": 100,
+      "lagS": 238,
+      "openedAt": "2026-10-20T08:20:51.037Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-20T11:03:44.592Z",
+      "note": "resolved LOSS"
     }
   ]
 }
