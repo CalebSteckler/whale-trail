@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792451838,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792448750,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792461929,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792462307,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792316193,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792461797,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792461557,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792462022,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792462083,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792461609,
@@ -597,24 +597,6 @@
       "stake": 100,
       "lagS": 223,
       "openedAt": "2026-10-19T21:31:32.868Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:27478765205176197916184060773291512799621576836994965341289697253109501493067": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "27478765205176197916184060773291512799621576836994965341289697253109501493067",
-      "conditionId": "0xfb3a2d8d418be1e893aafc50085aed15ec4b879639c846db3a227a5240fb6d19",
-      "outcomeIndex": 0,
-      "title": "Avalanche vs. Flyers",
-      "outcome": "Avalanche",
-      "slug": "nhl-col-phi-2026-10-19",
-      "eventSlug": "nhl-col-phi-2026-10-19",
-      "whalePrice": 0.5447927543,
-      "whaleUsd": 1732.33200012314,
-      "ourPrice": 0.53,
-      "shares": 188.67924528301887,
-      "stake": 100,
-      "lagS": 168,
-      "openedAt": "2026-10-20T00:15:38.425Z"
     }
   },
   "closed": [
@@ -3037,6 +3019,28 @@
       "pnl": 64.26229508196721,
       "closedAt": "2026-10-20T00:32:40.111Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "27478765205176197916184060773291512799621576836994965341289697253109501493067",
+      "conditionId": "0xfb3a2d8d418be1e893aafc50085aed15ec4b879639c846db3a227a5240fb6d19",
+      "outcomeIndex": 0,
+      "title": "Avalanche vs. Flyers",
+      "outcome": "Avalanche",
+      "slug": "nhl-col-phi-2026-10-19",
+      "eventSlug": "nhl-col-phi-2026-10-19",
+      "whalePrice": 0.5447927543,
+      "whaleUsd": 1732.33200012314,
+      "ourPrice": 0.53,
+      "shares": 188.67924528301887,
+      "stake": 100,
+      "lagS": 168,
+      "openedAt": "2026-10-20T00:15:38.425Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-20T02:11:45.682Z",
+      "note": "resolved LOSS"
     }
   ]
 }
