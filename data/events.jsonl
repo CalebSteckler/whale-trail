@@ -661,3 +661,7 @@
 {"t":"2026-10-20T19:12:51.573Z","type":"skip","name":"Bigggggggg","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by less than 10%?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-20T19:13:53.041Z","type":"skip","name":"JohnLKellyJr","title":"Manchester City FC vs. AEK: 1st Half O/U 1.5","outcome":"Over","note":"price moved 0.510 -> 0.780 before we saw it"}
 {"t":"2026-10-20T19:13:53.138Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Nice Try vs aimclub - Map 2 Winner","outcome":"Nice Try","note":"price moved 0.522 -> 0.427 before we saw it"}
+{"t":"2026-10-20T19:32:52.659Z","type":"skip","name":"Bigggggggg","title":"Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-20T19:32:52.659Z","type":"skip","name":"Bigggggggg","title":"Will Rodri win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-20T19:35:52.860Z","type":"copy","name":"qwen4.1.fund","title":"Will \"Grand Theft Auto VI Launch Trailer\" get between 40 and 60 million views on week 1?","outcome":"No","note":"whale $388 @0.862 -> us @0.929 (7.8% worse, 52s lag)"}
+{"t":"2026-10-20T19:35:52.860Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Grand Theft Auto VI Launch Trailer\" get between 80 and 100 million views on week 1?","outcome":"No","note":"whale paid 0.997"}
