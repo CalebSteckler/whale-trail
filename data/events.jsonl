@@ -650,3 +650,7 @@
 {"t":"2026-10-20T18:26:49.773Z","type":"skip","name":"SpringlyFawl","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-20T18:44:50.524Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israeli-legislative-election"}
 {"t":"2026-10-20T18:44:50.524Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-20T18:54:50.893Z","type":"skip","name":"qwen4.1.fund","title":"Will there be a Hormuz agreement and the Democrats win the Senate?","outcome":"No","note":"already $200 on who-wins-the"}
+{"t":"2026-10-20T18:54:50.893Z","type":"skip","name":"qwen4.1.fund","title":"Will there be a Hormuz agreement and the Republicans win the Senate?","outcome":"No","note":"already $200 on who-wins-the"}
+{"t":"2026-10-20T18:54:51.053Z","type":"copy","name":"qwen4.1.fund","title":"Paris Saint-Germain FC to score first vs. FC Barcelona?","outcome":"No","note":"whale $353 @0.490 -> us @0.510 (4.1% worse, 118s lag)"}
+{"t":"2026-10-20T18:58:51.194Z","type":"copy","name":"zerone777","title":"Will the Republicans win the Ohio governor race in 2026?","outcome":"No","note":"whale $2741 @0.750 -> us @0.750 (0.0% better, 132s lag)"}
