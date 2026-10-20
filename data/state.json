@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792531853,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792533204,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792530885,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792532838,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792533441,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792532444,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792531713,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792532976,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792506768,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792513203,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792498626,
@@ -561,24 +561,6 @@
       "stake": 100,
       "lagS": 115,
       "openedAt": "2026-10-20T06:26:45.750Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:104087165739428805144592969583751332733824434312492752768470297859984519174443": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "104087165739428805144592969583751332733824434312492752768470297859984519174443",
-      "conditionId": "0xb7198062a5a4e1a531c2a1d39fdbf72e1adf3ad1d1b124d10232fdc416089ad1",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Nice Try vs aimclub (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs",
-      "outcome": "Nice Try",
-      "slug": "cs2-nicetr-aim1-2026-10-20",
-      "eventSlug": "cs2-nicetr-aim1-2026-10-20",
-      "whalePrice": 0.5795821619,
-      "whaleUsd": 585.4938999513801,
-      "ourPrice": 0.61,
-      "shares": 163.9344262295082,
-      "stake": 100,
-      "lagS": 39,
-      "openedAt": "2026-10-20T07:59:49.786Z"
     },
     "0xfbedb045813457be883ad83dd1078e88a2a1a665:112716641823770787821463405517132757833433648467142286219393353712307292927001": {
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -3607,6 +3589,28 @@
       "pnl": -13.33481481481482,
       "closedAt": "2026-10-20T20:47:55.287Z",
       "note": "whale sold @0.500, we exit @0.468"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "104087165739428805144592969583751332733824434312492752768470297859984519174443",
+      "conditionId": "0xb7198062a5a4e1a531c2a1d39fdbf72e1adf3ad1d1b124d10232fdc416089ad1",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Nice Try vs aimclub (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs",
+      "outcome": "Nice Try",
+      "slug": "cs2-nicetr-aim1-2026-10-20",
+      "eventSlug": "cs2-nicetr-aim1-2026-10-20",
+      "whalePrice": 0.5795821619,
+      "whaleUsd": 585.4938999513801,
+      "ourPrice": 0.61,
+      "shares": 163.9344262295082,
+      "stake": 100,
+      "lagS": 39,
+      "openedAt": "2026-10-20T07:59:49.786Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-20T21:54:51.754Z",
+      "note": "resolved LOSS"
     }
   ]
 }
