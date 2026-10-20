@@ -655,3 +655,9 @@
 {"t":"2026-10-20T18:54:51.053Z","type":"copy","name":"qwen4.1.fund","title":"Paris Saint-Germain FC to score first vs. FC Barcelona?","outcome":"No","note":"whale $353 @0.490 -> us @0.510 (4.1% worse, 118s lag)"}
 {"t":"2026-10-20T18:58:51.194Z","type":"copy","name":"zerone777","title":"Will the Republicans win the Ohio governor race in 2026?","outcome":"No","note":"whale $2741 @0.750 -> us @0.750 (0.0% better, 132s lag)"}
 {"t":"2026-10-20T19:08:51.675Z","type":"skip","name":"zerone777","title":"Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
+{"t":"2026-10-20T19:12:51.573Z","type":"skip","name":"Bigggggggg","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"already $200 on bulgaria-presidential-election"}
+{"t":"2026-10-20T19:12:51.573Z","type":"skip","name":"Bigggggggg","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by less than 10%?","outcome":"No","note":"whale paid 0.988"}
+{"t":"2026-10-20T19:12:51.573Z","type":"skip","name":"Bigggggggg","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"whale paid 0.980"}
+{"t":"2026-10-20T19:12:51.573Z","type":"skip","name":"Bigggggggg","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by less than 10%?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-20T19:13:53.041Z","type":"skip","name":"JohnLKellyJr","title":"Manchester City FC vs. AEK: 1st Half O/U 1.5","outcome":"Over","note":"price moved 0.510 -> 0.780 before we saw it"}
+{"t":"2026-10-20T19:13:53.138Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Nice Try vs aimclub - Map 2 Winner","outcome":"Nice Try","note":"price moved 0.522 -> 0.427 before we saw it"}
