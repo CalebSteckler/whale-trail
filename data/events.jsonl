@@ -563,3 +563,6 @@
 {"t":"2026-10-20T11:03:44.592Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Bushido Wildcats - Map 1 Winner","outcome":"GenOne","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-20T11:32:43.502Z","type":"skip","name":"zerone777","title":"Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?","outcome":"No","note":"whale paid 0.988"}
 {"t":"2026-10-20T11:32:43.502Z","type":"skip","name":"zerone777","title":"Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?","outcome":"No","note":"whale paid 0.987"}
+{"t":"2026-10-20T11:47:45.621Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: ex-Zero Tenacity vs FORZE Reload (BO3) - NODWIN Clutch Series Group Stage","outcome":"FORZE Reload","note":"whale $653 @0.620 -> us @0.672 (8.5% worse, 243s lag)"}
+{"t":"2026-10-20T11:47:45.723Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: ex-Zero Tenacity vs FORZE Reload - Map 1 Winner","outcome":"FORZE Reload","note":"price moved 0.664 -> 0.500 before we saw it"}
+{"t":"2026-10-20T11:47:45.819Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: Eternal Fire vs Infinite - Map 2 Winner","outcome":"Eternal Fire","note":"whale $1616 @0.691 -> us @0.722 (4.5% worse, 37s lag)"}
