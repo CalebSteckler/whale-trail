@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792515497,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792516242,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792513787,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792515951,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792516659,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792201545,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792515473,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792512407,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792516535,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792516148,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792458732,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792510922,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792491071,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792514253
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792516491
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -633,24 +633,6 @@
       "stake": 100,
       "lagS": 137,
       "openedAt": "2026-10-20T09:15:52.378Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:39912401782540326524808194716987287657274208755008789017623614612907224736703": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "39912401782540326524808194716987287657274208755008789017623614612907224736703",
-      "conditionId": "0x858bc3347c9afd4611b6303acd213c102265e1d4a8ebc9bac77d2e16e81249f8",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: ex-Zero Tenacity vs FORZE Reload (BO3) - NODWIN Clutch Series Group Stage",
-      "outcome": "FORZE Reload",
-      "slug": "cs2-zerote-forzer-2026-10-20",
-      "eventSlug": "cs2-zerote-forzer-2026-10-20",
-      "whalePrice": 0.619662627924671,
-      "whaleUsd": 652.591499972588,
-      "ourPrice": 0.6724949562878278,
-      "shares": 148.7,
-      "stake": 100,
-      "lagS": 243,
-      "openedAt": "2026-10-20T11:47:45.621Z"
     },
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1:9025448570994866714151390167666974197623007132973626623412960268955048642964": {
       "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
@@ -3455,6 +3437,28 @@
       "pnl": 124.70177777777778,
       "closedAt": "2026-10-20T14:10:53.318Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "39912401782540326524808194716987287657274208755008789017623614612907224736703",
+      "conditionId": "0x858bc3347c9afd4611b6303acd213c102265e1d4a8ebc9bac77d2e16e81249f8",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: ex-Zero Tenacity vs FORZE Reload (BO3) - NODWIN Clutch Series Group Stage",
+      "outcome": "FORZE Reload",
+      "slug": "cs2-zerote-forzer-2026-10-20",
+      "eventSlug": "cs2-zerote-forzer-2026-10-20",
+      "whalePrice": 0.619662627924671,
+      "whaleUsd": 652.591499972588,
+      "ourPrice": 0.6724949562878278,
+      "shares": 148.7,
+      "stake": 100,
+      "lagS": 243,
+      "openedAt": "2026-10-20T11:47:45.621Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-20T17:18:48.154Z",
+      "note": "resolved LOSS"
     }
   ]
 }
