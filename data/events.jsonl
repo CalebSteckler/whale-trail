@@ -958,3 +958,5 @@
 {"t":"2026-10-21T18:12:38.588Z","type":"close","name":"thanksforplayin","title":"Will Meta (META) close above $700 on October 21?","outcome":"Yes","note":"$-20.01 (whale sold @0.860, we exit @0.720)"}
 {"t":"2026-10-21T18:27:40.008Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Metizport - Map 2 Winner","outcome":"Metizport","note":"already $200 on cs2-g1-mzp"}
 {"t":"2026-10-21T18:35:40.052Z","type":"skip","name":"tiger105","title":"Lille OSC vs. Galatasaray SK: O/U 6.5","outcome":"Over","note":"price moved 0.368 -> 0.197 before we saw it"}
+{"t":"2026-10-21T18:45:39.927Z","type":"copy","name":"qwen4.1.fund","title":"Will the Democrats win the Texas governor race in 2026?","outcome":"No","note":"whale $280 @0.700 -> us @0.702 (0.3% worse, 244s lag)"}
+{"t":"2026-10-21T18:45:40.567Z","type":"copy","name":"tiger105","title":"Will Real Betis Balompié win on 2026-10-21?","outcome":"Yes","note":"whale $10000 @0.560 -> us @0.560 (0.0% better, 472s lag)"}
