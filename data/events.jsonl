@@ -941,3 +941,7 @@
 {"t":"2026-10-21T16:19:34.993Z","type":"skip","name":"zerone777","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 8–12%?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-21T17:13:37.305Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: UPGRADE vs CYBERSHOKE Esports - Map 1 Winner","outcome":"UPGRADE","note":"price moved 0.749 -> 0.824 before we saw it"}
 {"t":"2026-10-21T17:21:36.599Z","type":"close","name":"thanksforplayin","title":"Will Tesla (TSLA) close above $380 on October 21?","outcome":"Yes","note":"+$5.29 (whale sold @0.960, we exit @0.811)"}
+{"t":"2026-10-21T17:45:38.664Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Envy vs FaZe (BO3) - DraculaN Playoffs","outcome":"Envy","note":"price moved 0.432 -> 0.299 before we saw it"}
+{"t":"2026-10-21T17:45:38.773Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs","outcome":"Metizport","note":"whale $1852 @0.718 -> us @0.740 (3.1% worse, 278s lag)"}
+{"t":"2026-10-21T17:45:38.883Z","type":"skip","name":"JohnLKellyJr","title":"Map Handicap: MZP (-1.5) vs GenOne (+1.5)","outcome":"Metizport","note":"book too thin"}
+{"t":"2026-10-21T17:45:39.004Z","type":"copy","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Metizport - Map 1 Winner","outcome":"Metizport","note":"whale $304 @0.603 -> us @0.645 (6.9% worse, 130s lag)"}
