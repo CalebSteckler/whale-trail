@@ -1105,3 +1105,7 @@
 {"t":"2026-10-21T22:44:11.312Z","type":"skip","name":"qwen4.1.fund","title":"Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
 {"t":"2026-10-21T22:47:12.758Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FaZe vs Heroic (BO3) - DraculaN Playoffs","outcome":"Heroic","note":"price moved 0.346 -> 0.245 before we saw it"}
 {"t":"2026-10-21T22:55:21.104Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: Sinners vs JiJieHao - Map 2 Winner","outcome":"Sinners","note":"+$81.82 (resolved WIN)"}
+{"t":"2026-10-21T23:07:12.814Z","type":"skip","name":"Bigggggggg","title":"Will the Student List win less than 30% of the vote in the 2026 Serbian parliamentary election?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-21T23:07:13.005Z","type":"copy","name":"Bigggggggg","title":"Will the Student List win 35-40% of the vote in the 2026 Serbian parliamentary election?","outcome":"No","note":"whale $312 @0.840 -> us @0.908 (8.1% worse, 344s lag)"}
+{"t":"2026-10-21T23:07:13.005Z","type":"skip","name":"Bigggggggg","title":"Will the Student List win 30-35% of the vote in the 2026 Serbian parliamentary election?","outcome":"No","note":"whale paid 0.989"}
+{"t":"2026-10-21T23:07:13.171Z","type":"copy","name":"Bigggggggg","title":"Will the Student List win 45-50% of the vote in the 2026 Serbian parliamentary election?","outcome":"No","note":"whale $308 @0.828 -> us @0.850 (2.6% worse, 344s lag)"}
