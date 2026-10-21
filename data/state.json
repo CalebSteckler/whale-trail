@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792538274,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792546454,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792547300,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792547708,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
@@ -867,24 +867,6 @@
       "stake": 100,
       "lagS": 65,
       "openedAt": "2026-10-20T21:41:49.210Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:40269947215745651963455295220527473268707373964950973430064632882612325499471": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "40269947215745651963455295220527473268707373964950973430064632882612325499471",
-      "conditionId": "0xeb0e47473e54ae49b75216d946123fefa37fcf217f2a40cff5dbe5e600d25e4d",
-      "outcomeIndex": 0,
-      "title": "Kings vs. Capitals",
-      "outcome": "Kings",
-      "slug": "nhl-lak-wsh-2026-10-20",
-      "eventSlug": "nhl-lak-wsh-2026-10-20",
-      "whalePrice": 0.4,
-      "whaleUsd": 4003.2000000000003,
-      "ourPrice": 0.41,
-      "shares": 243.90243902439025,
-      "stake": 100,
-      "lagS": 240,
-      "openedAt": "2026-10-20T23:21:53.086Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:25172545206000541692667496253531562288536270988826888609620735617040533835056": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -3655,6 +3637,28 @@
       "pnl": -100,
       "closedAt": "2026-10-20T22:27:54.275Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "40269947215745651963455295220527473268707373964950973430064632882612325499471",
+      "conditionId": "0xeb0e47473e54ae49b75216d946123fefa37fcf217f2a40cff5dbe5e600d25e4d",
+      "outcomeIndex": 0,
+      "title": "Kings vs. Capitals",
+      "outcome": "Kings",
+      "slug": "nhl-lak-wsh-2026-10-20",
+      "eventSlug": "nhl-lak-wsh-2026-10-20",
+      "whalePrice": 0.4,
+      "whaleUsd": 4003.2000000000003,
+      "ourPrice": 0.41,
+      "shares": 243.90243902439025,
+      "stake": 100,
+      "lagS": 240,
+      "openedAt": "2026-10-20T23:21:53.086Z",
+      "proceeds": 243.90243902439025,
+      "pnl": 143.90243902439025,
+      "closedAt": "2026-10-21T01:57:04.477Z",
+      "note": "resolved WIN"
     }
   ]
 }
