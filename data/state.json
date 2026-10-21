@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792596638,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792597115,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792596297,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792596209,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792597245,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792596251,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792594713,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792597235,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792506768,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792573346,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792498626,
@@ -975,24 +975,6 @@
       "stake": 100,
       "lagS": 233,
       "openedAt": "2026-10-21T13:34:58.076Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:28880892748271533175749775549741302644699569745201422943627639997434239075509": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "28880892748271533175749775549741302644699569745201422943627639997434239075509",
-      "conditionId": "0xa5b27dad2964b49d9c99f1b973a1856aa77618f06a4cd2e3860bbc857c345820",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: BC.Game Esports vs Nexus (BO3) - DraculaN Playoffs",
-      "outcome": "BC.Game Esports",
-      "slug": "cs2-bcg-nxs1-2026-10-21",
-      "eventSlug": "cs2-bcg-nxs1-2026-10-21",
-      "whalePrice": 0.7922395037996764,
-      "whaleUsd": 1329.750239942643,
-      "ourPrice": 0.8577013603542506,
-      "shares": 116.5906976744186,
-      "stake": 100,
-      "lagS": 350,
-      "openedAt": "2026-10-21T13:37:59.192Z"
     },
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:67544136427233614411320780556204080780941076795155312897272648481773961361268": {
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -3934,6 +3916,28 @@
       "proceeds": 156.25,
       "pnl": 56.25,
       "closedAt": "2026-10-21T14:38:55.839Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "28880892748271533175749775549741302644699569745201422943627639997434239075509",
+      "conditionId": "0xa5b27dad2964b49d9c99f1b973a1856aa77618f06a4cd2e3860bbc857c345820",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: BC.Game Esports vs Nexus (BO3) - DraculaN Playoffs",
+      "outcome": "BC.Game Esports",
+      "slug": "cs2-bcg-nxs1-2026-10-21",
+      "eventSlug": "cs2-bcg-nxs1-2026-10-21",
+      "whalePrice": 0.7922395037996764,
+      "whaleUsd": 1329.750239942643,
+      "ourPrice": 0.8577013603542506,
+      "shares": 116.5906976744186,
+      "stake": 100,
+      "lagS": 350,
+      "openedAt": "2026-10-21T13:37:59.192Z",
+      "proceeds": 116.5906976744186,
+      "pnl": 16.590697674418607,
+      "closedAt": "2026-10-21T15:37:26.759Z",
       "note": "resolved WIN"
     }
   ]
