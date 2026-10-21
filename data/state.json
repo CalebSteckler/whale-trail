@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792580562,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792580865,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792570551,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792580423,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792580945,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792532444,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792579745,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792580945,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792506768,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792573346,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792498626,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792550058,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792510922,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792538273,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792578119
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792580541
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -921,42 +921,6 @@
       "stake": 100,
       "lagS": 142,
       "openedAt": "2026-10-21T06:32:57.323Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:31594531272654768794447242152949864975767928233311019266727392716532438160550": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "31594531272654768794447242152949864975767928233311019266727392716532438160550",
-      "conditionId": "0xba3e999ea0c5e5ca2cf069fcf245c6e5766f2eef085f520e6bc3b859b4dc4acd",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Brute vs ex-6666 - Map 1 Winner",
-      "outcome": "Brute",
-      "slug": "cs2-brute-66661-2026-10-21-game1",
-      "eventSlug": "cs2-brute-66661-2026-10-21",
-      "whalePrice": 0.580062819,
-      "whaleUsd": 369.35499999825,
-      "ourPrice": 0.54,
-      "shares": 185.18518518518516,
-      "stake": 100,
-      "lagS": 141,
-      "openedAt": "2026-10-21T08:22:47.008Z"
-    },
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c:96918780994110622285947949694419571763389288724766069005561083568501756824133": {
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "96918780994110622285947949694419571763389288724766069005561083568501756824133",
-      "conditionId": "0x24771d8755e9d73e86981ebefddd1a7bbb99660cfc33437fbdc79895650e8c34",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: magic vs TheMongolz - Map 2 Winner",
-      "outcome": "TheMongolz",
-      "slug": "cs2-mgc-mglz-2026-10-21-game2",
-      "eventSlug": "cs2-mgc-mglz-2026-10-21",
-      "whalePrice": 0.5,
-      "whaleUsd": 941.735,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "lagS": 150,
-      "openedAt": "2026-10-21T10:12:51.247Z"
     }
   },
   "closed": [
@@ -3797,6 +3761,50 @@
       "pnl": 41.149542500000024,
       "closedAt": "2026-10-21T10:23:51.326Z",
       "note": "whale sold @0.999, we exit @0.999"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "96918780994110622285947949694419571763389288724766069005561083568501756824133",
+      "conditionId": "0x24771d8755e9d73e86981ebefddd1a7bbb99660cfc33437fbdc79895650e8c34",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: magic vs TheMongolz - Map 2 Winner",
+      "outcome": "TheMongolz",
+      "slug": "cs2-mgc-mglz-2026-10-21-game2",
+      "eventSlug": "cs2-mgc-mglz-2026-10-21",
+      "whalePrice": 0.5,
+      "whaleUsd": 941.735,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "lagS": 150,
+      "openedAt": "2026-10-21T10:12:51.247Z",
+      "proceeds": 195.88235294117646,
+      "pnl": 95.88235294117646,
+      "closedAt": "2026-10-21T11:03:53.191Z",
+      "note": "whale sold @0.999, we exit @0.999"
+    },
+    {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "31594531272654768794447242152949864975767928233311019266727392716532438160550",
+      "conditionId": "0xba3e999ea0c5e5ca2cf069fcf245c6e5766f2eef085f520e6bc3b859b4dc4acd",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Brute vs ex-6666 - Map 1 Winner",
+      "outcome": "Brute",
+      "slug": "cs2-brute-66661-2026-10-21-game1",
+      "eventSlug": "cs2-brute-66661-2026-10-21",
+      "whalePrice": 0.580062819,
+      "whaleUsd": 369.35499999825,
+      "ourPrice": 0.54,
+      "shares": 185.18518518518516,
+      "stake": 100,
+      "lagS": 141,
+      "openedAt": "2026-10-21T08:22:47.008Z",
+      "proceeds": 185.18518518518516,
+      "pnl": 85.18518518518516,
+      "closedAt": "2026-10-21T11:08:58.714Z",
+      "note": "resolved WIN"
     }
   ]
 }
