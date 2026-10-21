@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792616099,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792617879,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792614231,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792617738,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792618355,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792617312,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792615475,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792618208,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792617267,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792618187,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792610255,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792614945,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792498626,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792550058,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792510922,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792612475,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792615961
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792618077
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -976,24 +976,6 @@
       "lagS": 244,
       "openedAt": "2026-10-21T18:45:39.927Z"
     },
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:39813265034171879821864777955525427398800761363707656187208444348734481077774": {
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "39813265034171879821864777955525427398800761363707656187208444348734481077774",
-      "conditionId": "0x9300f159f0ee66458701046e66aacd6e7156d6c1dccadc7553aa13fd66ebe266",
-      "outcomeIndex": 0,
-      "title": "Will Real Betis Balompié win on 2026-10-21?",
-      "outcome": "Yes",
-      "slug": "ucl-bet-fey-2026-10-21-bet",
-      "eventSlug": "ucl-bet-fey-2026-10-21",
-      "whalePrice": 0.56,
-      "whaleUsd": 9999.99999936,
-      "ourPrice": 0.56,
-      "shares": 178.57142857142856,
-      "stake": 100,
-      "lagS": 472,
-      "openedAt": "2026-10-21T18:45:40.567Z"
-    },
     "0xddc38b82423310f5bbf2e2dc58745661a624029c:34765906642329805553480148606252464850919070590159270443289658770895628140986": {
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
       "name": "JohnLKellyJr",
@@ -1065,6 +1047,24 @@
       "stake": 100,
       "lagS": 97,
       "openedAt": "2026-10-21T20:49:07.767Z"
+    },
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:42846322623941111913423565782754205860695656353545226972907149977118801928891": {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "42846322623941111913423565782754205860695656353545226972907149977118801928891",
+      "conditionId": "0xefbdd249139246dc0a7b91c0c571febd59ee74490c689d95cf3b010f6cfac9e5",
+      "outcomeIndex": 1,
+      "title": "Will Lamine Yamal finish 2nd in the 2026 Ballon d'Or?",
+      "outcome": "No",
+      "slug": "will-lamine-yamal-finish-2nd-in-the-2026-ballon-d-or-20261019143424322",
+      "eventSlug": "ballon-d-or-2026-2nd-place-20261019143424322",
+      "whalePrice": 0.8482858913612695,
+      "whaleUsd": 342.11369998600003,
+      "ourPrice": 0.86,
+      "shares": 116.27906976744187,
+      "stake": 100,
+      "lagS": 145,
+      "openedAt": "2026-10-21T21:33:09.100Z"
     }
   },
   "closed": [
@@ -4146,6 +4146,28 @@
       "proceeds": 161.29032258064515,
       "pnl": 61.29032258064515,
       "closedAt": "2026-10-21T21:16:17.627Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "39813265034171879821864777955525427398800761363707656187208444348734481077774",
+      "conditionId": "0x9300f159f0ee66458701046e66aacd6e7156d6c1dccadc7553aa13fd66ebe266",
+      "outcomeIndex": 0,
+      "title": "Will Real Betis Balompié win on 2026-10-21?",
+      "outcome": "Yes",
+      "slug": "ucl-bet-fey-2026-10-21-bet",
+      "eventSlug": "ucl-bet-fey-2026-10-21",
+      "whalePrice": 0.56,
+      "whaleUsd": 9999.99999936,
+      "ourPrice": 0.56,
+      "shares": 178.57142857142856,
+      "stake": 100,
+      "lagS": 472,
+      "openedAt": "2026-10-21T18:45:40.567Z",
+      "proceeds": 178.57142857142856,
+      "pnl": 78.57142857142856,
+      "closedAt": "2026-10-21T21:27:16.441Z",
       "note": "resolved WIN"
     }
   ]
