@@ -977,3 +977,16 @@
 {"t":"2026-10-21T19:06:40.400Z","type":"skip","name":"qwen4.1.fund","title":"Will there be no change in Fed interest rates after the January 2027 meeting?","outcome":"No","note":"already $200 on fed-decision-in"}
 {"t":"2026-10-21T19:06:40.400Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?","outcome":"No","note":"whale paid 0.990"}
 {"t":"2026-10-21T19:10:41.721Z","type":"close","name":"JohnLKellyJr","title":"Counter-Strike: GenOne vs Metizport (BO3) - Stake Ranked Episode 6: Closed Qualifier Playoffs","outcome":"Metizport","note":"+$35.00 (whale sold @0.999, we exit @0.999)"}
+{"t":"2026-10-21T19:16:04.335Z","type":"skip","name":"JohnLKellyJr","title":"Levante UD vs. Athletic Club: O/U 3.5","outcome":"Over","note":"price moved 0.410 -> 0.659 before we saw it"}
+{"t":"2026-10-21T19:16:04.489Z","type":"skip","name":"JohnLKellyJr","title":"Levante UD vs. Athletic Club: Athletic Club O/U 1.5","outcome":"Over","note":"price moved 0.250 -> 0.690 before we saw it"}
+{"t":"2026-10-21T19:19:04.880Z","type":"skip","name":"defillama7","title":"Will the Democrats win the Texas Senate race in 2026?","outcome":"Yes","note":"already $200 on texas-senate-election"}
+{"t":"2026-10-21T19:21:03.586Z","type":"skip","name":"qwen4.1.fund","title":"Will Apolonija Simon win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-21T19:21:03.765Z","type":"copy","name":"qwen4.1.fund","title":"Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale $970 @0.970 -> us @0.970 (0.0% better, 159s lag)"}
+{"t":"2026-10-21T19:21:03.765Z","type":"skip","name":"qwen4.1.fund","title":"Will Mihael Jarc win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-21T19:21:03.765Z","type":"skip","name":"qwen4.1.fund","title":"Will Aleš Vrhovec win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.984"}
+{"t":"2026-10-21T19:21:03.919Z","type":"copy","name":"qwen4.1.fund","title":"Will Luka Mesec win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale $564 @0.800 -> us @0.871 (8.9% worse, 159s lag)"}
+{"t":"2026-10-21T19:21:03.919Z","type":"skip","name":"qwen4.1.fund","title":"Will Anton Rop win the 2026 Ljubljana mayoral election?","outcome":"No","note":"already $200 on ljubljana-mayoral-election"}
+{"t":"2026-10-21T19:21:03.919Z","type":"skip","name":"qwen4.1.fund","title":"Will Jasmin Feratović win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-21T19:21:03.919Z","type":"skip","name":"qwen4.1.fund","title":"Will Gregor Novak win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-21T19:21:03.920Z","type":"skip","name":"qwen4.1.fund","title":"Will Aleš Primc win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-21T19:21:03.920Z","type":"skip","name":"qwen4.1.fund","title":"Will Aleksandar Repić win the 2026 Ljubljana mayoral election?","outcome":"No","note":"whale paid 0.997"}
