@@ -1,25 +1,25 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792626884,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792649336,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792649591,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792669292,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792668000,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792669590,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792649267,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792648186,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792669280,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792668372,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792648703,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792666331,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792626278,
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792648117,
+    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792669811,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792498626,
-    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792481180,
+    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792659420,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792639385,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792627074,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792612475,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792625105
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792669799
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1264,23 +1264,41 @@
       "lagS": 231,
       "openedAt": "2026-10-22T05:48:19.461Z"
     },
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:101406005775024165284381365599162113764999889191508542478097682710210654966600": {
+    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:110559629306553676984715861092112187037477015948693623070843742594618773548205": {
       "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
       "name": "tiger105",
-      "asset": "101406005775024165284381365599162113764999889191508542478097682710210654966600",
-      "conditionId": "0x4aa4952b25c75717516e531555fba4c7487c378d68079a9f70f7b14f956865c2",
-      "outcomeIndex": 1,
-      "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
-      "outcome": "Mattia Bellucci",
-      "slug": "atp-atmane-bellucc-2026-10-22",
-      "eventSlug": "atp-atmane-bellucc-2026-10-22",
-      "whalePrice": 0.524033009,
-      "whaleUsd": 9999.999999183754,
-      "ourPrice": 0.53,
-      "shares": 188.67924528301887,
+      "asset": "110559629306553676984715861092112187037477015948693623070843742594618773548205",
+      "conditionId": "0xb3899de5cace57c00f1140d63677e3dae0a806053e8c270f9ab3e0c81a066d4f",
+      "outcomeIndex": 0,
+      "title": "Florence: Samuele Pieri vs Sandro Kopp",
+      "outcome": "Samuele Pieri",
+      "slug": "atp-pieri-kopp-2026-10-22",
+      "eventSlug": "atp-pieri-kopp-2026-10-22",
+      "whalePrice": 0.4729535192,
+      "whaleUsd": 9999.999999063355,
+      "ourPrice": 0.48457278481012656,
+      "shares": 206.3673469387755,
       "stake": 100,
-      "lagS": 163,
-      "openedAt": "2026-10-22T05:51:20.363Z"
+      "lagS": 4027,
+      "openedAt": "2026-10-22T11:47:37.448Z"
+    },
+    "0x924379a79c64b77ad5816ad362122a5f6228658e:916154151591694451641687900655788572080871706609442187843374412922706645840": {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "916154151591694451641687900655788572080871706609442187843374412922706645840",
+      "conditionId": "0x2d984510710e08b475df252db27bb876b9a6f5830116e350ada66a1e771bed0b",
+      "outcomeIndex": 1,
+      "title": "Lyon Open: Valentin Vacherot vs Luca Van Assche",
+      "outcome": "Luca Van Assche",
+      "slug": "atp-vachero-assche-2026-10-22",
+      "eventSlug": "atp-vachero-assche-2026-10-22",
+      "whalePrice": 0.43,
+      "whaleUsd": 9566.545399999999,
+      "ourPrice": 0.45,
+      "shares": 222.22222222222223,
+      "stake": 100,
+      "lagS": 10237,
+      "openedAt": "2026-10-22T11:47:37.662Z"
     }
   },
   "closed": [
@@ -4495,6 +4513,28 @@
       "pnl": 58.730158730158735,
       "closedAt": "2026-10-22T02:47:18.352Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "101406005775024165284381365599162113764999889191508542478097682710210654966600",
+      "conditionId": "0x4aa4952b25c75717516e531555fba4c7487c378d68079a9f70f7b14f956865c2",
+      "outcomeIndex": 1,
+      "title": "Almaty Open: Terence Atmane vs Mattia Bellucci",
+      "outcome": "Mattia Bellucci",
+      "slug": "atp-atmane-bellucc-2026-10-22",
+      "eventSlug": "atp-atmane-bellucc-2026-10-22",
+      "whalePrice": 0.524033009,
+      "whaleUsd": 9999.999999183754,
+      "ourPrice": 0.53,
+      "shares": 188.67924528301887,
+      "stake": 100,
+      "lagS": 163,
+      "openedAt": "2026-10-22T05:51:20.363Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-22T11:47:49.821Z",
+      "note": "resolved LOSS"
     }
   ]
 }
