@@ -1,23 +1,23 @@
-Paper copies: 239 ($23900 staked) | closed 154, open 85
-Realized +$1765.91 | open marked to bid -$81.11 | total +$1684.79
-Median price vs whale: 1.6% worse | avg detection lag 255s
-Capital tied up now: $8500 in 85 positions | avg days locked per copy 0.9
-Wins/losses closed: 93/61
+Paper copies: 248 ($24800 staked) | closed 159, open 89
+Realized +$1399.96 | open marked to bid +$14.89 | total +$1414.85
+Median price vs whale: 1.6% worse | avg detection lag 254s
+Capital tied up now: $8900 in 89 positions | avg days locked per copy 0.9
+Wins/losses closed: 94/65
 
 By whale:
-  Kch-Temp                    18 copies  +$899.56
-  DelidelaDele                12 copies  +$536.25
+  Kch-Temp                    18 copies  +$897.43
+  DelidelaDele                13 copies  +$527.10
   para-Vision                 10 copies  +$468.32
   THEHIGHLIFE                  6 copies  +$146.26
   Tokenn                       2 copies  +$128.31
-  tiger105                    29 copies  +$78.19
   bitbe                        1 copies  +$51.52
-  defillama7                   5 copies  +$18.74
-  zerone777                   20 copies  +$11.43
-  ethBELIVER                   2 copies  -$6.85
-  SpringlyFawl                 7 copies  -$10.94
-  The Spirit of Ukraine>UMA    6 copies  -$17.15
+  defillama7                   5 copies  +$20.49
+  zerone777                   20 copies  +$10.86
+  SpringlyFawl                 7 copies  -$7.71
+  ethBELIVER                   2 copies  -$9.59
+  The Spirit of Ukraine>UMA    6 copies  -$14.42
+  tiger105                    29 copies  -$64.40
   thanksforplayin             14 copies  -$84.56
-  Bigggggggg                  15 copies  -$99.20
-  JohnLKellyJr                54 copies  -$99.48
-  qwen4.1.fund                38 copies  -$335.62
+  Bigggggggg                  15 copies  -$90.72
+  JohnLKellyJr                61 copies  -$222.63
+  qwen4.1.fund                39 copies  -$341.41
