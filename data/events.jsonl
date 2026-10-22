@@ -1198,3 +1198,6 @@
 {"t":"2026-10-22T05:46:19.427Z","type":"skip","name":"Bigggggggg","title":"Will Harry Kane win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-22T05:46:19.427Z","type":"skip","name":"Bigggggggg","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.982"}
 {"t":"2026-10-22T05:46:19.427Z","type":"skip","name":"Bigggggggg","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
+{"t":"2026-10-22T05:48:19.461Z","type":"copy","name":"qwen4.1.fund","title":"Will the Democrats win the Arkansas Senate race in 2026?","outcome":"No","note":"whale $253 @0.957 -> us @0.956 (0.0% better, 231s lag)"}
+{"t":"2026-10-22T05:48:19.570Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party win the OH-15 House seat?","outcome":"No","note":"price moved 0.349 -> 0.516 before we saw it"}
+{"t":"2026-10-22T05:51:20.363Z","type":"copy","name":"tiger105","title":"Almaty Open: Terence Atmane vs Mattia Bellucci","outcome":"Mattia Bellucci","note":"whale $10000 @0.524 -> us @0.530 (1.1% worse, 163s lag)"}
