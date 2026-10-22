@@ -1172,3 +1172,14 @@
 {"t":"2026-10-22T03:25:14.270Z","type":"copy","name":"The Spirit of Ukraine>UMA","title":"Republican Senate odds dip to 25% by October 31?","outcome":"No","note":"whale $1896 @0.896 -> us @0.965 (7.7% worse, 395s lag)"}
 {"t":"2026-10-22T03:31:13.974Z","type":"copy","name":"The Spirit of Ukraine>UMA","title":"Republican House odds dip to 5% by October 31?","outcome":"No","note":"whale $1913 @0.927 -> us @0.972 (4.8% worse, 508s lag)"}
 {"t":"2026-10-22T03:31:13.974Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"Republican House odds hit 15% by October 31?","outcome":"No","note":"whale paid 0.988"}
+{"t":"2026-10-22T05:21:18.618Z","type":"copy","name":"zerone777","title":"2026 Balance of Power: R Senate, D House","outcome":"No","note":"whale $1575 @0.750 -> us @0.750 (0.0% better, 90s lag)"}
+{"t":"2026-10-22T05:21:18.719Z","type":"copy","name":"zerone777","title":"2026 Balance of Power: R Senate, R House","outcome":"No","note":"whale $1932 @0.920 -> us @0.920 (0.0% better, 90s lag)"}
+{"t":"2026-10-22T05:23:18.231Z","type":"skip","name":"qwen4.1.fund","title":"2026 Balance of Power: D Senate, R House","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-22T05:23:18.231Z","type":"skip","name":"qwen4.1.fund","title":"2026 Balance of Power: Other","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-22T05:23:18.232Z","type":"skip","name":"qwen4.1.fund","title":"2026 Balance of Power: R Senate, R House","outcome":"No","note":"already $200 on balance-of-power"}
+{"t":"2026-10-22T05:23:18.232Z","type":"skip","name":"qwen4.1.fund","title":"2026 Balance of Power: R Senate, D House","outcome":"No","note":"already $200 on balance-of-power"}
+{"t":"2026-10-22T05:26:18.709Z","type":"skip","name":"Bigggggggg","title":"Will Rodri win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-22T05:26:18.709Z","type":"skip","name":"Bigggggggg","title":"Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-22T05:26:18.709Z","type":"skip","name":"Bigggggggg","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.982"}
+{"t":"2026-10-22T05:26:18.709Z","type":"skip","name":"Bigggggggg","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
+{"t":"2026-10-22T05:26:18.710Z","type":"skip","name":"Bigggggggg","title":"Will Lamine Yamal win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
