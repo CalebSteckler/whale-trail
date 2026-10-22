@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792701942,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792700753,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792701876,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792702497,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792678109,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792700949,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792691946,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792700834,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792702457,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792701027,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792686960,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792673111,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792693287,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792685606,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792685501,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792700207
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792702745
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1426,24 +1426,6 @@
       "lagS": 52,
       "openedAt": "2026-10-22T16:00:45.905Z"
     },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:79362294352757351445229269710312550879820062770122623065836843635057826016253": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "79362294352757351445229269710312550879820062770122623065836843635057826016253",
-      "conditionId": "0xfc46eb64ef6e57a2d9d2d4635f65c5c66d5e6803d1931df22e7199a242f831fd",
-      "outcomeIndex": 0,
-      "title": "Will FC København win on 2026-10-22?",
-      "outcome": "Yes",
-      "slug": "col-crv-kob-2026-10-22-kob",
-      "eventSlug": "col-crv-kob-2026-10-22",
-      "whalePrice": 0.2977703141,
-      "whaleUsd": 4328.24040060055,
-      "ourPrice": 0.31,
-      "shares": 322.5806451612903,
-      "stake": 100,
-      "lagS": 422,
-      "openedAt": "2026-10-22T16:01:46.147Z"
-    },
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e:50723444598226195342754184700957904925325694503103795593830038565334198169540": {
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
       "name": "The Spirit of Ukraine>UMA",
@@ -1587,6 +1569,24 @@
       "stake": 100,
       "lagS": 53,
       "openedAt": "2026-10-22T20:41:04.530Z"
+    },
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c:12865626712655367539594472435452776302595646347255051343580530961688876724311": {
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "12865626712655367539594472435452776302595646347255051343580530961688876724311",
+      "conditionId": "0x847f39e03d0951a3a6f956247780c283e44251370004173c78114de08b51beb7",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: UPGRADE vs Virtus.pro - Map 2 Winner",
+      "outcome": "Virtus.pro",
+      "slug": "cs2-upgrad-vp-2026-10-22-game2",
+      "eventSlug": "cs2-upgrad-vp-2026-10-22",
+      "whalePrice": 0.6494192459571511,
+      "whaleUsd": 1269.419800072443,
+      "ourPrice": 0.67,
+      "shares": 149.25373134328356,
+      "stake": 100,
+      "lagS": 34,
+      "openedAt": "2026-10-22T20:59:06.933Z"
     }
   },
   "closed": [
@@ -5042,6 +5042,28 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-22T20:48:20.552Z",
+      "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "79362294352757351445229269710312550879820062770122623065836843635057826016253",
+      "conditionId": "0xfc46eb64ef6e57a2d9d2d4635f65c5c66d5e6803d1931df22e7199a242f831fd",
+      "outcomeIndex": 0,
+      "title": "Will FC København win on 2026-10-22?",
+      "outcome": "Yes",
+      "slug": "col-crv-kob-2026-10-22-kob",
+      "eventSlug": "col-crv-kob-2026-10-22",
+      "whalePrice": 0.2977703141,
+      "whaleUsd": 4328.24040060055,
+      "ourPrice": 0.31,
+      "shares": 322.5806451612903,
+      "stake": 100,
+      "lagS": 422,
+      "openedAt": "2026-10-22T16:01:46.147Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-22T20:59:21.185Z",
       "note": "resolved LOSS"
     }
   ]
