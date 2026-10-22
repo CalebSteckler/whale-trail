@@ -1341,3 +1341,5 @@
 {"t":"2026-10-22T14:45:42.490Z","type":"skip","name":"qwen4.1.fund","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.982"}
 {"t":"2026-10-22T14:45:42.490Z","type":"skip","name":"qwen4.1.fund","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-22T14:45:42.725Z","type":"copy","name":"qwen4.1.fund","title":"Will Todd Achilles win the Idaho Senate race in 2026?","outcome":"No","note":"whale $1157 @0.926 -> us @0.950 (2.5% worse, 135s lag)"}
+{"t":"2026-10-22T14:48:43.326Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: Galions vs Solary - Game 3 Winner","outcome":"Galions","note":"price moved 0.410 -> 0.699 before we saw it"}
+{"t":"2026-10-22T14:54:52.274Z","type":"close","name":"Kch-Temp","title":"Lyon Open: Valentin Vacherot vs Luca Van Assche","outcome":"Luca Van Assche","note":"+$122.22 (resolved WIN)"}
