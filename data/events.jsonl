@@ -1249,3 +1249,4 @@
 {"t":"2026-10-22T11:47:49.822Z","type":"close","name":"tiger105","title":"Almaty Open: Terence Atmane vs Mattia Bellucci","outcome":"Mattia Bellucci","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-22T11:51:37.007Z","type":"skip","name":"tiger105","title":"Almaty Open: Tomas Machac vs Karen Khachanov","outcome":"Karen Khachanov","note":"price moved 0.500 -> 0.580 before we saw it"}
 {"t":"2026-10-22T11:53:36.750Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs WW Team - Map 1 Winner","outcome":"Team Nemesis","note":"price moved 0.414 -> 0.314 before we saw it"}
+{"t":"2026-10-22T12:09:36.825Z","type":"skip","name":"zerone777","title":"Will Puma Shen win the next Taipei Mayor election?","outcome":"No","note":"already $200 on taipei-mayor-election"}
