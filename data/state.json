@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792626884,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792635714,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792636790,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792637457,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792637516,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
@@ -1083,24 +1083,6 @@
       "stake": 100,
       "lagS": 85,
       "openedAt": "2026-10-21T23:30:13.425Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:107102793637680157985081124002726182334464514298802794132890893773707404215371": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "107102793637680157985081124002726182334464514298802794132890893773707404215371",
-      "conditionId": "0x47f97bc90f048a7a94f3c7245fbc2f193caf20a136212aae58db4b6a5672e727",
-      "outcomeIndex": 0,
-      "title": "Timberwolves vs. Heat",
-      "outcome": "Timberwolves",
-      "slug": "nba-min-mia-2026-10-21",
-      "eventSlug": "nba-min-mia-2026-10-21",
-      "whalePrice": 0.6,
-      "whaleUsd": 284.99399999999997,
-      "ourPrice": 0.63,
-      "shares": 158.73015873015873,
-      "stake": 100,
-      "lagS": 501,
-      "openedAt": "2026-10-22T00:06:15.645Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:30588215675989265399104925057654291187928548024023430705816079314594564995275": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -4329,6 +4311,28 @@
       "pnl": -100,
       "closedAt": "2026-10-22T02:03:15.688Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "107102793637680157985081124002726182334464514298802794132890893773707404215371",
+      "conditionId": "0x47f97bc90f048a7a94f3c7245fbc2f193caf20a136212aae58db4b6a5672e727",
+      "outcomeIndex": 0,
+      "title": "Timberwolves vs. Heat",
+      "outcome": "Timberwolves",
+      "slug": "nba-min-mia-2026-10-21",
+      "eventSlug": "nba-min-mia-2026-10-21",
+      "whalePrice": 0.6,
+      "whaleUsd": 284.99399999999997,
+      "ourPrice": 0.63,
+      "shares": 158.73015873015873,
+      "stake": 100,
+      "lagS": 501,
+      "openedAt": "2026-10-22T00:06:15.645Z",
+      "proceeds": 158.73015873015873,
+      "pnl": 58.730158730158735,
+      "closedAt": "2026-10-22T02:47:18.352Z",
+      "note": "resolved WIN"
     }
   ]
 }
