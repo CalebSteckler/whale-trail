@@ -1435,3 +1435,8 @@
 {"t":"2026-10-22T16:57:47.759Z","type":"skip","name":"qwen4.1.fund","title":"Will Microsoft be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-22T16:57:47.759Z","type":"skip","name":"qwen4.1.fund","title":"Will SpaceX be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-22T16:57:47.759Z","type":"skip","name":"qwen4.1.fund","title":"Will Alphabet be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale paid 0.986"}
+{"t":"2026-10-22T17:09:48.469Z","type":"copy","name":"Kch-Temp","title":"Spread: Bears (-2.5)","outcome":"Patriots","note":"whale $119549 @0.460 -> us @0.470 (2.2% worse, 42s lag)"}
+{"t":"2026-10-22T17:13:48.243Z","type":"copy","name":"qwen4.1.fund","title":"Will Apple be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale $288 @0.648 -> us @0.658 (1.5% worse, 187s lag)"}
+{"t":"2026-10-22T17:13:48.243Z","type":"skip","name":"qwen4.1.fund","title":"Will SpaceX be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-22T17:13:48.243Z","type":"skip","name":"qwen4.1.fund","title":"Will Microsoft be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-22T17:13:48.243Z","type":"skip","name":"qwen4.1.fund","title":"Will Alphabet be the largest company in the world by market cap on December 31?","outcome":"No","note":"whale paid 0.988"}
