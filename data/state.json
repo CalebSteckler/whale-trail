@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792626884,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792623293,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792627917,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792628367,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792498259,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792625781,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792628543,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792625825,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792362423,
@@ -1047,24 +1047,6 @@
       "stake": 100,
       "lagS": 184,
       "openedAt": "2026-10-21T21:59:10.148Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:14949913367601155682026690116125011345865562073714033308806437276146551030140": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "14949913367601155682026690116125011345865562073714033308806437276146551030140",
-      "conditionId": "0x6b5cdde9ac398590cc70f056059d5875262de0fa79188f4699f4cbefd2b02afc",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: FaZe vs Heroic (BO3) - DraculaN Playoffs",
-      "outcome": "FaZe",
-      "slug": "cs2-faze-hero-2026-10-21",
-      "eventSlug": "cs2-faze-hero-2026-10-21",
-      "whalePrice": 0.56,
-      "whaleUsd": 413.5936,
-      "ourPrice": 0.5497251374312845,
-      "shares": 181.90909090909088,
-      "stake": 100,
-      "lagS": 504,
-      "openedAt": "2026-10-21T22:25:12.743Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:22716330499577344905665557997666503210901515415983234393040320175157284865189": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -4284,6 +4266,28 @@
       "proceeds": 181.8181818181818,
       "pnl": 81.81818181818181,
       "closedAt": "2026-10-21T22:55:21.104Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "14949913367601155682026690116125011345865562073714033308806437276146551030140",
+      "conditionId": "0x6b5cdde9ac398590cc70f056059d5875262de0fa79188f4699f4cbefd2b02afc",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FaZe vs Heroic (BO3) - DraculaN Playoffs",
+      "outcome": "FaZe",
+      "slug": "cs2-faze-hero-2026-10-21",
+      "eventSlug": "cs2-faze-hero-2026-10-21",
+      "whalePrice": 0.56,
+      "whaleUsd": 413.5936,
+      "ourPrice": 0.5497251374312845,
+      "shares": 181.90909090909088,
+      "stake": 100,
+      "lagS": 504,
+      "openedAt": "2026-10-21T22:25:12.743Z",
+      "proceeds": 181.90909090909088,
+      "pnl": 81.90909090909088,
+      "closedAt": "2026-10-22T00:23:26.090Z",
       "note": "resolved WIN"
     }
   ]
