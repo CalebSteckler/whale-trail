@@ -1130,3 +1130,4 @@
 {"t":"2026-10-22T00:31:16.036Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 220-239 tweets from October 16 to October 23, 2026?","outcome":"No","note":"whale paid 0.980"}
 {"t":"2026-10-22T00:31:16.198Z","type":"copy","name":"qwen4.1.fund","title":"Will Elon Musk post 320-339 tweets from October 16 to October 23, 2026?","outcome":"No","note":"whale $276 @0.925 -> us @0.927 (0.2% worse, 350s lag)"}
 {"t":"2026-10-22T00:31:16.199Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 360-379 tweets from October 16 to October 23, 2026?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-22T00:41:16.315Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Istanbul be 16°C on October 20?","outcome":"No","note":"whale paid 0.999"}
