@@ -1,0 +1,39 @@
+# Hourly check that the trail is alive.
+# No trail run active -> start one. State not saved for 90+ minutes even so -> open an issue (GitHub emails the owner).
+name: watchdog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 * * * *"
+
+permissions:
+  contents: read
+  actions: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - name: Restart or alert
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          active=$(gh run list -w trail.yml -L 5 --json status -q '[.[] | select(.status=="in_progress" or .status=="queued")] | length')
+          if [ "$active" = "0" ]; then
+            echo "no trail run active, starting one"
+            gh workflow run trail.yml --ref ${{ github.ref_name }}
+          fi
+          last=$(git log -1 --format=%ct -- data/state.json)
+          age=$(( ($(date +%s) - last) / 60 ))
+          echo "state last saved ${age} min ago, ${active} trail runs active"
+          if [ "$age" -ge 90 ]; then
+            open=$(gh issue list --state open --search "whale-trail stale in:title" --json number -q length)
+            [ "$open" = "0" ] && gh issue create --title "whale-trail stale: no state saved for ${age} min" \
+              --body "The watchdog found data/state.json not updated for ${age} minutes (trail runs active: ${active}). Check the latest trail run log in Actions."
+          fi
