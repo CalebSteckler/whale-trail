@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792779594,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792787376,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792787963,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792775618,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792785689,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792786592,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792788194,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792771550,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
@@ -18,8 +18,8 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792693287,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792784604,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792784267,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792787255
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792787843,
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792787439
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1680,6 +1680,25 @@
       "lagS": 191,
       "rules": 2,
       "openedAt": "2026-10-23T19:29:19.430Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:46602514397165613480102220189767438937377959307884575445865556310887371607789": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "46602514397165613480102220189767438937377959307884575445865556310887371607789",
+      "conditionId": "0x6dccd54ad0aa48eb04c17f1fd0b033c07a95a87ff8c5c882f004ca45c00e7e08",
+      "outcomeIndex": 1,
+      "title": "LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage",
+      "outcome": "Karmine Corp",
+      "slug": "lol-al-kc-2026-10-23",
+      "eventSlug": "lol-al-kc-2026-10-23",
+      "whalePrice": 0.40919120220102745,
+      "whaleUsd": 7087.101600057312,
+      "ourPrice": 0.42,
+      "shares": 238.0952380952381,
+      "stake": 100,
+      "lagS": 164,
+      "rules": 2,
+      "openedAt": "2026-10-23T20:38:23.073Z"
     }
   },
   "closed": [
@@ -5709,23 +5728,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T18:08:16.113Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:42311835296793239955748306583469683982051959165862244557667983036487988869940": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "42311835296793239955748306583469683982051959165862244557667983036487988869940",
-      "conditionId": "0x5e7c1cb82c5a1b68092ff093508c0927b65bc320f201586570686934488fa073",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: maybe vs LPH Gaming (BO3) - ESL Challenger League Europe Cup #9 Playoffs",
-      "outcome": "maybe",
-      "slug": "cs2-maybe-lph-2026-10-23",
-      "whalePrice": 0.677968277162097,
-      "ourPrice": 0.677968277162097,
-      "shares": 147.49952670144,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T18:12:18.719Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:115364229170068359509280114761107502298430910856477421813089992309112580316620": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -5827,23 +5829,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T18:38:17.445Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:43629345856817557115150846712969654489659215820890634621518447173643736682094": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "43629345856817557115150846712969654489659215820890634621518447173643736682094",
-      "conditionId": "0xa0707ee54c564d0d5d76a4611d89090547a6f5b889b19eb7cbf17d1ed34327a5",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: maybe vs LPH Gaming - Map 2 Winner",
-      "outcome": "maybe",
-      "slug": "cs2-maybe-lph-2026-10-23-game2",
-      "whalePrice": 0.41403726710434785,
-      "ourPrice": 0.41403726710434785,
-      "shares": 241.52415240147326,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T18:46:19.695Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:40388898471271614703566182854421102038511099884105946125990723543624087944274": {
       "reason": "benched",
@@ -6144,6 +6129,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-23T18:56:28.583Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "42311835296793239955748306583469683982051959165862244557667983036487988869940",
+      "conditionId": "0x5e7c1cb82c5a1b68092ff093508c0927b65bc320f201586570686934488fa073",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: maybe vs LPH Gaming (BO3) - ESL Challenger League Europe Cup #9 Playoffs",
+      "outcome": "maybe",
+      "slug": "cs2-maybe-lph-2026-10-23",
+      "whalePrice": 0.677968277162097,
+      "ourPrice": 0.677968277162097,
+      "shares": 147.49952670144,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:12:18.719Z",
+      "proceeds": 147.49952670144,
+      "pnl": 47.499526701440004,
+      "closedAt": "2026-10-23T20:35:33.572Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "43629345856817557115150846712969654489659215820890634621518447173643736682094",
+      "conditionId": "0xa0707ee54c564d0d5d76a4611d89090547a6f5b889b19eb7cbf17d1ed34327a5",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: maybe vs LPH Gaming - Map 2 Winner",
+      "outcome": "maybe",
+      "slug": "cs2-maybe-lph-2026-10-23-game2",
+      "whalePrice": 0.41403726710434785,
+      "ourPrice": 0.41403726710434785,
+      "shares": 241.52415240147326,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:46:19.695Z",
+      "proceeds": 241.52415240147326,
+      "pnl": 141.52415240147326,
+      "closedAt": "2026-10-23T20:35:33.888Z"
     }
   ]
 }
