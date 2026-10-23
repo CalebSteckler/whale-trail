@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792792914,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792793451,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792794033,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792793477,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792792890,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792793595,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792788224,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792784604,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792791852,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792793822,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792790150
   },
   "open": {
@@ -1718,6 +1718,25 @@
       "lagS": 186,
       "rules": 2,
       "openedAt": "2026-10-23T21:21:24.162Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:23856249771973605697778858622586207369848807887907623928269226525886225578276": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "23856249771973605697778858622586207369848807887907623928269226525886225578276",
+      "conditionId": "0x51a31fa59f7e914943b9e02b43a5e5c9d1b746559a9b28d1b1c8ea62b417a897",
+      "outcomeIndex": 0,
+      "title": "LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
+      "outcome": "Team Liquid",
+      "slug": "lol-tl2-cfo-2026-10-23",
+      "eventSlug": "lol-tl2-cfo-2026-10-23",
+      "whalePrice": 0.73,
+      "whaleUsd": 2372.8504,
+      "ourPrice": 0.67,
+      "shares": 149.25373134328356,
+      "stake": 100,
+      "lagS": 205,
+      "rules": 2,
+      "openedAt": "2026-10-23T22:20:27.567Z"
     }
   },
   "closed": [
@@ -5991,23 +6010,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T19:39:19.526Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:29799085071045923271791975842657404159511267553527572086987498412610834741827": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "29799085071045923271791975842657404159511267553527572086987498412610834741827",
-      "conditionId": "0x37cf3d6008fc8ffce2c7c7563c535a624badee4c23323bacbc4b85b86f6faeb4",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Sinners vs Eternal Fire - Map 2 Winner",
-      "outcome": "Sinners",
-      "slug": "cs2-sin2-ef1-2026-10-23-game2",
-      "whalePrice": 0.355,
-      "ourPrice": 0.355,
-      "shares": 281.69014084507046,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T20:23:23.369Z"
-    },
     "longdated:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:905394989938198172512127709348972716907601860140952318625999173320689517414": {
       "reason": "longdated",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -6334,6 +6336,26 @@
       "proceeds": 155.31457653173518,
       "pnl": 55.314576531735185,
       "closedAt": "2026-10-23T21:41:37.298Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "29799085071045923271791975842657404159511267553527572086987498412610834741827",
+      "conditionId": "0x37cf3d6008fc8ffce2c7c7563c535a624badee4c23323bacbc4b85b86f6faeb4",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Sinners vs Eternal Fire - Map 2 Winner",
+      "outcome": "Sinners",
+      "slug": "cs2-sin2-ef1-2026-10-23-game2",
+      "whalePrice": 0.355,
+      "ourPrice": 0.355,
+      "shares": 281.69014084507046,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T20:23:23.369Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-23T22:15:38.325Z"
     }
   ]
 }
