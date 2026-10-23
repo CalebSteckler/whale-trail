@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792796642,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792798881,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792799495,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792798560,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792798326,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792799651,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792799198,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792797458,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792799078,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792788224,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
@@ -1623,25 +1623,6 @@
       "stake": 100,
       "lagS": 150,
       "openedAt": "2026-10-23T16:06:50.468Z"
-    },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:23842588544949075725237637630894025152678881520718919959725295026081123253850": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "23842588544949075725237637630894025152678881520718919959725295026081123253850",
-      "conditionId": "0xfb9d77bf70d65b8af18c5834f20815714ba653bc8b40d9ff5f1892f20ff47e73",
-      "outcomeIndex": 1,
-      "title": "Will Vitória SC win on 2026-10-23?",
-      "outcome": "No",
-      "slug": "por-gui-csm-2026-10-23-gui",
-      "eventSlug": "por-gui-csm-2026-10-23",
-      "whalePrice": 0.3798517797,
-      "whaleUsd": 7693.3774008853115,
-      "ourPrice": 0.39924144126160294,
-      "shares": 250.475,
-      "stake": 100,
-      "lagS": 411,
-      "rules": 2,
-      "openedAt": "2026-10-23T18:57:18.845Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:67756484289487741377530037356896087013182734740951229186160164083998439101681": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -5553,6 +5534,29 @@
       "pnl": -100,
       "closedAt": "2026-10-23T23:43:38.692Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "23842588544949075725237637630894025152678881520718919959725295026081123253850",
+      "conditionId": "0xfb9d77bf70d65b8af18c5834f20815714ba653bc8b40d9ff5f1892f20ff47e73",
+      "outcomeIndex": 1,
+      "title": "Will Vitória SC win on 2026-10-23?",
+      "outcome": "No",
+      "slug": "por-gui-csm-2026-10-23-gui",
+      "eventSlug": "por-gui-csm-2026-10-23",
+      "whalePrice": 0.3798517797,
+      "whaleUsd": 7693.3774008853115,
+      "ourPrice": 0.39924144126160294,
+      "shares": 250.475,
+      "stake": 100,
+      "lagS": 411,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:57:18.845Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-23T23:54:39.520Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -6083,23 +6087,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T20:45:21.986Z"
     },
-    "benched:0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:102250503843891803989851502803867411329520245990657386786531110815920037004897": {
-      "reason": "benched",
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "102250503843891803989851502803867411329520245990657386786531110815920037004897",
-      "conditionId": "0x02b95f54169144201324d43089a7fe7ba6b42268f7ce0acb5cbe9ab7a31d7313",
-      "outcomeIndex": 0,
-      "title": "Lyon Open: Luca Van Assche vs Lorenzo Musetti",
-      "outcome": "Luca Van Assche",
-      "slug": "atp-assche-musetti-2026-10-23",
-      "whalePrice": 0.4887632579,
-      "ourPrice": 0.4887632579,
-      "shares": 204.59803060822506,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T20:47:22.160Z"
-    },
     "longdated:0x0c0e270cf879583d6a0142fc817e05b768d0434e:39304778737903437923367588791275882452466557469208611430474206291179458010087": {
       "reason": "longdated",
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
@@ -6476,6 +6463,26 @@
       "proceeds": 260.9117948717949,
       "pnl": 160.91179487179488,
       "closedAt": "2026-10-23T23:43:38.692Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "102250503843891803989851502803867411329520245990657386786531110815920037004897",
+      "conditionId": "0x02b95f54169144201324d43089a7fe7ba6b42268f7ce0acb5cbe9ab7a31d7313",
+      "outcomeIndex": 0,
+      "title": "Lyon Open: Luca Van Assche vs Lorenzo Musetti",
+      "outcome": "Luca Van Assche",
+      "slug": "atp-assche-musetti-2026-10-23",
+      "whalePrice": 0.4887632579,
+      "ourPrice": 0.4887632579,
+      "shares": 204.59803060822506,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T20:47:22.160Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-23T23:54:42.026Z"
     }
   ]
 }
