@@ -1888,3 +1888,14 @@
 {"t":"2026-10-23T22:26:26.932Z","type":"skip","name":"qwen4.1.fund","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-23T22:35:28.125Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage","outcome":"CTBC Flying Oyster","note":"price moved 0.570 -> 0.383 before we saw it"}
 {"t":"2026-10-23T22:40:28.409Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage","outcome":"CTBC Flying Oyster","note":"price moved 0.320 -> 0.390 before we saw it"}
+{"t":"2026-10-23T22:48:36.835Z","type":"close","name":"Tokenn","title":"LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage","outcome":"G2 Esports","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-23T22:48:36.835Z","type":"close","name":"Tokenn","title":"LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage","outcome":"Dplus KIA","note":"+$44.93 (resolved WIN)"}
+{"t":"2026-10-23T22:50:30.209Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?","outcome":"No","note":"resolves in 434 days"}
+{"t":"2026-10-23T22:50:30.226Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?","outcome":"No","note":"resolves in 434 days"}
+{"t":"2026-10-23T22:50:30.236Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?","outcome":"No","note":"resolves in 434 days"}
+{"t":"2026-10-23T22:50:30.236Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be $3.0T or greater at market close on IPO day?","outcome":"No","note":"whale paid 0.971"}
+{"t":"2026-10-23T22:50:30.236Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?","outcome":"No","note":"whale paid 0.975"}
+{"t":"2026-10-23T22:50:30.245Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?","outcome":"No","note":"resolves in 434 days"}
+{"t":"2026-10-23T22:50:30.254Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be less than $1.25T at market close on IPO day?","outcome":"No","note":"resolves in 434 days"}
+{"t":"2026-10-23T22:50:30.254Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?","outcome":"No","note":"whale paid 0.985"}
+{"t":"2026-10-23T22:50:30.254Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic not IPO by December 31, 2027?","outcome":"No","note":"whale paid 0.983"}
