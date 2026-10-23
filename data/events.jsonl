@@ -1711,3 +1711,4 @@
 {"t":"2026-10-23T15:25:47.317Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Clayface\" Opening Weekend Box Office be between 28m and 31m?","outcome":"No","note":"whale paid 0.989"}
 {"t":"2026-10-23T15:25:47.535Z","type":"copy","name":"qwen4.1.fund","title":"Will \"Clayface\" Opening Weekend Box Office be between 25m and 28m?","outcome":"No","note":"whale $419 @0.950 -> us @0.970 (2.2% worse, 285s lag)"}
 {"t":"2026-10-23T15:35:47.657Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 280-299 tweets from October 16 to October 23, 2026?","outcome":"No","note":"already $200 on elon-musk-of"}
+{"t":"2026-10-23T15:57:02.118Z","type":"close","name":"para-Vision","title":"Dota 2: BetBoom Team vs Astra Invicta - Game 1 Winner","outcome":"Astra Invicta","note":"+$75.44 (resolved WIN)"}
