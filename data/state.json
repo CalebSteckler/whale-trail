@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792779806,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792779594,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792780844,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792781522,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792775618,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792780710,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792780167,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792781528,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792691946,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792780695,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792781013,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792771550,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792777077,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792693287,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792761377,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792776786,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792779554
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792781231
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -5533,24 +5533,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T17:28:15.645Z"
     },
-    "drift:0x676c1bb692c76b57b06f1b93817515acfa5ce139:72557937594764320538887838691764854594118877065852846215514308974817657197809": {
-      "reason": "drift",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "72557937594764320538887838691764854594118877065852846215514308974817657197809",
-      "conditionId": "0x26f92ac5a446296cf4b454e14694c3aaeb313cb84d8e258eff0d0dc491c91118",
-      "outcomeIndex": 0,
-      "title": "LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage",
-      "outcome": "Gen.G",
-      "slug": "lol-gen-ig1-2026-10-23",
-      "whalePrice": 0.73,
-      "ourPrice": 0.63,
-      "shares": 158.73015873015873,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-23T17:35:15.663Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:103726741834203734998986423939931329285776966508242973414463092924293637458591": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -5805,7 +5787,63 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T18:38:17.445Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:43629345856817557115150846712969654489659215820890634621518447173643736682094": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "43629345856817557115150846712969654489659215820890634621518447173643736682094",
+      "conditionId": "0xa0707ee54c564d0d5d76a4611d89090547a6f5b889b19eb7cbf17d1ed34327a5",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: maybe vs LPH Gaming - Map 2 Winner",
+      "outcome": "maybe",
+      "slug": "cs2-maybe-lph-2026-10-23-game2",
+      "whalePrice": 0.41403726710434785,
+      "ourPrice": 0.41403726710434785,
+      "shares": 241.52415240147326,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:46:19.695Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:40388898471271614703566182854421102038511099884105946125990723543624087944274": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "40388898471271614703566182854421102038511099884105946125990723543624087944274",
+      "conditionId": "0x6d7aefadb3291f1bf9ad7281b2f11e9fb4f3ca19d9f32f5b06eed0c5f6279c59",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Sinners vs Eternal Fire - Map 1 Winner",
+      "outcome": "Sinners",
+      "slug": "cs2-sin2-ef1-2026-10-23-game1",
+      "whalePrice": 0.5646759627,
+      "ourPrice": 0.5646759627,
+      "shares": 177.09271618690775,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:51:21.385Z"
     }
   },
-  "shadowClosed": []
+  "shadowClosed": [
+    {
+      "reason": "drift",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "72557937594764320538887838691764854594118877065852846215514308974817657197809",
+      "conditionId": "0x26f92ac5a446296cf4b454e14694c3aaeb313cb84d8e258eff0d0dc491c91118",
+      "outcomeIndex": 0,
+      "title": "LoL: Gen.G vs Invictus Gaming (BO1) - Worlds Group Stage",
+      "outcome": "Gen.G",
+      "slug": "lol-gen-ig1-2026-10-23",
+      "whalePrice": 0.73,
+      "ourPrice": 0.63,
+      "shares": 158.73015873015873,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-23T17:35:15.663Z",
+      "proceeds": 158.73015873015873,
+      "pnl": 58.730158730158735,
+      "closedAt": "2026-10-23T18:45:28.615Z"
+    }
+  ]
 }
