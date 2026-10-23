@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792711454,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792713239,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792726751,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792727261,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792678109,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792723478,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792726634,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792727019,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792691946,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792725819,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792726620,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792686960,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792673111,
@@ -1479,24 +1479,6 @@
       "stake": 100,
       "lagS": 61,
       "openedAt": "2026-10-22T16:32:46.772Z"
-    },
-    "0x924379a79c64b77ad5816ad362122a5f6228658e:86591725608638992116254848890743365690982024782257818108428562924729796470968": {
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "86591725608638992116254848890743365690982024782257818108428562924729796470968",
-      "conditionId": "0x5d68e8a797b3aed418b2f7a51d3f98b0bf3db39c04bdbdd0d46c102f005dba91",
-      "outcomeIndex": 1,
-      "title": "Spread: Bears (-2.5)",
-      "outcome": "Patriots",
-      "slug": "nfl-ne-chi-2026-10-23-spread-home-2pt5",
-      "eventSlug": "nfl-ne-chi-2026-10-23",
-      "whalePrice": 0.46,
-      "whaleUsd": 119548.80200000001,
-      "ourPrice": 0.47,
-      "shares": 212.76595744680853,
-      "stake": 100,
-      "lagS": 42,
-      "openedAt": "2026-10-22T17:09:48.469Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:102723918081644490126383882876216056971015484595406893020273651317068912986031": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -5175,6 +5157,28 @@
       "pnl": 38.888888888888886,
       "closedAt": "2026-10-23T00:18:42.189Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "86591725608638992116254848890743365690982024782257818108428562924729796470968",
+      "conditionId": "0x5d68e8a797b3aed418b2f7a51d3f98b0bf3db39c04bdbdd0d46c102f005dba91",
+      "outcomeIndex": 1,
+      "title": "Spread: Bears (-2.5)",
+      "outcome": "Patriots",
+      "slug": "nfl-ne-chi-2026-10-23-spread-home-2pt5",
+      "eventSlug": "nfl-ne-chi-2026-10-23",
+      "whalePrice": 0.46,
+      "whaleUsd": 119548.80200000001,
+      "ourPrice": 0.47,
+      "shares": 212.76595744680853,
+      "stake": 100,
+      "lagS": 42,
+      "openedAt": "2026-10-22T17:09:48.469Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-23T03:47:45.306Z",
+      "note": "resolved LOSS"
     }
   ]
 }
