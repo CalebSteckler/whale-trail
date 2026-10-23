@@ -1674,3 +1674,10 @@
 {"t":"2026-10-23T12:26:47.428Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-23T12:32:47.518Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the 2026 Brazilian presidential election?","outcome":"No","note":"already $200 on brazil-presidential-election"}
 {"t":"2026-10-23T13:20:50.428Z","type":"skip","name":"THEHIGHLIFE","title":"Dota 2: Team Liquid vs GamerLegion - Game 2 Winner","outcome":"GamerLegion","note":"price moved 0.520 -> 0.610 before we saw it"}
+{"t":"2026-10-23T13:32:50.003Z","type":"skip","name":"qwen4.1.fund","title":"Will Vladan Đokić be the next Prime Minister of Serbia?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-23T13:32:50.003Z","type":"skip","name":"qwen4.1.fund","title":"Will Stefan Krkobabić be the next Prime Minister of Serbia?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-23T13:32:50.004Z","type":"skip","name":"qwen4.1.fund","title":"Will Ilija Srdanović be the next prime minister of Serbia?","outcome":"No","note":"already $200 on next-prime-minister"}
+{"t":"2026-10-23T13:32:50.004Z","type":"skip","name":"qwen4.1.fund","title":"Will Ivica Dačić be the next Prime Minister of Serbia?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-23T13:32:50.004Z","type":"skip","name":"qwen4.1.fund","title":"Will Radomir Saičić be the next Prime Minister of Serbia?","outcome":"No","note":"whale paid 0.979"}
+{"t":"2026-10-23T13:32:50.004Z","type":"skip","name":"qwen4.1.fund","title":"Will Ana Brnabić be the next Prime Minister of Serbia?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-23T13:32:50.115Z","type":"copy","name":"qwen4.1.fund","title":"Will the Republican Party win the TX-34 House seat?","outcome":"No","note":"whale $468 @0.850 -> us @0.900 (5.9% worse, 99s lag)"}

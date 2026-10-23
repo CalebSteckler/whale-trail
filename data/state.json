@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792761302,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792762304,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792759140,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792761747,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792762362,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792678109,
@@ -1587,6 +1587,24 @@
       "stake": 100,
       "lagS": 130,
       "openedAt": "2026-10-23T09:18:40.857Z"
+    },
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:99199428152560052829042404675015030019740207309667419695907682675901099879082": {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "99199428152560052829042404675015030019740207309667419695907682675901099879082",
+      "conditionId": "0x161a723df3fd981100c05256612c226c6f679dac4ee9b1d9fecb7364cb95bbcc",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the TX-34 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-tx-34-house-seat",
+      "eventSlug": "tx-34-house-election-winner",
+      "whalePrice": 0.85,
+      "whaleUsd": 467.5,
+      "ourPrice": 0.9,
+      "shares": 111.11111111111111,
+      "stake": 100,
+      "lagS": 99,
+      "openedAt": "2026-10-23T13:32:50.115Z"
     }
   },
   "closed": [
