@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792796642,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792798296,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792798881,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792795686,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792798560,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792798326,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
@@ -1661,25 +1661,6 @@
       "lagS": 73,
       "rules": 2,
       "openedAt": "2026-10-23T18:59:18.177Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:23856249771973605697778858622586207369848807887907623928269226525886225578276": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "23856249771973605697778858622586207369848807887907623928269226525886225578276",
-      "conditionId": "0x51a31fa59f7e914943b9e02b43a5e5c9d1b746559a9b28d1b1c8ea62b417a897",
-      "outcomeIndex": 0,
-      "title": "LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
-      "outcome": "Team Liquid",
-      "slug": "lol-tl2-cfo-2026-10-23",
-      "eventSlug": "lol-tl2-cfo-2026-10-23",
-      "whalePrice": 0.73,
-      "whaleUsd": 2372.8504,
-      "ourPrice": 0.67,
-      "shares": 149.25373134328356,
-      "stake": 100,
-      "lagS": 205,
-      "rules": 2,
-      "openedAt": "2026-10-23T22:20:27.567Z"
     },
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139:90156713391473539886841846301134056047924794091759813279648270575337667232062": {
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -5549,6 +5530,29 @@
       "pnl": 2.249488752556246,
       "closedAt": "2026-10-23T23:10:37.493Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "23856249771973605697778858622586207369848807887907623928269226525886225578276",
+      "conditionId": "0x51a31fa59f7e914943b9e02b43a5e5c9d1b746559a9b28d1b1c8ea62b417a897",
+      "outcomeIndex": 0,
+      "title": "LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
+      "outcome": "Team Liquid",
+      "slug": "lol-tl2-cfo-2026-10-23",
+      "eventSlug": "lol-tl2-cfo-2026-10-23",
+      "whalePrice": 0.73,
+      "whaleUsd": 2372.8504,
+      "ourPrice": 0.67,
+      "shares": 149.25373134328356,
+      "stake": 100,
+      "lagS": 205,
+      "rules": 2,
+      "openedAt": "2026-10-23T22:20:27.567Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-23T23:43:38.692Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -6130,24 +6134,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T21:05:22.784Z"
     },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:98214227272775431699728564609922746323189192121700078829614978577051939928927": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "98214227272775431699728564609922746323189192121700078829614978577051939928927",
-      "conditionId": "0x51a31fa59f7e914943b9e02b43a5e5c9d1b746559a9b28d1b1c8ea62b417a897",
-      "outcomeIndex": 1,
-      "title": "LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
-      "outcome": "CTBC Flying Oyster",
-      "slug": "lol-tl2-cfo-2026-10-23",
-      "whalePrice": 0.57,
-      "ourPrice": 0.38327128924599724,
-      "shares": 260.9117948717949,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-23T22:35:28.126Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:97835730826504088023775585649282026423448935249156759049180415585128284134832": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -6469,6 +6455,27 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-23T23:32:40.095Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "98214227272775431699728564609922746323189192121700078829614978577051939928927",
+      "conditionId": "0x51a31fa59f7e914943b9e02b43a5e5c9d1b746559a9b28d1b1c8ea62b417a897",
+      "outcomeIndex": 1,
+      "title": "LoL: Team Liquid vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
+      "outcome": "CTBC Flying Oyster",
+      "slug": "lol-tl2-cfo-2026-10-23",
+      "whalePrice": 0.57,
+      "ourPrice": 0.38327128924599724,
+      "shares": 260.9117948717949,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-23T22:35:28.126Z",
+      "proceeds": 260.9117948717949,
+      "pnl": 160.91179487179488,
+      "closedAt": "2026-10-23T23:43:38.692Z"
     }
   ]
 }
