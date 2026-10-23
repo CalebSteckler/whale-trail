@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792790702,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792790748,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792791540,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792790090,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792791696,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792790328,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
@@ -1680,25 +1680,6 @@
       "lagS": 191,
       "rules": 2,
       "openedAt": "2026-10-23T19:29:19.430Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:46602514397165613480102220189767438937377959307884575445865556310887371607789": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "46602514397165613480102220189767438937377959307884575445865556310887371607789",
-      "conditionId": "0x6dccd54ad0aa48eb04c17f1fd0b033c07a95a87ff8c5c882f004ca45c00e7e08",
-      "outcomeIndex": 1,
-      "title": "LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage",
-      "outcome": "Karmine Corp",
-      "slug": "lol-al-kc-2026-10-23",
-      "eventSlug": "lol-al-kc-2026-10-23",
-      "whalePrice": 0.40919120220102745,
-      "whaleUsd": 7087.101600057312,
-      "ourPrice": 0.42,
-      "shares": 238.0952380952381,
-      "stake": 100,
-      "lagS": 164,
-      "rules": 2,
-      "openedAt": "2026-10-23T20:38:23.073Z"
     },
     "0x55d94368a50750f264cf42096e9034315d9c832c:25254383287130426656176153294689261022971513354701733211726258646065618778842": {
       "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
@@ -5457,6 +5438,29 @@
       "pnl": 7.863175457481148,
       "closedAt": "2026-10-23T18:12:25.808Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "46602514397165613480102220189767438937377959307884575445865556310887371607789",
+      "conditionId": "0x6dccd54ad0aa48eb04c17f1fd0b033c07a95a87ff8c5c882f004ca45c00e7e08",
+      "outcomeIndex": 1,
+      "title": "LoL: Anyone's Legend vs Karmine Corp (BO1) - Worlds Group Stage",
+      "outcome": "Karmine Corp",
+      "slug": "lol-al-kc-2026-10-23",
+      "eventSlug": "lol-al-kc-2026-10-23",
+      "whalePrice": 0.40919120220102745,
+      "whaleUsd": 7087.101600057312,
+      "ourPrice": 0.42,
+      "shares": 238.0952380952381,
+      "stake": 100,
+      "lagS": 164,
+      "rules": 2,
+      "openedAt": "2026-10-23T20:38:23.073Z",
+      "proceeds": 238.0952380952381,
+      "pnl": 138.0952380952381,
+      "closedAt": "2026-10-23T21:41:34.260Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -5987,23 +5991,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T19:39:19.526Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:107004908699641547614220538638004814975970872902554692462308968128140357872869": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "107004908699641547614220538638004814975970872902554692462308968128140357872869",
-      "conditionId": "0x77c1915aedebfcb971bdf5cf9974a872d08f73b9c19d4410dd2479ef959d81c6",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Brute vs BakS eSports (BO3) - CCT Europe Series #11 Playoffs",
-      "outcome": "Brute",
-      "slug": "cs2-brute-baks-2026-10-23",
-      "whalePrice": 0.64385457072387,
-      "ourPrice": 0.64385457072387,
-      "shares": 155.31457653173518,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T20:12:24.166Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:29799085071045923271791975842657404159511267553527572086987498412610834741827": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -6327,6 +6314,26 @@
       "proceeds": 158.3476106334832,
       "pnl": 58.347610633483214,
       "closedAt": "2026-10-23T20:57:35.293Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "107004908699641547614220538638004814975970872902554692462308968128140357872869",
+      "conditionId": "0x77c1915aedebfcb971bdf5cf9974a872d08f73b9c19d4410dd2479ef959d81c6",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Brute vs BakS eSports (BO3) - CCT Europe Series #11 Playoffs",
+      "outcome": "Brute",
+      "slug": "cs2-brute-baks-2026-10-23",
+      "whalePrice": 0.64385457072387,
+      "ourPrice": 0.64385457072387,
+      "shares": 155.31457653173518,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T20:12:24.166Z",
+      "proceeds": 155.31457653173518,
+      "pnl": 55.314576531735185,
+      "closedAt": "2026-10-23T21:41:37.298Z"
     }
   ]
 }
