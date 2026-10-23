@@ -14,6 +14,16 @@ Paper-trades copying profitable Polymarket wallets. No real money, no keys, publ
 
 A wallet is dropped if any of these apply: fewer than 30 resolved bets, no trade in the last 14 days, net loss, PnL/volume under 1% (market maker), one bet accounting for over 60% of profit, under 10 distinct events, or mostly 5-minute crypto up/down markets.
 
+## Rules v2 (frozen 2026-10-23 until the review on ~2026-11-06)
+
+Every position is stamped with its rules version, so the report keeps week 1 (v1) apart from the out-of-sample run.
+
+- **Bench**: a whale with 20+ closed copies and a negative edge is no longer copied (tiger105 and JohnLKellyJr at the start).
+- **Long-dated**: skip markets that resolve more than 30 days out. That money is locked for months and gives no feedback within the test.
+- **Shadows**: bets skipped for drift, the topic cap, benching or long dates are paper-tracked to resolution, so the report shows whether each skip rule helps or costs money.
+
+Judge on **edge** (payout per share minus the price paid, ± one standard error), not win %. `REAL+` means the edge is more than 2 standard errors above zero.
+
 ## Files
 
 `data/state.json` holds open and closed paper positions. `data/events.jsonl` has every copy, skip and close. `data/trail.log` is console output.

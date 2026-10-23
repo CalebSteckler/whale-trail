@@ -33,7 +33,7 @@ jobs:
         run: |
           save() {
             git add data/state.json data/events.jsonl
-            git diff --cached --quiet || { git commit -q -m "trail: state $(date -u +%FT%TZ)" && git push -q; }
+            git diff --cached --quiet || { git commit -q -m "trail: state $(date -u +%FT%TZ)" && { git push -q || { git pull -q --rebase && git push -q; }; }; }
           }
           RUN_MIN=330 node trail.mjs | tee -a data/trail.log &
           pid=$!
