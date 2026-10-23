@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792775417,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792775919,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792771919,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792775448,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792776005,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
-    "0x55d94368a50750f264cf42096e9034315d9c832c": 1792678109,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792773951,
+    "0x55d94368a50750f264cf42096e9034315d9c832c": 1792775618,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792775972,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792774149,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792691946,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792775085,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792776047,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792771550,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792763115,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792693287,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792761377,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792766207,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792759545
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792775862
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -5439,6 +5439,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T16:44:13.276Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:97279192655077729328628834876279776738855431692505750136549158756423185645966": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "97279192655077729328628834876279776738855431692505750136549158756423185645966",
+      "conditionId": "0xdbe1f806e42f0c1dfb870f57b37081922c81886941f66730145c8a25bb7b5e12",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 115-139 tweets from October 22 to October 24, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-22-october-24-2026-115-139",
+      "whalePrice": 0.9615313732000002,
+      "ourPrice": 0.9615313732000002,
+      "shares": 104.00076668033985,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T17:17:15.136Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:82481772635616913385292026807103232549014773215126366221944589985045660933378": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "82481772635616913385292026807103232549014773215126366221944589985045660933378",
+      "conditionId": "0x9ef3f05b02fe7c166fb7520fa19a0a881ffce45f6dcc63644cf90d0c43bbd125",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: ex-RUSTEC vs Saint Sinners - Map 1 Winner",
+      "outcome": "ex-RUSTEC",
+      "slug": "cs2-rustec-ssins-2026-10-23-game1",
+      "whalePrice": 0.51,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T17:18:15.912Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
+      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
+      "outcomeIndex": 1,
+      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+      "outcome": "No",
+      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+      "whalePrice": 0.79,
+      "ourPrice": 0.79,
+      "shares": 126.58227848101265,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T17:22:14.286Z"
     }
   },
   "shadowClosed": []
