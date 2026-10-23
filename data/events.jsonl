@@ -1799,3 +1799,8 @@
 {"t":"2026-10-23T18:38:17.445Z","type":"skip","name":"qwen4.1.fund","title":"Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-23T18:46:19.695Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: maybe vs LPH Gaming - Map 2 Winner","outcome":"maybe","note":"whale benched (negative edge)"}
 {"t":"2026-10-23T18:51:21.385Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Sinners vs Eternal Fire - Map 1 Winner","outcome":"Sinners","note":"whale benched (negative edge)"}
+{"t":"2026-10-23T18:57:18.845Z","type":"copy","name":"DelidelaDele","title":"Will Vitória SC win on 2026-10-23?","outcome":"No","note":"whale $7693 @0.380 -> us @0.399 (5.1% worse, 411s lag)"}
+{"t":"2026-10-23T18:57:19.907Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs","outcome":"Sinners","note":"whale benched (negative edge)"}
+{"t":"2026-10-23T18:57:19.907Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: BESTIA vs Galorys - Map 2 Winner","outcome":"BESTIA","note":"whale benched (negative edge)"}
+{"t":"2026-10-23T18:59:18.177Z","type":"copy","name":"qwen4.1.fund","title":"Will \"Clayface\" Opening Weekend Box Office be less than 22m?","outcome":"No","note":"whale $319 @0.479 -> us @0.498 (4.1% worse, 73s lag)"}
+{"t":"2026-10-23T18:59:18.177Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Clayface\" Opening Weekend Box Office be between 28m and 31m?","outcome":"No","note":"whale paid 0.999"}

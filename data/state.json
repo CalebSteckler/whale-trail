@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792779806,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792779594,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792781522,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792782141,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792775618,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792780710,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792781528,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792781699,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792781787,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792691946,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792781013,
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792781535,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792771550,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792777077,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792693287,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792761377,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792776786,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792781231
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792781784
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1623,6 +1623,44 @@
       "stake": 100,
       "lagS": 150,
       "openedAt": "2026-10-23T16:06:50.468Z"
+    },
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:23842588544949075725237637630894025152678881520718919959725295026081123253850": {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "23842588544949075725237637630894025152678881520718919959725295026081123253850",
+      "conditionId": "0xfb9d77bf70d65b8af18c5834f20815714ba653bc8b40d9ff5f1892f20ff47e73",
+      "outcomeIndex": 1,
+      "title": "Will Vitória SC win on 2026-10-23?",
+      "outcome": "No",
+      "slug": "por-gui-csm-2026-10-23-gui",
+      "eventSlug": "por-gui-csm-2026-10-23",
+      "whalePrice": 0.3798517797,
+      "whaleUsd": 7693.3774008853115,
+      "ourPrice": 0.39924144126160294,
+      "shares": 250.475,
+      "stake": 100,
+      "lagS": 411,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:57:18.845Z"
+    },
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:67756484289487741377530037356896087013182734740951229186160164083998439101681": {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "67756484289487741377530037356896087013182734740951229186160164083998439101681",
+      "conditionId": "0x80c7b67a8fc54b9465b0e51071993754134e7dfd2b9c2ce99710fe1b4ff9f24c",
+      "outcomeIndex": 1,
+      "title": "Will \"Clayface\" Opening Weekend Box Office be less than 22m?",
+      "outcome": "No",
+      "slug": "will-clayface-opening-weekend-box-office-be-less-than-22m",
+      "eventSlug": "clayface-opening-weekend-box-office",
+      "whalePrice": 0.47878717441023416,
+      "whaleUsd": 319.250500025,
+      "ourPrice": 0.4982193639930887,
+      "shares": 200.7148,
+      "stake": 100,
+      "lagS": 73,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:59:18.177Z"
     }
   },
   "closed": [
@@ -5465,23 +5503,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T17:17:15.136Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:82481772635616913385292026807103232549014773215126366221944589985045660933378": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "82481772635616913385292026807103232549014773215126366221944589985045660933378",
-      "conditionId": "0x9ef3f05b02fe7c166fb7520fa19a0a881ffce45f6dcc63644cf90d0c43bbd125",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: ex-RUSTEC vs Saint Sinners - Map 1 Winner",
-      "outcome": "ex-RUSTEC",
-      "slug": "cs2-rustec-ssins-2026-10-23-game1",
-      "whalePrice": 0.51,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T17:18:15.912Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -5821,6 +5842,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T18:51:21.385Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:78336336846214615946758960413323190672129818303904772653785996413007526427258": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "78336336846214615946758960413323190672129818303904772653785996413007526427258",
+      "conditionId": "0xcfafb7eec7bf4d84b63159ce6061edd3e059a7a937c6481f233bd159d6ed69e4",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Sinners vs Eternal Fire (BO3) - DraculaN Playoffs",
+      "outcome": "Sinners",
+      "slug": "cs2-sin2-ef1-2026-10-23",
+      "whalePrice": 0.5428211957876765,
+      "ourPrice": 0.5428211957876765,
+      "shares": 184.22272522887042,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:57:19.907Z"
     }
   },
   "shadowClosed": [
@@ -5844,6 +5882,26 @@
       "proceeds": 158.73015873015873,
       "pnl": 58.730158730158735,
       "closedAt": "2026-10-23T18:45:28.615Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "82481772635616913385292026807103232549014773215126366221944589985045660933378",
+      "conditionId": "0x9ef3f05b02fe7c166fb7520fa19a0a881ffce45f6dcc63644cf90d0c43bbd125",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: ex-RUSTEC vs Saint Sinners - Map 1 Winner",
+      "outcome": "ex-RUSTEC",
+      "slug": "cs2-rustec-ssins-2026-10-23-game1",
+      "whalePrice": 0.51,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T17:18:15.912Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-23T18:56:28.583Z"
     }
   ]
 }
