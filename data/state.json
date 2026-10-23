@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792779594,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792788567,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792789217,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792775618,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792788600,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792788854,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792785689,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792781427,
@@ -16,10 +16,10 @@
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792688946,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792693287,
+    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792784604,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792787843,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792787439
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792789056
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -5677,23 +5677,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T17:58:16.041Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:55363537980120479395656594590368271369706788721979039948471442412349682144436": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "55363537980120479395656594590368271369706788721979039948471442412349682144436",
-      "conditionId": "0x45c513b82797e73a2c1d1893beee05aabcbecd80c718ad7e37c3ed92d4afc3ce",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: BESTIA vs Galorys - Map 2 Winner",
-      "outcome": "BESTIA",
-      "slug": "cs2-bst-gls1-2026-10-23-game2",
-      "whalePrice": 0.6315220015,
-      "ourPrice": 0.6315220015,
-      "shares": 158.3476106334832,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T18:02:17.299Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:96812893025627256870501735755018269674678103001409481019462627646064626091837": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -6033,6 +6016,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T20:47:22.160Z"
+    },
+    "longdated:0x0c0e270cf879583d6a0142fc817e05b768d0434e:39304778737903437923367588791275882452466557469208611430474206291179458010087": {
+      "reason": "longdated",
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "39304778737903437923367588791275882452466557469208611430474206291179458010087",
+      "conditionId": "0xed4fd09a24f20a3afc1d722ace811fffff3cffd9a56a3fbffc47f4d3d47a88ed",
+      "outcomeIndex": 0,
+      "title": "Blue wave in 2026?",
+      "outcome": "Yes",
+      "slug": "blue-wave-in-2026",
+      "whalePrice": 0.85,
+      "ourPrice": 0.85,
+      "shares": 117.64705882352942,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T21:03:23.644Z"
     }
   },
   "shadowClosed": [
@@ -6218,6 +6218,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-23T20:46:37.000Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "55363537980120479395656594590368271369706788721979039948471442412349682144436",
+      "conditionId": "0x45c513b82797e73a2c1d1893beee05aabcbecd80c718ad7e37c3ed92d4afc3ce",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: BESTIA vs Galorys - Map 2 Winner",
+      "outcome": "BESTIA",
+      "slug": "cs2-bst-gls1-2026-10-23-game2",
+      "whalePrice": 0.6315220015,
+      "ourPrice": 0.6315220015,
+      "shares": 158.3476106334832,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T18:02:17.299Z",
+      "proceeds": 158.3476106334832,
+      "pnl": 58.347610633483214,
+      "closedAt": "2026-10-23T20:57:35.293Z"
     }
   ]
 }
