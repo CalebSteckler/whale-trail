@@ -1899,3 +1899,13 @@
 {"t":"2026-10-23T22:50:30.254Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be less than $1.25T at market close on IPO day?","outcome":"No","note":"resolves in 434 days"}
 {"t":"2026-10-23T22:50:30.254Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?","outcome":"No","note":"whale paid 0.985"}
 {"t":"2026-10-23T22:50:30.254Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic not IPO by December 31, 2027?","outcome":"No","note":"whale paid 0.983"}
+{"t":"2026-10-23T23:05:32.018Z","type":"copy","name":"para-Vision","title":"Knicks vs. Celtics","outcome":"Knicks","note":"whale $9064 @0.420 -> us @0.430 (2.4% worse, 299s lag)"}
+{"t":"2026-10-23T23:05:32.128Z","type":"copy","name":"para-Vision","title":"Hawks vs. Hornets","outcome":"Hawks","note":"whale $28000 @0.560 -> us @0.560 (0.0% better, 252s lag)"}
+{"t":"2026-10-23T23:05:32.263Z","type":"copy","name":"para-Vision","title":"Spread: Magic (-1.5)","outcome":"Timberwolves","note":"whale $10160 @0.490 -> us @0.500 (2.0% worse, 207s lag)"}
+{"t":"2026-10-23T23:07:28.748Z","type":"skip","name":"qwen4.1.fund","title":"Will Alibaba have the best AI model at the end of November 2026?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-23T23:07:28.748Z","type":"skip","name":"qwen4.1.fund","title":"Will Meta have the best AI model at the end of November 2026?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-23T23:07:28.748Z","type":"skip","name":"qwen4.1.fund","title":"Will DeepSeek have the best AI model at the end of November 2026?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-23T23:07:28.748Z","type":"skip","name":"qwen4.1.fund","title":"Will Moonshot have the best AI model at the end of November 2026?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-23T23:07:28.749Z","type":"skip","name":"qwen4.1.fund","title":"Will SpaceXAI have the best AI model at the end of November 2026?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-23T23:07:28.749Z","type":"skip","name":"qwen4.1.fund","title":"Will Xiaomi have the best AI model at the end of November 2026?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-23T23:10:37.493Z","type":"close","name":"qwen4.1.fund","title":"Will Trump's approval rating be between 39.0 and 39.4 on October 23, 2026?","outcome":"No","note":"+$2.25 (resolved WIN)"}
