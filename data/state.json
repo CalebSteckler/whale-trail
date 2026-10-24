@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792856097,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792857269,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792857428,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792857917,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792852634,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792809635,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792857471,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792858011,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
@@ -1662,25 +1662,6 @@
       "lagS": 304,
       "rules": 2,
       "openedAt": "2026-10-24T06:42:36.254Z"
-    },
-    "0x924379a79c64b77ad5816ad362122a5f6228658e:110388089280615832843981284503345948620602895290850338690250108010336415353028": {
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "110388089280615832843981284503345948620602895290850338690250108010336415353028",
-      "conditionId": "0xa9c6e7b419ef30db2fce5ab2e2ffaf84af276271d71714db1b9ca550aba05061",
-      "outcomeIndex": 1,
-      "title": "Will Norwich City FC win on 2026-10-24?",
-      "outcome": "No",
-      "slug": "elc-cha-nor-2026-10-24-nor",
-      "eventSlug": "elc-cha-nor-2026-10-24",
-      "whalePrice": 0.55,
-      "whaleUsd": 6065.3945,
-      "ourPrice": 0.56,
-      "shares": 178.57142857142856,
-      "stake": 100,
-      "lagS": 292,
-      "rules": 2,
-      "openedAt": "2026-10-24T10:28:37.346Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:66045621969460247333652541456058912291599253475302313369078156461474650074175": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -5943,6 +5924,29 @@
       "pnl": 51.5151515151515,
       "closedAt": "2026-10-24T15:21:47.318Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "110388089280615832843981284503345948620602895290850338690250108010336415353028",
+      "conditionId": "0xa9c6e7b419ef30db2fce5ab2e2ffaf84af276271d71714db1b9ca550aba05061",
+      "outcomeIndex": 1,
+      "title": "Will Norwich City FC win on 2026-10-24?",
+      "outcome": "No",
+      "slug": "elc-cha-nor-2026-10-24-nor",
+      "eventSlug": "elc-cha-nor-2026-10-24",
+      "whalePrice": 0.55,
+      "whaleUsd": 6065.3945,
+      "ourPrice": 0.56,
+      "shares": 178.57142857142856,
+      "stake": 100,
+      "lagS": 292,
+      "rules": 2,
+      "openedAt": "2026-10-24T10:28:37.346Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-24T16:05:49.931Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
