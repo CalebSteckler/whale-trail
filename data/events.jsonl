@@ -2195,3 +2195,5 @@
 {"t":"2026-10-24T20:41:44.685Z","type":"skip","name":"para-Vision","title":"LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage","outcome":"LYON","note":"price moved 0.463 -> 0.700 before we saw it"}
 {"t":"2026-10-24T20:52:54.779Z","type":"close","name":"Kch-Temp","title":"Spread: Miami (FL) (-20.5)","outcome":"Pittsburgh","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-24T20:55:44.689Z","type":"copy","name":"zerone777","title":"Will the Tampa Bay Rays win the 2026 World Series?","outcome":"No","note":"whale $363 @0.725 -> us @0.728 (0.4% worse, 36s lag)"}
+{"t":"2026-10-24T21:00:43.517Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-24T21:00:43.517Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israeli-legislative-election"}

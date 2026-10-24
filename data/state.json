@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792873691,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792875266,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792875887,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
@@ -7209,6 +7209,23 @@
       "note": "moved against us",
       "rules": 2,
       "openedAt": "2026-10-24T20:41:44.685Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:112833774316104951988690985316609270957261648365641646812446420693891587882096": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "112833774316104951988690985316609270957261648365641646812446420693891587882096",
+      "conditionId": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+      "outcomeIndex": 1,
+      "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.7,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T21:00:43.517Z"
     }
   },
   "shadowClosed": [
