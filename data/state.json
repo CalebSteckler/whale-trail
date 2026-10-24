@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792858374,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792861572,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792862168,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792860329,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792860213,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792862016,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792861863,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792181269,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792809635,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792859978,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792862076,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
@@ -6806,23 +6806,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T08:17:39.241Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:46282497409196718105484806931644267824695714151948993963908144070510677890060": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "46282497409196718105484806931644267824695714151948993963908144070510677890060",
-      "conditionId": "0x50b119d2c522ef48e166e95da116778efbb8d6a0088c601f81c8fc95698ff047",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: LGC (-1.5) vs Nemiga (+1.5)",
-      "outcome": "Legacy",
-      "slug": "cs2-lgc-nemi1-2026-10-24-map-handicap-away-1pt5",
-      "whalePrice": 0.3784284903,
-      "ourPrice": 0.3784284903,
-      "shares": 264.25071727745654,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-24T12:54:41.974Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:15608643409971761503638981418366748681664167967140328613245148153377110556924": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -6890,6 +6873,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T16:39:37.506Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:71659760023836608828189051368262623172491813904827045019785561054238970210854": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "71659760023836608828189051368262623172491813904827045019785561054238970210854",
+      "conditionId": "0x258ff19b4baff0ed24bc28f58e83c8be6f2f91d9134700703e0aa51810c51a63",
+      "outcomeIndex": 1,
+      "title": "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?",
+      "outcome": "No",
+      "slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+      "whalePrice": 0.7,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T17:11:38.704Z"
+    },
+    "topic:0xfbedb045813457be883ad83dd1078e88a2a1a665:71659760023836608828189051368262623172491813904827045019785561054238970210854": {
+      "reason": "topic",
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "71659760023836608828189051368262623172491813904827045019785561054238970210854",
+      "conditionId": "0x258ff19b4baff0ed24bc28f58e83c8be6f2f91d9134700703e0aa51810c51a63",
+      "outcomeIndex": 1,
+      "title": "Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?",
+      "outcome": "No",
+      "slug": "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+      "whalePrice": 0.7,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T17:11:39.241Z"
     }
   },
   "shadowClosed": [
@@ -7439,6 +7456,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-24T16:49:59.695Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "46282497409196718105484806931644267824695714151948993963908144070510677890060",
+      "conditionId": "0x50b119d2c522ef48e166e95da116778efbb8d6a0088c601f81c8fc95698ff047",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: LGC (-1.5) vs Nemiga (+1.5)",
+      "outcome": "Legacy",
+      "slug": "cs2-lgc-nemi1-2026-10-24-map-handicap-away-1pt5",
+      "whalePrice": 0.3784284903,
+      "ourPrice": 0.3784284903,
+      "shares": 264.25071727745654,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T12:54:41.974Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-24T17:12:01.720Z"
     }
   ]
 }
