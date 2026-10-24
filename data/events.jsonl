@@ -2027,3 +2027,4 @@
 {"t":"2026-10-24T10:36:37.828Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"price moved 0.340 -> 0.430 before we saw it"}
 {"t":"2026-10-24T10:41:37.671Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"price moved 0.410 -> 0.605 before we saw it"}
 {"t":"2026-10-24T10:46:37.977Z","type":"copy","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"whale $494 @0.500 -> us @0.455 (9.0% better, 530s lag)"}
+{"t":"2026-10-24T11:03:38.133Z","type":"copy","name":"Kch-Temp","title":"Will Rayo Vallecano de Madrid win on 2026-10-24?","outcome":"No","note":"whale $5371 @0.440 -> us @0.450 (2.3% worse, 56s lag)"}
