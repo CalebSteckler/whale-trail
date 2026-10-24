@@ -2139,3 +2139,8 @@
 {"t":"2026-10-24T17:47:39.513Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-24T17:48:40.573Z","type":"copy","name":"DelidelaDele","title":"Will CA Lanús win on 2026-10-24?","outcome":"Yes","note":"whale $352 @0.460 -> us @0.460 (0.0% better, 259s lag)"}
 {"t":"2026-10-24T17:55:41.222Z","type":"copy","name":"Kch-Temp","title":"Spread: SS Lazio (-1.5)","outcome":"Parma Calcio 1913","note":"whale $65438 @0.570 -> us @0.590 (3.5% worse, 353s lag)"}
+{"t":"2026-10-24T18:02:40.028Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israel-election-likud"}
+{"t":"2026-10-24T18:02:40.028Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-24T18:02:40.028Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israel-election-likud"}
+{"t":"2026-10-24T18:02:40.029Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 25-29 seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israel-election-likud"}
+{"t":"2026-10-24T18:06:55.409Z","type":"close","name":"qwen4.1.fund","title":"Will Elon Musk post 90-114 tweets from October 22 to October 24, 2026?","outcome":"No","note":"$-100.00 (resolved LOSS)"}
