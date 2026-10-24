@@ -2175,3 +2175,9 @@
 {"t":"2026-10-24T19:01:58.768Z","type":"close","name":"Kch-Temp","title":"Will BV Borussia 09 Dortmund win on 2026-10-24?","outcome":"Yes","note":"+$44.93 (resolved WIN)"}
 {"t":"2026-10-24T19:12:56.973Z","type":"close","name":"Kch-Temp","title":"Will Chelsea FC win on 2026-10-24?","outcome":"No","note":"+$92.31 (resolved WIN)"}
 {"t":"2026-10-24T19:40:44.095Z","type":"copy","name":"gangmusic","title":"UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card)","outcome":"Petr Yan","note":"whale $17700 @0.590 -> us @0.590 (0.0% better, 159s lag)"}
+{"t":"2026-10-24T19:59:44.665Z","type":"skip","name":"qwen4.1.fund","title":"Will Fabian Ruiz win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-24T19:59:44.665Z","type":"skip","name":"qwen4.1.fund","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.991"}
+{"t":"2026-10-24T19:59:44.665Z","type":"skip","name":"qwen4.1.fund","title":"Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-24T19:59:44.666Z","type":"skip","name":"qwen4.1.fund","title":"Will Rodri win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-24T19:59:44.666Z","type":"skip","name":"qwen4.1.fund","title":"Will Harry Kane win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
+{"t":"2026-10-24T19:59:44.666Z","type":"skip","name":"qwen4.1.fund","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}

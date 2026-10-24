@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792869123,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792871648,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792872206,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
@@ -7143,6 +7143,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T18:45:42.032Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:77740376296468109233042620775325425521895874827413068707200627224591548200577": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "77740376296468109233042620775325425521895874827413068707200627224591548200577",
+      "conditionId": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+      "outcomeIndex": 1,
+      "title": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "outcome": "No",
+      "slug": "will-harry-kane-win-the-2026-ballon-dor",
+      "whalePrice": 0.293,
+      "ourPrice": 0.293,
+      "shares": 341.29692832764505,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T19:59:44.666Z"
     }
   },
   "shadowClosed": [
