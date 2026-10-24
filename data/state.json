@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792858374,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792858466,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792859153,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -6817,23 +6817,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T12:54:41.974Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:25692354352608471052970781703129541592900254375578894248530114273062050289086": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "25692354352608471052970781703129541592900254375578894248530114273062050289086",
-      "conditionId": "0x7042565e2d8675f4eb8d7f9ee5e3aef8b76ac7c51a22f7c6dde073b054e0c9b0",
-      "outcomeIndex": 1,
-      "title": "Will Sisaket United FC win on 2026-10-24?",
-      "outcome": "No",
-      "slug": "tha1-bur-sis-2026-10-24-sis",
-      "whalePrice": 0.4503180468,
-      "ourPrice": 0.4503180468,
-      "shares": 222.06527300117966,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-24T13:09:43.337Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:15608643409971761503638981418366748681664167967140328613245148153377110556924": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -7393,6 +7376,26 @@
       "proceeds": 169.57552614470663,
       "pnl": 69.57552614470663,
       "closedAt": "2026-10-24T15:10:55.707Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "25692354352608471052970781703129541592900254375578894248530114273062050289086",
+      "conditionId": "0x7042565e2d8675f4eb8d7f9ee5e3aef8b76ac7c51a22f7c6dde073b054e0c9b0",
+      "outcomeIndex": 1,
+      "title": "Will Sisaket United FC win on 2026-10-24?",
+      "outcome": "No",
+      "slug": "tha1-bur-sis-2026-10-24-sis",
+      "whalePrice": 0.4503180468,
+      "ourPrice": 0.4503180468,
+      "shares": 222.06527300117966,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T13:09:43.337Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-24T16:27:57.791Z"
     }
   ]
 }
