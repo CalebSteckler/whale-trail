@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792873691,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792880757,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792881305,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792878498,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792867622,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792880547,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792881212,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792876050,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792867095,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792874267,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792881311,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792847148
   },
   "open": {
@@ -7204,24 +7204,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T19:59:44.666Z"
     },
-    "drift:0x676c1bb692c76b57b06f1b93817515acfa5ce139:61578258426156726539031375913905181611262134290025534616307002061806620567786": {
-      "reason": "drift",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
-      "conditionId": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
-      "outcomeIndex": 0,
-      "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
-      "outcome": "LYON",
-      "slug": "lol-ly-kc-2026-10-24",
-      "whalePrice": 0.4626578992010328,
-      "ourPrice": 0.7,
-      "shares": 142.85714285714286,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-24T20:41:44.685Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:112833774316104951988690985316609270957261648365641646812446420693891587882096": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -7272,6 +7254,41 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T22:22:46.518Z"
+    },
+    "topic:0xfbedb045813457be883ad83dd1078e88a2a1a665:106065276045357806320609774556329031079474847295342526506532891782476703273135": {
+      "reason": "topic",
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "106065276045357806320609774556329031079474847295342526506532891782476703273135",
+      "conditionId": "0xa0c4607a7d7c5ffe77cae5ffe47ccdc2207c8faceaaa225cf5a7de4ec93e543a",
+      "outcomeIndex": 0,
+      "title": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amapá?",
+      "outcome": "Yes",
+      "slug": "will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa",
+      "whalePrice": 0.73,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T22:31:47.187Z"
+    },
+    "drift:0x676c1bb692c76b57b06f1b93817515acfa5ce139:89664159307842411553173774617685030354143278654278817911428225484971177777867": {
+      "reason": "drift",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+      "conditionId": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+      "outcomeIndex": 1,
+      "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+      "outcome": "Gen.G",
+      "slug": "lol-hle1-gen-2026-10-24",
+      "whalePrice": 0.6460760405259082,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-24T22:38:49.764Z"
     }
   },
   "shadowClosed": [
@@ -7924,6 +7941,27 @@
       "proceeds": 106.38297872340426,
       "pnl": 6.382978723404264,
       "closedAt": "2026-10-24T18:40:03.181Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "61578258426156726539031375913905181611262134290025534616307002061806620567786",
+      "conditionId": "0xfa645c749861c70d41d188bee42eed2e4f21f45f0a6625dbf49cdb4af6540ca1",
+      "outcomeIndex": 0,
+      "title": "LoL: LYON vs Karmine Corp (BO1) - Worlds Group Stage",
+      "outcome": "LYON",
+      "slug": "lol-ly-kc-2026-10-24",
+      "whalePrice": 0.4626578992010328,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-24T20:41:44.685Z",
+      "proceeds": 142.85714285714286,
+      "pnl": 42.85714285714286,
+      "closedAt": "2026-10-24T22:32:06.350Z"
     }
   ]
 }
