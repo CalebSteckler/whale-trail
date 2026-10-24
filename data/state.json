@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792800414,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792805573,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792806231,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -12,7 +12,7 @@
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792800680,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792805328,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
-    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792788224,
+    "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792688946,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
@@ -1661,25 +1661,6 @@
       "lagS": 299,
       "rules": 2,
       "openedAt": "2026-10-23T23:05:32.018Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:68602827084745741252163785208896698402255839768496861645570686063472050673427": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "68602827084745741252163785208896698402255839768496861645570686063472050673427",
-      "conditionId": "0x253f9d35333e73f6529b62c1c8358076f9ebb0b2ab11e32d13fb36d8fb8dea55",
-      "outcomeIndex": 0,
-      "title": "Hawks vs. Hornets",
-      "outcome": "Hawks",
-      "slug": "nba-atl-cha-2026-10-23",
-      "eventSlug": "nba-atl-cha-2026-10-23",
-      "whalePrice": 0.56,
-      "whaleUsd": 28000.000000000004,
-      "ourPrice": 0.56,
-      "shares": 178.57142857142856,
-      "stake": 100,
-      "lagS": 252,
-      "rules": 2,
-      "openedAt": "2026-10-23T23:05:32.128Z"
     },
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139:87283733165794476847792149852305089145274843115882950029300316054085948106761": {
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -5595,6 +5576,29 @@
       "pnl": -100,
       "closedAt": "2026-10-23T23:54:39.520Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "68602827084745741252163785208896698402255839768496861645570686063472050673427",
+      "conditionId": "0x253f9d35333e73f6529b62c1c8358076f9ebb0b2ab11e32d13fb36d8fb8dea55",
+      "outcomeIndex": 0,
+      "title": "Hawks vs. Hornets",
+      "outcome": "Hawks",
+      "slug": "nba-atl-cha-2026-10-23",
+      "eventSlug": "nba-atl-cha-2026-10-23",
+      "whalePrice": 0.56,
+      "whaleUsd": 28000.000000000004,
+      "ourPrice": 0.56,
+      "shares": 178.57142857142856,
+      "stake": 100,
+      "lagS": 252,
+      "rules": 2,
+      "openedAt": "2026-10-23T23:05:32.128Z",
+      "proceeds": 178.57142857142856,
+      "pnl": 78.57142857142856,
+      "closedAt": "2026-10-24T01:44:44.424Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -6209,6 +6213,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T00:20:31.562Z"
+    },
+    "benched:0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:55652269061710159592836410285405664661707115026340321444988857474082433483155": {
+      "reason": "benched",
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "55652269061710159592836410285405664661707115026340321444988857474082433483155",
+      "conditionId": "0x05562f3c86c1c3f1e5fe0c7307b255e56a04a715d5242765cbbe3419c53cf078",
+      "outcomeIndex": 0,
+      "title": "Pelicans vs. Jazz",
+      "outcome": "Pelicans",
+      "slug": "nba-nop-uta-2026-10-23",
+      "whalePrice": 0.5098053826,
+      "ourPrice": 0.5098053826,
+      "shares": 196.15328400418502,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T01:38:34.848Z"
     }
   },
   "shadowClosed": [
