@@ -2174,3 +2174,4 @@
 {"t":"2026-10-24T19:01:57.914Z","type":"close","name":"Kch-Temp","title":"Will Lincoln City FC win on 2026-10-24?","outcome":"No","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-24T19:01:58.768Z","type":"close","name":"Kch-Temp","title":"Will BV Borussia 09 Dortmund win on 2026-10-24?","outcome":"Yes","note":"+$44.93 (resolved WIN)"}
 {"t":"2026-10-24T19:12:56.973Z","type":"close","name":"Kch-Temp","title":"Will Chelsea FC win on 2026-10-24?","outcome":"No","note":"+$92.31 (resolved WIN)"}
+{"t":"2026-10-24T19:40:44.095Z","type":"copy","name":"gangmusic","title":"UFC 333: Merab Dvalishvili vs. Petr Yan (Bantamweight, Main Card)","outcome":"Petr Yan","note":"whale $17700 @0.590 -> us @0.590 (0.0% better, 159s lag)"}
