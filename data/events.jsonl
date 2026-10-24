@@ -2123,3 +2123,5 @@
 {"t":"2026-10-24T16:41:37.129Z","type":"skip","name":"qwen4.1.fund","title":"Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
 {"t":"2026-10-24T16:46:37.444Z","type":"skip","name":"qwen4.1.fund","title":"Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
 {"t":"2026-10-24T16:56:37.777Z","type":"skip","name":"qwen4.1.fund","title":"Will Lula win the most votes in the second round of the Brazil presidential election from Amapá?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-24T17:00:57.321Z","type":"close","name":"Kch-Temp","title":"Will Arsenal FC win on 2026-10-24?","outcome":"Yes","note":"+$47.06 (resolved WIN)"}
+{"t":"2026-10-24T17:04:41.667Z","type":"copy","name":"Kch-Temp","title":"Hawai'i vs. Northern Illinois: O/U 47.5","outcome":"Over","note":"whale $4731 @0.539 -> us @0.550 (2.0% worse, 45s lag)"}

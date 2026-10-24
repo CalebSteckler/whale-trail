@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792858374,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792860978,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792861572,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -14,7 +14,7 @@
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792725053,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792785816,
-    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792856150,
+    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792861436,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792844819,
@@ -1644,25 +1644,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T01:26:34.408Z"
     },
-    "0x924379a79c64b77ad5816ad362122a5f6228658e:114460869056021695126097471762228510096841940195417663873021964330022095891387": {
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "114460869056021695126097471762228510096841940195417663873021964330022095891387",
-      "conditionId": "0x33a835240ed22c5ef25d3fff2cf5d21fca053a141a7529488a2396cd78f90e2e",
-      "outcomeIndex": 0,
-      "title": "Will Arsenal FC win on 2026-10-24?",
-      "outcome": "Yes",
-      "slug": "epl-ars-eve-2026-10-24-ars",
-      "eventSlug": "epl-ars-eve-2026-10-24",
-      "whalePrice": 0.67,
-      "whaleUsd": 25575.0993,
-      "ourPrice": 0.6799999999999999,
-      "shares": 147.05882352941177,
-      "stake": 100,
-      "lagS": 304,
-      "rules": 2,
-      "openedAt": "2026-10-24T06:42:36.254Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:66045621969460247333652541456058912291599253475302313369078156461474650074175": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -1814,6 +1795,25 @@
       "lagS": 226,
       "rules": 2,
       "openedAt": "2026-10-24T15:39:36.145Z"
+    },
+    "0x924379a79c64b77ad5816ad362122a5f6228658e:86852153200885818942682663663223179351253489928557390099225098000454667284146": {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "86852153200885818942682663663223179351253489928557390099225098000454667284146",
+      "conditionId": "0x895d573f9fb865f0adafdceb8b14e877c8f051ad4f317d2d16b953528a3cbf06",
+      "outcomeIndex": 0,
+      "title": "Hawai'i vs. Northern Illinois: O/U 47.5",
+      "outcome": "Over",
+      "slug": "cfb-hawaii-nill-2026-10-24-total-47pt5",
+      "eventSlug": "cfb-hawaii-nill-2026-10-24",
+      "whalePrice": 0.5390895594,
+      "whaleUsd": 4731.448899568356,
+      "ourPrice": 0.55,
+      "shares": 181.8181818181818,
+      "stake": 100,
+      "lagS": 45,
+      "rules": 2,
+      "openedAt": "2026-10-24T17:04:41.667Z"
     }
   },
   "closed": [
@@ -5947,6 +5947,29 @@
       "pnl": -100,
       "closedAt": "2026-10-24T16:05:49.931Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "114460869056021695126097471762228510096841940195417663873021964330022095891387",
+      "conditionId": "0x33a835240ed22c5ef25d3fff2cf5d21fca053a141a7529488a2396cd78f90e2e",
+      "outcomeIndex": 0,
+      "title": "Will Arsenal FC win on 2026-10-24?",
+      "outcome": "Yes",
+      "slug": "epl-ars-eve-2026-10-24-ars",
+      "eventSlug": "epl-ars-eve-2026-10-24",
+      "whalePrice": 0.67,
+      "whaleUsd": 25575.0993,
+      "ourPrice": 0.6799999999999999,
+      "shares": 147.05882352941177,
+      "stake": 100,
+      "lagS": 304,
+      "rules": 2,
+      "openedAt": "2026-10-24T06:42:36.254Z",
+      "proceeds": 147.05882352941177,
+      "pnl": 47.05882352941177,
+      "closedAt": "2026-10-24T17:00:57.321Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
