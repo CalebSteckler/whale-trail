@@ -1925,3 +1925,7 @@
 {"t":"2026-10-23T23:54:39.520Z","type":"close","name":"DelidelaDele","title":"Will Vitória SC win on 2026-10-23?","outcome":"No","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-24T00:11:31.327Z","type":"copy","name":"DelidelaDele","title":"Will CA Tigre win on 2026-10-23?","outcome":"Yes","note":"whale $4000 @0.500 -> us @0.510 (2.0% worse, 361s lag)"}
 {"t":"2026-10-24T00:13:31.164Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-24T00:20:31.562Z","type":"skip","name":"zerone777","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-24T00:20:31.562Z","type":"skip","name":"zerone777","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-24T00:20:31.562Z","type":"skip","name":"zerone777","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by at least 12%?","outcome":"No","note":"whale paid 0.989"}
+{"t":"2026-10-24T00:21:33.142Z","type":"skip","name":"para-Vision","title":"LoL: Team Secret Whales vs LYON (BO1) - Worlds Group Stage","outcome":"LYON","note":"price moved 0.650 -> 0.820 before we saw it"}
