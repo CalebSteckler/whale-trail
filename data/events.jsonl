@@ -2173,3 +2173,4 @@
 {"t":"2026-10-24T18:55:43.153Z","type":"copy","name":"Kch-Temp","title":"Spread: Ohio (-10.5)","outcome":"Ohio","note":"whale $72291 @0.490 -> us @0.510 (4.1% worse, 55s lag)"}
 {"t":"2026-10-24T19:01:57.914Z","type":"close","name":"Kch-Temp","title":"Will Lincoln City FC win on 2026-10-24?","outcome":"No","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-24T19:01:58.768Z","type":"close","name":"Kch-Temp","title":"Will BV Borussia 09 Dortmund win on 2026-10-24?","outcome":"Yes","note":"+$44.93 (resolved WIN)"}
+{"t":"2026-10-24T19:12:56.973Z","type":"close","name":"Kch-Temp","title":"Will Chelsea FC win on 2026-10-24?","outcome":"No","note":"+$92.31 (resolved WIN)"}
