@@ -1935,3 +1935,9 @@
 {"t":"2026-10-24T01:38:34.848Z","type":"skip","name":"tiger105","title":"Pelicans vs. Jazz","outcome":"Pelicans","note":"whale benched (negative edge)"}
 {"t":"2026-10-24T01:44:44.424Z","type":"close","name":"para-Vision","title":"Hawks vs. Hornets","outcome":"Hawks","note":"+$78.57 (resolved WIN)"}
 {"t":"2026-10-24T01:55:43.460Z","type":"close","name":"para-Vision","title":"Spread: Magic (-1.5)","outcome":"Timberwolves","note":"+$100.00 (resolved WIN)"}
+{"t":"2026-10-24T02:09:35.608Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by at least 12%?","outcome":"No","note":"whale paid 0.987"}
+{"t":"2026-10-24T02:09:35.609Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 8–12%?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-24T02:09:35.609Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4–8%?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-24T02:09:35.609Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-24T02:09:35.609Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-24T02:09:35.609Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
