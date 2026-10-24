@@ -2071,3 +2071,8 @@
 {"t":"2026-10-24T13:09:43.134Z","type":"copy","name":"Kch-Temp","title":"Will Lincoln City FC win on 2026-10-24?","outcome":"No","note":"whale $16391 @0.660 -> us @0.670 (1.5% worse, 349s lag)"}
 {"t":"2026-10-24T13:09:43.336Z","type":"skip","name":"JohnLKellyJr","title":"Will Sisaket United FC win on 2026-10-24?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-24T13:14:43.669Z","type":"copy","name":"Kch-Temp","title":"UFC 333: Ramazan Temirov vs. Lone'er Kavanagh (Flyweight, Main Card)","outcome":"Ramazan Temirov","note":"whale $7527 @0.490 -> us @0.490 (0.0% better, 128s lag)"}
+{"t":"2026-10-24T13:26:43.130Z","type":"skip","name":"Bigggggggg","title":"Will Lamine Yamal win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
+{"t":"2026-10-24T13:26:43.131Z","type":"skip","name":"Bigggggggg","title":"Will Rodri win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-24T13:26:43.131Z","type":"skip","name":"Bigggggggg","title":"Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-24T13:26:43.131Z","type":"skip","name":"Bigggggggg","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.988"}
+{"t":"2026-10-24T13:26:43.131Z","type":"skip","name":"Bigggggggg","title":"Will Harry Kane win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
