@@ -2098,3 +2098,5 @@
 {"t":"2026-10-24T14:59:48.374Z","type":"close","name":"Kch-Temp","title":"1. FC Heidenheim vs. FC Energie Cottbus: O/U 3.5","outcome":"Under","note":"+$117.39 (resolved WIN)"}
 {"t":"2026-10-24T15:04:34.344Z","type":"copy","name":"Kch-Temp","title":"Spread: Cavaliers (-11.5)","outcome":"Nets","note":"whale $65950 @0.520 -> us @0.530 (1.9% worse, 119s lag)"}
 {"t":"2026-10-24T15:10:48.799Z","type":"close","name":"Kch-Temp","title":"Will Cagliari Calcio win on 2026-10-24?","outcome":"No","note":"+$45.72 (resolved WIN)"}
+{"t":"2026-10-24T15:21:47.318Z","type":"close","name":"Kch-Temp","title":"Will Como 1907 win on 2026-10-24?","outcome":"Yes","note":"+$51.52 (resolved WIN)"}
+{"t":"2026-10-24T15:24:35.730Z","type":"copy","name":"Kch-Temp","title":"Will Chelsea FC win on 2026-10-24?","outcome":"No","note":"whale $56064 @0.510 -> us @0.520 (2.0% worse, 300s lag)"}
