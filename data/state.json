@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792808523,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792815954,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792816539,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -6245,23 +6245,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T00:20:31.562Z"
     },
-    "benched:0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56:55652269061710159592836410285405664661707115026340321444988857474082433483155": {
-      "reason": "benched",
-      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
-      "name": "tiger105",
-      "asset": "55652269061710159592836410285405664661707115026340321444988857474082433483155",
-      "conditionId": "0x05562f3c86c1c3f1e5fe0c7307b255e56a04a715d5242765cbbe3419c53cf078",
-      "outcomeIndex": 0,
-      "title": "Pelicans vs. Jazz",
-      "outcome": "Pelicans",
-      "slug": "nba-nop-uta-2026-10-23",
-      "whalePrice": 0.5098053826,
-      "ourPrice": 0.5098053826,
-      "shares": 196.15328400418502,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-24T01:38:34.848Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:34079851482053293361932351143019209193108191421795047260065638898939690262262": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -6764,6 +6747,26 @@
       "proceeds": 121.95121951219512,
       "pnl": 21.951219512195124,
       "closedAt": "2026-10-24T01:22:47.993Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56",
+      "name": "tiger105",
+      "asset": "55652269061710159592836410285405664661707115026340321444988857474082433483155",
+      "conditionId": "0x05562f3c86c1c3f1e5fe0c7307b255e56a04a715d5242765cbbe3419c53cf078",
+      "outcomeIndex": 0,
+      "title": "Pelicans vs. Jazz",
+      "outcome": "Pelicans",
+      "slug": "nba-nop-uta-2026-10-23",
+      "whalePrice": 0.5098053826,
+      "ourPrice": 0.5098053826,
+      "shares": 196.15328400418502,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T01:38:34.848Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-24T04:30:50.171Z"
     }
   ]
 }
