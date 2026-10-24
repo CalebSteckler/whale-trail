@@ -2100,3 +2100,4 @@
 {"t":"2026-10-24T15:10:48.799Z","type":"close","name":"Kch-Temp","title":"Will Cagliari Calcio win on 2026-10-24?","outcome":"No","note":"+$45.72 (resolved WIN)"}
 {"t":"2026-10-24T15:21:47.318Z","type":"close","name":"Kch-Temp","title":"Will Como 1907 win on 2026-10-24?","outcome":"Yes","note":"+$51.52 (resolved WIN)"}
 {"t":"2026-10-24T15:24:35.730Z","type":"copy","name":"Kch-Temp","title":"Will Chelsea FC win on 2026-10-24?","outcome":"No","note":"whale $56064 @0.510 -> us @0.520 (2.0% worse, 300s lag)"}
+{"t":"2026-10-24T15:39:36.145Z","type":"copy","name":"Kch-Temp","title":"Will BV Borussia 09 Dortmund win on 2026-10-24?","outcome":"Yes","note":"whale $51261 @0.667 -> us @0.690 (3.4% worse, 226s lag)"}
