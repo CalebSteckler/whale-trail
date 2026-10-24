@@ -2097,3 +2097,4 @@
 {"t":"2026-10-24T14:54:33.691Z","type":"skip","name":"qwen4.1.fund","title":"Will \"Wildwood\" Opening Weekend Box Office be between 16m and 18m?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-24T14:59:48.374Z","type":"close","name":"Kch-Temp","title":"1. FC Heidenheim vs. FC Energie Cottbus: O/U 3.5","outcome":"Under","note":"+$117.39 (resolved WIN)"}
 {"t":"2026-10-24T15:04:34.344Z","type":"copy","name":"Kch-Temp","title":"Spread: Cavaliers (-11.5)","outcome":"Nets","note":"whale $65950 @0.520 -> us @0.530 (1.9% worse, 119s lag)"}
+{"t":"2026-10-24T15:10:48.799Z","type":"close","name":"Kch-Temp","title":"Will Cagliari Calcio win on 2026-10-24?","outcome":"No","note":"+$45.72 (resolved WIN)"}
