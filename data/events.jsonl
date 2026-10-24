@@ -2025,3 +2025,5 @@
 {"t":"2026-10-24T10:13:36.855Z","type":"copy","name":"Kch-Temp","title":"1. FC Heidenheim vs. FC Energie Cottbus: O/U 3.5","outcome":"Under","note":"whale $1246 @0.450 -> us @0.460 (2.2% worse, 117s lag)"}
 {"t":"2026-10-24T10:28:37.346Z","type":"copy","name":"Kch-Temp","title":"Will Norwich City FC win on 2026-10-24?","outcome":"No","note":"whale $6065 @0.550 -> us @0.560 (1.8% worse, 292s lag)"}
 {"t":"2026-10-24T10:36:37.828Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"price moved 0.340 -> 0.430 before we saw it"}
+{"t":"2026-10-24T10:41:37.671Z","type":"skip","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"price moved 0.410 -> 0.605 before we saw it"}
+{"t":"2026-10-24T10:46:37.977Z","type":"copy","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"whale $494 @0.500 -> us @0.455 (9.0% better, 530s lag)"}
