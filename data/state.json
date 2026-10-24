@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792785399,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792807443,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792808660,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792808523,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792809209,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792790298,
@@ -1642,25 +1642,6 @@
       "lagS": 73,
       "rules": 2,
       "openedAt": "2026-10-23T18:59:18.177Z"
-    },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:45636593525190207944478117113796495221616041338900675140853157276657559396050": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "45636593525190207944478117113796495221616041338900675140853157276657559396050",
-      "conditionId": "0x7da0d1f061157b1fd0a09cf7f4f18286a25dd71efd1fe21097e6b840aa2aaa8e",
-      "outcomeIndex": 0,
-      "title": "Will CA Tigre win on 2026-10-23?",
-      "outcome": "Yes",
-      "slug": "arg-tig-cat-2026-10-23-tig",
-      "eventSlug": "arg-tig-cat-2026-10-23",
-      "whalePrice": 0.5,
-      "whaleUsd": 4000,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "lagS": 361,
-      "rules": 2,
-      "openedAt": "2026-10-24T00:11:31.327Z"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:29426800815897155175757951733656404312185134543823956306564757069451562558732": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -5606,6 +5587,29 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-24T02:17:44.678Z",
+      "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "45636593525190207944478117113796495221616041338900675140853157276657559396050",
+      "conditionId": "0x7da0d1f061157b1fd0a09cf7f4f18286a25dd71efd1fe21097e6b840aa2aaa8e",
+      "outcomeIndex": 0,
+      "title": "Will CA Tigre win on 2026-10-23?",
+      "outcome": "Yes",
+      "slug": "arg-tig-cat-2026-10-23-tig",
+      "eventSlug": "arg-tig-cat-2026-10-23",
+      "whalePrice": 0.5,
+      "whaleUsd": 4000,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "lagS": 361,
+      "rules": 2,
+      "openedAt": "2026-10-24T00:11:31.327Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-24T02:28:45.209Z",
       "note": "resolved LOSS"
     }
   ],
