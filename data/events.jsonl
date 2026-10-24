@@ -2037,3 +2037,4 @@
 {"t":"2026-10-24T11:57:39.891Z","type":"copy","name":"qwen4.1.fund","title":"Will Elon Musk post 90-114 tweets from October 22 to October 24, 2026?","outcome":"No","note":"whale $466 @0.850 -> us @0.870 (2.4% worse, 336s lag)"}
 {"t":"2026-10-24T11:57:39.892Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 115-139 tweets from October 22 to October 24, 2026?","outcome":"No","note":"whale paid 0.996"}
 {"t":"2026-10-24T12:02:48.956Z","type":"close","name":"THEHIGHLIFE","title":"Counter-Strike: MOUZ vs Liquid - Map 2 Winner","outcome":"Liquid","note":"+$119.57 (resolved WIN)"}
+{"t":"2026-10-24T12:08:41.047Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Donstu Esports vs Quintessence (BO3) - CCT Europe Challengers Series Playoffs","outcome":"Donstu Esports","note":"whale benched (negative edge)"}
