@@ -1997,3 +1997,5 @@
 {"t":"2026-10-24T06:07:34.929Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4–8%?","outcome":"No","note":"whale paid 0.994"}
 {"t":"2026-10-24T06:42:36.254Z","type":"copy","name":"Kch-Temp","title":"Will Arsenal FC win on 2026-10-24?","outcome":"Yes","note":"whale $25575 @0.670 -> us @0.680 (1.5% worse, 304s lag)"}
 {"t":"2026-10-24T07:04:47.793Z","type":"close","name":"DelidelaDele","title":"Atlante FC vs. Atlético San Luis: O/U 2.5","outcome":"Over","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-24T07:12:37.404Z","type":"skip","name":"SpringlyFawl","title":"Will a team from LPL (China) win LoL Worlds 2026?","outcome":"No","note":"already $200 on lol-worlds-2026"}
+{"t":"2026-10-24T07:13:37.231Z","type":"skip","name":"qwen4.1.fund","title":"Will a team from LCS (North America) win LoL Worlds 2026?","outcome":"No","note":"whale paid 0.990"}
