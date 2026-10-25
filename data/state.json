@@ -1,12 +1,12 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792930329,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792930650,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792931225,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792931247,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792929767,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792931195,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792930532,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
@@ -14,7 +14,7 @@
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792891119,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
-    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792917666,
+    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792931018,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792929333,
@@ -1776,6 +1776,25 @@
       "lagS": 116,
       "rules": 2,
       "openedAt": "2026-10-25T11:04:07.431Z"
+    },
+    "0x924379a79c64b77ad5816ad362122a5f6228658e:74628329841011909674872704681128884694740504845886408181727145389216018083705": {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "74628329841011909674872704681128884694740504845886408181727145389216018083705",
+      "conditionId": "0xc4ed37df67763741b43c67e51b011504365724339298faa7b4ff4041eb81065c",
+      "outcomeIndex": 999,
+      "title": "Buccaneers vs. Panthers",
+      "outcome": "Panthers",
+      "slug": "nfl-tb-car-2026-10-25",
+      "eventSlug": "",
+      "whalePrice": 0.59,
+      "whaleUsd": 190301.99839999998,
+      "ourPrice": 0.6,
+      "shares": 166.66666666666669,
+      "stake": 100,
+      "lagS": 31,
+      "rules": 2,
+      "openedAt": "2026-10-25T12:24:09.223Z"
     }
   },
   "closed": [
@@ -7786,6 +7805,40 @@
       "note": "moved for us",
       "rules": 2,
       "openedAt": "2026-10-25T12:04:09.253Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:1507744758511144558263623459899956467548763419522526462308518027912401299177": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "1507744758511144558263623459899956467548763419522526462308518027912401299177",
+      "conditionId": "0xdbe93b5a701f36076a560fa4b9ba59e365a6e8e2ea6a83764640010657277ca4",
+      "outcomeIndex": 1,
+      "title": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+      "outcome": "No",
+      "slug": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+      "whalePrice": 0.493657996,
+      "ourPrice": 0.493657996,
+      "shares": 202.56939178596835,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T12:23:08.145Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:54533569528927082430133047556849600511985191158927477533124630301934489498530": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "54533569528927082430133047556849600511985191158927477533124630301934489498530",
+      "conditionId": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
+      "outcomeIndex": 1,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "outcome": "No",
+      "slug": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+      "whalePrice": 0.72,
+      "ourPrice": 0.72,
+      "shares": 138.88888888888889,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T12:23:08.146Z"
     }
   },
   "shadowClosed": [
