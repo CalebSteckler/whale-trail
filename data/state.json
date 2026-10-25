@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792888269,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792889715,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792890480,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792888569,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792890483,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792887650,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792867622,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792181269,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792884107,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792888121,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792890165,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792847148
   },
   "open": {
@@ -1776,6 +1776,25 @@
       "lagS": 61,
       "rules": 2,
       "openedAt": "2026-10-25T00:53:52.138Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:44266536196291416679571106874147442700803454031759820180868027125972296364998": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "44266536196291416679571106874147442700803454031759820180868027125972296364998",
+      "conditionId": "0x14f431bacae2d7944fda46bec7bb9883f46578a4da45f64e8867f857a2345d89",
+      "outcomeIndex": 0,
+      "title": "Lightning vs. Utah",
+      "outcome": "Lightning",
+      "slug": "nhl-tb-utah-2026-10-24",
+      "eventSlug": "nhl-tb-utah-2026-10-24",
+      "whalePrice": 0.43,
+      "whaleUsd": 292.4731,
+      "ourPrice": 0.44,
+      "shares": 227.27272727272728,
+      "stake": 100,
+      "lagS": 188,
+      "rules": 2,
+      "openedAt": "2026-10-25T01:05:53.509Z"
     }
   },
   "closed": [
@@ -7339,24 +7358,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T23:07:48.691Z"
     },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:37300951364824173457769516798330345429608084517296400248469916059440641031361": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
-      "conditionId": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
-      "outcomeIndex": 1,
-      "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
-      "outcome": "T1",
-      "slug": "lol-dk-t1-2026-10-24",
-      "whalePrice": 0.53,
-      "ourPrice": 0.69,
-      "shares": 144.92753623188406,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-24T23:27:50.527Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:48363336280603988612943937623657599900834676634371552666346986109028055383864": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -8084,6 +8085,27 @@
       "proceeds": 136.986301369863,
       "pnl": 36.986301369863014,
       "closedAt": "2026-10-25T00:22:08.105Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "37300951364824173457769516798330345429608084517296400248469916059440641031361",
+      "conditionId": "0x3dc6f8d4511551b90f209dda220fb7de03d4a40e7b49623e5c201177d9f1d7fb",
+      "outcomeIndex": 1,
+      "title": "LoL: Dplus KIA vs T1 (BO1) - Worlds Group Stage",
+      "outcome": "T1",
+      "slug": "lol-dk-t1-2026-10-24",
+      "whalePrice": 0.53,
+      "ourPrice": 0.69,
+      "shares": 144.92753623188406,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-24T23:27:50.527Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-25T01:06:10.272Z"
     }
   ]
 }
