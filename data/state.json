@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792933143,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792933082,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792933589,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792931715,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792933200,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792933400,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792933721,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792933014,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792933715,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792891119,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792929333,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792919724,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792923593
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792933421
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1795,6 +1795,44 @@
       "lagS": 31,
       "rules": 2,
       "openedAt": "2026-10-25T12:24:09.223Z"
+    },
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:14285967900810798217828873066237412915657579067607474004185380620858656918029": {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "14285967900810798217828873066237412915657579067607474004185380620858656918029",
+      "conditionId": "0x94fd3ab7b038e81362d91dd17debef6d6c9bc64ebcdee8fb7de19a24bf983420",
+      "outcomeIndex": 1,
+      "title": "Alexandria Ocasio-Cortez Democratic nomination odds leader on October 31?",
+      "outcome": "No",
+      "slug": "alexandria-ocasio-cortez-democratic-nomination-odds-leader-on-october-31",
+      "eventSlug": "democratic-nomination-odds-leader-on-october-31",
+      "whalePrice": 0.75,
+      "whaleUsd": 330,
+      "ourPrice": 0.7765374482787712,
+      "shares": 128.77679012345678,
+      "stake": 100,
+      "lagS": 228,
+      "rules": 2,
+      "openedAt": "2026-10-25T13:09:14.663Z"
+    },
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:47979673906252876542334208562785841571962657924892053137565482511696526008718": {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "47979673906252876542334208562785841571962657924892053137565482511696526008718",
+      "conditionId": "0x2b27fb4df42dc03c85264602000b29b264cf05548dbf52270b6e83e14ba0e86a",
+      "outcomeIndex": 1,
+      "title": "Gavin Newsom Democratic nomination odds leader on October 31?",
+      "outcome": "No",
+      "slug": "gavin-newsom-democratic-nomination-odds-leader-on-october-31",
+      "eventSlug": "democratic-nomination-odds-leader-on-october-31",
+      "whalePrice": 0.7400000000000001,
+      "whaleUsd": 325.6,
+      "ourPrice": 0.74,
+      "shares": 135.13513513513513,
+      "stake": 100,
+      "lagS": 228,
+      "rules": 2,
+      "openedAt": "2026-10-25T13:09:14.843Z"
     }
   },
   "closed": [
@@ -7839,6 +7877,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T12:23:08.146Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:61334500658524636669091215195275824769764792631268698724395072650444387318630": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "61334500658524636669091215195275824769764792631268698724395072650444387318630",
+      "conditionId": "0xb64c138c7faf4019fb0806991ac48ad61789146dac2503bc4418147b99007c58",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
+      "outcome": "Aurora Gaming",
+      "slug": "cs2-g2-aur1-2026-10-25-game1",
+      "whalePrice": 0.6459106979,
+      "ourPrice": 0.6459106979,
+      "shares": 154.82016372406022,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T13:05:15.377Z"
     }
   },
   "shadowClosed": [

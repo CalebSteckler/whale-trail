@@ -2522,3 +2522,6 @@
 {"t":"2026-10-25T12:45:08.844Z","type":"skip","name":"zerone777","title":"Will Rodri win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-25T12:45:08.844Z","type":"skip","name":"zerone777","title":"Will Khvicha Kvaratskhelia win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-25T12:53:14.093Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-25T13:05:15.376Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner","outcome":"Aurora Gaming","note":"whale benched (negative edge)"}
+{"t":"2026-10-25T13:09:14.663Z","type":"copy","name":"qwen4.1.fund","title":"Alexandria Ocasio-Cortez Democratic nomination odds leader on October 31?","outcome":"No","note":"whale $330 @0.750 -> us @0.777 (3.5% worse, 228s lag)"}
+{"t":"2026-10-25T13:09:14.843Z","type":"copy","name":"qwen4.1.fund","title":"Gavin Newsom Democratic nomination odds leader on October 31?","outcome":"No","note":"whale $326 @0.740 -> us @0.740 (0.0% better, 228s lag)"}
