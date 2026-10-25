@@ -1,16 +1,16 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792950665,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792950624,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792951029,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792951178,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792950570,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792951158,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792949468,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792949894,
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792950873,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792951104,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792949828,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792950098,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792949586,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792946207
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792951202
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -2023,6 +2023,25 @@
       "lagS": 291,
       "rules": 2,
       "openedAt": "2026-10-25T16:46:23.111Z"
+    },
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:563249919624128361730090140198325269856048598660578154979014544938244792454": {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "563249919624128361730090140198325269856048598660578154979014544938244792454",
+      "conditionId": "0xe6a53016417a3c56071ce43c3608beccd567430b88616e71b4255dd7db90194d",
+      "outcomeIndex": 0,
+      "title": "Will CA Boca Juniors win on 2026-10-25?",
+      "outcome": "Yes",
+      "slug": "arg-ind-boc-2026-10-25-boc",
+      "eventSlug": "arg-ind-boc-2026-10-25",
+      "whalePrice": 0.44999999999999996,
+      "whaleUsd": 684.8955,
+      "ourPrice": 0.46,
+      "shares": 217.39130434782606,
+      "stake": 100,
+      "lagS": 533,
+      "rules": 2,
+      "openedAt": "2026-10-25T18:03:26.088Z"
     }
   },
   "closed": [
@@ -8112,23 +8131,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T14:06:16.702Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:65035508575235114639815910819688855943280866689585008498012864255565184455180": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "65035508575235114639815910819688855943280866689585008498012864255565184455180",
-      "conditionId": "0x13f5424743aac80660753844826b1a0f4c12f9aca901bf9414feee7f41b1e22d",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: LGC (-1.5) vs DENDELE CS (+1.5)",
-      "outcome": "Legacy",
-      "slug": "cs2-lgc-dendel-2026-10-25-map-handicap-away-1pt5",
-      "whalePrice": 0.4402165405687451,
-      "ourPrice": 0.4402165405687451,
-      "shares": 227.1609328236584,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T14:58:19.036Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:110145538896931835992026784209638757739031104337076693603053840079218458735171": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -8179,23 +8181,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T16:10:20.895Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:48079360099237897825173060773997707596052331255003186231592428714187683886722": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "48079360099237897825173060773997707596052331255003186231592428714187683886722",
-      "conditionId": "0x7aa20c68662f4e387db42e685ba2f6557fed9014cd39ead20d666e20332c735d",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Legacy vs DENDELE CS - Map 2 Winner",
-      "outcome": "Legacy",
-      "slug": "cs2-lgc-dendel-2026-10-25-game2",
-      "whalePrice": 0.6271375416,
-      "ourPrice": 0.6271375416,
-      "shares": 159.4546544684162,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T16:42:23.427Z"
     },
     "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:78307513614657736702734817934120948241767227568225621644689480820668502498105": {
       "reason": "drift",
@@ -8335,6 +8320,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T17:46:24.877Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:7969684502350511154927474651585765632055441974516390363609269955289508179244": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "7969684502350511154927474651585765632055441974516390363609269955289508179244",
+      "conditionId": "0x1d1eb73751d49e1509e2c336c54d516f4abd6f347b3195dea23bffaa9dfaf6ce",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FORZE Reload vs ex-RUSTEC (BO3) - CCT Europe Series #12 Group Stage",
+      "outcome": "FORZE Reload",
+      "slug": "cs2-forzer-rustec-2026-10-25",
+      "whalePrice": 0.5599378882,
+      "ourPrice": 0.5599378882,
+      "shares": 178.5912368271135,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T18:00:28.728Z"
     }
   },
   "shadowClosed": [
@@ -9295,6 +9297,46 @@
       "proceeds": 479.3315187420632,
       "pnl": 379.3315187420632,
       "closedAt": "2026-10-25T16:11:49.042Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "65035508575235114639815910819688855943280866689585008498012864255565184455180",
+      "conditionId": "0x13f5424743aac80660753844826b1a0f4c12f9aca901bf9414feee7f41b1e22d",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: LGC (-1.5) vs DENDELE CS (+1.5)",
+      "outcome": "Legacy",
+      "slug": "cs2-lgc-dendel-2026-10-25-map-handicap-away-1pt5",
+      "whalePrice": 0.4402165405687451,
+      "ourPrice": 0.4402165405687451,
+      "shares": 227.1609328236584,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T14:58:19.036Z",
+      "proceeds": 227.1609328236584,
+      "pnl": 127.16093282365841,
+      "closedAt": "2026-10-25T18:01:53.616Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "48079360099237897825173060773997707596052331255003186231592428714187683886722",
+      "conditionId": "0x7aa20c68662f4e387db42e685ba2f6557fed9014cd39ead20d666e20332c735d",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Legacy vs DENDELE CS - Map 2 Winner",
+      "outcome": "Legacy",
+      "slug": "cs2-lgc-dendel-2026-10-25-game2",
+      "whalePrice": 0.6271375416,
+      "ourPrice": 0.6271375416,
+      "shares": 159.4546544684162,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T16:42:23.427Z",
+      "proceeds": 159.4546544684162,
+      "pnl": 59.45465446841621,
+      "closedAt": "2026-10-25T18:01:54.224Z"
     }
   ]
 }
