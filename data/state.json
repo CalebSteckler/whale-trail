@@ -1,13 +1,13 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792923363,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792923668,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792924145,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792924286,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1792922555,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792923558,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792924154,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792922673,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792922459,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792919724,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792916232
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792923593
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -7671,23 +7671,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T07:28:57.624Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:13735349836830916995972621616670729551737406222595816132858470699751143986409": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "13735349836830916995972621616670729551737406222595816132858470699751143986409",
-      "conditionId": "0xa56475c45b103e76f94f354944a40ebeb905e2ffc3a54b7e1cc4897eb641e392",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: FUT (-1.5) vs Liquid (+1.5)",
-      "outcome": "FUT Esports",
-      "slug": "cs2-fut-tl1-2026-10-25-map-handicap-away-1pt5",
-      "whalePrice": 0.4097495212,
-      "ourPrice": 0.4097495212,
-      "shares": 244.05153594112363,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T08:08:00.088Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:78632395083310670734315205502061249602319069653915932320155846460019107676757": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -7722,6 +7705,23 @@
       "note": "moved for us",
       "rules": 2,
       "openedAt": "2026-10-25T10:09:04.387Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:107321498663200426001008025523194268534133960391338972553506573229123724484366": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "107321498663200426001008025523194268534133960391338972553506573229123724484366",
+      "conditionId": "0xf925b8ee5c11adff1265adb7f955109112c82d123d95c1cea72cbba34d4123ed",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: AUR (-1.5) vs G2 (+1.5)",
+      "outcome": "Aurora Gaming",
+      "slug": "cs2-g2-aur1-2026-10-25-map-handicap-home-1pt5",
+      "whalePrice": 0.31,
+      "ourPrice": 0.31,
+      "shares": 322.5806451612903,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T10:24:05.029Z"
     }
   },
   "shadowClosed": [
@@ -8477,6 +8477,26 @@
       "proceeds": 151.5151515151515,
       "pnl": 51.5151515151515,
       "closedAt": "2026-10-25T10:07:25.601Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "13735349836830916995972621616670729551737406222595816132858470699751143986409",
+      "conditionId": "0xa56475c45b103e76f94f354944a40ebeb905e2ffc3a54b7e1cc4897eb641e392",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: FUT (-1.5) vs Liquid (+1.5)",
+      "outcome": "FUT Esports",
+      "slug": "cs2-fut-tl1-2026-10-25-map-handicap-away-1pt5",
+      "whalePrice": 0.4097495212,
+      "ourPrice": 0.4097495212,
+      "shares": 244.05153594112363,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T08:08:00.088Z",
+      "proceeds": 244.05153594112363,
+      "pnl": 144.05153594112363,
+      "closedAt": "2026-10-25T10:29:29.644Z"
     }
   ]
 }
