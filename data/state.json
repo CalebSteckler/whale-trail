@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792953360,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792956365,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792956596,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792957259,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792953185,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792950873,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792956560,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792957346,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792954073,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -8349,24 +8349,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T18:31:29.084Z"
     },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:85119559522805420335914395771503727449632631677628317405010224221544803268900": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
-      "conditionId": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
-      "outcomeIndex": 1,
-      "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
-      "outcome": "G2 Esports",
-      "slug": "lol-tes-g2-2026-10-25",
-      "whalePrice": 0.2,
-      "ourPrice": 0.06,
-      "shares": 1666.6666666666667,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-25T18:42:31.031Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:54949287641954727970495527675829776321290963944233443017122215153125602528873": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -9480,6 +9462,27 @@
       "proceeds": 129.87012987012986,
       "pnl": 29.87012987012986,
       "closedAt": "2026-10-25T18:46:43.712Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "85119559522805420335914395771503727449632631677628317405010224221544803268900",
+      "conditionId": "0xc99c2b274092d314bcab69f562d2faa8099dc5b4760444de4c4d634bfcd5c44e",
+      "outcomeIndex": 1,
+      "title": "LoL: Top Esports vs G2 Esports (BO1) - Worlds Group Stage",
+      "outcome": "G2 Esports",
+      "slug": "lol-tes-g2-2026-10-25",
+      "whalePrice": 0.2,
+      "ourPrice": 0.06,
+      "shares": 1666.6666666666667,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-25T18:42:31.031Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-25T19:41:45.831Z"
     }
   ]
 }
