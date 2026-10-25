@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792960143,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792960809,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792962150,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792962681,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792953716,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792949586,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792962402,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792960178
   },
   "open": {
@@ -1947,6 +1947,25 @@
       "lagS": 8,
       "rules": 2,
       "openedAt": "2026-10-25T19:57:32.613Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:30051129446975232867464299337725750907576805990947358309957306096585423437729": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "30051129446975232867464299337725750907576805990947358309957306096585423437729",
+      "conditionId": "0xee382461657355b417a3ba3f75e6de8f898a2a633157641e18d70262fc12b6f8",
+      "outcomeIndex": 0,
+      "title": "LoL: Gen.G vs LYON - Game 1 Winner",
+      "outcome": "Gen.G",
+      "slug": "lol-gen-ly-2026-10-25-game1",
+      "eventSlug": "lol-gen-ly-2026-10-25",
+      "whalePrice": 0.7344165485,
+      "whaleUsd": 14741.348500636215,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "lagS": 53,
+      "rules": 2,
+      "openedAt": "2026-10-25T21:07:35.180Z"
     }
   },
   "closed": [
@@ -8401,23 +8420,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T19:02:30.161Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:3556097236365735605483137094610257414933086857002354289322695200944196772201": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "3556097236365735605483137094610257414933086857002354289322695200944196772201",
-      "conditionId": "0x0b551a64f03155ff1341bd53ea54024480874a35dae2817b4b9859a1d0c138c1",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: paiN vs BESTIA - Map 2 Winner",
-      "outcome": "BESTIA",
-      "slug": "cs2-pain-bst-2026-10-25-game2",
-      "whalePrice": 0.6091548862,
-      "ourPrice": 0.6091548862,
-      "shares": 164.16186140082544,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T19:04:30.442Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:96290338136737470242389524731316957389601640755245360383731593855016900409732": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -9535,6 +9537,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-25T19:41:45.831Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "3556097236365735605483137094610257414933086857002354289322695200944196772201",
+      "conditionId": "0x0b551a64f03155ff1341bd53ea54024480874a35dae2817b4b9859a1d0c138c1",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: paiN vs BESTIA - Map 2 Winner",
+      "outcome": "BESTIA",
+      "slug": "cs2-pain-bst-2026-10-25-game2",
+      "whalePrice": 0.6091548862,
+      "ourPrice": 0.6091548862,
+      "shares": 164.16186140082544,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T19:04:30.442Z",
+      "proceeds": 164.16186140082544,
+      "pnl": 64.16186140082544,
+      "closedAt": "2026-10-25T21:09:47.625Z"
     }
   ]
 }
