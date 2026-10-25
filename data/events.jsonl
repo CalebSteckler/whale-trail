@@ -2600,3 +2600,11 @@
 {"t":"2026-10-25T16:00:20.534Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4–8%?","outcome":"No","note":"whale paid 0.996"}
 {"t":"2026-10-25T16:00:20.534Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by at least 12%?","outcome":"No","note":"whale paid 0.991"}
 {"t":"2026-10-25T16:00:20.534Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?","outcome":"No","note":"already $200 on brazil-presidential-election"}
+{"t":"2026-10-25T16:10:20.894Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 10%-20%?","outcome":"No","note":"already $200 on bulgaria-presidential-election"}
+{"t":"2026-10-25T16:10:20.894Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 30%-40%?","outcome":"No","note":"already $200 on bulgaria-presidential-election"}
+{"t":"2026-10-25T16:10:20.894Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by at least 30%?","outcome":"No","note":"whale paid 0.983"}
+{"t":"2026-10-25T16:10:20.895Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by less than 10%?","outcome":"No","note":"already $200 on bulgaria-presidential-election"}
+{"t":"2026-10-25T16:10:20.895Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-25T16:10:20.895Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-25T16:10:20.895Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-25T16:10:22.536Z","type":"copy","name":"Kch-Temp","title":"Colts vs. Vikings: O/U 40.5","outcome":"Over","note":"whale $30639 @0.550 -> us @0.560 (1.8% worse, 230s lag)"}
