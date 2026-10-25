@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792933143,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792935465,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792936097,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792935405,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792934475,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792935954,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792935987,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792935552,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792935989,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792891119,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -7878,23 +7878,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T13:05:15.377Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:96071877904078455869322226488423049091913636474270783237034455705887061254253": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "96071877904078455869322226488423049091913636474270783237034455705887061254253",
-      "conditionId": "0x5f48e42823b37ca44ecf4e630b350ddee7e2e22ec7b0eb365d9e705ba020c85a",
-      "outcomeIndex": 0,
-      "title": "FC Internazionale Milano vs. ACF Fiorentina: O/U 1.5",
-      "outcome": "Over",
-      "slug": "sea-int-fio-2026-10-25-total-1pt5",
-      "whalePrice": 0.4680032012805122,
-      "ourPrice": 0.4680032012805122,
-      "shares": 213.67375207346478,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T13:16:15.165Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:38310927461258927563020508025396887688249787380193911540547071417200646834355": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -7929,6 +7912,23 @@
       "note": "moved for us",
       "rules": 2,
       "openedAt": "2026-10-25T13:35:15.767Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:63424755361185170901233281121558927457624032744827678779847584269740504139135": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "63424755361185170901233281121558927457624032744827678779847584269740504139135",
+      "conditionId": "0xd05da9807740aa0f5bc9e9232daabe87a21e5012c19e283abf414f1c1651118b",
+      "outcomeIndex": 1,
+      "title": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-yashar-win-the-most-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.32,
+      "ourPrice": 0.32,
+      "shares": 312.5,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T13:49:15.888Z"
     }
   },
   "shadowClosed": [
@@ -8767,6 +8767,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-25T13:26:41.604Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "96071877904078455869322226488423049091913636474270783237034455705887061254253",
+      "conditionId": "0x5f48e42823b37ca44ecf4e630b350ddee7e2e22ec7b0eb365d9e705ba020c85a",
+      "outcomeIndex": 0,
+      "title": "FC Internazionale Milano vs. ACF Fiorentina: O/U 1.5",
+      "outcome": "Over",
+      "slug": "sea-int-fio-2026-10-25-total-1pt5",
+      "whalePrice": 0.4680032012805122,
+      "ourPrice": 0.4680032012805122,
+      "shares": 213.67375207346478,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T13:16:15.165Z",
+      "proceeds": 213.67375207346478,
+      "pnl": 113.67375207346478,
+      "closedAt": "2026-10-25T13:48:42.351Z"
     }
   ]
 }
