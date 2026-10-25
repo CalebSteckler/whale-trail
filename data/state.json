@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792951029,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792952465,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792953086,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792952361,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792949468,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792952958,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792953080,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792950873,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792952294,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792953045,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792952102,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -8182,24 +8182,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T16:10:20.895Z"
     },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:78307513614657736702734817934120948241767227568225621644689480820668502498105": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "78307513614657736702734817934120948241767227568225621644689480820668502498105",
-      "conditionId": "0x6ff00424f8a460347e8fa55037201a64d6c3eb24f323e53ab393d35969c0c935",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: FURIA vs Natus Vincere - Map 2 Winner",
-      "outcome": "Natus Vincere",
-      "slug": "cs2-furia-navi-2026-10-25-game2",
-      "whalePrice": 0.56,
-      "ourPrice": 0.67,
-      "shares": 149.25373134328356,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-25T17:02:23.717Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:38570650222615491679529784646209842741179803574298113009706955944094356222848": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -8337,6 +8319,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T18:00:28.728Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:15894149823542709327907557668312912846294342286282100338428848767977638500588": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "15894149823542709327907557668312912846294342286282100338428848767977638500588",
+      "conditionId": "0xd63e1e2db811ba09972cbac9810edcca72ffdc1d195c03547ac0be2fb7a3c3d7",
+      "outcomeIndex": 1,
+      "title": "Will Likud win 25-29 seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.78,
+      "ourPrice": 0.78,
+      "shares": 128.2051282051282,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T18:31:29.084Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:48363336280603988612943937623657599900834676634371552666346986109028055383864": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "48363336280603988612943937623657599900834676634371552666346986109028055383864",
+      "conditionId": "0xc855714184ac46005a7897c68f274147f0abf1fde791421541edb065fa65a1e4",
+      "outcomeIndex": 1,
+      "title": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-30-34-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.9649976062,
+      "ourPrice": 0.9649976062,
+      "shares": 103.62720006506893,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T18:31:29.084Z"
     }
   },
   "shadowClosed": [
@@ -9337,6 +9353,27 @@
       "proceeds": 159.4546544684162,
       "pnl": 59.45465446841621,
       "closedAt": "2026-10-25T18:01:54.224Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "78307513614657736702734817934120948241767227568225621644689480820668502498105",
+      "conditionId": "0x6ff00424f8a460347e8fa55037201a64d6c3eb24f323e53ab393d35969c0c935",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: FURIA vs Natus Vincere - Map 2 Winner",
+      "outcome": "Natus Vincere",
+      "slug": "cs2-furia-navi-2026-10-25-game2",
+      "whalePrice": 0.56,
+      "ourPrice": 0.67,
+      "shares": 149.25373134328356,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-25T17:02:23.717Z",
+      "proceeds": 149.25373134328356,
+      "pnl": 49.25373134328356,
+      "closedAt": "2026-10-25T18:24:44.227Z"
     }
   ]
 }
