@@ -2608,3 +2608,16 @@
 {"t":"2026-10-25T16:10:20.895Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"whale paid 0.992"}
 {"t":"2026-10-25T16:10:20.895Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?","outcome":"No","note":"whale paid 0.993"}
 {"t":"2026-10-25T16:10:22.536Z","type":"copy","name":"Kch-Temp","title":"Colts vs. Vikings: O/U 40.5","outcome":"Over","note":"whale $30639 @0.550 -> us @0.560 (1.8% worse, 230s lag)"}
+{"t":"2026-10-25T16:15:21.228Z","type":"skip","name":"qwen4.1.fund","title":"Will voter turnout in the 2026 Serbian parliamentary election be 62-66%?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-25T16:15:21.228Z","type":"skip","name":"qwen4.1.fund","title":"Will voter turnout in the 2026 Serbian parliamentary election be 58-62%?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-25T16:16:21.800Z","type":"skip","name":"Bigggggggg","title":"Will Student List – Students Win win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by at least 30%?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 30%-40%?","outcome":"No","note":"whale paid 0.976"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by 10%-20%?","outcome":"No","note":"whale paid 0.972"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by 20%-30%?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the 2026 Bulgarian presidential first round by at least 40%?","outcome":"No","note":"whale paid 0.994"}
+{"t":"2026-10-25T16:20:21.449Z","type":"skip","name":"qwen4.1.fund","title":"Will Andrey Gyurov win the 2026 Bulgarian presidential first round by less than 10%?","outcome":"No","note":"already $200 on bulgaria-presidential-election"}
+{"t":"2026-10-25T16:20:22.007Z","type":"copy","name":"Kch-Temp","title":"Browns vs. Titans","outcome":"Titans","note":"whale $360000 @0.450 -> us @0.460 (2.2% worse, 206s lag)"}
+{"t":"2026-10-25T16:20:22.179Z","type":"copy","name":"Kch-Temp","title":"Spread: Panthers (-2.5)","outcome":"Panthers","note":"whale $216000 @0.540 -> us @0.540 (0.0% better, 67s lag)"}
+{"t":"2026-10-25T16:22:40.443Z","type":"close","name":"Kch-Temp","title":"Will Genoa CFC win on 2026-10-25?","outcome":"Yes","note":"+$127.27 (resolved WIN)"}
