@@ -1,16 +1,16 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792887303,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792887444,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792887717,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792887974,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792887455,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792886894,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792887897,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792887650,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792867622,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792886894,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792887864,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792876050,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -1719,25 +1719,6 @@
       "lagS": 141,
       "rules": 2,
       "openedAt": "2026-10-24T18:50:42.409Z"
-    },
-    "0x924379a79c64b77ad5816ad362122a5f6228658e:45608724355967228363330066955556198036697423576891899381502328628698134078942": {
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "45608724355967228363330066955556198036697423576891899381502328628698134078942",
-      "conditionId": "0xb83258d53be5c25e3827b5a4d1cdf9cc8ecf4f02d475919de41b5cc13594497e",
-      "outcomeIndex": 0,
-      "title": "Spread: Ohio (-10.5)",
-      "outcome": "Ohio",
-      "slug": "cfb-emich-ohio-2026-10-24-spread-home-10pt5",
-      "eventSlug": "cfb-emich-ohio-2026-10-24",
-      "whalePrice": 0.48999999999999994,
-      "whaleUsd": 72291.3562,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "lagS": 55,
-      "rules": 2,
-      "openedAt": "2026-10-24T18:55:43.153Z"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:12972183694776856517378634879501709915001116611116827712475548366106177177382": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -6189,6 +6170,29 @@
       "pnl": -100,
       "closedAt": "2026-10-25T00:11:01.871Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "45608724355967228363330066955556198036697423576891899381502328628698134078942",
+      "conditionId": "0xb83258d53be5c25e3827b5a4d1cdf9cc8ecf4f02d475919de41b5cc13594497e",
+      "outcomeIndex": 0,
+      "title": "Spread: Ohio (-10.5)",
+      "outcome": "Ohio",
+      "slug": "cfb-emich-ohio-2026-10-24-spread-home-10pt5",
+      "eventSlug": "cfb-emich-ohio-2026-10-24",
+      "whalePrice": 0.48999999999999994,
+      "whaleUsd": 72291.3562,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "lagS": 55,
+      "rules": 2,
+      "openedAt": "2026-10-24T18:55:43.153Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-25T00:22:03.219Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -7280,24 +7284,6 @@
       "rules": 2,
       "openedAt": "2026-10-24T22:31:47.187Z"
     },
-    "drift:0x676c1bb692c76b57b06f1b93817515acfa5ce139:89664159307842411553173774617685030354143278654278817911428225484971177777867": {
-      "reason": "drift",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
-      "conditionId": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
-      "outcomeIndex": 1,
-      "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
-      "outcome": "Gen.G",
-      "slug": "lol-hle1-gen-2026-10-24",
-      "whalePrice": 0.6460760405259082,
-      "ourPrice": 0.73,
-      "shares": 136.986301369863,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-24T22:38:49.764Z"
-    },
     "longdated:0xfbedb045813457be883ad83dd1078e88a2a1a665:37090128566507509913630589460372620352013766554886380785463533062224343545231": {
       "reason": "longdated",
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -8022,6 +8008,27 @@
       "proceeds": 142.85714285714286,
       "pnl": 42.85714285714286,
       "closedAt": "2026-10-24T22:32:06.350Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "89664159307842411553173774617685030354143278654278817911428225484971177777867",
+      "conditionId": "0xd7f88d467b2af813391fa4e994988fd624f2d220c1130dc58ef83b872d476d72",
+      "outcomeIndex": 1,
+      "title": "LoL: Hanwha Life Esports vs Gen.G (BO1) - Worlds Group Stage",
+      "outcome": "Gen.G",
+      "slug": "lol-hle1-gen-2026-10-24",
+      "whalePrice": 0.6460760405259082,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-24T22:38:49.764Z",
+      "proceeds": 136.986301369863,
+      "pnl": 36.986301369863014,
+      "closedAt": "2026-10-25T00:22:08.105Z"
     }
   ]
 }
