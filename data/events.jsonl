@@ -2420,3 +2420,7 @@
 {"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 14°C on October 18?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 17°C on October 18?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 18°C on October 18?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-25T08:43:01.441Z","type":"copy","name":"Kch-Temp","title":"Spread: Toulouse FC (-1.5)","outcome":"ES Troyes AC","note":"whale $5239 @0.610 -> us @0.620 (1.7% worse, 127s lag)"}
+{"t":"2026-10-25T08:43:01.629Z","type":"copy","name":"Kch-Temp","title":"Will Toulouse FC win on 2026-10-24?","outcome":"No","note":"whale $6465 @0.369 -> us @0.380 (2.9% worse, 115s lag)"}
+{"t":"2026-10-25T08:50:00.674Z","type":"skip","name":"qwen4.1.fund","title":"Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
+{"t":"2026-10-25T08:50:00.973Z","type":"skip","name":"Bigggggggg","title":"Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?","outcome":"No","note":"already $200 on serbia-parliamentary-election"}
