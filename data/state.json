@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792898648,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792905578,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792906575,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
@@ -7537,6 +7537,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T02:19:56.434Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:72820619922053432516748905329266890906103969024802768151634670763988243600546": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "72820619922053432516748905329266890906103969024802768151634670763988243600546",
+      "conditionId": "0x910aabbfae28b3569929c31fb5461f4db13f7ddd427bdee1e696d313125838e3",
+      "outcomeIndex": 1,
+      "title": "Will Puma Shen win the next Taipei Mayor election?",
+      "outcome": "No",
+      "slug": "will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
+      "whalePrice": 0.627,
+      "ourPrice": 0.627,
+      "shares": 159.48963317384369,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T05:32:03.481Z"
     }
   },
   "shadowClosed": [

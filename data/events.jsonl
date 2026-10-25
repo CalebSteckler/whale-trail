@@ -2378,3 +2378,4 @@
 {"t":"2026-10-25T04:58:11.569Z","type":"close","name":"DelidelaDele","title":"Will San Diego FC win on 2026-10-24?","outcome":"No","note":"+$72.41 (resolved WIN)"}
 {"t":"2026-10-25T04:58:11.705Z","type":"close","name":"DelidelaDele","title":"Will Seattle Sounders FC win on 2026-10-24?","outcome":"Yes","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-25T04:58:11.844Z","type":"close","name":"para-Vision","title":"Red Wings vs. Flames","outcome":"Red Wings","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-25T05:32:03.480Z","type":"skip","name":"qwen4.1.fund","title":"Will Puma Shen win the next Taipei Mayor election?","outcome":"No","note":"already $200 on taipei-mayor-election"}
