@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792937463,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792938893,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792939631,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792862271,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792939013,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792939421,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792938959,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792937760,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792939805,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792937082,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792936394,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792919724,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792934121
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792939896
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -7880,23 +7880,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T12:23:08.146Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:61334500658524636669091215195275824769764792631268698724395072650444387318630": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "61334500658524636669091215195275824769764792631268698724395072650444387318630",
-      "conditionId": "0xb64c138c7faf4019fb0806991ac48ad61789146dac2503bc4418147b99007c58",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
-      "outcome": "Aurora Gaming",
-      "slug": "cs2-g2-aur1-2026-10-25-game1",
-      "whalePrice": 0.6459106979,
-      "ourPrice": 0.6459106979,
-      "shares": 154.82016372406022,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T13:05:15.377Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:38310927461258927563020508025396887688249787380193911540547071417200646834355": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -7913,24 +7896,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T13:29:14.874Z"
-    },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:98501524778956026916795658938100244753726105010894653776136622586278525101850": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "98501524778956026916795658938100244753726105010894653776136622586278525101850",
-      "conditionId": "0x0c9aab6d98b2f75cab1b5e996b78ef87e124b0657fc63731fbe1494130d3b8ff",
-      "outcomeIndex": 1,
-      "title": "Dota 2: Team Yandex vs 1win - Game 1 Winner",
-      "outcome": "1win",
-      "slug": "dota2-ty-1win-2026-10-25-game1",
-      "whalePrice": 0.2,
-      "ourPrice": 0.18,
-      "shares": 555.5555555555555,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-25T13:35:15.767Z"
     },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:63424755361185170901233281121558927457624032744827678779847584269740504139135": {
       "reason": "topic",
@@ -7949,24 +7914,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T13:49:15.888Z"
     },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:70417758920010279528623567468066009100979034616267885582145477855909116265538": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "70417758920010279528623567468066009100979034616267885582145477855909116265538",
-      "conditionId": "0xb64c138c7faf4019fb0806991ac48ad61789146dac2503bc4418147b99007c58",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
-      "outcome": "G2",
-      "slug": "cs2-g2-aur1-2026-10-25-game1",
-      "whalePrice": 0.3498133646,
-      "ourPrice": 0.19000000000000003,
-      "shares": 526.3157894736842,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-25T13:55:16.719Z"
-    },
     "topic:0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:30630994248667897740988010928640156931882346081873066002335460180076741328029": {
       "reason": "topic",
       "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
@@ -7983,6 +7930,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T14:06:16.702Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:69643993488596857953910691650438952345889079553212671260214717315893290123953": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "69643993488596857953910691650438952345889079553212671260214717315893290123953",
+      "conditionId": "0x8de826ac319fa24194fc316d8c5bf77a8caeea7d33cd1e8a0c5ed1090ba3d766",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: G2 vs Aurora Gaming - Map 2 Winner",
+      "outcome": "Aurora Gaming",
+      "slug": "cs2-g2-aur1-2026-10-25-game2",
+      "whalePrice": 0.2086238774,
+      "ourPrice": 0.2086238774,
+      "shares": 479.3315187420632,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T14:52:19.653Z"
     }
   },
   "shadowClosed": [
@@ -8841,6 +8805,68 @@
       "proceeds": 213.67375207346478,
       "pnl": 113.67375207346478,
       "closedAt": "2026-10-25T13:48:42.351Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "61334500658524636669091215195275824769764792631268698724395072650444387318630",
+      "conditionId": "0xb64c138c7faf4019fb0806991ac48ad61789146dac2503bc4418147b99007c58",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
+      "outcome": "Aurora Gaming",
+      "slug": "cs2-g2-aur1-2026-10-25-game1",
+      "whalePrice": 0.6459106979,
+      "ourPrice": 0.6459106979,
+      "shares": 154.82016372406022,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T13:05:15.377Z",
+      "proceeds": 154.82016372406022,
+      "pnl": 54.82016372406022,
+      "closedAt": "2026-10-25T14:43:43.853Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "70417758920010279528623567468066009100979034616267885582145477855909116265538",
+      "conditionId": "0xb64c138c7faf4019fb0806991ac48ad61789146dac2503bc4418147b99007c58",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
+      "outcome": "G2",
+      "slug": "cs2-g2-aur1-2026-10-25-game1",
+      "whalePrice": 0.3498133646,
+      "ourPrice": 0.19000000000000003,
+      "shares": 526.3157894736842,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-25T13:55:16.719Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-25T14:43:43.853Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "98501524778956026916795658938100244753726105010894653776136622586278525101850",
+      "conditionId": "0x0c9aab6d98b2f75cab1b5e996b78ef87e124b0657fc63731fbe1494130d3b8ff",
+      "outcomeIndex": 1,
+      "title": "Dota 2: Team Yandex vs 1win - Game 1 Winner",
+      "outcome": "1win",
+      "slug": "dota2-ty-1win-2026-10-25-game1",
+      "whalePrice": 0.2,
+      "ourPrice": 0.18,
+      "shares": 555.5555555555555,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-25T13:35:15.767Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-25T14:43:44.111Z"
     }
   ]
 }
