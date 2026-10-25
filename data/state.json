@@ -1,12 +1,12 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792852476,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792950063,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792950029,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792950665,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792950624,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792949840,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792950570,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792949468,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792892634,
@@ -17,7 +17,7 @@
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792945155,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792948847,
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792950098,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792949586,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792946207
   },
@@ -2023,25 +2023,6 @@
       "lagS": 291,
       "rules": 2,
       "openedAt": "2026-10-25T16:46:23.111Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:74585335571137206686048551414191818609594858103439866114776818775786802886390": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "74585335571137206686048551414191818609594858103439866114776818775786802886390",
-      "conditionId": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
-      "outcomeIndex": 1,
-      "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
-      "outcome": "Invictus Gaming",
-      "slug": "lol-hle1-ig1-2026-10-25",
-      "eventSlug": "lol-hle1-ig1-2026-10-25",
-      "whalePrice": 0.30447024006939305,
-      "whaleUsd": 954.7456,
-      "ourPrice": 0.29,
-      "shares": 344.82758620689657,
-      "stake": 100,
-      "lagS": 102,
-      "rules": 2,
-      "openedAt": "2026-10-25T17:22:24.518Z"
     }
   },
   "closed": [
@@ -6796,6 +6777,29 @@
       "pnl": 127.27272727272728,
       "closedAt": "2026-10-25T16:22:40.443Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "74585335571137206686048551414191818609594858103439866114776818775786802886390",
+      "conditionId": "0xa9fc021595148ef4bf146912af0dfb31a83341eb9b74daeef0974d3af624a319",
+      "outcomeIndex": 1,
+      "title": "LoL: Hanwha Life Esports vs Invictus Gaming (BO1) - Worlds Group Stage",
+      "outcome": "Invictus Gaming",
+      "slug": "lol-hle1-ig1-2026-10-25",
+      "eventSlug": "lol-hle1-ig1-2026-10-25",
+      "whalePrice": 0.30447024006939305,
+      "whaleUsd": 954.7456,
+      "ourPrice": 0.29,
+      "shares": 344.82758620689657,
+      "stake": 100,
+      "lagS": 102,
+      "rules": 2,
+      "openedAt": "2026-10-25T17:22:24.518Z",
+      "proceeds": 317.2413793103449,
+      "pnl": 217.24137931034488,
+      "closedAt": "2026-10-25T17:47:26.047Z",
+      "note": "whale sold @0.570, we exit @0.920"
     }
   ],
   "shadow": {
@@ -8297,6 +8301,40 @@
       "note": "moved against us",
       "rules": 2,
       "openedAt": "2026-10-25T17:38:25.280Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:39327093648989475248440677391796784378243177545825434991706549573320777654762": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "39327093648989475248440677391796784378243177545825434991706549573320777654762",
+      "conditionId": "0x0a9dca54cd3c0a1075cef28fe33f25717d88cceb9e085b214ebb8ae4e4c57575",
+      "outcomeIndex": 1,
+      "title": "Will Dejan Šoškić be the next Prime Minister of Serbia?",
+      "outcome": "No",
+      "slug": "will-dejan-soskic-be-the-next-prime-minister-of-serbia",
+      "whalePrice": 0.7967623637,
+      "ourPrice": 0.7967623637,
+      "shares": 125.50793631318206,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T17:46:24.877Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:101226184178185301575746639770865679445085395472617450519014563899036010908480": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "101226184178185301575746639770865679445085395472617450519014563899036010908480",
+      "conditionId": "0x75743159df076ee110ede9e386bf9cad91df081c8bd04f3f05e5d7c141a51f33",
+      "outcomeIndex": 1,
+      "title": "Will Ilija Srdanović be the next prime minister of Serbia?",
+      "outcome": "No",
+      "slug": "will-ilija-srdanovic-be-the-next-prime-minister-of-serbia-20260629223938652",
+      "whalePrice": 0.9381136925,
+      "ourPrice": 0.9381136925,
+      "shares": 106.59688777541214,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T17:46:24.877Z"
     }
   },
   "shadowClosed": [
