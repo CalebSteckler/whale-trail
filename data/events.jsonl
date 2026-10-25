@@ -2340,3 +2340,5 @@
 {"t":"2026-10-25T01:38:53.473Z","type":"skip","name":"qwen4.1.fund","title":"Will Kylian Mbappé win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-25T01:41:54.146Z","type":"copy","name":"DelidelaDele","title":"Will San Diego FC win on 2026-10-24?","outcome":"No","note":"whale $6822 @0.570 -> us @0.580 (1.8% worse, 348s lag)"}
 {"t":"2026-10-25T01:41:54.342Z","type":"copy","name":"DelidelaDele","title":"Will Seattle Sounders FC win on 2026-10-24?","outcome":"Yes","note":"whale $2970 @0.330 -> us @0.340 (3.0% worse, 219s lag)"}
+{"t":"2026-10-25T01:53:55.108Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republicans win the Michigan Senate race in 2026?","outcome":"No","note":"already $200 on michigan-senate-election"}
+{"t":"2026-10-25T01:56:56.401Z","type":"copy","name":"para-Vision","title":"Tampa Bay Rays vs. Milwaukee Brewers","outcome":"Tampa Bay Rays","note":"whale $8846 @0.570 -> us @0.540 (5.3% better, 296s lag)"}
