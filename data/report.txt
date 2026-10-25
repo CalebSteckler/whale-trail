@@ -1,50 +1,51 @@
-Paper copies: 303 ($30300 staked) | closed 210, open 93
-Realized +$1067 | open marked to bid -$107 | total +$960
-Median price vs whale: 1.7% worse | avg detection lag 243s
-Capital tied up now: $9300 in 93 positions | peak at once $10500 | avg days locked per copy 1.5
-Wins/losses closed: 122/88
-Without the 5 best trades: -$265 (is it a strategy or a few lucky long shots?)
+Paper copies: 311 ($31100 staked) | closed 213, open 98
+Realized +$1110 | open marked to bid -$119 | total +$991
+Median price vs whale: 1.7% worse | avg detection lag 241s
+Capital tied up now: $9800 in 98 positions | peak at once $10500 | avg days locked per copy 1.5
+Wins/losses closed: 124/89
+Without the 5 best trades: -$222 (is it a strategy or a few lucky long shots?)
 
 By rules version (v2 = out of sample, frozen 2026-10-23):
   v1                          170 closed  +$1750  roi  10.3%  edge +3.3c ±3.6c
-  v2                           40 closed   -$684  roi -17.1%  edge -7.8c ±7.6c
+  v2                           43 closed   -$641  roi -14.9%  edge -6.3c ±7.3c
 
 By category:
-  sports                      106 closed  +$1167  roi  11.0%  edge +3.0c ±4.8c
-  esports                      78 closed   +$172  roi   2.2%  edge +2.2c ±5.3c
+  sports                      107 closed  +$1214  roi  11.3%  edge +3.3c ±4.8c
+  esports                      80 closed   +$168  roi   2.1%  edge +2.3c ±5.2c
   other                        24 closed   -$275  roi -11.5%  edge -10.3c ±7.1c
   politics                      2 closed     +$2  roi   1.1%  edge +1.1c ±1.2c
 
 By entry price:
-  c 50-70c                    121 closed   +$139  roi   1.1%  edge +0.8c ±4.4c
-  b 30-50c                     47 closed   +$614  roi  13.1%  edge +5.8c ±7.2c
+  c 50-70c                    123 closed   +$282  roi   2.3%  edge +1.4c ±4.4c
+  b 30-50c                     48 closed   +$514  roi  10.7%  edge +4.9c ±7.1c
   d 70-85c                     25 closed     +$7  roi   0.3%  edge -0.5c ±7.5c
   e 85c+                       15 closed   -$207  roi -13.8%  edge -11.9c ±8.6c
   a <30c                        2 closed   +$514  roi 257.1%  edge +35.5c ±50.5c
 
 By whale (benched = 20+ closed with negative edge, no longer copied):
-  Kch-Temp                    36 closed  +$763  edge +4.7c ±8.4c    |  1 open -$100
-  para-Vision                 23 closed  +$269  edge +6.0c ±10.3c   |  0 open +$0
-  THEHIGHLIFE                  7 closed  +$266  edge +25.2c ±14.9c  |  0 open +$0
+  Kch-Temp                    37 closed  +$810  edge +5.4c ±8.2c    |  5 open -$5
+  para-Vision                 24 closed  +$365  edge +7.8c ±10.1c   |  0 open +$0
+  THEHIGHLIFE                  8 closed  +$166  edge +17.6c ±15.0c  |  0 open +$0
   DelidelaDele                19 closed  +$100  edge +2.8c ±11.6c   |  0 open +$0
   Tokenn                       4 closed   +$73  edge +19.2c ±17.2c  |  0 open +$0
   gangmusic                    1 closed   +$69  edge +41.0c ±0.0c   |  0 open +$0
   bitbe                        1 closed   +$52  edge +34.0c ±0.0c   |  0 open +$0
-  SpringlyFawl                 1 closed    +$6  edge +4.3c ±0.0c    |  6 open -$11
-  zerone777                    0 closed    +$0  edge       n/a      | 23 open +$6
-  Bigggggggg                   0 closed    +$0  edge       n/a      | 17 open -$76
-  ethBELIVER                   0 closed    +$0  edge       n/a      |  2 open -$4
-  The Spirit of Ukraine>UMA    0 closed    +$0  edge       n/a      |  6 open -$6
-  defillama7                   1 closed    -$0  edge -0.1c ±0.0c    |  4 open +$23
+  SpringlyFawl                 1 closed    +$6  edge +4.3c ±0.0c    |  6 open -$9
+  zerone777                    0 closed    +$0  edge       n/a      | 23 open +$5
+  Bigggggggg                   0 closed    +$0  edge       n/a      | 17 open -$90
+  ethBELIVER                   0 closed    +$0  edge       n/a      |  2 open -$10
+  The Spirit of Ukraine>UMA    0 closed    +$0  edge       n/a      |  6 open -$1
+  WoofMaster                   0 closed    +$0  edge       n/a      |  1 open -$2
+  defillama7                   1 closed    -$0  edge -0.1c ±0.0c    |  4 open -$54
   JohnLKellyJr                61 closed   -$39  edge -1.1c ±6.1c    |  0 open +$0  BENCHED
   tiger105                    29 closed   -$64  edge -2.2c ±9.3c    |  0 open +$0  BENCHED
   thanksforplayin             14 closed   -$85  edge -5.8c ±6.5c    |  0 open +$0
-  qwen4.1.fund                13 closed  -$342  edge -18.2c ±12.5c  | 34 open +$60
+  qwen4.1.fund                13 closed  -$342  edge -18.2c ±12.5c  | 34 open +$48
 
-Skipped bets, had we taken them (70 still open, held to resolution):
+Skipped bets, had we taken them (77 still open, held to resolution):
 
 
-  benched                      20 closed   -$314  roi -15.7%  edge -1.5c ±9.8c
+  benched                      23 closed   -$101  roi  -4.4%  edge +3.4c ±9.0c
   drift (moved against us)      9 closed   +$433  roi  48.2%  edge +22.9c ±12.9c
-  drift (moved for us)          4 closed    +$20  roi   4.9%  edge +7.9c ±25.7c
+  drift (moved for us)          5 closed    -$80  roi -16.1%  edge +1.1c ±21.0c
   topic                         2 closed    -$96  roi -48.0%  edge -26.6c ±30.4c
