@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792968357,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792969283,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792960809,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792968747,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792969409,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
@@ -10,16 +10,16 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792966319,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792968170,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1792969076,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792968491,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1792953674,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792789073,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792967139,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792967090,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792968330
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792969181,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792969010,
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792968948
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1780,25 +1780,6 @@
       "lagS": 291,
       "rules": 2,
       "openedAt": "2026-10-25T16:46:23.111Z"
-    },
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508:563249919624128361730090140198325269856048598660578154979014544938244792454": {
-      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
-      "name": "DelidelaDele",
-      "asset": "563249919624128361730090140198325269856048598660578154979014544938244792454",
-      "conditionId": "0xe6a53016417a3c56071ce43c3608beccd567430b88616e71b4255dd7db90194d",
-      "outcomeIndex": 0,
-      "title": "Will CA Boca Juniors win on 2026-10-25?",
-      "outcome": "Yes",
-      "slug": "arg-ind-boc-2026-10-25-boc",
-      "eventSlug": "arg-ind-boc-2026-10-25",
-      "whalePrice": 0.44999999999999996,
-      "whaleUsd": 684.8955,
-      "ourPrice": 0.46,
-      "shares": 217.39130434782606,
-      "stake": 100,
-      "lagS": 533,
-      "rules": 2,
-      "openedAt": "2026-10-25T18:03:26.088Z"
     },
     "0x924379a79c64b77ad5816ad362122a5f6228658e:17577551731772208961500655920474843320484230964050091661842699709039013877126": {
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -6985,6 +6966,29 @@
       "pnl": -100,
       "closedAt": "2026-10-25T22:26:45.360Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "563249919624128361730090140198325269856048598660578154979014544938244792454",
+      "conditionId": "0xe6a53016417a3c56071ce43c3608beccd567430b88616e71b4255dd7db90194d",
+      "outcomeIndex": 0,
+      "title": "Will CA Boca Juniors win on 2026-10-25?",
+      "outcome": "Yes",
+      "slug": "arg-ind-boc-2026-10-25-boc",
+      "eventSlug": "arg-ind-boc-2026-10-25",
+      "whalePrice": 0.44999999999999996,
+      "whaleUsd": 684.8955,
+      "ourPrice": 0.46,
+      "shares": 217.39130434782606,
+      "stake": 100,
+      "lagS": 533,
+      "rules": 2,
+      "openedAt": "2026-10-25T18:03:26.088Z",
+      "proceeds": 217.39130434782606,
+      "pnl": 117.39130434782606,
+      "closedAt": "2026-10-25T22:59:47.775Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -8704,6 +8708,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T22:36:37.712Z"
+    },
+    "topic:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:7199079512722075794238652825256130963084141234915352110464933020220809142791": {
+      "reason": "topic",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+      "conditionId": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+      "outcomeIndex": 1,
+      "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+      "outcome": "LYON",
+      "slug": "lol-gen-ly-2026-10-25",
+      "whalePrice": 0.4345904044660526,
+      "ourPrice": 0.4345904044660526,
+      "shares": 230.10172100523528,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T22:58:40.477Z"
+    },
+    "topic:0x676c1bb692c76b57b06f1b93817515acfa5ce139:7199079512722075794238652825256130963084141234915352110464933020220809142791": {
+      "reason": "topic",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "7199079512722075794238652825256130963084141234915352110464933020220809142791",
+      "conditionId": "0x88533cb35e3b9e14e16dfd4f3d37afb1d600a7a2a07c6b9d6a3c9d9901cc8294",
+      "outcomeIndex": 1,
+      "title": "LoL: Gen.G vs LYON (BO3) - Worlds Group Stage",
+      "outcome": "LYON",
+      "slug": "lol-gen-ly-2026-10-25",
+      "whalePrice": 0.48749311590000005,
+      "ourPrice": 0.48749311590000005,
+      "shares": 205.131101831832,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T22:58:40.717Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:28427187968184237484038820857745157273985047964211010508403776602582456466334": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "28427187968184237484038820857745157273985047964211010508403776602582456466334",
+      "conditionId": "0xa0c4607a7d7c5ffe77cae5ffe47ccdc2207c8faceaaa225cf5a7de4ec93e543a",
+      "outcomeIndex": 1,
+      "title": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amapá?",
+      "outcome": "No",
+      "slug": "will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa",
+      "whalePrice": 0.8982996703461539,
+      "ourPrice": 0.8982996703461539,
+      "shares": 111.32142569023281,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T23:03:39.045Z"
     }
   },
   "shadowClosed": [
