@@ -2414,3 +2414,9 @@
 {"t":"2026-10-25T08:13:59.483Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 14°C on October 18?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-25T08:13:59.483Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 19°C or higher on October 18?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-25T08:19:00.353Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Spirit vs TYLOO - Map 1 Winner","outcome":"Spirit","note":"whale benched (negative edge)"}
+{"t":"2026-10-25T08:23:00.192Z","type":"copy","name":"Kch-Temp","title":"Will FC Barcelona win on 2026-10-25?","outcome":"Yes","note":"whale $126627 @0.590 -> us @0.590 (0.0% better, 19s lag)"}
+{"t":"2026-10-25T08:28:00.491Z","type":"copy","name":"Kch-Temp","title":"Will Real Madrid CF win on 2026-10-25?","outcome":"No","note":"whale $101381 @0.740 -> us @0.750 (1.4% worse, 219s lag)"}
+{"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 15°C on October 18?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 14°C on October 18?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 17°C on October 18?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-25T08:29:59.901Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Cape Town be 18°C on October 18?","outcome":"No","note":"whale paid 0.998"}
