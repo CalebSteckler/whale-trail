@@ -2375,3 +2375,6 @@
 {"t":"2026-10-25T04:16:00.586Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by at least 12%?","outcome":"No","note":"whale paid 0.988"}
 {"t":"2026-10-25T04:16:00.587Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"already $200 on brazil-presidential-election"}
 {"t":"2026-10-25T04:25:09.694Z","type":"close","name":"para-Vision","title":"Lightning vs. Utah","outcome":"Lightning","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-25T04:58:11.569Z","type":"close","name":"DelidelaDele","title":"Will San Diego FC win on 2026-10-24?","outcome":"No","note":"+$72.41 (resolved WIN)"}
+{"t":"2026-10-25T04:58:11.705Z","type":"close","name":"DelidelaDele","title":"Will Seattle Sounders FC win on 2026-10-24?","outcome":"Yes","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-25T04:58:11.844Z","type":"close","name":"para-Vision","title":"Red Wings vs. Flames","outcome":"Red Wings","note":"$-100.00 (resolved LOSS)"}
