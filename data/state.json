@@ -1,19 +1,19 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793052450,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793053026,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793053011,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793053326,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793053694,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793051706,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793053200,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793052254,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793052447,
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793053694,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793052842,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793021769,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
-    "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793051294,
+    "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793053418,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793017497,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793050791,
@@ -1335,24 +1335,6 @@
       "stake": 100,
       "lagS": 187,
       "openedAt": "2026-10-22T17:13:48.243Z"
-    },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:33646907796053581924204131636435558406515974105738198527559636561372776027152": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "33646907796053581924204131636435558406515974105738198527559636561372776027152",
-      "conditionId": "0x231b452b31eb94c0a28e7ea4673f182de3e6fb84fd8a767581e7259de72cedd6",
-      "outcomeIndex": 1,
-      "title": "Will \"Klara and the Sun\" Opening Weekend Box Office be between $2M and $3M?",
-      "outcome": "No",
-      "slug": "will-klara-and-the-sun-opening-weekend-box-office-be-between-2m-and-3m-20261025",
-      "eventSlug": "klara-and-the-sun-opening-weekend-box-office-20261025",
-      "whalePrice": 0.9449780000058825,
-      "whaleUsd": 803.2313000050001,
-      "ourPrice": 0.95,
-      "shares": 105.26315789473685,
-      "stake": 100,
-      "lagS": 53,
-      "openedAt": "2026-10-22T20:41:04.530Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:105412116375859456386463067772529895223931027977055063584054608854983174999392": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -7632,6 +7614,28 @@
       "pnl": -100,
       "closedAt": "2026-10-26T22:00:55.799Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "33646907796053581924204131636435558406515974105738198527559636561372776027152",
+      "conditionId": "0x231b452b31eb94c0a28e7ea4673f182de3e6fb84fd8a767581e7259de72cedd6",
+      "outcomeIndex": 1,
+      "title": "Will \"Klara and the Sun\" Opening Weekend Box Office be between $2M and $3M?",
+      "outcome": "No",
+      "slug": "will-klara-and-the-sun-opening-weekend-box-office-be-between-2m-and-3m-20261025",
+      "eventSlug": "klara-and-the-sun-opening-weekend-box-office-20261025",
+      "whalePrice": 0.9449780000058825,
+      "whaleUsd": 803.2313000050001,
+      "ourPrice": 0.95,
+      "shares": 105.26315789473685,
+      "stake": 100,
+      "lagS": 53,
+      "openedAt": "2026-10-22T20:41:04.530Z",
+      "proceeds": 105.26315789473685,
+      "pnl": 5.26315789473685,
+      "closedAt": "2026-10-26T22:22:51.334Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -9607,6 +9611,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T22:08:42.862Z"
+    },
+    "topic:0x95c6c9a6727ed203e97230dda61ab19a020e1508:590355820728038709262263471114556662767314416249580274027894691297426788248": {
+      "reason": "topic",
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "590355820728038709262263471114556662767314416249580274027894691297426788248",
+      "conditionId": "0x50193527b9fe99fe5db41000cd5d9673c699e68da3a4e73c688ca87f8a869ffb",
+      "outcomeIndex": 0,
+      "title": "Spread: CR Flamengo (-2.5)",
+      "outcome": "CR Flamengo",
+      "slug": "bra-fla-cam-2026-10-26-spread-home-2pt5",
+      "whalePrice": 0.32,
+      "ourPrice": 0.32,
+      "shares": 312.5,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T22:20:42.769Z"
     }
   },
   "shadowClosed": [
