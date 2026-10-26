@@ -1,12 +1,12 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792974441,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792977189,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792977863,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792978389,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792978488,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1792977090,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1792978467,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1792974740,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
@@ -8790,23 +8790,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T23:12:39.174Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:23643780946197842268937714124144431175550412350615501206173362379785128133921": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "23643780946197842268937714124144431175550412350615501206173362379785128133921",
-      "conditionId": "0x41a02a5f251f0b770b1cfe0ac2bf3627e6c65d2d6890ab9989bca08f68d0f0a5",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Imperial vs paiN - Map 2 Winner",
-      "outcome": "Imperial",
-      "slug": "cs2-imp11-pain-2026-10-25-game2",
-      "whalePrice": 0.6877648255567077,
-      "ourPrice": 0.6877648255567077,
-      "shares": 145.39853782003973,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T23:17:40.384Z"
-    },
     "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:88761717431262458705624146546174724182578621132378558274622385678601557355361": {
       "reason": "topic",
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -10081,6 +10064,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-26T00:51:03.381Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "23643780946197842268937714124144431175550412350615501206173362379785128133921",
+      "conditionId": "0x41a02a5f251f0b770b1cfe0ac2bf3627e6c65d2d6890ab9989bca08f68d0f0a5",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Imperial vs paiN - Map 2 Winner",
+      "outcome": "Imperial",
+      "slug": "cs2-imp11-pain-2026-10-25-game2",
+      "whalePrice": 0.6877648255567077,
+      "ourPrice": 0.6877648255567077,
+      "shares": 145.39853782003973,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T23:17:40.384Z",
+      "proceeds": 145.39853782003973,
+      "pnl": 45.398537820039735,
+      "closedAt": "2026-10-26T01:35:07.818Z"
     }
   ]
 }
