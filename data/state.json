@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793032818,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793033336,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793032868,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793032908,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793033634,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793032889,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793033367,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793032578,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793033151,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793033648,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793021769,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793024180,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793015879,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793032722
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793033427
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -8777,23 +8777,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T13:14:57.038Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:78045899344592682654459047631753230370896372627171445907949461847519795916196": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "78045899344592682654459047631753230370896372627171445907949461847519795916196",
-      "conditionId": "0xd23b8a0890be12b8562af5760d0a615e57d4d1a54b61b93cb84f476cc4c3ed2e",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: LGC (-1.5) vs Liquid (+1.5)",
-      "outcome": "Legacy",
-      "slug": "cs2-tl1-lgc-2026-10-26-map-handicap-home-1pt5",
-      "whalePrice": 0.42,
-      "ourPrice": 0.42,
-      "shares": 238.0952380952381,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T13:19:58.449Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:99846855022010129058184303651845843627713537584111760397208162650371782203731": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -8930,23 +8913,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T15:12:02.784Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:77720204970078164143675592035478748732645153073375993865475219394063580409869": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "77720204970078164143675592035478748732645153073375993865475219394063580409869",
-      "conditionId": "0x300ef64f7e662fc03316e0c406e1056ceafdcfa7c0527acd54686d41dc5dae81",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Liquid vs Legacy - Map 2 Winner",
-      "outcome": "Liquid",
-      "slug": "cs2-tl1-lgc-2026-10-26-game2",
-      "whalePrice": 0.5519278015859765,
-      "ourPrice": 0.5519278015859765,
-      "shares": 181.18311799595494,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T15:55:04.383Z"
     },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:95330850088652964045342754396500611430491328230261187321150789382210939939481": {
       "reason": "longdated",
@@ -11565,6 +11531,46 @@
       "proceeds": 150.36191768763044,
       "pnl": 50.36191768763044,
       "closedAt": "2026-10-26T16:40:34.247Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "78045899344592682654459047631753230370896372627171445907949461847519795916196",
+      "conditionId": "0xd23b8a0890be12b8562af5760d0a615e57d4d1a54b61b93cb84f476cc4c3ed2e",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: LGC (-1.5) vs Liquid (+1.5)",
+      "outcome": "Legacy",
+      "slug": "cs2-tl1-lgc-2026-10-26-map-handicap-home-1pt5",
+      "whalePrice": 0.42,
+      "ourPrice": 0.42,
+      "shares": 238.0952380952381,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T13:19:58.449Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T16:51:37.170Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "77720204970078164143675592035478748732645153073375993865475219394063580409869",
+      "conditionId": "0x300ef64f7e662fc03316e0c406e1056ceafdcfa7c0527acd54686d41dc5dae81",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Liquid vs Legacy - Map 2 Winner",
+      "outcome": "Liquid",
+      "slug": "cs2-tl1-lgc-2026-10-26-game2",
+      "whalePrice": 0.5519278015859765,
+      "ourPrice": 0.5519278015859765,
+      "shares": 181.18311799595494,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T15:55:04.383Z",
+      "proceeds": 181.18311799595494,
+      "pnl": 81.18311799595494,
+      "closedAt": "2026-10-26T16:51:38.328Z"
     }
   ]
 }
