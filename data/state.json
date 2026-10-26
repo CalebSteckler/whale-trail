@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793052450,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793054879,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793055537,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793055915,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793056079,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793055950,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793053200,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793054877,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793055888,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793054382,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793055384,
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793055819,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793056046,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793021769,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793054186,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793050791,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793053866,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793052227,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793055615,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793053656
   },
   "open": {
@@ -2031,6 +2031,25 @@
       "lagS": 44,
       "rules": 2,
       "openedAt": "2026-10-26T22:48:43.562Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:63933258587198408190051468804498023859720519614069602246546442470064606663579": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "63933258587198408190051468804498023859720519614069602246546442470064606663579",
+      "conditionId": "0xea42e2d0291355ff2fa225471536f3162498e1e94b1657383e31ca25cac19cfb",
+      "outcomeIndex": 1,
+      "title": "Kings vs. Rangers",
+      "outcome": "Rangers",
+      "slug": "nhl-lak-nyr-2026-10-26",
+      "eventSlug": "nhl-lak-nyr-2026-10-26",
+      "whalePrice": 0.55,
+      "whaleUsd": 379.071,
+      "ourPrice": 0.56,
+      "shares": 178.57142857142856,
+      "stake": 100,
+      "lagS": 209,
+      "rules": 2,
+      "openedAt": "2026-10-26T23:03:44.265Z"
     }
   },
   "closed": [
@@ -9700,6 +9719,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T22:39:42.747Z"
+    },
+    "topic:0xfbedb045813457be883ad83dd1078e88a2a1a665:111088620532234518037120406087772586039940496346205331791940213760503764823657": {
+      "reason": "topic",
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "111088620532234518037120406087772586039940496346205331791940213760503764823657",
+      "conditionId": "0x23858cc44dce48e23f754240a0a71595f38f5c66d9a0eaf612eb5a737ad1e66d",
+      "outcomeIndex": 0,
+      "title": "Will Google have the best AI model at the end of October 2026?",
+      "outcome": "Yes",
+      "slug": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
+      "whalePrice": 0.866,
+      "ourPrice": 0.866,
+      "shares": 115.47344110854503,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T23:05:44.193Z"
+    },
+    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:12972183694776856517378634879501709915001116611116827712475548366106177177382": {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "12972183694776856517378634879501709915001116611116827712475548366106177177382",
+      "conditionId": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+      "outcomeIndex": 1,
+      "title": "Will the Tampa Bay Rays win the 2026 World Series?",
+      "outcome": "No",
+      "slug": "will-the-tampa-bay-rays-win-the-2026-world-series",
+      "whalePrice": 0.8439999999999999,
+      "ourPrice": 0.8439999999999999,
+      "shares": 118.4834123222749,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T23:09:43.598Z"
     }
   },
   "shadowClosed": [
