@@ -3670,3 +3670,6 @@
 {"t":"2026-10-26T22:37:43.005Z","type":"skip","name":"ethBELIVER","title":"Will Harry Kane win the 2026 Ballon d'Or?","outcome":"Yes","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-26T22:39:42.747Z","type":"skip","name":"qwen4.1.fund","title":"Will Strait of Hormuz traffic return to normal in December?","outcome":"No","note":"resolves in 97 days"}
 {"t":"2026-10-26T22:39:42.747Z","type":"skip","name":"qwen4.1.fund","title":"Will Strait of Hormuz traffic return to normal in October?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-26T22:46:43.094Z","type":"copy","name":"DelidelaDele","title":"EC Juventude vs. Clube Náutico Capibaribe: O/U 2.5","outcome":"Over","note":"whale $2786 @0.489 -> us @0.490 (0.3% worse, 440s lag)"}
+{"t":"2026-10-26T22:48:43.562Z","type":"copy","name":"gangmusic","title":"Spread: Cowboys (-4.5)","outcome":"Eagles","note":"whale $4915 @0.520 -> us @0.520 (0.0% better, 44s lag)"}
+{"t":"2026-10-26T22:49:43.020Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israeli-legislative-election"}
