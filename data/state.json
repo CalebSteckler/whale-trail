@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793004804,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793005062,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793004731,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793004945,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793005229,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793004177,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793003304,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793005361,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793004735,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793004719,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793004095,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793001864,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793004060
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793005239
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1763,6 +1763,44 @@
       "lagS": 290,
       "rules": 2,
       "openedAt": "2026-10-26T08:08:49.725Z"
+    },
+    "0x511f9c771449162349795d17becf8b37031acbe1:62515920872894868582715018123458148292756941965969805207325571405441641724635": {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "62515920872894868582715018123458148292756941965969805207325571405441641724635",
+      "conditionId": "0xcf277aae6aa365ca371a4cf99cb4b21ba08442423695d0cb733a4c278e991f08",
+      "outcomeIndex": 1,
+      "title": "Will MOUZ Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-mouz-win-the-pgl-masters-bucharest-2026",
+      "eventSlug": "pgl-masters-bucharest-2026-winner",
+      "whalePrice": 0.91,
+      "whaleUsd": 614.25,
+      "ourPrice": 0.91,
+      "shares": 109.89010989010988,
+      "stake": 100,
+      "lagS": 132,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:51.936Z"
+    },
+    "0x511f9c771449162349795d17becf8b37031acbe1:71305948607543103106627176411933901287616551838035652815478706334177837636467": {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "71305948607543103106627176411933901287616551838035652815478706334177837636467",
+      "conditionId": "0xca7106aebedabeace02fc22938722c47b71cc212e4e9a3e51f5b374f869d1c55",
+      "outcomeIndex": 1,
+      "title": "Will BetBoom Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-betboom-win-the-pgl-masters-bucharest-2026",
+      "eventSlug": "pgl-masters-bucharest-2026-winner",
+      "whalePrice": 0.9330000000000002,
+      "whaleUsd": 629.7750000000001,
+      "ourPrice": 0.9320679320679321,
+      "shares": 107.28831725616291,
+      "stake": 100,
+      "lagS": 133,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:52.055Z"
     }
   },
   "closed": [
@@ -8291,23 +8329,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T19:27:30.931Z"
     },
-    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:88761717431262458705624146546174724182578621132378558274622385678601557355361": {
-      "reason": "topic",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "88761717431262458705624146546174724182578621132378558274622385678601557355361",
-      "conditionId": "0xaa1c1f03175c143615d4f0da301082b2d6004b0365ec5e19474b43412d246142",
-      "outcomeIndex": 0,
-      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 2–4%?",
-      "outcome": "Yes",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-2-4-specific",
-      "whalePrice": 0.7855536421444069,
-      "ourPrice": 0.7855536421444069,
-      "shares": 127.29875419712863,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T23:32:39.932Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:107100058341615662922188584176892146513896949640634110107045114316151849487685": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -8444,6 +8465,57 @@
       "note": "moved for us",
       "rules": 2,
       "openedAt": "2026-10-26T08:43:51.267Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:14970425606701760255002654818470330762229129007317419584355662088017540584244": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "14970425606701760255002654818470330762229129007317419584355662088017540584244",
+      "conditionId": "0x4bab84c610b2716090cf7080bad8dd06b71e7239d13e1f481106e8c17005230b",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Falcons Force vs KUUSAMO.gg (BO3) - European Pro League Series 11 Closed Qualifier Group D",
+      "outcome": "Falcons Force",
+      "slug": "cs2-fal-ksm-2026-10-26",
+      "whalePrice": 0.6650620152886393,
+      "ourPrice": 0.6650620152886393,
+      "shares": 150.36191768763044,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:03:53.319Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:16016053107422497503858599047750043996881899939285035936778814347246919325595": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "16016053107422497503858599047750043996881899939285035936778814347246919325595",
+      "conditionId": "0x2cac78b73f6c76896ed0c22018bd1eac4606c40cb4fd86bb37bf14cb5e0ed832",
+      "outcomeIndex": 1,
+      "title": "Will FUT Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-fut-win-the-pgl-masters-bucharest-2026",
+      "whalePrice": 0.9260000000000002,
+      "ourPrice": 0.9260000000000002,
+      "shares": 107.99136069114469,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:52.056Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:38672743320696533997128996620812638790905201280361710396227268126805664688976": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "38672743320696533997128996620812638790905201280361710396227268126805664688976",
+      "conditionId": "0x57ac5ebc341d7b44f67ceb3725b64792ebadaa3a805368a38af71548fcbe76f0",
+      "outcomeIndex": 1,
+      "title": "Will Natus Vincere Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-natus-vincere-win-the-pgl-masters-bucharest-2026",
+      "whalePrice": 0.955,
+      "ourPrice": 0.955,
+      "shares": 104.71204188481676,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:52.056Z"
     }
   },
   "shadowClosed": [
@@ -10368,6 +10440,26 @@
       "proceeds": 132.0344352318894,
       "pnl": 32.034435231889404,
       "closedAt": "2026-10-26T08:23:00.761Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "88761717431262458705624146546174724182578621132378558274622385678601557355361",
+      "conditionId": "0xaa1c1f03175c143615d4f0da301082b2d6004b0365ec5e19474b43412d246142",
+      "outcomeIndex": 0,
+      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 2–4%?",
+      "outcome": "Yes",
+      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-2-4-specific",
+      "whalePrice": 0.7855536421444069,
+      "ourPrice": 0.7855536421444069,
+      "shares": 127.29875419712863,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T23:32:39.932Z",
+      "proceeds": 127.29875419712863,
+      "pnl": 27.29875419712863,
+      "closedAt": "2026-10-26T09:07:03.818Z"
     }
   ]
 }
