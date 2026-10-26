@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793011974,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793011865,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793011878,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793012660,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793012346,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793012495,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793011074,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793010399,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793012493,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793011959,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793012730,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792968491,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793010213,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793011476,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793012076
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793012463
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1783,25 +1783,6 @@
       "lagS": 133,
       "rules": 2,
       "openedAt": "2026-10-26T09:04:52.055Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:6998761105505340261913732837452570629134568111082548943989168762409706379307": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "6998761105505340261913732837452570629134568111082548943989168762409706379307",
-      "conditionId": "0x7e9bc1e08a5f2714967a7e6f6dcf26b37f8974f703e47bd5e2b8bf1ecdfb196f",
-      "outcomeIndex": 1,
-      "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
-      "outcome": "GamerLegion",
-      "slug": "dota2-og-gl-2026-10-26-game1",
-      "eventSlug": "dota2-og-gl-2026-10-26",
-      "whalePrice": 0.51,
-      "whaleUsd": 388.314,
-      "ourPrice": 0.47,
-      "shares": 212.76595744680853,
-      "stake": 100,
-      "lagS": 266,
-      "rules": 2,
-      "openedAt": "2026-10-26T09:19:55.665Z"
     },
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139:92873805848406757374516682483764043514401887148313731744555648300729699003057": {
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -7212,6 +7193,29 @@
       "pnl": -100,
       "closedAt": "2026-10-26T09:17:52.948Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "6998761105505340261913732837452570629134568111082548943989168762409706379307",
+      "conditionId": "0x7e9bc1e08a5f2714967a7e6f6dcf26b37f8974f703e47bd5e2b8bf1ecdfb196f",
+      "outcomeIndex": 1,
+      "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+      "outcome": "GamerLegion",
+      "slug": "dota2-og-gl-2026-10-26-game1",
+      "eventSlug": "dota2-og-gl-2026-10-26",
+      "whalePrice": 0.51,
+      "whaleUsd": 388.314,
+      "ourPrice": 0.47,
+      "shares": 212.76595744680853,
+      "stake": 100,
+      "lagS": 266,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:19:55.665Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T10:58:01.511Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -8609,6 +8613,24 @@
       "note": "moved against us",
       "rules": 2,
       "openedAt": "2026-10-26T10:24:55.517Z"
+    },
+    "drift:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:38763978786837100332560651562324085154347730398504020698102691837492656329853": {
+      "reason": "drift",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "38763978786837100332560651562324085154347730398504020698102691837492656329853",
+      "conditionId": "0xc47b348fc0658c5773e4f5562a442830a4f8a5e2300613c42e4ec55a3ec4d8c4",
+      "outcomeIndex": 1,
+      "title": "Will Meta (META) close above $630 on October 26?",
+      "outcome": "No",
+      "slug": "meta-close-above-630-on-october-26-2026",
+      "whalePrice": 0.7568009517114584,
+      "ourPrice": 0.88,
+      "shares": 113.63636363636364,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-26T10:59:51.912Z"
     }
   },
   "shadowClosed": [
