@@ -3681,3 +3681,5 @@
 {"t":"2026-10-26T23:03:44.265Z","type":"copy","name":"para-Vision","title":"Kings vs. Rangers","outcome":"Rangers","note":"whale $379 @0.550 -> us @0.560 (1.8% worse, 209s lag)"}
 {"t":"2026-10-26T23:05:44.193Z","type":"skip","name":"SpringlyFawl","title":"Will Google have the best AI model at the end of October 2026?","outcome":"Yes","note":"already $200 on which-company-has"}
 {"t":"2026-10-26T23:09:43.598Z","type":"skip","name":"qwen4.1.fund","title":"Will the Tampa Bay Rays win the 2026 World Series?","outcome":"No","note":"already $200 on mlb-world-series"}
+{"t":"2026-10-26T23:26:45.632Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"US-Iran Final Nuclear Deal by October 31, 2026?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-26T23:28:56.838Z","type":"close","name":"qwen4.1.fund","title":"Will the highest temperature in Madrid be 25°C on October 26?","outcome":"No","note":"+$2.82 (resolved WIN)"}
