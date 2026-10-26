@@ -1,16 +1,16 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793006147,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793005505,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793006651,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793006831,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793007170,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793006235,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793006855,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793006310,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793006582,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793007312,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792968491,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793004095,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793006129,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793005239
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793007293
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -8420,41 +8420,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T08:25:51.762Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:937188506056026244651531421467058898762901516963752408029888715941062853108": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "937188506056026244651531421467058898762901516963752408029888715941062853108",
-      "conditionId": "0x87a85c902e711000188e24784d92a60076edce557a77ba20743edfac08379477",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: TheMongolz vs MOUZ - Map 1 Winner",
-      "outcome": "MOUZ",
-      "slug": "cs2-mglz-mouz-2026-10-26-game1",
-      "whalePrice": 0.5899257178041448,
-      "ourPrice": 0.5899257178041448,
-      "shares": 169.51286743732027,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T08:41:53.233Z"
-    },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:21467825900765301102981941361285010586098077794119628981184402812230448642353": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "21467825900765301102981941361285010586098077794119628981184402812230448642353",
-      "conditionId": "0x87a85c902e711000188e24784d92a60076edce557a77ba20743edfac08379477",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: TheMongolz vs MOUZ - Map 1 Winner",
-      "outcome": "TheMongolz",
-      "slug": "cs2-mglz-mouz-2026-10-26-game1",
-      "whalePrice": 0.54,
-      "ourPrice": 0.28341347093545993,
-      "shares": 352.8413793103448,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-26T08:43:51.267Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:14970425606701760255002654818470330762229129007317419584355662088017540584244": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -8505,6 +8470,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T09:04:52.056Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:39626795491294681575001373870746296015508407183994948138752743921827318043815": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "39626795491294681575001373870746296015508407183994948138752743921827318043815",
+      "conditionId": "0xf2b72c7dd185c3f77aecaab9b73b86ccce5e714f55ba292455471d1ff1f106e6",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Falcons Force vs KUUSAMO.gg - Map 1 Winner",
+      "outcome": "Falcons Force",
+      "slug": "cs2-fal-ksm-2026-10-26-game1",
+      "whalePrice": 0.6583421612062037,
+      "ourPrice": 0.6583421612062037,
+      "shares": 151.89669732951882,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:35:54.780Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:103659714257448986631558034916142398804656892532983141299302953015061568671910": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "103659714257448986631558034916142398804656892532983141299302953015061568671910",
+      "conditionId": "0x74c9fe573d12ef06471e2ef6b7e55cc222b0ac169c197ecd43dfc4b89f14cad0",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: TheMongolz vs MOUZ - Map 2 Winner",
+      "outcome": "MOUZ",
+      "slug": "cs2-mglz-mouz-2026-10-26-game2",
+      "whalePrice": 0.6819986541,
+      "ourPrice": 0.6819986541,
+      "shares": 146.6278553466723,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:35:54.780Z"
     }
   },
   "shadowClosed": [
@@ -10489,6 +10488,47 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-26T09:17:52.948Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "937188506056026244651531421467058898762901516963752408029888715941062853108",
+      "conditionId": "0x87a85c902e711000188e24784d92a60076edce557a77ba20743edfac08379477",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: TheMongolz vs MOUZ - Map 1 Winner",
+      "outcome": "MOUZ",
+      "slug": "cs2-mglz-mouz-2026-10-26-game1",
+      "whalePrice": 0.5899257178041448,
+      "ourPrice": 0.5899257178041448,
+      "shares": 169.51286743732027,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T08:41:53.233Z",
+      "proceeds": 169.51286743732027,
+      "pnl": 69.51286743732027,
+      "closedAt": "2026-10-26T09:29:05.911Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "21467825900765301102981941361285010586098077794119628981184402812230448642353",
+      "conditionId": "0x87a85c902e711000188e24784d92a60076edce557a77ba20743edfac08379477",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: TheMongolz vs MOUZ - Map 1 Winner",
+      "outcome": "TheMongolz",
+      "slug": "cs2-mglz-mouz-2026-10-26-game1",
+      "whalePrice": 0.54,
+      "ourPrice": 0.28341347093545993,
+      "shares": 352.8413793103448,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-26T08:43:51.267Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T09:29:05.911Z"
     }
   ]
 }
