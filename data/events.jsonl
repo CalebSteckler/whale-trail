@@ -3084,3 +3084,9 @@
 {"t":"2026-10-25T23:53:41.230Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"whale paid 0.991"}
 {"t":"2026-10-25T23:53:41.230Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.996"}
 {"t":"2026-10-25T23:53:41.230Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israeli-legislative-election"}
+{"t":"2026-10-25T23:55:39.379Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?","outcome":"Yes","note":"whale paid 0.983"}
+{"t":"2026-10-25T23:55:53.918Z","type":"close","name":"Kch-Temp","title":"Spread: Broncos (-4.5)","outcome":"Cardinals","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-25T23:55:53.934Z","type":"close","name":"para-Vision","title":"LoL: Gen.G vs LYON - Game 1 Winner","outcome":"Gen.G","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-25T23:55:53.935Z","type":"close","name":"para-Vision","title":"LoL: Gen.G vs LYON - Game 1 Winner","outcome":"LYON","note":"+$92.31 (resolved WIN)"}
+{"t":"2026-10-26T00:00:37.494Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?","outcome":"Yes","note":"whale paid 0.992"}
+{"t":"2026-10-26T00:04:39.172Z","type":"copy","name":"para-Vision","title":"Chiefs vs. Seahawks","outcome":"Seahawks","note":"whale $7127 @0.590 -> us @0.590 (0.0% better, 127s lag)"}
