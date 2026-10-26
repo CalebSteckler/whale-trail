@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793006147,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793005505,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793005934,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793006651,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793005593,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793004735,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793006235,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793006310,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793004719,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793006582,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792968491,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793004095,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793001864,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793006129,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793005239
   },
   "open": {
@@ -57,24 +57,6 @@
       "lagS": 260,
       "openedAt": "2026-10-16T20:34:19.683Z",
       "eventSlug": "ohio-senate-election-winner"
-    },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
-      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
-      "outcomeIndex": 1,
-      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
-      "outcome": "No",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
-      "eventSlug": "brazil-presidential-election-second-round-margin-of-victory",
-      "whalePrice": 0.7950748133000001,
-      "whaleUsd": 260.903799984395,
-      "ourPrice": 0.8,
-      "shares": 125,
-      "stake": 100,
-      "lagS": 195,
-      "openedAt": "2026-10-16T23:13:44.431Z"
     },
     "0xfbedb045813457be883ad83dd1078e88a2a1a665:88124433300559247959309048268928728970816174095213461359357515260826164605193": {
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -1801,6 +1783,25 @@
       "lagS": 133,
       "rules": 2,
       "openedAt": "2026-10-26T09:04:52.055Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:6998761105505340261913732837452570629134568111082548943989168762409706379307": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "6998761105505340261913732837452570629134568111082548943989168762409706379307",
+      "conditionId": "0x7e9bc1e08a5f2714967a7e6f6dcf26b37f8974f703e47bd5e2b8bf1ecdfb196f",
+      "outcomeIndex": 1,
+      "title": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+      "outcome": "GamerLegion",
+      "slug": "dota2-og-gl-2026-10-26-game1",
+      "eventSlug": "dota2-og-gl-2026-10-26",
+      "whalePrice": 0.51,
+      "whaleUsd": 388.314,
+      "ourPrice": 0.47,
+      "shares": 212.76595744680853,
+      "stake": 100,
+      "lagS": 266,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:19:55.665Z"
     }
   },
   "closed": [
@@ -7170,6 +7171,28 @@
       "pnl": 69.49152542372883,
       "closedAt": "2026-10-26T03:35:58.954Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
+      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
+      "outcomeIndex": 1,
+      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+      "outcome": "No",
+      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+      "eventSlug": "brazil-presidential-election-second-round-margin-of-victory",
+      "whalePrice": 0.7950748133000001,
+      "whaleUsd": 260.903799984395,
+      "ourPrice": 0.8,
+      "shares": 125,
+      "stake": 100,
+      "lagS": 195,
+      "openedAt": "2026-10-16T23:13:44.431Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T09:17:52.948Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -7274,23 +7297,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T16:44:13.276Z"
-    },
-    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
-      "reason": "topic",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
-      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
-      "outcomeIndex": 1,
-      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
-      "outcome": "No",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
-      "whalePrice": 0.79,
-      "ourPrice": 0.79,
-      "shares": 126.58227848101265,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T17:22:14.286Z"
     },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:99022754974273593712169107950966362381135367847817057340833124556779655646769": {
       "reason": "topic",
@@ -7903,23 +7909,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T18:02:40.029Z"
-    },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:7702054529123556587308524829273978684645661606909876729101572555242280522559": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
-      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
-      "outcomeIndex": 1,
-      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
-      "outcome": "No",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
-      "whalePrice": 0.88,
-      "ourPrice": 0.88,
-      "shares": 113.63636363636364,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-24T18:45:42.032Z"
     },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:77740376296468109233042620775325425521895874827413068707200627224591548200577": {
       "reason": "topic",
@@ -10460,6 +10449,46 @@
       "proceeds": 127.29875419712863,
       "pnl": 27.29875419712863,
       "closedAt": "2026-10-26T09:07:03.818Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
+      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
+      "outcomeIndex": 1,
+      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+      "outcome": "No",
+      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+      "whalePrice": 0.79,
+      "ourPrice": 0.79,
+      "shares": 126.58227848101265,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T17:22:14.286Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T09:17:52.948Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "7702054529123556587308524829273978684645661606909876729101572555242280522559",
+      "conditionId": "0x84837e7c004d6761827e0c1ae9e1523ac799493b6a412a2616df4b97c13f4ef2",
+      "outcomeIndex": 1,
+      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+      "outcome": "No",
+      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+      "whalePrice": 0.88,
+      "ourPrice": 0.88,
+      "shares": 113.63636363636364,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T18:45:42.032Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T09:17:52.948Z"
     }
   ]
 }
