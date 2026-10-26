@@ -3097,3 +3097,4 @@
 {"t":"2026-10-26T00:09:38.444Z","type":"skip","name":"Bigggggggg","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.989"}
 {"t":"2026-10-26T00:14:37.914Z","type":"skip","name":"qwen4.1.fund","title":"Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-26T00:14:37.914Z","type":"skip","name":"qwen4.1.fund","title":"Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4–8%?","outcome":"No","note":"whale paid 0.988"}
+{"t":"2026-10-26T00:19:38.490Z","type":"copy","name":"qwen4.1.fund","title":"Will the Republicans win the Texas Senate race in 2026?","outcome":"No","note":"whale $284 @0.630 -> us @0.640 (1.6% worse, 218s lag)"}
