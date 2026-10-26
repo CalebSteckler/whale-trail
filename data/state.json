@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1792974441,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792995311,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792995723,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1792996416,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
@@ -8304,23 +8304,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T22:33:37.725Z"
     },
-    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:64509574119415469111750008269886337749329420333348126494751470836802940503474": {
-      "reason": "topic",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "64509574119415469111750008269886337749329420333348126494751470836802940503474",
-      "conditionId": "0x20d60ad6559e9df5f8d2903f8f14bdf6447709eb01c17a9d1159d10a9f9a1b2f",
-      "outcomeIndex": 1,
-      "title": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 2%?",
-      "outcome": "No",
-      "slug": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-2-specific",
-      "whalePrice": 0.9145792951114661,
-      "ourPrice": 0.9145792951114661,
-      "shares": 109.33989052071456,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T22:33:37.725Z"
-    },
     "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:30195034105036838590874134753487767156866887835473868458975568728120571042592": {
       "reason": "topic",
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -10243,6 +10226,26 @@
       "proceeds": 106.38297872340425,
       "pnl": 6.38297872340425,
       "closedAt": "2026-10-26T05:37:54.428Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "64509574119415469111750008269886337749329420333348126494751470836802940503474",
+      "conditionId": "0x20d60ad6559e9df5f8d2903f8f14bdf6447709eb01c17a9d1159d10a9f9a1b2f",
+      "outcomeIndex": 1,
+      "title": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 2%?",
+      "outcome": "No",
+      "slug": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-2-specific",
+      "whalePrice": 0.9145792951114661,
+      "ourPrice": 0.9145792951114661,
+      "shares": 109.33989052071456,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T22:33:37.725Z",
+      "proceeds": 109.33989052071456,
+      "pnl": 9.339890520714562,
+      "closedAt": "2026-10-26T06:32:55.662Z"
     }
   ]
 }
