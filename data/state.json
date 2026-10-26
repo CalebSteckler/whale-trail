@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793038877,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793038325,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793039015,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793039837,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793039768,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793039598,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793039184,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793039562,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793037443,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793039040,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793039702,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793021769,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793039162,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793037770,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793039226,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793037584
   },
   "open": {
@@ -1916,6 +1916,25 @@
       "lagS": 144,
       "rules": 2,
       "openedAt": "2026-10-26T18:22:11.376Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:57776501333403572870998994872942449160227964630265604203666580898291198802379": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "57776501333403572870998994872942449160227964630265604203666580898291198802379",
+      "conditionId": "0x395a54059b5ae93c8bc3a75974bd774c965fa9453dfacc548de4bba42a6946d2",
+      "outcomeIndex": 0,
+      "title": "LoL: Karmine Corp vs Bilibili Gaming (BO1) - Worlds Group Stage",
+      "outcome": "Karmine Corp",
+      "slug": "lol-kc-blg-2026-10-26",
+      "eventSlug": "lol-kc-blg-2026-10-26",
+      "whalePrice": 0.38149627989600543,
+      "whaleUsd": 6538.071799969344,
+      "ourPrice": 0.39,
+      "shares": 256.4102564102564,
+      "stake": 100,
+      "lagS": 294,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:31:11.660Z"
     }
   },
   "closed": [
@@ -9179,23 +9198,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T16:35:07.900Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:68995078415446339398689151002714163752318770705207621588898276524284751525048": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "68995078415446339398689151002714163752318770705207621588898276524284751525048",
-      "conditionId": "0xc04244e415bcceb962c50914c850b093de59915ea2e44eb6e1593634ab7ad171",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: BetBoom Team vs Natus Vincere - Map 1 Winner",
-      "outcome": "Natus Vincere",
-      "slug": "cs2-bb3-navi-2026-10-26-game1",
-      "whalePrice": 0.7111826248,
-      "ourPrice": 0.7111826248,
-      "shares": 140.61085931074618,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T17:14:10.356Z"
-    },
     "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:80669706653899508046164461542300278016563929741102490621740278827790212047795": {
       "reason": "drift",
       "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
@@ -11798,6 +11800,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-26T17:57:40.995Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "68995078415446339398689151002714163752318770705207621588898276524284751525048",
+      "conditionId": "0xc04244e415bcceb962c50914c850b093de59915ea2e44eb6e1593634ab7ad171",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: BetBoom Team vs Natus Vincere - Map 1 Winner",
+      "outcome": "Natus Vincere",
+      "slug": "cs2-bb3-navi-2026-10-26-game1",
+      "whalePrice": 0.7111826248,
+      "ourPrice": 0.7111826248,
+      "shares": 140.61085931074618,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T17:14:10.356Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T18:30:42.164Z"
     }
   ]
 }
