@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793048033,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793051768,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793051493,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793052450,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793052368,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793052306,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793050940,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793050064,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793051706,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793052254,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793050689,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793050448,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793050791,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793049272,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793049320,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793052227,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793045634
   },
   "open": {
@@ -1726,25 +1726,6 @@
       "lagS": 157,
       "rules": 2,
       "openedAt": "2026-10-26T07:53:49.157Z"
-    },
-    "0x924379a79c64b77ad5816ad362122a5f6228658e:87667262907411359042266710949132752750653386554048404186439330921113890217677": {
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "87667262907411359042266710949132752750653386554048404186439330921113890217677",
-      "conditionId": "0x20736b570967ec2365bfaccce3eed63724a3048b04ce8f0c333974b179549c90",
-      "outcomeIndex": 0,
-      "title": "Will FC København win on 2026-10-26?",
-      "outcome": "Yes",
-      "slug": "den-kob-ode-2026-10-26-kob",
-      "eventSlug": "den-kob-ode-2026-10-26",
-      "whalePrice": 0.67,
-      "whaleUsd": 1368.9842,
-      "ourPrice": 0.69,
-      "shares": 144.92753623188406,
-      "stake": 100,
-      "lagS": 290,
-      "rules": 2,
-      "openedAt": "2026-10-26T08:08:49.725Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:62515920872894868582715018123458148292756941965969805207325571405441641724635": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -7609,6 +7590,29 @@
       "pnl": -100,
       "closedAt": "2026-10-26T20:42:36.061Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "87667262907411359042266710949132752750653386554048404186439330921113890217677",
+      "conditionId": "0x20736b570967ec2365bfaccce3eed63724a3048b04ce8f0c333974b179549c90",
+      "outcomeIndex": 0,
+      "title": "Will FC København win on 2026-10-26?",
+      "outcome": "Yes",
+      "slug": "den-kob-ode-2026-10-26-kob",
+      "eventSlug": "den-kob-ode-2026-10-26",
+      "whalePrice": 0.67,
+      "whaleUsd": 1368.9842,
+      "ourPrice": 0.69,
+      "shares": 144.92753623188406,
+      "stake": 100,
+      "lagS": 290,
+      "rules": 2,
+      "openedAt": "2026-10-26T08:08:49.725Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T22:00:55.799Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -9451,40 +9455,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T18:22:11.742Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:59389502782706107222746978232336908568017051378130106522806700251802032878588": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "59389502782706107222746978232336908568017051378130106522806700251802032878588",
-      "conditionId": "0xe41fd424f0429d7c295bae7220d88081facd7f8e8b43cea4cb6e9b7fd75f2326",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Nuclear TigeRES vs UNiTY esports - Map 2 Winner",
-      "outcome": "Nuclear TigeRES",
-      "slug": "cs2-ntr-unity-2026-10-26-game2",
-      "whalePrice": 0.6725053688082601,
-      "ourPrice": 0.6725053688082601,
-      "shares": 148.69769765140907,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T18:56:17.361Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:11196669272402295415793633828981123966540651159690513171083598661919651151414": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "11196669272402295415793633828981123966540651159690513171083598661919651151414",
-      "conditionId": "0x769638290aa4256e0c8f47d82b066bb61303623149012e030486e4fc70c20507",
-      "outcomeIndex": 0,
-      "title": "FC København vs. Odense BK: O/U 2.5",
-      "outcome": "Over",
-      "slug": "den-kob-ode-2026-10-26-total-2pt5",
-      "whalePrice": 0.56,
-      "ourPrice": 0.56,
-      "shares": 178.57142857142856,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T19:13:15.220Z"
-    },
     "topic:0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1:43681720319477188597878188429504394796986333625436226983885469009299707562545": {
       "reason": "topic",
       "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
@@ -9637,6 +9607,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T21:44:18.575Z"
+    },
+    "topic:0x676c1bb692c76b57b06f1b93817515acfa5ce139:98092436931366307160251143001318708932903385436359322306964625769538503027300": {
+      "reason": "topic",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "98092436931366307160251143001318708932903385436359322306964625769538503027300",
+      "conditionId": "0x420fd9373f52ca7542b3285d706aeed94a5bc7f86b98fd0066de7fcd29198ad1",
+      "outcomeIndex": 0,
+      "title": "LoL: Team Liquid vs Anyone's Legend - Game 2 Winner",
+      "outcome": "Team Liquid",
+      "slug": "lol-tl2-al-2026-10-26-game2",
+      "whalePrice": 0.7,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T22:08:42.862Z"
     }
   },
   "shadowClosed": [
@@ -12246,6 +12233,46 @@
       "proceeds": 117.64705882352942,
       "pnl": 17.64705882352942,
       "closedAt": "2026-10-26T21:26:48.759Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "59389502782706107222746978232336908568017051378130106522806700251802032878588",
+      "conditionId": "0xe41fd424f0429d7c295bae7220d88081facd7f8e8b43cea4cb6e9b7fd75f2326",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Nuclear TigeRES vs UNiTY esports - Map 2 Winner",
+      "outcome": "Nuclear TigeRES",
+      "slug": "cs2-ntr-unity-2026-10-26-game2",
+      "whalePrice": 0.6725053688082601,
+      "ourPrice": 0.6725053688082601,
+      "shares": 148.69769765140907,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:56:17.361Z",
+      "proceeds": 148.69769765140907,
+      "pnl": 48.69769765140907,
+      "closedAt": "2026-10-26T22:01:06.442Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "11196669272402295415793633828981123966540651159690513171083598661919651151414",
+      "conditionId": "0x769638290aa4256e0c8f47d82b066bb61303623149012e030486e4fc70c20507",
+      "outcomeIndex": 0,
+      "title": "FC København vs. Odense BK: O/U 2.5",
+      "outcome": "Over",
+      "slug": "den-kob-ode-2026-10-26-total-2pt5",
+      "whalePrice": 0.56,
+      "ourPrice": 0.56,
+      "shares": 178.57142857142856,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T19:13:15.220Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T22:01:06.593Z"
     }
   ]
 }
