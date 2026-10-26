@@ -3294,3 +3294,6 @@
 {"t":"2026-10-26T11:47:55.150Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: 9z vs TYLOO - Map 1 Winner","outcome":"9z","note":"whale benched (negative edge)"}
 {"t":"2026-10-26T11:55:54.630Z","type":"copy","name":"Tokenn","title":"Dota 2: OG vs GamerLegion (BO3) - PARI Universe Group A","outcome":"GamerLegion","note":"whale $420 @0.420 -> us @0.430 (2.4% worse, 226s lag)"}
 {"t":"2026-10-26T12:01:55.589Z","type":"skip","name":"para-Vision","title":"Dota 2: OG vs GamerLegion (BO3) - PARI Universe Group A","outcome":"GamerLegion","note":"already $200 on dota2-og-gl"}
+{"t":"2026-10-26T12:09:55.435Z","type":"skip","name":"JohnLKellyJr","title":"Map 2 Rounds Handicap: 9z (-3.5) vs TYLOO (+3.5)","outcome":"9z","note":"whale benched (negative edge)"}
+{"t":"2026-10-26T12:15:03.430Z","type":"close","name":"para-Vision","title":"Dota 2: OG vs GamerLegion - Game 2 Winner","outcome":"OG","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-26T12:15:55.541Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: 9z vs TYLOO - Map 2 Winner","outcome":"9z","note":"whale benched (negative edge)"}
