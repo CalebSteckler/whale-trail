@@ -3591,3 +3591,14 @@
 {"t":"2026-10-26T19:38:13.358Z","type":"skip","name":"Bigggggggg","title":"Will Lamine Yamal win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-26T19:38:13.359Z","type":"skip","name":"Bigggggggg","title":"Will Harry Kane win the 2026 Ballon d'Or?","outcome":"No","note":"already $200 on ballon-dor-winner"}
 {"t":"2026-10-26T19:38:13.359Z","type":"skip","name":"Bigggggggg","title":"Will Lionel Messi win the 2026 Ballon d'Or?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-26T19:40:13.741Z","type":"skip","name":"thanksforplayin","title":"S&P 500 (SPY) closes above $765 on October 26?","outcome":"No","note":"price moved 0.217 -> 0.519 before we saw it"}
+{"t":"2026-10-26T19:42:13.553Z","type":"skip","name":"qwen4.1.fund","title":"Will there be no head of state of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-26T19:42:13.554Z","type":"skip","name":"qwen4.1.fund","title":"Will Pete Hegseth be the leader of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-26T19:42:13.554Z","type":"skip","name":"qwen4.1.fund","title":"Will Jorge Rodríguez be the leader of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-26T19:42:13.554Z","type":"skip","name":"qwen4.1.fund","title":"Will Marco Rubio be the leader of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-26T19:42:13.554Z","type":"skip","name":"qwen4.1.fund","title":"Will Frank Donovan be the leader of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-26T19:42:13.554Z","type":"skip","name":"qwen4.1.fund","title":"Will Edmundo González be the leader of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-26T19:42:13.554Z","type":"skip","name":"qwen4.1.fund","title":"Will María Corina Machado be the leader of Venezuela end of 2026?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-26T19:45:13.976Z","type":"copy","name":"thanksforplayin","title":"S&P 500 (SPY) closes above $765 on October 26?","outcome":"No","note":"whale $320 @0.245 -> us @0.260 (6.0% worse, 335s lag)"}
+{"t":"2026-10-26T19:47:30.902Z","type":"close","name":"para-Vision","title":"LoL: Karmine Corp vs Bilibili Gaming (BO1) - Worlds Group Stage","outcome":"Bilibili Gaming","note":"+$35.14 (resolved WIN)"}
+{"t":"2026-10-26T19:47:30.903Z","type":"close","name":"para-Vision","title":"LoL: Karmine Corp vs Bilibili Gaming (BO1) - Worlds Group Stage","outcome":"Karmine Corp","note":"$-100.00 (resolved LOSS)"}
