@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793001656,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793002074,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1792995311,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793001843,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793002310,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1792942181,
@@ -10,15 +10,15 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793000558,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793001470,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793002148,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1792968491,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
-    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793001072,
+    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793001839,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1792970165,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1792972952,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793001864,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1792975409
   },
   "open": {
@@ -1744,6 +1744,25 @@
       "lagS": 157,
       "rules": 2,
       "openedAt": "2026-10-26T07:53:49.157Z"
+    },
+    "0x924379a79c64b77ad5816ad362122a5f6228658e:87667262907411359042266710949132752750653386554048404186439330921113890217677": {
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "87667262907411359042266710949132752750653386554048404186439330921113890217677",
+      "conditionId": "0x20736b570967ec2365bfaccce3eed63724a3048b04ce8f0c333974b179549c90",
+      "outcomeIndex": 0,
+      "title": "Will FC København win on 2026-10-26?",
+      "outcome": "Yes",
+      "slug": "den-kob-ode-2026-10-26-kob",
+      "eventSlug": "den-kob-ode-2026-10-26",
+      "whalePrice": 0.67,
+      "whaleUsd": 1368.9842,
+      "ourPrice": 0.69,
+      "shares": 144.92753623188406,
+      "stake": 100,
+      "lagS": 290,
+      "rules": 2,
+      "openedAt": "2026-10-26T08:08:49.725Z"
     }
   },
   "closed": [
@@ -8340,23 +8359,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T22:36:37.712Z"
     },
-    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:104771001336312319342823854102347036894544194594537767229702979517658702629767": {
-      "reason": "topic",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "104771001336312319342823854102347036894544194594537767229702979517658702629767",
-      "conditionId": "0x45c61766c485ac1318af0e579557c5cdbca24067d4d50ad064bdcf7a50d587bf",
-      "outcomeIndex": 0,
-      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 2%?",
-      "outcome": "Yes",
-      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-2-specific",
-      "whalePrice": 0.2796618782,
-      "ourPrice": 0.2796618782,
-      "shares": 357.5746563801773,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T23:12:39.174Z"
-    },
     "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:88761717431262458705624146546174724182578621132378558274622385678601557355361": {
       "reason": "topic",
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -8441,6 +8443,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T05:21:49.904Z"
+    },
+    "longdated:0x676c1bb692c76b57b06f1b93817515acfa5ce139:35018437165125254956927767138387710450173566248362420011510696931332345783539": {
+      "reason": "longdated",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "35018437165125254956927767138387710450173566248362420011510696931332345783539",
+      "conditionId": "0x2c9e595051e5c8486d78c646a67a5e145ec5db47d8bbe51380e6f7dde22215c2",
+      "outcomeIndex": 0,
+      "title": "Will GEN be number 1 on the end of year Global Power Rankings?",
+      "outcome": "Yes",
+      "slug": "will-gen-be-number-1-on-the-end-of-year-global-power-rankings-20260729165154427",
+      "whalePrice": 0.3841320278,
+      "ourPrice": 0.3841320278,
+      "shares": 260.32716035869163,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T08:09:49.891Z"
     }
   },
   "shadowClosed": [
@@ -10265,6 +10284,26 @@
       "proceeds": 109.33989052071456,
       "pnl": 9.339890520714562,
       "closedAt": "2026-10-26T06:32:55.662Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "104771001336312319342823854102347036894544194594537767229702979517658702629767",
+      "conditionId": "0x45c61766c485ac1318af0e579557c5cdbca24067d4d50ad064bdcf7a50d587bf",
+      "outcomeIndex": 0,
+      "title": "Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 2%?",
+      "outcome": "Yes",
+      "slug": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-2-specific",
+      "whalePrice": 0.2796618782,
+      "ourPrice": 0.2796618782,
+      "shares": 357.5746563801773,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T23:12:39.174Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T08:12:01.525Z"
     }
   ]
 }
