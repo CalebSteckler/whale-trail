@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793027681,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793028227,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793024885,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793027795,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793028249,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793027570,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793028189,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793026695,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793027126,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793028153,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793021769,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1792868432,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793024180,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793015879,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793027244
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793028099
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -8257,23 +8257,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T13:49:15.888Z"
     },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:110145538896931835992026784209638757739031104337076693603053840079218458735171": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "110145538896931835992026784209638757739031104337076693603053840079218458735171",
-      "conditionId": "0xac86a059dee0cd2f907c1355827877c1592f9a7be884322894cf11f8c5176bd7",
-      "outcomeIndex": 1,
-      "title": "Will Iliana Iotova win the most votes in the first round of the 2026 Bulgaria presidential election?",
-      "outcome": "No",
-      "slug": "will-iliana-iotova-win-the-most-votes-in-the-first-round-of-the-2026-bulgaria-presidential-election",
-      "whalePrice": 0.1473604602,
-      "ourPrice": 0.1473604602,
-      "shares": 678.6080870287619,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T15:50:20.432Z"
-    },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:79118149439309757267455443718734674416431762063614639186961272012854030039138": {
       "reason": "topic",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -8426,23 +8409,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-25T19:02:30.161Z"
-    },
-    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:96290338136737470242389524731316957389601640755245360383731593855016900409732": {
-      "reason": "topic",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "96290338136737470242389524731316957389601640755245360383731593855016900409732",
-      "conditionId": "0xac212c4a62a6b9ca11b8fd05914ad99759e4d198f3c2df47389226aa8ccea5f0",
-      "outcomeIndex": 1,
-      "title": "Will Andrey Gyurov win the most votes in the first round of the 2026 Bulgaria presidential election?",
-      "outcome": "No",
-      "slug": "will-andrey-gyurov-win-the-most-votes-in-the-first-round-of-the-2026-bulgaria-presidential-election",
-      "whalePrice": 0.97,
-      "ourPrice": 0.97,
-      "shares": 103.09278350515464,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-25T19:27:30.931Z"
     },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:104526794566859391085042814952967251260974275524059793655101271789052995794634": {
       "reason": "topic",
@@ -11219,6 +11185,46 @@
       "proceeds": 151.89669732951882,
       "pnl": 51.896697329518815,
       "closedAt": "2026-10-26T14:49:14.783Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "110145538896931835992026784209638757739031104337076693603053840079218458735171",
+      "conditionId": "0xac86a059dee0cd2f907c1355827877c1592f9a7be884322894cf11f8c5176bd7",
+      "outcomeIndex": 1,
+      "title": "Will Iliana Iotova win the most votes in the first round of the 2026 Bulgaria presidential election?",
+      "outcome": "No",
+      "slug": "will-iliana-iotova-win-the-most-votes-in-the-first-round-of-the-2026-bulgaria-presidential-election",
+      "whalePrice": 0.1473604602,
+      "ourPrice": 0.1473604602,
+      "shares": 678.6080870287619,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T15:50:20.432Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T15:22:15.055Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "96290338136737470242389524731316957389601640755245360383731593855016900409732",
+      "conditionId": "0xac212c4a62a6b9ca11b8fd05914ad99759e4d198f3c2df47389226aa8ccea5f0",
+      "outcomeIndex": 1,
+      "title": "Will Andrey Gyurov win the most votes in the first round of the 2026 Bulgaria presidential election?",
+      "outcome": "No",
+      "slug": "will-andrey-gyurov-win-the-most-votes-in-the-first-round-of-the-2026-bulgaria-presidential-election",
+      "whalePrice": 0.97,
+      "ourPrice": 0.97,
+      "shares": 103.09278350515464,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-25T19:27:30.931Z",
+      "proceeds": 103.09278350515464,
+      "pnl": 3.0927835051546424,
+      "closedAt": "2026-10-26T15:22:15.766Z"
     }
   ]
 }
