@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793034852,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793035686,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793036337,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793037243,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793036675,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793037227,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793036274,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793036150,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793015879,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793036382
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793037210
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -8880,23 +8880,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T14:45:00.389Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:83466177627722098930262259445077788510832608941532028504491370134395376815297": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "83466177627722098930262259445077788510832608941532028504491370134395376815297",
-      "conditionId": "0xcd26b2a23c276cc5f3f8d8cfa39d645e3d539b97bba91ce116295cc327b6335d",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Metizport vs Brute - Map 1 Winner",
-      "outcome": "Metizport",
-      "slug": "cs2-mzp-brute-2026-10-26-game1",
-      "whalePrice": 0.5987185451429266,
-      "ourPrice": 0.5987185451429266,
-      "shares": 167.0233882201326,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T15:12:02.784Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:95330850088652964045342754396500611430491328230261187321150789382210939939481": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -9134,23 +9117,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T16:35:07.900Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:36622553854061587533143296828913973748391519772253280177674525709436826145528": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "36622553854061587533143296828913973748391519772253280177674525709436826145528",
-      "conditionId": "0xe076c7daf1209ae395b024c76aa5675b80e9c9a3b56b29f8ca7080d4fcfdd84b",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: G2 vs DENDELE CS - Map 1 Winner",
-      "outcome": "G2",
-      "slug": "cs2-g2-dendel-2026-10-26-game1",
-      "whalePrice": 0.6913320920712467,
-      "ourPrice": 0.6913320920712467,
-      "shares": 144.64828285404445,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T16:40:08.912Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:68995078415446339398689151002714163752318770705207621588898276524284751525048": {
       "reason": "benched",
@@ -11612,6 +11578,46 @@
       "proceeds": 166.72349253513886,
       "pnl": 66.72349253513886,
       "closedAt": "2026-10-26T17:24:39.736Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "83466177627722098930262259445077788510832608941532028504491370134395376815297",
+      "conditionId": "0xcd26b2a23c276cc5f3f8d8cfa39d645e3d539b97bba91ce116295cc327b6335d",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Metizport vs Brute - Map 1 Winner",
+      "outcome": "Metizport",
+      "slug": "cs2-mzp-brute-2026-10-26-game1",
+      "whalePrice": 0.5987185451429266,
+      "ourPrice": 0.5987185451429266,
+      "shares": 167.0233882201326,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T15:12:02.784Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T17:57:38.976Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "36622553854061587533143296828913973748391519772253280177674525709436826145528",
+      "conditionId": "0xe076c7daf1209ae395b024c76aa5675b80e9c9a3b56b29f8ca7080d4fcfdd84b",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: G2 vs DENDELE CS - Map 1 Winner",
+      "outcome": "G2",
+      "slug": "cs2-g2-dendel-2026-10-26-game1",
+      "whalePrice": 0.6913320920712467,
+      "ourPrice": 0.6913320920712467,
+      "shares": 144.64828285404445,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T16:40:08.912Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T17:57:40.995Z"
     }
   ]
 }
