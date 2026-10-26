@@ -3602,3 +3602,4 @@
 {"t":"2026-10-26T19:45:13.976Z","type":"copy","name":"thanksforplayin","title":"S&P 500 (SPY) closes above $765 on October 26?","outcome":"No","note":"whale $320 @0.245 -> us @0.260 (6.0% worse, 335s lag)"}
 {"t":"2026-10-26T19:47:30.902Z","type":"close","name":"para-Vision","title":"LoL: Karmine Corp vs Bilibili Gaming (BO1) - Worlds Group Stage","outcome":"Bilibili Gaming","note":"+$35.14 (resolved WIN)"}
 {"t":"2026-10-26T19:47:30.903Z","type":"close","name":"para-Vision","title":"LoL: Karmine Corp vs Bilibili Gaming (BO1) - Worlds Group Stage","outcome":"Karmine Corp","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-26T19:55:14.131Z","type":"skip","name":"thanksforplayin","title":"Will Meta (META) close above $630 on October 26?","outcome":"No","note":"price moved 0.225 -> 0.950 before we saw it"}
