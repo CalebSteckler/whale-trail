@@ -1,13 +1,13 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793034852,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793035686,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793037243,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793037605,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793037677,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793037227,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793036274,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793037915,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793037443,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793036523,
@@ -18,8 +18,8 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1792972806,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793036150,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793015879,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793037210
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793037770,
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793037584
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1822,25 +1822,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T13:41:58.334Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:115451518322288348044520317289220203992417242392654762181759609730875982040087": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "115451518322288348044520317289220203992417242392654762181759609730875982040087",
-      "conditionId": "0x54a875a6be5377066f2717f27add6c8b116d173eb0186a654c022e24ab231682",
-      "outcomeIndex": 1,
-      "title": "Will Elon Musk post 90-114 tweets from October 24 to October 26, 2026?",
-      "outcome": "No",
-      "slug": "elon-musk-of-tweets-october-24-october-26-2026-90-114",
-      "eventSlug": "elon-musk-of-tweets-october-24-october-26-2026",
-      "whalePrice": 0.8500000000000001,
-      "whaleUsd": 379.9075,
-      "ourPrice": 0.85,
-      "shares": 117.64705882352942,
-      "stake": 100,
-      "lagS": 298,
-      "rules": 2,
-      "openedAt": "2026-10-26T15:07:01.228Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:105372338218115120757762389240725825151075471074063718204799860719815740569907": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -1878,6 +1859,25 @@
       "lagS": 173,
       "rules": 2,
       "openedAt": "2026-10-26T15:48:02.733Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:35884490298887308913705520208653379328000204842509957754720215868297869172357": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "35884490298887308913705520208653379328000204842509957754720215868297869172357",
+      "conditionId": "0x395a54059b5ae93c8bc3a75974bd774c965fa9453dfacc548de4bba42a6946d2",
+      "outcomeIndex": 1,
+      "title": "LoL: Karmine Corp vs Bilibili Gaming (BO1) - Worlds Group Stage",
+      "outcome": "Bilibili Gaming",
+      "slug": "lol-kc-blg-2026-10-26",
+      "eventSlug": "lol-kc-blg-2026-10-26",
+      "whalePrice": 0.72,
+      "whaleUsd": 14604.4584,
+      "ourPrice": 0.74,
+      "shares": 135.13513513513513,
+      "stake": 100,
+      "lagS": 141,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:05:11.084Z"
     }
   },
   "closed": [
@@ -7361,6 +7361,29 @@
       "pnl": 88.67924528301887,
       "closedAt": "2026-10-26T15:44:12.860Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "115451518322288348044520317289220203992417242392654762181759609730875982040087",
+      "conditionId": "0x54a875a6be5377066f2717f27add6c8b116d173eb0186a654c022e24ab231682",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 90-114 tweets from October 24 to October 26, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-24-october-26-2026-90-114",
+      "eventSlug": "elon-musk-of-tweets-october-24-october-26-2026",
+      "whalePrice": 0.8500000000000001,
+      "whaleUsd": 379.9075,
+      "ourPrice": 0.85,
+      "shares": 117.64705882352942,
+      "stake": 100,
+      "lagS": 298,
+      "rules": 2,
+      "openedAt": "2026-10-26T15:07:01.228Z",
+      "proceeds": 117.64705882352942,
+      "pnl": 17.64705882352942,
+      "closedAt": "2026-10-26T18:08:23.569Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -9152,6 +9175,23 @@
       "note": "moved for us",
       "rules": 2,
       "openedAt": "2026-10-26T17:18:09.310Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:17145915662260974915711603082373919341841104766230797575925260612867792533802": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "17145915662260974915711603082373919341841104766230797575925260612867792533802",
+      "conditionId": "0x01c34ca02d38cc946967bd38d76f1a55f2ca05b7c32f73ccc1ad751c5f3b9f3f",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: G2 vs DENDELE CS - Map 2 Winner",
+      "outcome": "G2",
+      "slug": "cs2-g2-dendel-2026-10-26-game2",
+      "whalePrice": 0.6285600609,
+      "ourPrice": 0.6285600609,
+      "shares": 159.09378629118686,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:02:11.592Z"
     }
   },
   "shadowClosed": [
