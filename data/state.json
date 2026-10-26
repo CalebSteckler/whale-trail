@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793044533,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793044506,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793045786,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793046125,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793046419,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793045739,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1792870685,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1792963602,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793045604,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793046270,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793021769,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793042606,
@@ -1897,25 +1897,6 @@
       "lagS": 144,
       "rules": 2,
       "openedAt": "2026-10-26T18:22:11.376Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:109587047087636646389396353442443727899962833641818052612440067209101234392475": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "109587047087636646389396353442443727899962833641818052612440067209101234392475",
-      "conditionId": "0x9d7165ef16f04ae0f2629beb0461a3089dc615a42bf621ac4f296c95d2f5565b",
-      "outcomeIndex": 1,
-      "title": "Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Group B",
-      "outcome": "PARIVISION",
-      "slug": "dota2-ts8-pari-2026-10-26",
-      "eventSlug": "dota2-ts8-pari-2026-10-26",
-      "whalePrice": 0.49,
-      "whaleUsd": 8182.7501,
-      "ourPrice": 0.53,
-      "shares": 188.67924528301887,
-      "stake": 100,
-      "lagS": 98,
-      "rules": 2,
-      "openedAt": "2026-10-26T19:14:13.469Z"
     },
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:53442443273091617047850796377843085190047119367607732424673044090667203072298": {
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -7487,6 +7468,29 @@
       "pnl": -100,
       "closedAt": "2026-10-26T19:47:30.903Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "109587047087636646389396353442443727899962833641818052612440067209101234392475",
+      "conditionId": "0x9d7165ef16f04ae0f2629beb0461a3089dc615a42bf621ac4f296c95d2f5565b",
+      "outcomeIndex": 1,
+      "title": "Dota 2: Team Spirit vs PARIVISION (BO3) - PARI Universe Group B",
+      "outcome": "PARIVISION",
+      "slug": "dota2-ts8-pari-2026-10-26",
+      "eventSlug": "dota2-ts8-pari-2026-10-26",
+      "whalePrice": 0.49,
+      "whaleUsd": 8182.7501,
+      "ourPrice": 0.53,
+      "shares": 188.67924528301887,
+      "stake": 100,
+      "lagS": 98,
+      "rules": 2,
+      "openedAt": "2026-10-26T19:14:13.469Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T20:20:33.097Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -9227,23 +9231,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T16:26:04.346Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:67568665384736786376690164493715252430277597360567621704581288589039523343050": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "67568665384736786376690164493715252430277597360567621704581288589039523343050",
-      "conditionId": "0x992cab226322fe0df0b655d9dee447c81cd13433c2d7840b49220669dd136002",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: G2 (-1.5) vs DENDELE CS (+1.5)",
-      "outcome": "G2",
-      "slug": "cs2-g2-dendel-2026-10-26-map-handicap-away-1pt5",
-      "whalePrice": 0.45000000000000007,
-      "ourPrice": 0.45000000000000007,
-      "shares": 222.2222222222222,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T16:35:07.900Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:27670129619626213108912772417909250054836917373961985276008181424732686448004": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -9396,23 +9383,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T19:16:13.093Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:90028597569058883032748974822665463848396937204285676101090490478622070770767": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "90028597569058883032748974822665463848396937204285676101090490478622070770767",
-      "conditionId": "0x429326ce2ed4ed916deb3aa0f68ac8d7af4a70ea988657aa98b5dcddd0fefc72",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
-      "outcome": "G2",
-      "slug": "cs2-g2-dendel-2026-10-26",
-      "whalePrice": 0.6782722759233469,
-      "ourPrice": 0.6782722759233469,
-      "shares": 147.43341803830594,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T19:19:14.417Z"
     },
     "drift:0x676c1bb692c76b57b06f1b93817515acfa5ce139:62490665206490337101567426127559935329887128270391672976056526091079772759659": {
       "reason": "drift",
@@ -12061,6 +12031,46 @@
       "proceeds": 159.09378629118686,
       "pnl": 59.09378629118686,
       "closedAt": "2026-10-26T19:25:44.621Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "67568665384736786376690164493715252430277597360567621704581288589039523343050",
+      "conditionId": "0x992cab226322fe0df0b655d9dee447c81cd13433c2d7840b49220669dd136002",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: G2 (-1.5) vs DENDELE CS (+1.5)",
+      "outcome": "G2",
+      "slug": "cs2-g2-dendel-2026-10-26-map-handicap-away-1pt5",
+      "whalePrice": 0.45000000000000007,
+      "ourPrice": 0.45000000000000007,
+      "shares": 222.2222222222222,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T16:35:07.900Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T20:20:45.417Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "90028597569058883032748974822665463848396937204285676101090490478622070770767",
+      "conditionId": "0x429326ce2ed4ed916deb3aa0f68ac8d7af4a70ea988657aa98b5dcddd0fefc72",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: G2 vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
+      "outcome": "G2",
+      "slug": "cs2-g2-dendel-2026-10-26",
+      "whalePrice": 0.6782722759233469,
+      "ourPrice": 0.6782722759233469,
+      "shares": 147.43341803830594,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T19:19:14.417Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-26T20:20:46.757Z"
     }
   ]
 }
