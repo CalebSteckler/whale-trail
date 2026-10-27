@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793105685,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793105639,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793106629,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793107371,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793107208,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793107220,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,8 +10,8 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793105757,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793106092,
-    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793105840,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793107206,
+    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793107227,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793054186,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793017497,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793064435,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793105846,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793055615,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793106618
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793107082
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -9647,40 +9647,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T10:40:59.648Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:2302948965345305220429793063001016285867994016394134084196551537519088007721": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "2302948965345305220429793063001016285867994016394134084196551537519088007721",
-      "conditionId": "0xff6f46ab7666ad8470bed1a84556537f7fde99f0ef546dbd21c43236faf47c16",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: NEMI (-1.5) vs DENDELE CS (+1.5)",
-      "outcome": "Nemiga",
-      "slug": "cs2-nemi1-dendel-2026-10-27-map-handicap-away-1pt5",
-      "whalePrice": 0.34,
-      "ourPrice": 0.34,
-      "shares": 294.11764705882354,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T10:55:01.232Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:94247890025521413810189096199230276885113501055177004532567965754873419079788": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "94247890025521413810189096199230276885113501055177004532567965754873419079788",
-      "conditionId": "0x8989cb82cb1c0888615337a3b65b935cc4f25b86732e3288e2fc79c3f5469182",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
-      "outcome": "Nemiga",
-      "slug": "cs2-nemi1-dendel-2026-10-27",
-      "whalePrice": 0.59,
-      "ourPrice": 0.59,
-      "shares": 169.49152542372883,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T10:55:01.232Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:57742256856248000050883894902521902517029635628575388314389121618186791473379": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -9766,6 +9732,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T13:12:05.507Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:23107650821956230671488913848019109501333189625905854562388315684627941513786": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "23107650821956230671488913848019109501333189625905854562388315684627941513786",
+      "conditionId": "0xb2bd1d3af0d6566e8ba98270cef59dddd7d06613cbcd2474951e94e1a4b848f8",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: FOKUS vs Nuclear TigeRES - Map 2 Winner",
+      "outcome": "Nuclear TigeRES",
+      "slug": "cs2-fokus-ntr-2026-10-27-game2",
+      "whalePrice": 0.5992332220330647,
+      "ourPrice": 0.5992332220330647,
+      "shares": 166.8799330930323,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T13:22:06.018Z"
     }
   },
   "shadowClosed": [
@@ -13057,6 +13040,46 @@
       "proceeds": 124.18349482593932,
       "pnl": 24.18349482593932,
       "closedAt": "2026-10-27T11:37:26.020Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "2302948965345305220429793063001016285867994016394134084196551537519088007721",
+      "conditionId": "0xff6f46ab7666ad8470bed1a84556537f7fde99f0ef546dbd21c43236faf47c16",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: NEMI (-1.5) vs DENDELE CS (+1.5)",
+      "outcome": "Nemiga",
+      "slug": "cs2-nemi1-dendel-2026-10-27-map-handicap-away-1pt5",
+      "whalePrice": 0.34,
+      "ourPrice": 0.34,
+      "shares": 294.11764705882354,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T10:55:01.232Z",
+      "proceeds": 294.11764705882354,
+      "pnl": 194.11764705882354,
+      "closedAt": "2026-10-27T13:16:32.418Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "94247890025521413810189096199230276885113501055177004532567965754873419079788",
+      "conditionId": "0x8989cb82cb1c0888615337a3b65b935cc4f25b86732e3288e2fc79c3f5469182",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Nemiga vs DENDELE CS (BO3) - PGL Masters Bucharest Group Stage",
+      "outcome": "Nemiga",
+      "slug": "cs2-nemi1-dendel-2026-10-27",
+      "whalePrice": 0.59,
+      "ourPrice": 0.59,
+      "shares": 169.49152542372883,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T10:55:01.232Z",
+      "proceeds": 169.49152542372883,
+      "pnl": 69.49152542372883,
+      "closedAt": "2026-10-27T13:16:32.610Z"
     }
   ]
 }
