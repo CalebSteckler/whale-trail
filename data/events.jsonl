@@ -3845,3 +3845,7 @@
 {"t":"2026-10-27T13:42:06.336Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.974"}
 {"t":"2026-10-27T13:42:06.336Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.994"}
 {"t":"2026-10-27T13:42:07.833Z","type":"skip","name":"SpringlyFawl","title":"Will Avengers: Doomsday be the top grossing movie of 2026?","outcome":"No","note":"resolves in 73 days"}
+{"t":"2026-10-27T13:47:06.676Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-27T13:47:06.676Z","type":"skip","name":"qwen4.1.fund","title":"Will Yashar win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-27T13:52:06.846Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-27T13:52:06.846Z","type":"skip","name":"qwen4.1.fund","title":"Will Yashar win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
