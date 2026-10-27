@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793099055,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793100366,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793100458,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793101026,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793101226,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793099318,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793100497,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793101026,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793067608,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793054186,
@@ -9594,23 +9594,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T09:08:56.891Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:5634128844390371706113430822138802189838775650843322137073353534887752642113": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "5634128844390371706113430822138802189838775650843322137073353534887752642113",
-      "conditionId": "0xac4f737d77e80ff0400586eb50479e8e43943bdc5808581bb8d081cf5176c8e6",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A",
-      "outcome": "B8",
-      "slug": "cs2-b8-k271-2026-10-27",
-      "whalePrice": 0.42173982420754275,
-      "ourPrice": 0.42173982420754275,
-      "shares": 237.11301200426573,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T09:59:59.206Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:102490463580015479204264073424784506498585396912395085089987661463343443525918": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -9627,23 +9610,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T09:59:59.206Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:75885537986770981107170574425528947997483673244924287414083543404619438566212": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "75885537986770981107170574425528947997483673244924287414083543404619438566212",
-      "conditionId": "0x5b0409081b831d0818385898167938124f8e99989d181f8ac6a7d334c2a803ad",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: FlyQuest vs Rooster (BO3) - DFRAG Invitational Group B",
-      "outcome": "FlyQuest",
-      "slug": "cs2-fly-rstr-2026-10-27",
-      "whalePrice": 0.8052599915968229,
-      "ourPrice": 0.8052599915968229,
-      "shares": 124.18349482593932,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T10:11:00.211Z"
     },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:39409206330527880169507414405291721950884951005340760541937649898052386499519": {
       "reason": "topic",
@@ -12946,6 +12912,46 @@
       "proceeds": 105.26315789473686,
       "pnl": 5.263157894736864,
       "closedAt": "2026-10-27T11:26:18.439Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "5634128844390371706113430822138802189838775650843322137073353534887752642113",
+      "conditionId": "0xac4f737d77e80ff0400586eb50479e8e43943bdc5808581bb8d081cf5176c8e6",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: B8 vs K27 (BO3) - Tesla Cup Group A",
+      "outcome": "B8",
+      "slug": "cs2-b8-k271-2026-10-27",
+      "whalePrice": 0.42173982420754275,
+      "ourPrice": 0.42173982420754275,
+      "shares": 237.11301200426573,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T09:59:59.206Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-27T11:37:25.651Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "75885537986770981107170574425528947997483673244924287414083543404619438566212",
+      "conditionId": "0x5b0409081b831d0818385898167938124f8e99989d181f8ac6a7d334c2a803ad",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FlyQuest vs Rooster (BO3) - DFRAG Invitational Group B",
+      "outcome": "FlyQuest",
+      "slug": "cs2-fly-rstr-2026-10-27",
+      "whalePrice": 0.8052599915968229,
+      "ourPrice": 0.8052599915968229,
+      "shares": 124.18349482593932,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T10:11:00.211Z",
+      "proceeds": 124.18349482593932,
+      "pnl": 24.18349482593932,
+      "closedAt": "2026-10-27T11:37:26.020Z"
     }
   ]
 }
