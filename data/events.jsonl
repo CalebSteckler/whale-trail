@@ -3713,3 +3713,5 @@
 {"t":"2026-10-27T01:32:50.642Z","type":"copy","name":"The Spirit of Ukraine>UMA","title":"US x Iran ceasefire continues through October 31?","outcome":"Yes","note":"whale $3266 @0.900 -> us @0.910 (1.1% worse, 494s lag)"}
 {"t":"2026-10-27T01:32:50.801Z","type":"copy","name":"The Spirit of Ukraine>UMA","title":"US announces end of Iranian blockade by October 31, 2026?","outcome":"No","note":"whale $11094 @0.960 -> us @0.960 (0.0% better, 375s lag)"}
 {"t":"2026-10-27T01:32:50.801Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"US x Iran ceasefire continues through October 24?","outcome":"Yes","note":"whale paid 0.997"}
+{"t":"2026-10-27T01:42:48.704Z","type":"skip","name":"qwen4.1.fund","title":"Will Democratic House incumbents not win in between thirteen and fifteen nominating elections in the 2026 cycle?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-27T01:47:48.908Z","type":"skip","name":"qwen4.1.fund","title":"Will Democratic House incumbents not win in between thirteen and fifteen nominating elections in the 2026 cycle?","outcome":"No","note":"whale paid 0.979"}
