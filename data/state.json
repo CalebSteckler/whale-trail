@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793058929,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793073297,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793083089,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793083533,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793080725,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793076048,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793083665,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793083419,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793081967,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793083317,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793067608,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793054186,
@@ -9492,23 +9492,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T01:06:47.681Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:67693362484685031602902821937273102535915587968938088041888174799603605996322": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "67693362484685031602902821937273102535915587968938088041888174799603605996322",
-      "conditionId": "0x47fd8303835d9108252343069ada769162976137e4e1c22b94b1cb305cd35d8a",
-      "outcomeIndex": 1,
-      "title": "Will Democratic House incumbents not win in between thirteen and fifteen nominating elections in the 2026 cycle?",
-      "outcome": "No",
-      "slug": "will-democratic-house-incumbents-not-win-in-between-thirteen-and-fifteen-nominating-elections-in-the-2026-cycle",
-      "whalePrice": 0.9575106382957447,
-      "ourPrice": 0.9575106382957447,
-      "shares": 104.43748194588014,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T01:42:48.704Z"
-    },
     "topic:0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:15290572385458522370285732869432740297199321382471116558439914335588167718663": {
       "reason": "topic",
       "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
@@ -12784,6 +12767,26 @@
       "proceeds": 106.49635936164542,
       "pnl": 6.496359361645418,
       "closedAt": "2026-10-27T06:39:12.744Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "67693362484685031602902821937273102535915587968938088041888174799603605996322",
+      "conditionId": "0x47fd8303835d9108252343069ada769162976137e4e1c22b94b1cb305cd35d8a",
+      "outcomeIndex": 1,
+      "title": "Will Democratic House incumbents not win in between thirteen and fifteen nominating elections in the 2026 cycle?",
+      "outcome": "No",
+      "slug": "will-democratic-house-incumbents-not-win-in-between-thirteen-and-fifteen-nominating-elections-in-the-2026-cycle",
+      "whalePrice": 0.9575106382957447,
+      "ourPrice": 0.9575106382957447,
+      "shares": 104.43748194588014,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T01:42:48.704Z",
+      "proceeds": 104.43748194588014,
+      "pnl": 4.437481945880137,
+      "closedAt": "2026-10-27T06:50:16.297Z"
     }
   ]
 }
