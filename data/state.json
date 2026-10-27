@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793142170,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793141699,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793142171,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793142864,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793139404,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793142476,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793137760,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793141672,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793142762,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793140184,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793131166,
@@ -1582,25 +1582,6 @@
       "lagS": 173,
       "rules": 2,
       "openedAt": "2026-10-26T15:48:02.733Z"
-    },
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:20080812763817522114984368057295018903968566225114859466879318164993555473384": {
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "20080812763817522114984368057295018903968566225114859466879318164993555473384",
-      "conditionId": "0x4125e1c457cca640a3d37bd1a71aa3f5a74e60a9e7020e81f6cb137681f1df6b",
-      "outcomeIndex": 1,
-      "title": "Will Microsoft (MSFT) close above $540 on October 27?",
-      "outcome": "No",
-      "slug": "msft-close-above-540-on-october-27-2026",
-      "eventSlug": "msft-close-above-on-october-27-2026",
-      "whalePrice": 0.71,
-      "whaleUsd": 700.06,
-      "ourPrice": 0.7099999999999999,
-      "shares": 140.84507042253523,
-      "stake": 100,
-      "lagS": 144,
-      "rules": 2,
-      "openedAt": "2026-10-26T18:22:11.376Z"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:113314550423744773607951568238874281430587441567297387737553364413695224215541": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -7891,6 +7872,29 @@
       "pnl": -18.274866666666668,
       "closedAt": "2026-10-27T22:29:48.615Z",
       "note": "whale sold @0.620, we exit @0.613"
+    },
+    {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "20080812763817522114984368057295018903968566225114859466879318164993555473384",
+      "conditionId": "0x4125e1c457cca640a3d37bd1a71aa3f5a74e60a9e7020e81f6cb137681f1df6b",
+      "outcomeIndex": 1,
+      "title": "Will Microsoft (MSFT) close above $540 on October 27?",
+      "outcome": "No",
+      "slug": "msft-close-above-540-on-october-27-2026",
+      "eventSlug": "msft-close-above-on-october-27-2026",
+      "whalePrice": 0.71,
+      "whaleUsd": 700.06,
+      "ourPrice": 0.7099999999999999,
+      "shares": 140.84507042253523,
+      "stake": 100,
+      "lagS": 144,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:22:11.376Z",
+      "proceeds": 140.84507042253523,
+      "pnl": 40.84507042253523,
+      "closedAt": "2026-10-27T23:12:57.193Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -9357,23 +9361,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T16:26:04.346Z"
     },
-    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:3182494337206006379979083481762615061870689731197553080910534962741022618426": {
-      "reason": "topic",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "3182494337206006379979083481762615061870689731197553080910534962741022618426",
-      "conditionId": "0x62d5ff3c9a46e8c1d6b40e28c25d2b684d65319f20a4f37dbdfba3f3384bb03c",
-      "outcomeIndex": 0,
-      "title": "Will Microsoft (MSFT) close above $510 on October 27?",
-      "outcome": "Yes",
-      "slug": "msft-close-above-510-on-october-27-2026",
-      "whalePrice": 0.92,
-      "ourPrice": 0.92,
-      "shares": 108.69565217391303,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T18:22:11.377Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:25172545206000541692667496253531562288536270988826888609620735617040533835056": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -9680,23 +9667,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T17:16:24.425Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:93177609308691214831227971246926549298098963298575166956022278322019371768959": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "93177609308691214831227971246926549298098963298575166956022278322019371768959",
-      "conditionId": "0x1dfaaefaa54fbd667cd84de9b27731bda2f07e567e28bf7a12410704a4d3993a",
-      "outcomeIndex": 1,
-      "title": "Will there be 4 earthquakes of 6.5 or above magnitude worldwide?",
-      "outcome": "No",
-      "slug": "will-there-be-4-earthquakes-of-6pt5-or-above-magnitude-worldwide-oct19-25",
-      "whalePrice": 0.9271807821818698,
-      "ourPrice": 0.9271807821818698,
-      "shares": 107.85383166018279,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T17:50:25.686Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:31138898369469874928274340285238010064867772223512705244333070652322143457497": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -9900,6 +9870,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T22:08:47.250Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:65331923130563696431404700503186397058780298200487967800190302554654140679472": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "65331923130563696431404700503186397058780298200487967800190302554654140679472",
+      "conditionId": "0x78b3aec55f914a149fc110ffd4dcfb008ff94e2df4a451b396f7c14a572d6aa7",
+      "outcomeIndex": 1,
+      "title": "Will Likud win 35 or more seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-35-or-more-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.958761306631703,
+      "ourPrice": 0.958761306631703,
+      "shares": 104.30124714911324,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T23:14:49.800Z"
     }
   },
   "shadowClosed": [
@@ -13734,6 +13721,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-27T21:45:01.353Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "3182494337206006379979083481762615061870689731197553080910534962741022618426",
+      "conditionId": "0x62d5ff3c9a46e8c1d6b40e28c25d2b684d65319f20a4f37dbdfba3f3384bb03c",
+      "outcomeIndex": 0,
+      "title": "Will Microsoft (MSFT) close above $510 on October 27?",
+      "outcome": "Yes",
+      "slug": "msft-close-above-510-on-october-27-2026",
+      "whalePrice": 0.92,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:22:11.377Z",
+      "proceeds": 108.69565217391303,
+      "pnl": 8.695652173913032,
+      "closedAt": "2026-10-27T23:13:02.700Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "93177609308691214831227971246926549298098963298575166956022278322019371768959",
+      "conditionId": "0x1dfaaefaa54fbd667cd84de9b27731bda2f07e567e28bf7a12410704a4d3993a",
+      "outcomeIndex": 1,
+      "title": "Will there be 4 earthquakes of 6.5 or above magnitude worldwide?",
+      "outcome": "No",
+      "slug": "will-there-be-4-earthquakes-of-6pt5-or-above-magnitude-worldwide-oct19-25",
+      "whalePrice": 0.9271807821818698,
+      "ourPrice": 0.9271807821818698,
+      "shares": 107.85383166018279,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T17:50:25.686Z",
+      "proceeds": 107.85383166018279,
+      "pnl": 7.8538316601827916,
+      "closedAt": "2026-10-27T23:13:03.182Z"
     }
   ]
 }
