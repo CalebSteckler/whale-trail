@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793123943,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793123168,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793123940,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793124486,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793124611,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -9668,23 +9668,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T13:42:07.833Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:19647542945626980436675500073670506755583561349095649088097108548626089960563": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "19647542945626980436675500073670506755583561349095649088097108548626089960563",
-      "conditionId": "0x668ea68a752eb0b511781868c62cfd2bd4bdf6faf7e6f8e92d344222c79232ed",
-      "outcomeIndex": 1,
-      "title": "Will Elon Musk post 340-359 tweets from October 20 to October 27, 2026?",
-      "outcome": "No",
-      "slug": "elon-musk-of-tweets-october-20-october-27-2026-340-359",
-      "whalePrice": 0.8975849879680531,
-      "ourPrice": 0.8975849879680531,
-      "shares": 111.41006293607843,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T14:12:07.354Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:69062882709529625116371665722579195218088693128449613121797117346817387726846": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -9786,6 +9769,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T18:00:25.997Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:94476436683794962312325483029388966223314896883087390545315075158530856004904": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "94476436683794962312325483029388966223314896883087390545315075158530856004904",
+      "conditionId": "0x461da5bf6bc117cefdc6f00141ea1164da85e1e4459b97479fe48116b9a66cc6",
+      "outcomeIndex": 1,
+      "title": "Will Benjamin Netanyahu receive the first mandate to form a government after the 2026 Israeli election?",
+      "outcome": "No",
+      "slug": "will-benjamin-netanyahu-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
+      "whalePrice": 0.7501882142678572,
+      "ourPrice": 0.7501882142678572,
+      "shares": 133.29988141388566,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T18:05:26.010Z"
     }
   },
   "shadowClosed": [
@@ -13359,6 +13359,26 @@
       "proceeds": 117.70239095649174,
       "pnl": 17.70239095649174,
       "closedAt": "2026-10-27T17:41:40.986Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "19647542945626980436675500073670506755583561349095649088097108548626089960563",
+      "conditionId": "0x668ea68a752eb0b511781868c62cfd2bd4bdf6faf7e6f8e92d344222c79232ed",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 340-359 tweets from October 20 to October 27, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-20-october-27-2026-340-359",
+      "whalePrice": 0.8975849879680531,
+      "ourPrice": 0.8975849879680531,
+      "shares": 111.41006293607843,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T14:12:07.354Z",
+      "proceeds": 111.41006293607843,
+      "pnl": 11.410062936078432,
+      "closedAt": "2026-10-27T18:14:40.917Z"
     }
   ]
 }
