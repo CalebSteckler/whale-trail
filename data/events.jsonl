@@ -3906,3 +3906,6 @@
 {"t":"2026-10-27T16:54:23.384Z","type":"skip","name":"qwen4.1.fund","title":"Will Yashar win the third-most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.994"}
 {"t":"2026-10-27T17:16:24.424Z","type":"skip","name":"Kch-Temp","title":"Nets vs. Celtics","outcome":"Celtics","note":"whale benched (negative edge)"}
 {"t":"2026-10-27T17:33:26.023Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Envy vs GamerLegion - Map 1 Winner","outcome":"Envy","note":"whale benched (negative edge)"}
+{"t":"2026-10-27T17:50:25.685Z","type":"skip","name":"qwen4.1.fund","title":"Will there be 4 earthquakes of 6.5 or above magnitude worldwide?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-27T17:50:25.686Z","type":"skip","name":"qwen4.1.fund","title":"Will there be more than 5 earthquakes of 6.5 or above magnitude worldwide?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-27T17:54:27.191Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Envy vs GamerLegion - Map 1 Winner","outcome":"Envy","note":"whale benched (negative edge)"}
