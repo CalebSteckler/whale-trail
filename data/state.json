@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793131664,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793132351,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793131154,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793131829,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793132432,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793132021,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793132561,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793129724,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
@@ -9723,23 +9723,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T18:05:26.010Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:38900943189183269438090165998980637325962984757723098309172508214392006051558": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "38900943189183269438090165998980637325962984757723098309172508214392006051558",
-      "conditionId": "0x8522c7e3ba8c165bc81fd357bf75d9d4a48555b30ea339901bdb77e06dbfd2a5",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Envy vs GamerLegion - Map 2 Winner",
-      "outcome": "GamerLegion",
-      "slug": "cs2-envy-gl1-2026-10-27-game2",
-      "whalePrice": 0.5335120908479176,
-      "ourPrice": 0.5335120908479176,
-      "shares": 187.43717661781332,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T18:41:28.830Z"
-    },
     "topic:0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1:112833774316104951988690985316609270957261648365641646812446420693891587882096": {
       "reason": "topic",
       "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
@@ -13609,6 +13592,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-27T20:06:00.218Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "38900943189183269438090165998980637325962984757723098309172508214392006051558",
+      "conditionId": "0x8522c7e3ba8c165bc81fd357bf75d9d4a48555b30ea339901bdb77e06dbfd2a5",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Envy vs GamerLegion - Map 2 Winner",
+      "outcome": "GamerLegion",
+      "slug": "cs2-envy-gl1-2026-10-27-game2",
+      "whalePrice": 0.5335120908479176,
+      "ourPrice": 0.5335120908479176,
+      "shares": 187.43717661781332,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T18:41:28.830Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-27T20:16:58.652Z"
     }
   ]
 }
