@@ -3743,3 +3743,5 @@
 {"t":"2026-10-27T04:05:00.907Z","type":"close","name":"qwen4.1.fund","title":"Will Brad Bradford win the 2026 Toronto mayoral election?","outcome":"No","note":"+$84.13 (resolved WIN)"}
 {"t":"2026-10-27T04:05:03.044Z","type":"close","name":"SpringlyFawl","title":"Will Olivia Chow win the 2026 Toronto mayoral election?","outcome":"Yes","note":"+$49.25 (resolved WIN)"}
 {"t":"2026-10-27T04:05:04.030Z","type":"close","name":"DelidelaDele","title":"EC Juventude vs. Clube Náutico Capibaribe: O/U 2.5","outcome":"Over","note":"+$104.08 (resolved WIN)"}
+{"t":"2026-10-27T04:34:56.002Z","type":"skip","name":"qwen4.1.fund","title":"Will Together win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-27T04:34:56.002Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win the most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
