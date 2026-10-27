@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793113202,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793115068,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793116331,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793116446,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793117009,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,16 +10,16 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793114162,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793115942,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793116511,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793107227,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793054186,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793017497,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793115029,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793111811,
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793116262,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793055615,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793113409
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793116395
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -9668,23 +9668,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T12:26:03.408Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:23107650821956230671488913848019109501333189625905854562388315684627941513786": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "23107650821956230671488913848019109501333189625905854562388315684627941513786",
-      "conditionId": "0xb2bd1d3af0d6566e8ba98270cef59dddd7d06613cbcd2474951e94e1a4b848f8",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: FOKUS vs Nuclear TigeRES - Map 2 Winner",
-      "outcome": "Nuclear TigeRES",
-      "slug": "cs2-fokus-ntr-2026-10-27-game2",
-      "whalePrice": 0.5992332220330647,
-      "ourPrice": 0.5992332220330647,
-      "shares": 166.8799330930323,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T13:22:06.018Z"
-    },
     "longdated:0xfbedb045813457be883ad83dd1078e88a2a1a665:95857328899006698426560952919509163544152315663112942013127648104914930931076": {
       "reason": "longdated",
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -9769,6 +9752,24 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T15:01:21.360Z"
+    },
+    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:55961570312435268371594325623158043201989116034774398856239962099277803824179": {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "55961570312435268371594325623158043201989116034774398856239962099277803824179",
+      "conditionId": "0x12eb344d93cfbc4e22d1ceaf5ec30c46beccef6c9645f8ef971252e7cd6d08b8",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Spirit vs MOUZ - Map 2 Winner",
+      "outcome": "MOUZ",
+      "slug": "cs2-ts7-mouz-2026-10-27-game2",
+      "whalePrice": 0.52,
+      "ourPrice": 0.8,
+      "shares": 125,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-27T15:56:22.614Z"
     }
   },
   "shadowClosed": [
@@ -13221,6 +13222,26 @@
       "proceeds": 136.46324344060804,
       "pnl": 36.46324344060804,
       "closedAt": "2026-10-27T15:40:35.847Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "23107650821956230671488913848019109501333189625905854562388315684627941513786",
+      "conditionId": "0xb2bd1d3af0d6566e8ba98270cef59dddd7d06613cbcd2474951e94e1a4b848f8",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: FOKUS vs Nuclear TigeRES - Map 2 Winner",
+      "outcome": "Nuclear TigeRES",
+      "slug": "cs2-fokus-ntr-2026-10-27-game2",
+      "whalePrice": 0.5992332220330647,
+      "ourPrice": 0.5992332220330647,
+      "shares": 166.8799330930323,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T13:22:06.018Z",
+      "proceeds": 166.8799330930323,
+      "pnl": 66.87993309303229,
+      "closedAt": "2026-10-27T16:02:34.712Z"
     }
   ]
 }
