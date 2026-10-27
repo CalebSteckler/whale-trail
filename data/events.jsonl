@@ -4042,3 +4042,13 @@
 {"t":"2026-10-27T22:20:48.050Z","type":"copy","name":"Bigggggggg","title":"Will Gadi Eizenkot receive the first mandate to form a government after the 2026 Israeli election?","outcome":"No","note":"whale $604 @0.400 -> us @0.400 (0.0% better, 244s lag)"}
 {"t":"2026-10-27T22:20:48.050Z","type":"skip","name":"Bigggggggg","title":"Will Naftali Bennett receive the first mandate to form a government after the 2026 Israeli election?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-27T22:29:48.615Z","type":"close","name":"defillama7","title":"Will Benjamin Netanyahu be the next Prime Minister of Israel?","outcome":"No","note":"$-18.27 (whale sold @0.620, we exit @0.613)"}
+{"t":"2026-10-27T22:41:48.921Z","type":"copy","name":"DelidelaDele","title":"Will Cúcuta Deportivo FC win on 2026-08-15?","outcome":"Yes","note":"whale $1122 @0.330 -> us @0.330 (0.0% worse, 469s lag)"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Israel Katz be the next Prime Minister of Israel?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Amir Ohana be the next Prime Minister of Israel?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Avigdor Lieberman be the next Prime Minister of Israel?","outcome":"No","note":"whale paid 0.983"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Yossi Cohen be the next Prime Minister of Israel?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Naftali Bennett be the next Prime Minister of Israel?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-27T22:44:48.437Z","type":"skip","name":"qwen4.1.fund","title":"Will Gadi Eizenkot be the next Prime Minister of Israel?","outcome":"No","note":"whale benched (negative edge)"}
