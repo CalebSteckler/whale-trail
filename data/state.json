@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793113202,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793115068,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793115047,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793115789,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,13 +10,13 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793114162,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793115047,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793115323,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793107227,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793054186,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793017497,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793064435,
+    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793115029,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793111811,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793055615,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793113409
@@ -9753,23 +9753,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T14:29:10.695Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:99332709901390463489039351687365545885621903312129521072620570017970241439156": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "99332709901390463489039351687365545885621903312129521072620570017970241439156",
-      "conditionId": "0x8bd45900bdfdffefa0f674dac6d16a519ae1a6bcaa281ca04ad6db83ba7c1828",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Inner Circle Esports vs Team Nemesis - Map 1 Winner",
-      "outcome": "Inner Circle Esports",
-      "slug": "cs2-ice-nem-2026-10-27-game1",
-      "whalePrice": 0.7327980596,
-      "ourPrice": 0.7327980596,
-      "shares": 136.46324344060804,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T14:40:19.789Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:69062882709529625116371665722579195218088693128449613121797117346817387726846": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -13218,6 +13201,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-27T15:29:35.265Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "99332709901390463489039351687365545885621903312129521072620570017970241439156",
+      "conditionId": "0x8bd45900bdfdffefa0f674dac6d16a519ae1a6bcaa281ca04ad6db83ba7c1828",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Inner Circle Esports vs Team Nemesis - Map 1 Winner",
+      "outcome": "Inner Circle Esports",
+      "slug": "cs2-ice-nem-2026-10-27-game1",
+      "whalePrice": 0.7327980596,
+      "ourPrice": 0.7327980596,
+      "shares": 136.46324344060804,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T14:40:19.789Z",
+      "proceeds": 136.46324344060804,
+      "pnl": 36.46324344060804,
+      "closedAt": "2026-10-27T15:40:35.847Z"
     }
   ]
 }
