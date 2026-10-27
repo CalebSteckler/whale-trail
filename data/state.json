@@ -1,12 +1,12 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793095346,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793097066,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793096963,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793097608,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793097513,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793095034,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793097627,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793095682,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793064435,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793053866,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793055615,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793095925
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793097440
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -9611,23 +9611,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T09:08:56.891Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:8717778757773443714259771099322476416249056908202359172529491215657719100012": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "8717778757773443714259771099322476416249056908202359172529491215657719100012",
-      "conditionId": "0xb89335e153dff660d6180bbdd2b2d091a6efe3570efa4cdb9e25ffa8c982192f",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: FlyQuest vs Rooster - Map 2 Winner",
-      "outcome": "FlyQuest",
-      "slug": "cs2-fly-rstr-2026-10-27-game2",
-      "whalePrice": 0.6788763827871371,
-      "ourPrice": 0.6788763827871371,
-      "shares": 147.30222251869847,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T09:32:57.637Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:5634128844390371706113430822138802189838775650843322137073353534887752642113": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -9678,6 +9661,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T10:11:00.211Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:39409206330527880169507414405291721950884951005340760541937649898052386499519": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "39409206330527880169507414405291721950884951005340760541937649898052386499519",
+      "conditionId": "0x9ed0ecc8b8589e67967d44c4420944a41b6a6806419019a1581d514174eee9b1",
+      "outcomeIndex": 1,
+      "title": "Will Naftali Bennett be the next Prime Minister of Israel?",
+      "outcome": "No",
+      "slug": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+      "whalePrice": 0.94,
+      "ourPrice": 0.94,
+      "shares": 106.38297872340426,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T10:40:59.648Z"
     }
   },
   "shadowClosed": [
@@ -12889,6 +12889,26 @@
       "proceeds": 104.43748194588014,
       "pnl": 4.437481945880137,
       "closedAt": "2026-10-27T06:50:16.297Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "8717778757773443714259771099322476416249056908202359172529491215657719100012",
+      "conditionId": "0xb89335e153dff660d6180bbdd2b2d091a6efe3570efa4cdb9e25ffa8c982192f",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FlyQuest vs Rooster - Map 2 Winner",
+      "outcome": "FlyQuest",
+      "slug": "cs2-fly-rstr-2026-10-27-game2",
+      "whalePrice": 0.6788763827871371,
+      "ourPrice": 0.6788763827871371,
+      "shares": 147.30222251869847,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T09:32:57.637Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-27T10:42:28.116Z"
     }
   ]
 }
