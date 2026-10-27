@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793135814,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793135114,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793136140,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793136603,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793133615,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793136818,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793134964,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793056196,
@@ -9332,23 +9332,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T18:22:11.377Z"
     },
-    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:11800305250175177221384601687678190959293361737651182551618347573374548959091": {
-      "reason": "topic",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "11800305250175177221384601687678190959293361737651182551618347573374548959091",
-      "conditionId": "0x77e669890c97c2278883a33a4d43581f2c6468437d5638066aebec8304d0e3de",
-      "outcomeIndex": 1,
-      "title": "Will Microsoft (MSFT) close above $550 on October 27?",
-      "outcome": "No",
-      "slug": "msft-close-above-550-on-october-27-2026",
-      "whalePrice": 0.87,
-      "ourPrice": 0.87,
-      "shares": 114.94252873563218,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T18:22:11.377Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:25172545206000541692667496253531562288536270988826888609620735617040533835056": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -13669,6 +13652,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-27T21:22:58.884Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "11800305250175177221384601687678190959293361737651182551618347573374548959091",
+      "conditionId": "0x77e669890c97c2278883a33a4d43581f2c6468437d5638066aebec8304d0e3de",
+      "outcomeIndex": 1,
+      "title": "Will Microsoft (MSFT) close above $550 on October 27?",
+      "outcome": "No",
+      "slug": "msft-close-above-550-on-october-27-2026",
+      "whalePrice": 0.87,
+      "ourPrice": 0.87,
+      "shares": 114.94252873563218,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T18:22:11.377Z",
+      "proceeds": 114.94252873563218,
+      "pnl": 14.94252873563218,
+      "closedAt": "2026-10-27T21:34:00.582Z"
     }
   ]
 }
