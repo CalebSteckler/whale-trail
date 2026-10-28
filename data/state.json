@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793202226,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793203100,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793187239,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793202449,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793203151,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793115029,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793194814,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793198054,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793202821,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793200354
   },
   "open": {
@@ -1868,6 +1868,44 @@
       "lagS": 144,
       "rules": 2,
       "openedAt": "2026-10-28T14:32:28.602Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:67022306552380164902784180071167952556161279126119343265719918594976247130849": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "67022306552380164902784180071167952556161279126119343265719918594976247130849",
+      "conditionId": "0x59cf7c1e790c34991047ab3d7aaf64bfc61315a714412bfd80d9c9ac33c4d616",
+      "outcomeIndex": 0,
+      "title": "Will Joint List win 10-11 seats in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-joint-list-win-10-11-seats-in-the-2026-knesset-elections",
+      "eventSlug": "israel-election-joint-list-of-seats",
+      "whalePrice": 0.685887907,
+      "whaleUsd": 1258.9061000240802,
+      "ourPrice": 0.6580259222333001,
+      "shares": 151.96969696969697,
+      "stake": 100,
+      "lagS": 207,
+      "rules": 2,
+      "openedAt": "2026-10-28T15:53:31.956Z"
+    },
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:85967681158054445905222323196087305842906897724381831185531911425948851146447": {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "85967681158054445905222323196087305842906897724381831185531911425948851146447",
+      "conditionId": "0x8319a0142ddaa1426401b406d6ede6fa5a1bd60aa5aedbd082f92d1e89b1a846",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs",
+      "outcome": "BIG",
+      "slug": "cs2-fnc-big5-2026-10-28",
+      "eventSlug": "cs2-fnc-big5-2026-10-28",
+      "whalePrice": 0.56,
+      "whaleUsd": 13882.400000000001,
+      "ourPrice": 0.57,
+      "shares": 175.43859649122808,
+      "stake": 100,
+      "lagS": 177,
+      "rules": 2,
+      "openedAt": "2026-10-28T15:56:32.520Z"
     }
   },
   "closed": [

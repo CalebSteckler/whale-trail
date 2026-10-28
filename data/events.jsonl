@@ -4312,3 +4312,7 @@
 {"t":"2026-10-28T15:49:31.488Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T15:49:31.489Z","type":"skip","name":"qwen4.1.fund","title":"2026 Balance of Power: R Senate, R House","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T15:49:31.489Z","type":"skip","name":"qwen4.1.fund","title":"2026 Balance of Power: D Senate, R House","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-28T15:53:31.956Z","type":"copy","name":"thanksforplayin","title":"Will Joint List win 10-11 seats in the 2026 Knesset elections?","outcome":"Yes","note":"whale $1259 @0.686 -> us @0.658 (4.1% better, 207s lag)"}
+{"t":"2026-10-28T15:54:31.690Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T15:54:31.690Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T15:56:32.520Z","type":"copy","name":"para-Vision","title":"Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs","outcome":"BIG","note":"whale $13882 @0.560 -> us @0.570 (1.8% worse, 177s lag)"}
