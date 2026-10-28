@@ -4302,3 +4302,5 @@
 {"t":"2026-10-28T15:03:30.292Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.995"}
 {"t":"2026-10-28T15:09:29.895Z","type":"skip","name":"qwen4.1.fund","title":"Will 4 Fed rate hikes happen in 2026?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-28T15:09:29.896Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win the third-most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T15:19:30.388Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T15:19:30.388Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
