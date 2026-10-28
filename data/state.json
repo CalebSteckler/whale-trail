@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793166191,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793167456,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793161321,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793166910,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793167439,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793158554,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793165881,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793167414,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793154063,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793131166,
@@ -10080,6 +10080,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T05:44:06.059Z"
+    },
+    "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:31456625552112484124712152575561207082555496403300264248422454735973869672096": {
+      "reason": "longdated",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "31456625552112484124712152575561207082555496403300264248422454735973869672096",
+      "conditionId": "0xdbc8bb83821f4225252c34822baf5f216e13480d59f911edacf6424bb1f65887",
+      "outcomeIndex": 0,
+      "title": "Will The Joint List win 7.5% or more of the vote in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-the-joint-list-win-7pt5-percent-or-more-of-the-vote-in-the-2026-knesset-elections",
+      "whalePrice": 0.8979535951,
+      "ourPrice": 0.8979535951,
+      "shares": 111.36432945497988,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T06:05:06.807Z"
     }
   },
   "shadowClosed": [
