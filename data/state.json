@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793224588,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793225207,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793222657,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793224841,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793225386,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
@@ -10764,40 +10764,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T16:59:36.051Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:72791302593759581753967321499880494531746948259029515333676441571655545090181": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "72791302593759581753967321499880494531746948259029515333676441571655545090181",
-      "conditionId": "0xe8ce1ad399ead60f94f3737faf089030a193e7d4177310b6722921991392edaf",
-      "outcomeIndex": 1,
-      "title": "IFK Goteborg vs. Djurgardens IF: O/U 2.5",
-      "outcome": "Under",
-      "slug": "swe-ifk-dju-2026-10-28-total-2pt5",
-      "whalePrice": 0.42999999999999994,
-      "ourPrice": 0.42999999999999994,
-      "shares": 232.55813953488376,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T17:07:35.257Z"
-    },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:22868335923350851860529995306067528008744435935355071385237683146293886206868": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "22868335923350851860529995306067528008744435935355071385237683146293886206868",
-      "conditionId": "0x77152e1715c8656e7c8ec96b8f2ff10b5f4bebebb7c30b78444bcc48db061b19",
-      "outcomeIndex": 0,
-      "title": "Halmstads BK vs. Malmo FF: O/U 2.5",
-      "outcome": "Over",
-      "slug": "swe-hal-mal-2026-10-28-total-2pt5",
-      "whalePrice": 0.58,
-      "ourPrice": 0.58,
-      "shares": 172.41379310344828,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T17:07:35.257Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:109457288343515165157950929338547159435199288656878823925380310462761887139151": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -15490,6 +15456,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-28T20:34:10.669Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "72791302593759581753967321499880494531746948259029515333676441571655545090181",
+      "conditionId": "0xe8ce1ad399ead60f94f3737faf089030a193e7d4177310b6722921991392edaf",
+      "outcomeIndex": 1,
+      "title": "IFK Goteborg vs. Djurgardens IF: O/U 2.5",
+      "outcome": "Under",
+      "slug": "swe-ifk-dju-2026-10-28-total-2pt5",
+      "whalePrice": 0.42999999999999994,
+      "ourPrice": 0.42999999999999994,
+      "shares": 232.55813953488376,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T17:07:35.257Z",
+      "proceeds": 232.55813953488376,
+      "pnl": 132.55813953488376,
+      "closedAt": "2026-10-28T22:02:14.230Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "22868335923350851860529995306067528008744435935355071385237683146293886206868",
+      "conditionId": "0x77152e1715c8656e7c8ec96b8f2ff10b5f4bebebb7c30b78444bcc48db061b19",
+      "outcomeIndex": 0,
+      "title": "Halmstads BK vs. Malmo FF: O/U 2.5",
+      "outcome": "Over",
+      "slug": "swe-hal-mal-2026-10-28-total-2pt5",
+      "whalePrice": 0.58,
+      "ourPrice": 0.58,
+      "shares": 172.41379310344828,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T17:07:35.257Z",
+      "proceeds": 172.41379310344828,
+      "pnl": 72.41379310344828,
+      "closedAt": "2026-10-28T22:02:14.337Z"
     }
   ]
 }

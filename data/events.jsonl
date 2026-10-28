@@ -4433,3 +4433,4 @@
 {"t":"2026-10-28T21:09:53.300Z","type":"skip","name":"qwen4.1.fund","title":"Will Nate Ament win the 2026-27 NBA Rookie of the Year?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-28T21:09:53.300Z","type":"skip","name":"qwen4.1.fund","title":"Will Darius Acuff Jr. win the 2026-27 NBA Rookie of the Year?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T21:53:55.869Z","type":"copy","name":"SpringlyFawl","title":"Will the Republicans win the Texas governor race in 2026?","outcome":"Yes","note":"whale $288 @0.636 -> us @0.636 (0.1% worse, 66s lag)"}
+{"t":"2026-10-28T22:10:55.516Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win 8-9 seats in the 2026 Knesset elections?","outcome":"No","note":"whale paid 0.998"}
