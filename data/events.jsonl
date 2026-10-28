@@ -4149,3 +4149,5 @@
 {"t":"2026-10-28T02:52:59.520Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-28T03:05:07.597Z","type":"close","name":"DelidelaDele","title":"Will Cúcuta Deportivo FC win on 2026-08-15?","outcome":"Yes","note":"$-100.00 (resolved LOSS)"}
 {"t":"2026-10-28T03:08:00.215Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T03:24:00.757Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T03:24:00.757Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
