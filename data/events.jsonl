@@ -4234,3 +4234,4 @@
 {"t":"2026-10-28T10:43:11.423Z","type":"skip","name":"thanksforplayin","title":"Will Joint List win 10-11 seats in the 2026 Knesset elections?","outcome":"Yes","note":"price moved 0.445 -> 0.503 before we saw it"}
 {"t":"2026-10-28T10:45:11.134Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T10:45:11.134Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T10:56:16.560Z","type":"copy","name":"para-Vision","title":"Map Handicap: MGLZ (-1.5) vs Nemiga (+1.5)","outcome":"Nemiga","note":"whale $1402 @0.690 -> us @0.700 (1.4% worse, 162s lag)"}
