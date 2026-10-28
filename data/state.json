@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793201744,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793202226,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793187239,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793201935,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793202449,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10684,6 +10684,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T14:42:28.680Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:25869296386911654049715489068824757745174681288397238521780118949553760488529": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
+      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+      "outcomeIndex": 1,
+      "title": "2026 Balance of Power: R Senate, R House",
+      "outcome": "No",
+      "slug": "2026-balance-of-power-r-senate-r-house-537",
+      "whalePrice": 0.93,
+      "ourPrice": 0.93,
+      "shares": 107.5268817204301,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T15:49:31.489Z"
     }
   },
   "shadowClosed": [
