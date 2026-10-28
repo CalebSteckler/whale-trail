@@ -4305,3 +4305,5 @@
 {"t":"2026-10-28T15:19:30.388Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T15:19:30.388Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T15:29:30.652Z","type":"skip","name":"qwen4.1.fund","title":"Will Ra'am win exactly 5 seats in the 2026 Knesset elections?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-28T15:39:30.884Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T15:39:30.884Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
