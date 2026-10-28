@@ -4161,3 +4161,6 @@
 {"t":"2026-10-28T04:04:02.176Z","type":"skip","name":"qwen4.1.fund","title":"Will the Tampa Bay Rays win the 2026 World Series?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T04:09:02.600Z","type":"skip","name":"qwen4.1.fund","title":"Will Drew Rasmussen lead the 2026 MLB Postseason in strikeouts?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T04:17:02.770Z","type":"skip","name":"thanksforplayin","title":"Will parties below the electoral threshold receive between 6% and 8% of the vote in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israeli-legislative-election"}
+{"t":"2026-10-28T04:25:03.078Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-28T04:25:03.079Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-28T04:25:03.079Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
