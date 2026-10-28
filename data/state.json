@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793229370,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793222657,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793229292,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793229943,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793226674,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793229373,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793230016,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -1888,6 +1888,25 @@
       "lagS": 66,
       "rules": 2,
       "openedAt": "2026-10-28T21:53:55.869Z"
+    },
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665:18678134918514322084158421562612795299004257874248915895309489663802967458762": {
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "18678134918514322084158421562612795299004257874248915895309489663802967458762",
+      "conditionId": "0x388344a7f4d93d5a7a85a53a4a17912b0fc541eaa84daebf3dac67d5ce44d565",
+      "outcomeIndex": 0,
+      "title": "Will the Democratic Party win the OH-07 House seat?",
+      "outcome": "Yes",
+      "slug": "will-the-democratic-party-win-the-oh-07-house-seat",
+      "eventSlug": "oh-07-house-election-winner",
+      "whalePrice": 0.87,
+      "whaleUsd": 257.0415,
+      "ourPrice": 0.87,
+      "shares": 114.94252873563218,
+      "stake": 100,
+      "lagS": 63,
+      "rules": 2,
+      "openedAt": "2026-10-28T23:27:59.838Z"
     }
   },
   "closed": [
