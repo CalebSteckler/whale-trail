@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793195063,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793195590,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793187239,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793195225,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793195891,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793195026,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793192183,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793195371,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793195200,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793195503,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793154063,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793181134,
@@ -1792,25 +1792,6 @@
       "lagS": 207,
       "rules": 2,
       "openedAt": "2026-10-28T10:00:10.334Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:42789978662163622028446800374021576724424173855526535052442991719199822814325": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "42789978662163622028446800374021576724424173855526535052442991719199822814325",
-      "conditionId": "0x476a22c5933505b3f13951909aaaa3243ecb3e058ccc0285a0fc5dca966bdef1",
-      "outcomeIndex": 1,
-      "title": "Map Handicap: MGLZ (-1.5) vs Nemiga (+1.5)",
-      "outcome": "Nemiga",
-      "slug": "cs2-mglz-nemi1-2026-10-28-map-handicap-away-1pt5",
-      "eventSlug": "cs2-mglz-nemi1-2026-10-28",
-      "whalePrice": 0.69,
-      "whaleUsd": 1401.7694999999999,
-      "ourPrice": 0.7,
-      "shares": 142.85714285714286,
-      "stake": 100,
-      "lagS": 162,
-      "rules": 2,
-      "openedAt": "2026-10-28T10:56:16.560Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:35830150167251788528494047677051225257933787066853095433035788479959437531661": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -8036,6 +8017,29 @@
       "pnl": -15.584415584415595,
       "closedAt": "2026-10-28T13:14:25.967Z",
       "note": "whale sold @0.650, we exit @0.650"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "42789978662163622028446800374021576724424173855526535052442991719199822814325",
+      "conditionId": "0x476a22c5933505b3f13951909aaaa3243ecb3e058ccc0285a0fc5dca966bdef1",
+      "outcomeIndex": 1,
+      "title": "Map Handicap: MGLZ (-1.5) vs Nemiga (+1.5)",
+      "outcome": "Nemiga",
+      "slug": "cs2-mglz-nemi1-2026-10-28-map-handicap-away-1pt5",
+      "eventSlug": "cs2-mglz-nemi1-2026-10-28",
+      "whalePrice": 0.69,
+      "whaleUsd": 1401.7694999999999,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "lagS": 162,
+      "rules": 2,
+      "openedAt": "2026-10-28T10:56:16.560Z",
+      "proceeds": 142.85714285714286,
+      "pnl": 42.85714285714286,
+      "closedAt": "2026-10-28T13:56:36.445Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -10455,23 +10459,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T11:01:28.084Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:114675489367602812649789631932844846570601628301385272844338720344076309117781": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "114675489367602812649789631932844846570601628301385272844338720344076309117781",
-      "conditionId": "0x19625596544dc73b22eb6e0f424ae91a5ed29b7f175884560d35ea0601d03f97",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: TheMongolz vs Nemiga - Map 2 Winner",
-      "outcome": "Nemiga",
-      "slug": "cs2-mglz-nemi1-2026-10-28-game2",
-      "whalePrice": 0.5576967958970831,
-      "ourPrice": 0.5576967958970831,
-      "shares": 179.30890178263445,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T12:13:19.108Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:20718075461659242536789773832991998734312612179708825185843322756981918747901": {
       "reason": "benched",
@@ -14660,6 +14647,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-28T13:23:42.522Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "114675489367602812649789631932844846570601628301385272844338720344076309117781",
+      "conditionId": "0x19625596544dc73b22eb6e0f424ae91a5ed29b7f175884560d35ea0601d03f97",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: TheMongolz vs Nemiga - Map 2 Winner",
+      "outcome": "Nemiga",
+      "slug": "cs2-mglz-nemi1-2026-10-28-game2",
+      "whalePrice": 0.5576967958970831,
+      "ourPrice": 0.5576967958970831,
+      "shares": 179.30890178263445,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T12:13:19.108Z",
+      "proceeds": 179.30890178263445,
+      "pnl": 79.30890178263445,
+      "closedAt": "2026-10-28T13:56:44.247Z"
     }
   ]
 }
