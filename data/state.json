@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793215667,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793216255,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793212273,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793215612,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793216156,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793214002,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793216044,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793205557,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793215693,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793216120,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -1868,25 +1868,6 @@
       "lagS": 207,
       "rules": 2,
       "openedAt": "2026-10-28T15:53:31.956Z"
-    },
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139:85967681158054445905222323196087305842906897724381831185531911425948851146447": {
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "85967681158054445905222323196087305842906897724381831185531911425948851146447",
-      "conditionId": "0x8319a0142ddaa1426401b406d6ede6fa5a1bd60aa5aedbd082f92d1e89b1a846",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs",
-      "outcome": "BIG",
-      "slug": "cs2-fnc-big5-2026-10-28",
-      "eventSlug": "cs2-fnc-big5-2026-10-28",
-      "whalePrice": 0.56,
-      "whaleUsd": 13882.400000000001,
-      "ourPrice": 0.57,
-      "shares": 175.43859649122808,
-      "stake": 100,
-      "lagS": 177,
-      "rules": 2,
-      "openedAt": "2026-10-28T15:56:32.520Z"
     }
   },
   "closed": [
@@ -8143,6 +8124,29 @@
       "pnl": -100,
       "closedAt": "2026-10-28T18:21:55.836Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "85967681158054445905222323196087305842906897724381831185531911425948851146447",
+      "conditionId": "0x8319a0142ddaa1426401b406d6ede6fa5a1bd60aa5aedbd082f92d1e89b1a846",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs",
+      "outcome": "BIG",
+      "slug": "cs2-fnc-big5-2026-10-28",
+      "eventSlug": "cs2-fnc-big5-2026-10-28",
+      "whalePrice": 0.56,
+      "whaleUsd": 13882.400000000001,
+      "ourPrice": 0.57,
+      "shares": 175.43859649122808,
+      "stake": 100,
+      "lagS": 177,
+      "rules": 2,
+      "openedAt": "2026-10-28T15:56:32.520Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-28T19:39:00.982Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -10272,23 +10276,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T04:55:04.220Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:27799183223609240899765503790267424879987312447418636069493393640126360412380": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "27799183223609240899765503790267424879987312447418636069493393640126360412380",
-      "conditionId": "0x2e8cb9da425121b73c73fc030c89cf7fb6d2eb64b4efd1e0ad0645760c8791bc",
-      "outcomeIndex": 0,
-      "title": "Parma Calcio 1913 vs. Udinese Calcio: O/U 2.5",
-      "outcome": "Over",
-      "slug": "sea-par-udi-2026-10-28-total-2pt5",
-      "whalePrice": 0.44,
-      "ourPrice": 0.44,
-      "shares": 227.27272727272728,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T05:39:07.501Z"
-    },
     "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:15380479308052023924538017522008304451778071993128514683155414186998787527255": {
       "reason": "longdated",
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -10903,23 +10890,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T18:53:48.156Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:42469621916862237399890297208447191668670368293463955828480461841087351149378": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "42469621916862237399890297208447191668670368293463955828480461841087351149378",
-      "conditionId": "0x258766c2740b7db11874da15721ddcc15f7a225324a662e23792cd19be096d31",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: fnatic vs BIG - Map 2 Winner",
-      "outcome": "fnatic",
-      "slug": "cs2-fnc-big5-2026-10-28-game2",
-      "whalePrice": 0.6194323860094794,
-      "ourPrice": 0.6194323860094794,
-      "shares": 161.43812021877343,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T18:53:48.157Z"
     },
     "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:1954531851854308836334297361792747078485265254146771341908087714702792849677": {
       "reason": "longdated",
@@ -15232,6 +15202,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-28T19:17:06.754Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "27799183223609240899765503790267424879987312447418636069493393640126360412380",
+      "conditionId": "0x2e8cb9da425121b73c73fc030c89cf7fb6d2eb64b4efd1e0ad0645760c8791bc",
+      "outcomeIndex": 0,
+      "title": "Parma Calcio 1913 vs. Udinese Calcio: O/U 2.5",
+      "outcome": "Over",
+      "slug": "sea-par-udi-2026-10-28-total-2pt5",
+      "whalePrice": 0.44,
+      "ourPrice": 0.44,
+      "shares": 227.27272727272728,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T05:39:07.501Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-28T19:39:07.278Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "42469621916862237399890297208447191668670368293463955828480461841087351149378",
+      "conditionId": "0x258766c2740b7db11874da15721ddcc15f7a225324a662e23792cd19be096d31",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: fnatic vs BIG - Map 2 Winner",
+      "outcome": "fnatic",
+      "slug": "cs2-fnc-big5-2026-10-28-game2",
+      "whalePrice": 0.6194323860094794,
+      "ourPrice": 0.6194323860094794,
+      "shares": 161.43812021877343,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T18:53:48.157Z",
+      "proceeds": 161.43812021877343,
+      "pnl": 61.438120218773435,
+      "closedAt": "2026-10-28T19:39:09.646Z"
     }
   ]
 }
