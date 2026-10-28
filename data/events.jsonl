@@ -4235,3 +4235,7 @@
 {"t":"2026-10-28T10:45:11.134Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T10:45:11.134Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T10:56:16.560Z","type":"copy","name":"para-Vision","title":"Map Handicap: MGLZ (-1.5) vs Nemiga (+1.5)","outcome":"Nemiga","note":"whale $1402 @0.690 -> us @0.700 (1.4% worse, 162s lag)"}
+{"t":"2026-10-28T11:01:19.353Z","type":"skip","name":"zerone777","title":"Will the Republican Party win the NC-09 House seat?","outcome":"No","note":"price moved 0.330 -> 0.582 before we saw it"}
+{"t":"2026-10-28T11:01:28.083Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Astralis vs magic - Map 1 Winner","outcome":"magic","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T11:01:28.083Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Revenge vs Gatorian - Map 2 Winner","outcome":"Revenge","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T11:01:28.084Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: TheMongolz vs Nemiga - Map 1 Winner","outcome":"Nemiga","note":"whale benched (negative edge)"}
