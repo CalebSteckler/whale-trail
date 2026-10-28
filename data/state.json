@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793187752,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793187239,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793188543,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793188999,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793188391,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793188496,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793188940,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793154063,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793181134,
@@ -10191,23 +10191,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T06:21:07.661Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:104313859836124749630481582189149591488230338897296236933941340031204865520930": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "104313859836124749630481582189149591488230338897296236933941340031204865520930",
-      "conditionId": "0x25c25361be9df3a137d2e87646ce7e52ae81a34a31212f56157eeba34b7ccab5",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: B8 vs Alliance (BO3) - Tesla Cup Group A",
-      "outcome": "B8",
-      "slug": "cs2-b8-all-2026-10-28",
-      "whalePrice": 0.4323418302255467,
-      "ourPrice": 0.4323418302255467,
-      "shares": 231.298461099245,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T09:11:09.657Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:44228841638106976312311756070964931486206207912533799720886034328840862003816": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -14418,6 +14401,26 @@
       "proceeds": 143.93628570727225,
       "pnl": 43.93628570727225,
       "closedAt": "2026-10-28T10:59:39.959Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "104313859836124749630481582189149591488230338897296236933941340031204865520930",
+      "conditionId": "0x25c25361be9df3a137d2e87646ce7e52ae81a34a31212f56157eeba34b7ccab5",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: B8 vs Alliance (BO3) - Tesla Cup Group A",
+      "outcome": "B8",
+      "slug": "cs2-b8-all-2026-10-28",
+      "whalePrice": 0.4323418302255467,
+      "ourPrice": 0.4323418302255467,
+      "shares": 231.298461099245,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T09:11:09.657Z",
+      "proceeds": 231.298461099245,
+      "pnl": 131.298461099245,
+      "closedAt": "2026-10-28T12:05:41.170Z"
     }
   ]
 }
