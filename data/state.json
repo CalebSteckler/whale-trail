@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793211217,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793211896,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793207474,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793211328,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793211877,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793205557,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793210393,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793212159,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -1887,25 +1887,6 @@
       "lagS": 177,
       "rules": 2,
       "openedAt": "2026-10-28T15:56:32.520Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:84500798648124306024420642305064357264538032722974707642516644165770410916576": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "84500798648124306024420642305064357264538032722974707642516644165770410916576",
-      "conditionId": "0x858717afa33d4496779754221332e290b38d2d62e4091a16630de4e4f098fb04",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner",
-      "outcome": "Natus Vincere",
-      "slug": "cs2-ts7-navi-2026-10-28-game2",
-      "eventSlug": "cs2-ts7-navi-2026-10-28",
-      "whalePrice": 0.6,
-      "whaleUsd": 310.44599999999997,
-      "ourPrice": 0.65,
-      "shares": 153.84615384615384,
-      "stake": 100,
-      "lagS": 64,
-      "rules": 2,
-      "openedAt": "2026-10-28T17:14:36.051Z"
     }
   },
   "closed": [
@@ -8139,6 +8120,29 @@
       "pnl": 17.39130434782608,
       "closedAt": "2026-10-28T16:34:34.017Z",
       "note": "whale sold @0.550, we exit @0.540"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "84500798648124306024420642305064357264538032722974707642516644165770410916576",
+      "conditionId": "0x858717afa33d4496779754221332e290b38d2d62e4091a16630de4e4f098fb04",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner",
+      "outcome": "Natus Vincere",
+      "slug": "cs2-ts7-navi-2026-10-28-game2",
+      "eventSlug": "cs2-ts7-navi-2026-10-28",
+      "whalePrice": 0.6,
+      "whaleUsd": 310.44599999999997,
+      "ourPrice": 0.65,
+      "shares": 153.84615384615384,
+      "stake": 100,
+      "lagS": 64,
+      "rules": 2,
+      "openedAt": "2026-10-28T17:14:36.051Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-28T18:21:55.836Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -10745,23 +10749,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T16:59:36.051Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:39618147255859008287013018903647075760320590159386168326374364965074198093885": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "39618147255859008287013018903647075760320590159386168326374364965074198093885",
-      "conditionId": "0x858717afa33d4496779754221332e290b38d2d62e4091a16630de4e4f098fb04",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner",
-      "outcome": "Spirit",
-      "slug": "cs2-ts7-navi-2026-10-28-game2",
-      "whalePrice": 0.7,
-      "ourPrice": 0.7,
-      "shares": 142.85714285714286,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T16:59:36.052Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:70156971823281204614226469716676288025284354017071493727888863750760134630863": {
       "reason": "benched",
@@ -15136,6 +15123,26 @@
       "proceeds": 104.16666666666667,
       "pnl": 4.166666666666671,
       "closedAt": "2026-10-28T18:11:03.457Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "39618147255859008287013018903647075760320590159386168326374364965074198093885",
+      "conditionId": "0x858717afa33d4496779754221332e290b38d2d62e4091a16630de4e4f098fb04",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner",
+      "outcome": "Spirit",
+      "slug": "cs2-ts7-navi-2026-10-28-game2",
+      "whalePrice": 0.7,
+      "ourPrice": 0.7,
+      "shares": 142.85714285714286,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T16:59:36.052Z",
+      "proceeds": 142.85714285714286,
+      "pnl": 42.85714285714286,
+      "closedAt": "2026-10-28T18:21:55.836Z"
     }
   ]
 }
