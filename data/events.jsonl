@@ -4159,3 +4159,5 @@
 {"t":"2026-10-28T03:44:01.605Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T03:49:01.680Z","type":"skip","name":"qwen4.1.fund","title":"Will The Democrats win the third-most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-28T04:04:02.176Z","type":"skip","name":"qwen4.1.fund","title":"Will the Tampa Bay Rays win the 2026 World Series?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T04:09:02.600Z","type":"skip","name":"qwen4.1.fund","title":"Will Drew Rasmussen lead the 2026 MLB Postseason in strikeouts?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T04:17:02.770Z","type":"skip","name":"thanksforplayin","title":"Will parties below the electoral threshold receive between 6% and 8% of the vote in the 2026 Israeli legislative election?","outcome":"No","note":"already $200 on israeli-legislative-election"}

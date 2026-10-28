@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793160398,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793160982,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793160134,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793160118,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793160818,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793158720,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793160536,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793158554,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
@@ -9961,6 +9961,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T03:34:01.201Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:71072661360038948930665253822950888232281457743911228827886160020121108047273": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "71072661360038948930665253822950888232281457743911228827886160020121108047273",
+      "conditionId": "0xc7f92470ee783299e4dc82afbce0b39f5ed4b9e84a1ab78a97b28cc3fe2b11ad",
+      "outcomeIndex": 1,
+      "title": "Will Drew Rasmussen lead the 2026 MLB Postseason in strikeouts?",
+      "outcome": "No",
+      "slug": "will-drew-rasmussen-lead-the-2026-mlb-postseason-in-strikeouts",
+      "whalePrice": 0.8367389611936624,
+      "ourPrice": 0.8367389611936624,
+      "shares": 119.51158561726767,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T04:09:02.601Z"
+    },
+    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:18656569549224492512832964734478974105123776928625538288282926247651507908588": {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "18656569549224492512832964734478974105123776928625538288282926247651507908588",
+      "conditionId": "0x63cd9c2958f51124e948206dc063f9cabaaa263dd241c4c4c16086c567084c6d",
+      "outcomeIndex": 1,
+      "title": "Will parties below the electoral threshold receive between 6% and 8% of the vote in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-parties-below-the-electoral-threshold-receive-between-6-and-8-of-the-vote-in-the-2026-israeli-legislative-election-20261019152743816",
+      "whalePrice": 0.7539900911,
+      "ourPrice": 0.7539900911,
+      "shares": 132.62773765913752,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T04:17:02.770Z"
     }
   },
   "shadowClosed": [
