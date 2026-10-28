@@ -4084,3 +4084,7 @@
 {"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.994"}
 {"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T00:30:52.620Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.996"}
+{"t":"2026-10-28T00:30:52.620Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.988"}
+{"t":"2026-10-28T00:30:52.620Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-28T00:35:52.838Z","type":"skip","name":"qwen4.1.fund","title":"Will Morgan Stanley or any of its underwriting affiliates serve as the lead underwriter in Anthropic's initial public offering?","outcome":"No","note":"whale paid 0.991"}
