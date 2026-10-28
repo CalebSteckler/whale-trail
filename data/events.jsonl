@@ -4289,3 +4289,10 @@
 {"t":"2026-10-28T14:11:28.217Z","type":"skip","name":"Kch-Temp","title":"Spread: Jacksonville State (-3.5)","outcome":"New Mexico State","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T14:13:27.454Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 115-139 tweets from October 26 to October 28, 2026?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T14:23:27.966Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T14:32:28.489Z","type":"copy","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $260 on October 29?","outcome":"No","note":"whale $700 @0.680 -> us @0.680 (0.0% better, 144s lag)"}
+{"t":"2026-10-28T14:32:28.602Z","type":"copy","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $250 on October 29?","outcome":"Yes","note":"whale $700 @0.630 -> us @0.630 (0.0% better, 144s lag)"}
+{"t":"2026-10-28T14:33:28.349Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T14:37:28.445Z","type":"skip","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $265 on October 29?","outcome":"No","note":"already $200 on amzn-close-above"}
+{"t":"2026-10-28T14:37:28.445Z","type":"skip","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $245 on October 29?","outcome":"Yes","note":"already $200 on amzn-close-above"}
+{"t":"2026-10-28T14:38:28.720Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win the third-most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T14:38:28.721Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}

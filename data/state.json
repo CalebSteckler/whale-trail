@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793197456,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793198138,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793187239,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793197594,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793198269,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793115029,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793194814,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793185261,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793198054,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793196569
   },
   "open": {
@@ -1830,6 +1830,44 @@
       "lagS": 341,
       "rules": 2,
       "openedAt": "2026-10-28T13:49:27.226Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:106934502758671053421702114338946886871995561350378234714043355581965566975949": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "106934502758671053421702114338946886871995561350378234714043355581965566975949",
+      "conditionId": "0xe4083310d6b8f1701779676654db653c5337a32c7765857b08594ad32d5ca157",
+      "outcomeIndex": 1,
+      "title": "Will Amazon (AMZN) close above $260 on October 29?",
+      "outcome": "No",
+      "slug": "amzn-close-above-260-on-october-29-2026",
+      "eventSlug": "amzn-close-above-on-october-29-2026",
+      "whalePrice": 0.68,
+      "whaleUsd": 699.72,
+      "ourPrice": 0.6799999999999999,
+      "shares": 147.05882352941177,
+      "stake": 100,
+      "lagS": 144,
+      "rules": 2,
+      "openedAt": "2026-10-28T14:32:28.489Z"
+    },
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:44089792521661089095008399285029604300218900166006128603768454441352836613537": {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "44089792521661089095008399285029604300218900166006128603768454441352836613537",
+      "conditionId": "0xb78db74a5c830ee1e00761877a394cd24b971fb352c2d90c390a88fe215bfde7",
+      "outcomeIndex": 0,
+      "title": "Will Amazon (AMZN) close above $250 on October 29?",
+      "outcome": "Yes",
+      "slug": "amzn-close-above-250-on-october-29-2026",
+      "eventSlug": "amzn-close-above-on-october-29-2026",
+      "whalePrice": 0.63,
+      "whaleUsd": 699.93,
+      "ourPrice": 0.63,
+      "shares": 158.73015873015873,
+      "stake": 100,
+      "lagS": 144,
+      "rules": 2,
+      "openedAt": "2026-10-28T14:32:28.602Z"
     }
   },
   "closed": [
@@ -10664,6 +10702,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T14:13:27.454Z"
+    },
+    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:60753714115756472742851997783441773947742755872535075122852946886484207931780": {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "60753714115756472742851997783441773947742755872535075122852946886484207931780",
+      "conditionId": "0xf687a83325bd10cb5bf9fa338ac9c072e88260ce446c6d1e6e2e73492045eb59",
+      "outcomeIndex": 1,
+      "title": "Will Amazon (AMZN) close above $265 on October 29?",
+      "outcome": "No",
+      "slug": "amzn-close-above-265-on-october-29-2026",
+      "whalePrice": 0.7800000000000001,
+      "ourPrice": 0.7800000000000001,
+      "shares": 128.20512820512818,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T14:37:28.445Z"
+    },
+    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:11006942161546602698042513966313936836207391151803694151549019238771607102680": {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "11006942161546602698042513966313936836207391151803694151549019238771607102680",
+      "conditionId": "0xc8faee4032e231ac509a046d59f860b56c758cb7d17f15db6a7ff95273ae63a5",
+      "outcomeIndex": 0,
+      "title": "Will Amazon (AMZN) close above $245 on October 29?",
+      "outcome": "Yes",
+      "slug": "amzn-close-above-245-on-october-29-2026",
+      "whalePrice": 0.72,
+      "ourPrice": 0.72,
+      "shares": 138.88888888888889,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T14:37:28.445Z"
     }
   },
   "shadowClosed": [
