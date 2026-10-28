@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793228270,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793229370,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793222657,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793228659,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793229292,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793228230,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793229271,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793226674,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793228402,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793229373,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793218847,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793228144,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793228914,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793225887
   },
   "open": {
@@ -10955,23 +10955,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T21:09:53.300Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:30508947922735290665727849960009008160381962437597353571090074579521572094084": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "30508947922735290665727849960009008160381962437597353571090074579521572094084",
-      "conditionId": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
-      "outcomeIndex": 1,
-      "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
-      "outcome": "LEGION",
-      "slug": "dota2-gl-legion1-2026-10-28-game2",
-      "whalePrice": 0.1698586,
-      "ourPrice": 0.1698586,
-      "shares": 588.7249747731348,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T22:22:57.061Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:82487289327586076731223934931200437075809701560479426984178227650142334617441": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -11005,6 +10988,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T22:56:58.643Z"
+    },
+    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:247770351480664905409204749537800184705240485188141207174851624225895359981": {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "247770351480664905409204749537800184705240485188141207174851624225895359981",
+      "conditionId": "0xf7cf9fbe4ac095f448a7b481cd6e6b919f100174bf1b0f966c7395bbad0f10a0",
+      "outcomeIndex": 1,
+      "title": "LoL: Invictus Gaming vs LYON - Game 2 Winner",
+      "outcome": "LYON",
+      "slug": "lol-ig1-ly-2026-10-28-game2",
+      "whalePrice": 0.5639579143,
+      "ourPrice": 0.5639579143,
+      "shares": 177.31819602908266,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T23:12:58.476Z"
     }
   },
   "shadowClosed": [
@@ -15563,6 +15563,26 @@
       "proceeds": 157.26397091412684,
       "pnl": 57.263970914126844,
       "closedAt": "2026-10-28T22:57:17.675Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "30508947922735290665727849960009008160381962437597353571090074579521572094084",
+      "conditionId": "0x08970c61bf9dee9e4ae7dab5af07cd8512a892eb9ea7894973b1d3d348dae2b1",
+      "outcomeIndex": 1,
+      "title": "Dota 2: GamerLegion vs LEGION - Game 2 Winner",
+      "outcome": "LEGION",
+      "slug": "dota2-gl-legion1-2026-10-28-game2",
+      "whalePrice": 0.1698586,
+      "ourPrice": 0.1698586,
+      "shares": 588.7249747731348,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T22:22:57.061Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-28T23:19:17.552Z"
     }
   ]
 }
