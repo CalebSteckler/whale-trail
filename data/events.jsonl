@@ -4379,3 +4379,9 @@
 {"t":"2026-10-28T18:47:47.402Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.995"}
 {"t":"2026-10-28T18:47:47.402Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.977"}
 {"t":"2026-10-28T18:47:47.402Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T18:52:47.464Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.977"}
+{"t":"2026-10-28T18:52:47.464Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T18:52:47.465Z","type":"skip","name":"qwen4.1.fund","title":"Will there be no change in Fed interest rates after the December 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T18:52:47.465Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-28T18:53:48.156Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Luminosity vs Envy (BO3) - Tesla Cup Group B","outcome":"Luminosity","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T18:53:48.157Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: fnatic vs BIG - Map 2 Winner","outcome":"fnatic","note":"whale benched (negative edge)"}
