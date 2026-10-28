@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793151024,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793151812,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793141699,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793150873,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793151675,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793150703,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793151158,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793151189,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793054879,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793151132,
@@ -9667,23 +9667,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T17:16:24.425Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:31138898369469874928274340285238010064867772223512705244333070652322143457497": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "31138898369469874928274340285238010064867772223512705244333070652322143457497",
-      "conditionId": "0xbd794ae54325398c7941e75b17d1d18c2aeb4561dacadce3772507c006163186",
-      "outcomeIndex": 1,
-      "title": "Will Fleetwood Town FC vs. Arsenal FC end in a draw?",
-      "outcome": "No",
-      "slug": "efl-fle-ars-2026-10-27-draw",
-      "whalePrice": 0.9417139393777778,
-      "ourPrice": 0.9417139393777778,
-      "shares": 106.18935944186339,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T18:00:25.997Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:94476436683794962312325483029388966223314896883087390545315075158530856004904": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -13795,6 +13778,26 @@
       "proceeds": 107.85383166018279,
       "pnl": 7.8538316601827916,
       "closedAt": "2026-10-27T23:13:03.182Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "31138898369469874928274340285238010064867772223512705244333070652322143457497",
+      "conditionId": "0xbd794ae54325398c7941e75b17d1d18c2aeb4561dacadce3772507c006163186",
+      "outcomeIndex": 1,
+      "title": "Will Fleetwood Town FC vs. Arsenal FC end in a draw?",
+      "outcome": "No",
+      "slug": "efl-fle-ars-2026-10-27-draw",
+      "whalePrice": 0.9417139393777778,
+      "ourPrice": 0.9417139393777778,
+      "shares": 106.18935944186339,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T18:00:25.997Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-28T01:37:09.748Z"
     }
   ]
 }
