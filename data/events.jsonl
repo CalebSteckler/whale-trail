@@ -4326,3 +4326,6 @@
 {"t":"2026-10-28T16:34:34.017Z","type":"close","name":"defillama7","title":"Will Benjamin Netanyahu be the next Prime Minister of Israel?","outcome":"No","note":"+$17.39 (whale sold @0.550, we exit @0.540)"}
 {"t":"2026-10-28T16:35:33.512Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.992"}
 {"t":"2026-10-28T16:40:33.885Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win 8-9 seats in the 2026 Knesset elections?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-28T16:59:36.051Z","type":"skip","name":"JohnLKellyJr","title":"Will Together win the third-most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T16:59:36.052Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Spirit vs Natus Vincere - Map 2 Winner","outcome":"Spirit","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T16:59:36.052Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Spirit vs Natus Vincere (BO3) - PGL Masters Bucharest Group Stage","outcome":"Spirit","note":"whale benched (negative edge)"}
