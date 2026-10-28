@@ -4230,3 +4230,7 @@
 {"t":"2026-10-28T10:00:10.335Z","type":"skip","name":"Bigggggggg","title":"Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?","outcome":"No","note":"already $200 on republican-senate-seats"}
 {"t":"2026-10-28T10:30:10.434Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.995"}
 {"t":"2026-10-28T10:30:10.434Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-28T10:40:10.835Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win the third-most seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T10:43:11.423Z","type":"skip","name":"thanksforplayin","title":"Will Joint List win 10-11 seats in the 2026 Knesset elections?","outcome":"Yes","note":"price moved 0.445 -> 0.503 before we saw it"}
+{"t":"2026-10-28T10:45:11.134Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T10:45:11.134Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
