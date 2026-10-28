@@ -4316,3 +4316,6 @@
 {"t":"2026-10-28T15:54:31.690Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T15:54:31.690Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T15:56:32.520Z","type":"copy","name":"para-Vision","title":"Counter-Strike: fnatic vs BIG (BO3) - Stake Ranked Episode 5 Playoffs","outcome":"BIG","note":"whale $13882 @0.560 -> us @0.570 (1.8% worse, 177s lag)"}
+{"t":"2026-10-28T16:03:32.081Z","type":"skip","name":"thanksforplayin","title":"Will Joint List win the third-most seats in the 2026 Israeli legislative election?","outcome":"Yes","note":"already $200 on israeli-legislative-election"}
+{"t":"2026-10-28T16:06:33.005Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Team Nemesis vs Eternal Fire (BO3) - Stake Ranked Episode 5 Playoffs","outcome":"Eternal Fire","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T16:06:33.006Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: HOTU vs GamerLegion - Map 2 Winner","outcome":"GamerLegion","note":"whale benched (negative edge)"}
