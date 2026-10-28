@@ -1,25 +1,25 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793219932,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793220406,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793212273,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793219786,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793220557,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
-    "0x55d94368a50750f264cf42096e9034315d9c832c": 1793015528,
+    "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793218147,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793205557,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793219873,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793141403,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793219885,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793220242,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793219156,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793218403,
+    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793218847,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793218751,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793213368
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793220319
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1869,6 +1869,25 @@
       "lagS": 183,
       "rules": 2,
       "openedAt": "2026-10-28T20:33:52.379Z"
+    },
+    "0x0c0e270cf879583d6a0142fc817e05b768d0434e:4068878296238585951411504750287746676435520542938057717655994953167565690800": {
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "4068878296238585951411504750287746676435520542938057717655994953167565690800",
+      "conditionId": "0x8ad7b291941d1fdc34743befe5693aeac3f5e5a3e369516469ab1da9b42b5027",
+      "outcomeIndex": 1,
+      "title": "Republican House odds dip to 7% by October 31?",
+      "outcome": "No",
+      "slug": "republican-house-odds-dip-to-7-by-october-31",
+      "eventSlug": "republican-house-odds-hit-by-october-31",
+      "whalePrice": 0.85,
+      "whaleUsd": 336.719,
+      "ourPrice": 0.86,
+      "shares": 116.27906976744187,
+      "stake": 100,
+      "lagS": 186,
+      "rules": 2,
+      "openedAt": "2026-10-28T20:49:53.684Z"
     }
   },
   "closed": [
@@ -10930,6 +10949,58 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T20:27:52.178Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:40357713069646983743826721545869174337846125802556928059471830485320348693690": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "40357713069646983743826721545869174337846125802556928059471830485320348693690",
+      "conditionId": "0x68cb2ebbe9df9ace26db76f61905a4a41dc65e44fc6b8640793505dda37f191d",
+      "outcomeIndex": 1,
+      "title": "Will Invictus Gaming win Worlds 2026?",
+      "outcome": "No",
+      "slug": "will-invictus-gaming-win-worlds-2026",
+      "whalePrice": 0.9509033226,
+      "ourPrice": 0.9509033226,
+      "shares": 105.16316183076927,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T20:41:52.459Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:65348909198383388976291448431031007654858661084115745377750050273874665567947": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "65348909198383388976291448431031007654858661084115745377750050273874665567947",
+      "conditionId": "0x5b2e995ec81ea675767d845d8de9b01b99252d72a55bee1cf7b993512104d87d",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: GamerLegion vs Envy - Map 2 Winner",
+      "outcome": "GamerLegion",
+      "slug": "cs2-gl1-envy-2026-10-28-game2",
+      "whalePrice": 0.6358735533557427,
+      "ourPrice": 0.6358735533557427,
+      "shares": 157.26397091412684,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T20:44:54.401Z"
+    },
+    "drift:0x55d94368a50750f264cf42096e9034315d9c832c:106497463055786295061829707731959720232198149718306426834859568550242598189680": {
+      "reason": "drift",
+      "wallet": "0x55d94368a50750f264cf42096e9034315d9c832c",
+      "name": "Tokenn",
+      "asset": "106497463055786295061829707731959720232198149718306426834859568550242598189680",
+      "conditionId": "0xc4dec30140b18c65e5c76feebd42ae3ed694c9a56615dda2f03465d836ec07da",
+      "outcomeIndex": 0,
+      "title": "Dota 2: GamerLegion vs LEGION - Game 1 Winner",
+      "outcome": "GamerLegion",
+      "slug": "dota2-gl-legion1-2026-10-28-game1",
+      "whalePrice": 0.67,
+      "ourPrice": 0.77,
+      "shares": 129.87012987012986,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-28T20:50:53.372Z"
     }
   },
   "shadowClosed": [
