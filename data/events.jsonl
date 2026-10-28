@@ -4283,3 +4283,5 @@
 {"t":"2026-10-28T13:49:27.111Z","type":"copy","name":"Bigggggggg","title":"Will FC Barcelona win on 2026-10-31?","outcome":"No","note":"whale $364 @0.120 -> us @0.120 (0.0% worse, 341s lag)"}
 {"t":"2026-10-28T13:49:27.226Z","type":"copy","name":"Bigggggggg","title":"Will FC Barcelona vs. Deportivo Alavés end in a draw?","outcome":"No","note":"whale $2792 @0.920 -> us @0.920 (0.0% better, 341s lag)"}
 {"t":"2026-10-28T13:56:36.445Z","type":"close","name":"para-Vision","title":"Map Handicap: MGLZ (-1.5) vs Nemiga (+1.5)","outcome":"Nemiga","note":"+$42.86 (resolved WIN)"}
+{"t":"2026-10-28T14:03:27.101Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T14:03:27.101Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
