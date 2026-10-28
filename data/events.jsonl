@@ -4080,3 +4080,7 @@
 {"t":"2026-10-28T00:15:51.912Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T00:15:51.912Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-28T00:15:51.912Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.994"}
+{"t":"2026-10-28T00:20:52.171Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
