@@ -4137,3 +4137,5 @@
 {"t":"2026-10-28T02:22:58.320Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 30-34 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-28T02:22:58.320Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-28T02:25:58.955Z","type":"copy","name":"defillama7","title":"Will Benjamin Netanyahu be the next Prime Minister of Israel?","outcome":"No","note":"whale $4483 @0.450 -> us @0.460 (2.2% worse, 295s lag)"}
+{"t":"2026-10-28T02:32:58.783Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 20-24 seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T02:32:58.783Z","type":"skip","name":"qwen4.1.fund","title":"Will Likud win 35 or more seats in the 2026 Israeli legislative election?","outcome":"No","note":"whale paid 0.999"}
