@@ -4354,3 +4354,16 @@
 {"t":"2026-10-28T17:51:36.638Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-28T17:51:36.638Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.973"}
 {"t":"2026-10-28T17:56:36.871Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-28T18:01:37.204Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-28T18:01:37.205Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"No","note":"whale paid 0.986"}
+{"t":"2026-10-28T18:01:37.205Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Paris be 14°C on October 29?","outcome":"No","note":"whale paid 0.986"}
+{"t":"2026-10-28T18:01:37.205Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T18:01:37.205Z","type":"skip","name":"qwen4.1.fund","title":"Will there be no change in Fed interest rates after the December 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T18:01:37.205Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-10-28T18:01:37.205Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.974"}
+{"t":"2026-10-28T18:02:37.751Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"Will there be no change in Fed interest rates after the October 2026 meeting?","outcome":"Yes","note":"whale paid 0.973"}
+{"t":"2026-10-28T18:03:37.904Z","type":"skip","name":"ethBELIVER","title":"Will the Fed increase interest rates by 25 bps after the October 2026 meeting?","outcome":"Yes","note":"already $200 on fed-decision-in"}
+{"t":"2026-10-28T18:06:37.355Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.978"}
+{"t":"2026-10-28T18:06:37.355Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-28T18:06:37.356Z","type":"skip","name":"qwen4.1.fund","title":"Will there be no change in Fed interest rates after the December 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-28T18:06:37.356Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.995"}
