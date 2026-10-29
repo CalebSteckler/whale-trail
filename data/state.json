@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793301595,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793302144,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793301732,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793302203,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793301564,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793302027,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793301042,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -1434,25 +1434,6 @@
       "lagS": 132,
       "rules": 2,
       "openedAt": "2026-10-26T09:04:51.936Z"
-    },
-    "0x511f9c771449162349795d17becf8b37031acbe1:71305948607543103106627176411933901287616551838035652815478706334177837636467": {
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "71305948607543103106627176411933901287616551838035652815478706334177837636467",
-      "conditionId": "0xca7106aebedabeace02fc22938722c47b71cc212e4e9a3e51f5b374f869d1c55",
-      "outcomeIndex": 1,
-      "title": "Will BetBoom Win the PGL Masters Bucharest 2026?",
-      "outcome": "No",
-      "slug": "will-betboom-win-the-pgl-masters-bucharest-2026",
-      "eventSlug": "pgl-masters-bucharest-2026-winner",
-      "whalePrice": 0.9330000000000002,
-      "whaleUsd": 629.7750000000001,
-      "ourPrice": 0.9320679320679321,
-      "shares": 107.28831725616291,
-      "stake": 100,
-      "lagS": 133,
-      "rules": 2,
-      "openedAt": "2026-10-26T09:04:52.055Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:51971221506050097243705792157899572281015127216972300934938845878155423445294": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -8365,6 +8346,29 @@
       "pnl": 7.616129032258058,
       "closedAt": "2026-10-29T18:27:34.492Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "71305948607543103106627176411933901287616551838035652815478706334177837636467",
+      "conditionId": "0xca7106aebedabeace02fc22938722c47b71cc212e4e9a3e51f5b374f869d1c55",
+      "outcomeIndex": 1,
+      "title": "Will BetBoom Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-betboom-win-the-pgl-masters-bucharest-2026",
+      "eventSlug": "pgl-masters-bucharest-2026-winner",
+      "whalePrice": 0.9330000000000002,
+      "whaleUsd": 629.7750000000001,
+      "ourPrice": 0.9320679320679321,
+      "shares": 107.28831725616291,
+      "stake": 100,
+      "lagS": 133,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:52.055Z",
+      "proceeds": 107.28831725616291,
+      "pnl": 7.288317256162912,
+      "closedAt": "2026-10-29T19:33:42.433Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -11599,23 +11603,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T17:18:31.369Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:22182455234115281499040976896315750280185745667497683639161950931238259666349": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "22182455234115281499040976896315750280185745667497683639161950931238259666349",
-      "conditionId": "0xa868d28ccc5730685595e93f08aad6d3ce10a51f93c65c0dfba90b57df8ee8ae",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: TYLOO vs Iberian Soul - Map 1 Winner",
-      "outcome": "TYLOO",
-      "slug": "cs2-tyloo-is-2026-10-29-game1",
-      "whalePrice": 0.4455215576,
-      "ourPrice": 0.4455215576,
-      "shares": 224.45602977933206,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T17:24:31.356Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:75591875554249812889628182384062184150409107276116593276090489058825803634479": {
       "reason": "benched",
@@ -17228,6 +17215,26 @@
       "proceeds": 121.16997111409306,
       "pnl": 21.16997111409306,
       "closedAt": "2026-10-29T19:22:55.831Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "22182455234115281499040976896315750280185745667497683639161950931238259666349",
+      "conditionId": "0xa868d28ccc5730685595e93f08aad6d3ce10a51f93c65c0dfba90b57df8ee8ae",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: TYLOO vs Iberian Soul - Map 1 Winner",
+      "outcome": "TYLOO",
+      "slug": "cs2-tyloo-is-2026-10-29-game1",
+      "whalePrice": 0.4455215576,
+      "ourPrice": 0.4455215576,
+      "shares": 224.45602977933206,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:24:31.356Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T19:33:55.669Z"
     }
   ]
 }
