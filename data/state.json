@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793274479,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793275646,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793273528,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793275159,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793275886,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793231597,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793271136,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793275321
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793275573
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -9183,23 +9183,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T08:09:49.891Z"
     },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:16016053107422497503858599047750043996881899939285035936778814347246919325595": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "16016053107422497503858599047750043996881899939285035936778814347246919325595",
-      "conditionId": "0x2cac78b73f6c76896ed0c22018bd1eac4606c40cb4fd86bb37bf14cb5e0ed832",
-      "outcomeIndex": 1,
-      "title": "Will FUT Win the PGL Masters Bucharest 2026?",
-      "outcome": "No",
-      "slug": "will-fut-win-the-pgl-masters-bucharest-2026",
-      "whalePrice": 0.9260000000000002,
-      "ourPrice": 0.9260000000000002,
-      "shares": 107.99136069114469,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T09:04:52.056Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:38672743320696533997128996620812638790905201280361710396227268126805664688976": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -11225,23 +11208,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T10:48:09.341Z"
-    },
-    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:79877081933164489421474029636657256385350779192086284162525646876002972808549": {
-      "reason": "benched",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "79877081933164489421474029636657256385350779192086284162525646876002972808549",
-      "conditionId": "0xda324f046902cf28af7b0043d2f39d1273b08ca4b9352afa844ccc745f50c098",
-      "outcomeIndex": 1,
-      "title": "Dota 2: Team Liquid vs Astra Invicta - Game 2 Winner",
-      "outcome": "Astra Invicta",
-      "slug": "dota2-liquid-ai1-2026-10-29-game2",
-      "whalePrice": 0.37,
-      "ourPrice": 0.37,
-      "shares": 270.27027027027026,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T10:53:10.302Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:32819195558172415469610311697358991831040716188308610621664150556878319360425": {
       "reason": "benched",
@@ -16397,6 +16363,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T12:01:32.936Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "16016053107422497503858599047750043996881899939285035936778814347246919325595",
+      "conditionId": "0x2cac78b73f6c76896ed0c22018bd1eac4606c40cb4fd86bb37bf14cb5e0ed832",
+      "outcomeIndex": 1,
+      "title": "Will FUT Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-fut-win-the-pgl-masters-bucharest-2026",
+      "whalePrice": 0.9260000000000002,
+      "ourPrice": 0.9260000000000002,
+      "shares": 107.99136069114469,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:52.056Z",
+      "proceeds": 107.99136069114469,
+      "pnl": 7.991360691144692,
+      "closedAt": "2026-10-29T12:12:25.211Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "79877081933164489421474029636657256385350779192086284162525646876002972808549",
+      "conditionId": "0xda324f046902cf28af7b0043d2f39d1273b08ca4b9352afa844ccc745f50c098",
+      "outcomeIndex": 1,
+      "title": "Dota 2: Team Liquid vs Astra Invicta - Game 2 Winner",
+      "outcome": "Astra Invicta",
+      "slug": "dota2-liquid-ai1-2026-10-29-game2",
+      "whalePrice": 0.37,
+      "ourPrice": 0.37,
+      "shares": 270.27027027027026,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T10:53:10.302Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T12:12:31.210Z"
     }
   ]
 }
