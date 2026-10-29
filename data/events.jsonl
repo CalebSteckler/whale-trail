@@ -4495,3 +4495,9 @@
 {"t":"2026-10-29T04:32:08.553Z","type":"skip","name":"qwen4.1.fund","title":"Will the Bank of Canada increase the target for the overnight rate by 50+ bps at the December interest rate announcement?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-29T04:32:08.553Z","type":"skip","name":"qwen4.1.fund","title":"Will the Bank of Canada decrease the target for the overnight rate by 50+ bps at the December interest rate announcement?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-29T04:32:08.553Z","type":"skip","name":"qwen4.1.fund","title":"Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the December interest rate announcement?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?","outcome":"No","note":"whale paid 0.975"}
+{"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be less than $1.25T at market close on IPO day?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be $3.0T or greater at market close on IPO day?","outcome":"No","note":"whale paid 0.991"}
+{"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic not IPO by December 31, 2027?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?","outcome":"No","note":"whale paid 0.985"}
