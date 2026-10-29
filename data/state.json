@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793300805,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793301595,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793301132,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793301732,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793301103,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793301027,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793301564,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793301042,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793300577,
@@ -11651,23 +11651,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T17:36:30.472Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:95252367600281507596344836181865815438501117918893090192086518833093354668395": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "95252367600281507596344836181865815438501117918893090192086518833093354668395",
-      "conditionId": "0xa585342f6ca26da392e69c9263e5e7d5aa94acff8b518031aa8a6a779dc6b7e7",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: 100 Thieves vs Bounty Hunters Esports - Map 2 Winner",
-      "outcome": "100 Thieves",
-      "slug": "cs2-100t-bhe-2026-10-29-game2",
-      "whalePrice": 0.8252869839000001,
-      "ourPrice": 0.8252869839000001,
-      "shares": 121.16997111409306,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T17:40:31.614Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:65892530750232246342273648992064742042382898919201083513241874070914353628268": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -17225,6 +17208,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T19:00:54.418Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "95252367600281507596344836181865815438501117918893090192086518833093354668395",
+      "conditionId": "0xa585342f6ca26da392e69c9263e5e7d5aa94acff8b518031aa8a6a779dc6b7e7",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: 100 Thieves vs Bounty Hunters Esports - Map 2 Winner",
+      "outcome": "100 Thieves",
+      "slug": "cs2-100t-bhe-2026-10-29-game2",
+      "whalePrice": 0.8252869839000001,
+      "ourPrice": 0.8252869839000001,
+      "shares": 121.16997111409306,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:40:31.614Z",
+      "proceeds": 121.16997111409306,
+      "pnl": 21.16997111409306,
+      "closedAt": "2026-10-29T19:22:55.831Z"
     }
   ]
 }
