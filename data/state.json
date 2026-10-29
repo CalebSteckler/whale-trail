@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793236922,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793222657,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793247529,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793248093,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
@@ -11160,6 +11160,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T04:10:08.034Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:13252834053551265193423367782105768647137147152782298741699538367303862527786": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "13252834053551265193423367782105768647137147152782298741699538367303862527786",
+      "conditionId": "0x033013a4a579b40f3407b3114bab8fe0f8ffe8a3a0a78c83c3d00e7524ce1589",
+      "outcomeIndex": 1,
+      "title": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?",
+      "outcome": "No",
+      "slug": "will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-december-interest-rate-announcement-20260908230600013",
+      "whalePrice": 0.8139833477770277,
+      "ourPrice": 0.8139833477770277,
+      "shares": 122.852636080453,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T04:32:08.553Z"
     }
   },
   "shadowClosed": [
