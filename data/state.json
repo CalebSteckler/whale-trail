@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793306851,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793307796,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793307747,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793308327,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
@@ -10,8 +10,8 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793305791,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793306920,
-    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793294033,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793308153,
+    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793307817,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793294161,
@@ -1871,25 +1871,6 @@
       "lagS": 125,
       "rules": 2,
       "openedAt": "2026-10-29T16:40:30.919Z"
-    },
-    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:84368524152268016512433556151474175385160499638069024812438264090070245734708": {
-      "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
-      "name": "defillama7",
-      "asset": "84368524152268016512433556151474175385160499638069024812438264090070245734708",
-      "conditionId": "0x1c017cbb38a9d0ab233ebb265b25c78290317e6a2470657ca18a73a112397b55",
-      "outcomeIndex": 0,
-      "title": "Will the Republicans win the South Carolina Senate race in 2026?",
-      "outcome": "Yes",
-      "slug": "will-the-republicans-win-the-south-carolina-senate-race-in-2026",
-      "eventSlug": "south-carolina-senate-election-winner",
-      "whalePrice": 0.72,
-      "whaleUsd": 12975.976799999999,
-      "ourPrice": 0.73,
-      "shares": 136.986301369863,
-      "stake": 100,
-      "lagS": 299,
-      "rules": 2,
-      "openedAt": "2026-10-29T17:06:30.083Z"
     },
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:33485925353171072312284533208639606685310281710515007938376691890027292332545": {
       "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
@@ -8388,6 +8369,29 @@
       "pnl": 7.288317256162912,
       "closedAt": "2026-10-29T19:33:42.433Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+      "name": "defillama7",
+      "asset": "84368524152268016512433556151474175385160499638069024812438264090070245734708",
+      "conditionId": "0x1c017cbb38a9d0ab233ebb265b25c78290317e6a2470657ca18a73a112397b55",
+      "outcomeIndex": 0,
+      "title": "Will the Republicans win the South Carolina Senate race in 2026?",
+      "outcome": "Yes",
+      "slug": "will-the-republicans-win-the-south-carolina-senate-race-in-2026",
+      "eventSlug": "south-carolina-senate-election-winner",
+      "whalePrice": 0.72,
+      "whaleUsd": 12975.976799999999,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "lagS": 299,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:06:30.083Z",
+      "proceeds": 97.26027397260273,
+      "pnl": -2.7397260273972677,
+      "closedAt": "2026-10-29T21:06:39.347Z",
+      "note": "whale sold @0.720, we exit @0.710"
     }
   ],
   "shadow": {
