@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793302144,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793302858,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793303539,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793302027,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793303436,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793301042,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793302936,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793303188,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793294033,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -11570,23 +11570,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T17:01:31.517Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:10277704609125478851700737087208068296053671303350323820139852044377875806176": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "10277704609125478851700737087208068296053671303350323820139852044377875806176",
-      "conditionId": "0x933ecedf496e97b4dd60ee83afb0937448ed7fdfe63d7f11b955117560378f89",
-      "outcomeIndex": 0,
-      "title": "Frosinone Calcio vs. US Lecce: O/U 3.5",
-      "outcome": "Over",
-      "slug": "sea-fro-lec-2026-10-29-total-3pt5",
-      "whalePrice": 0.4798329967,
-      "ourPrice": 0.4798329967,
-      "shares": 208.40584263220595,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T17:18:30.845Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:20059762288994582073800954233647102358946896166337454698922749536271633531678": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -11774,6 +11757,23 @@
       "note": "moved against us",
       "rules": 2,
       "openedAt": "2026-10-29T17:58:31.455Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:72820619922053432516748905329266890906103969024802768151634670763988243600546": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "72820619922053432516748905329266890906103969024802768151634670763988243600546",
+      "conditionId": "0x910aabbfae28b3569929c31fb5461f4db13f7ddd427bdee1e696d313125838e3",
+      "outcomeIndex": 1,
+      "title": "Will Puma Shen win the next Taipei Mayor election?",
+      "outcome": "No",
+      "slug": "will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
+      "whalePrice": 0.7442227186,
+      "ourPrice": 0.7442227186,
+      "shares": 134.36837857908412,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T19:53:35.678Z"
     }
   },
   "shadowClosed": [
@@ -17235,6 +17235,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T19:33:55.669Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "10277704609125478851700737087208068296053671303350323820139852044377875806176",
+      "conditionId": "0x933ecedf496e97b4dd60ee83afb0937448ed7fdfe63d7f11b955117560378f89",
+      "outcomeIndex": 0,
+      "title": "Frosinone Calcio vs. US Lecce: O/U 3.5",
+      "outcome": "Over",
+      "slug": "sea-fro-lec-2026-10-29-total-3pt5",
+      "whalePrice": 0.4798329967,
+      "ourPrice": 0.4798329967,
+      "shares": 208.40584263220595,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:18:30.845Z",
+      "proceeds": 208.40584263220595,
+      "pnl": 108.40584263220595,
+      "closedAt": "2026-10-29T19:55:56.917Z"
     }
   ]
 }
