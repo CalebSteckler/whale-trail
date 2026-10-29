@@ -202,24 +202,6 @@
       "lagS": 78,
       "openedAt": "2026-10-18T21:00:47.108Z"
     },
-    "0x511f9c771449162349795d17becf8b37031acbe1:34606134226557318784922231570038041719623282902086191826481593417302374527099": {
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "34606134226557318784922231570038041719623282902086191826481593417302374527099",
-      "conditionId": "0x7375a155ab09a94b3e03c1118f02e5e8cce1d4f00b661d5be846423c513f27c6",
-      "outcomeIndex": 1,
-      "title": "Will \"Remain\" win the Alberta independence referendum by 60–80%?",
-      "outcome": "No",
-      "slug": "will-remain-win-the-alberta-independence-referendum-by-6080",
-      "eventSlug": "alberta-independence-referendum-margin-of-victory",
-      "whalePrice": 0.9,
-      "whaleUsd": 374.454,
-      "ourPrice": 0.8870499576680048,
-      "shares": 112.73322222222222,
-      "stake": 100,
-      "lagS": 69,
-      "openedAt": "2026-10-19T05:24:44.336Z"
-    },
     "0x511f9c771449162349795d17becf8b37031acbe1:35291645172588917457521605652032084946130296187859859151580316412122619317107": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
       "name": "Bigggggggg",
@@ -255,24 +237,6 @@
       "stake": 100,
       "lagS": 264,
       "openedAt": "2026-10-19T11:34:35.233Z"
-    },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:7468074245617883383328149411152835240206914737546139328673441854545577981992": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "7468074245617883383328149411152835240206914737546139328673441854545577981992",
-      "conditionId": "0x11557afeaff1e24a0745e9ae7d3b718937d9a0c9c210d79fbfc3522e5994ff77",
-      "outcomeIndex": 1,
-      "title": "Will \"Remain\" win the Alberta independence referendum by 20–40%?",
-      "outcome": "No",
-      "slug": "will-remain-win-the-alberta-independence-referendum-by-2040",
-      "eventSlug": "alberta-independence-referendum-margin-of-victory",
-      "whalePrice": 0.9,
-      "whaleUsd": 252,
-      "ourPrice": 0.9292287401456791,
-      "shares": 107.61612903225806,
-      "stake": 100,
-      "lagS": 111,
-      "openedAt": "2026-10-19T12:28:23.921Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:55388160786547632547801386995282574472142366430625594602885285018211080343659": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -8357,6 +8321,50 @@
       "pnl": -33.7812507936508,
       "closedAt": "2026-10-29T09:17:12.361Z",
       "note": "whale sold @0.590, we exit @0.417"
+    },
+    {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "34606134226557318784922231570038041719623282902086191826481593417302374527099",
+      "conditionId": "0x7375a155ab09a94b3e03c1118f02e5e8cce1d4f00b661d5be846423c513f27c6",
+      "outcomeIndex": 1,
+      "title": "Will \"Remain\" win the Alberta independence referendum by 60–80%?",
+      "outcome": "No",
+      "slug": "will-remain-win-the-alberta-independence-referendum-by-6080",
+      "eventSlug": "alberta-independence-referendum-margin-of-victory",
+      "whalePrice": 0.9,
+      "whaleUsd": 374.454,
+      "ourPrice": 0.8870499576680048,
+      "shares": 112.73322222222222,
+      "stake": 100,
+      "lagS": 69,
+      "openedAt": "2026-10-19T05:24:44.336Z",
+      "proceeds": 112.73322222222222,
+      "pnl": 12.733222222222224,
+      "closedAt": "2026-10-29T18:27:34.169Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "7468074245617883383328149411152835240206914737546139328673441854545577981992",
+      "conditionId": "0x11557afeaff1e24a0745e9ae7d3b718937d9a0c9c210d79fbfc3522e5994ff77",
+      "outcomeIndex": 1,
+      "title": "Will \"Remain\" win the Alberta independence referendum by 20–40%?",
+      "outcome": "No",
+      "slug": "will-remain-win-the-alberta-independence-referendum-by-2040",
+      "eventSlug": "alberta-independence-referendum-margin-of-victory",
+      "whalePrice": 0.9,
+      "whaleUsd": 252,
+      "ourPrice": 0.9292287401456791,
+      "shares": 107.61612903225806,
+      "stake": 100,
+      "lagS": 111,
+      "openedAt": "2026-10-19T12:28:23.921Z",
+      "proceeds": 107.61612903225806,
+      "pnl": 7.616129032258058,
+      "closedAt": "2026-10-29T18:27:34.492Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -11540,23 +11548,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T16:17:29.287Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:114103642081743118032919962737520000148870717218276403556425556082890053764530": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "114103642081743118032919962737520000148870717218276403556425556082890053764530",
-      "conditionId": "0xc7c23418f89002ce9eca659571f536c848eb572635c919f2eb7a47d2cf4fe76a",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: 100 Thieves vs Bounty Hunters Esports - Map 1 Winner",
-      "outcome": "100 Thieves",
-      "slug": "cs2-100t-bhe-2026-10-29-game1",
-      "whalePrice": 0.78,
-      "ourPrice": 0.78,
-      "shares": 128.2051282051282,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T16:22:31.033Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:100040459161457857945545926450918554608244290757710456441003183549222366879367": {
       "reason": "benched",
@@ -17211,6 +17202,26 @@
       "proceeds": 181.8181818181818,
       "pnl": 81.81818181818181,
       "closedAt": "2026-10-29T18:05:52.163Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "114103642081743118032919962737520000148870717218276403556425556082890053764530",
+      "conditionId": "0xc7c23418f89002ce9eca659571f536c848eb572635c919f2eb7a47d2cf4fe76a",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: 100 Thieves vs Bounty Hunters Esports - Map 1 Winner",
+      "outcome": "100 Thieves",
+      "slug": "cs2-100t-bhe-2026-10-29-game1",
+      "whalePrice": 0.78,
+      "ourPrice": 0.78,
+      "shares": 128.2051282051282,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T16:22:31.033Z",
+      "proceeds": 128.2051282051282,
+      "pnl": 28.205128205128204,
+      "closedAt": "2026-10-29T18:27:53.286Z"
     }
   ]
 }
