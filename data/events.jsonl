@@ -4621,3 +4621,8 @@
 {"t":"2026-10-29T17:06:30.083Z","type":"copy","name":"defillama7","title":"Will the Republicans win the South Carolina Senate race in 2026?","outcome":"Yes","note":"whale $12976 @0.720 -> us @0.730 (1.4% worse, 299s lag)"}
 {"t":"2026-10-29T17:06:30.188Z","type":"copy","name":"defillama7","title":"Will the Democrats win the South Carolina Senate race in 2026?","outcome":"No","note":"whale $1270 @0.720 -> us @0.730 (1.4% worse, 289s lag)"}
 {"t":"2026-10-29T17:08:33.470Z","type":"skip","name":"para-Vision","title":"Dota 2: PARIVISION vs Team Yandex - Game 2 Winner","outcome":"PARIVISION","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T17:17:30.349Z","type":"skip","name":"defillama7","title":"Will the Republicans win the Texas Senate race in 2026?","outcome":"No","note":"already $200 on texas-senate-election"}
+{"t":"2026-10-29T17:18:30.845Z","type":"skip","name":"Kch-Temp","title":"Frosinone Calcio vs. US Lecce: O/U 3.5","outcome":"Over","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T17:18:31.369Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: TYLOO vs Iberian Soul (BO3) - Circuito Retake Group C","outcome":"TYLOO","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T17:24:31.356Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: TYLOO vs Iberian Soul (BO3) - Circuito Retake Group C","outcome":"TYLOO","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T17:24:31.356Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: TYLOO vs Iberian Soul - Map 1 Winner","outcome":"TYLOO","note":"whale benched (negative edge)"}

@@ -1,25 +1,25 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793293892,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793290778,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793293681,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793294489,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793294138,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793294270,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793291681,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793291926,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793294422,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793293453,
-    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793293301,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793294566,
+    "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793294033,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
-    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793219156,
+    "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793294161,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793288704,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793293685,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793292902
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793294486
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11388,24 +11388,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T15:04:19.731Z"
     },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:82424529713297748091672221437996452297998478024642354993733275253229924918397": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "82424529713297748091672221437996452297998478024642354993733275253229924918397",
-      "conditionId": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
-      "outcomeIndex": 1,
-      "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
-      "outcome": "Team Yandex",
-      "slug": "dota2-pari-ty-2026-10-29-game1",
-      "whalePrice": 0.49,
-      "ourPrice": 0.3522504892367906,
-      "shares": 283.8888888888889,
-      "stake": 100,
-      "note": "moved for us",
-      "rules": 2,
-      "openedAt": "2026-10-29T15:42:21.792Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:22053271793248125256451687157287125154284715142130477499624815153763089628557": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -11643,6 +11625,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T17:08:33.470Z"
+    },
+    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:10277704609125478851700737087208068296053671303350323820139852044377875806176": {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "10277704609125478851700737087208068296053671303350323820139852044377875806176",
+      "conditionId": "0x933ecedf496e97b4dd60ee83afb0937448ed7fdfe63d7f11b955117560378f89",
+      "outcomeIndex": 0,
+      "title": "Frosinone Calcio vs. US Lecce: O/U 3.5",
+      "outcome": "Over",
+      "slug": "sea-fro-lec-2026-10-29-total-3pt5",
+      "whalePrice": 0.4798329967,
+      "ourPrice": 0.4798329967,
+      "shares": 208.40584263220595,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:18:30.845Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:20059762288994582073800954233647102358946896166337454698922749536271633531678": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "20059762288994582073800954233647102358946896166337454698922749536271633531678",
+      "conditionId": "0x511474d99ea57cd71e25ed853dd29110fb62b87edb4c029078b452df36d363eb",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: TYLOO vs Iberian Soul (BO3) - Circuito Retake Group C",
+      "outcome": "TYLOO",
+      "slug": "cs2-tyloo-is-2026-10-29",
+      "whalePrice": 0.3902743301228039,
+      "ourPrice": 0.3902743301228039,
+      "shares": 256.2300215044478,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:18:31.369Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:22182455234115281499040976896315750280185745667497683639161950931238259666349": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "22182455234115281499040976896315750280185745667497683639161950931238259666349",
+      "conditionId": "0xa868d28ccc5730685595e93f08aad6d3ce10a51f93c65c0dfba90b57df8ee8ae",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: TYLOO vs Iberian Soul - Map 1 Winner",
+      "outcome": "TYLOO",
+      "slug": "cs2-tyloo-is-2026-10-29-game1",
+      "whalePrice": 0.4455215576,
+      "ourPrice": 0.4455215576,
+      "shares": 224.45602977933206,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:24:31.356Z"
     }
   },
   "shadowClosed": [
@@ -16943,6 +16976,27 @@
       "proceeds": 241.84801627873384,
       "pnl": 141.84801627873384,
       "closedAt": "2026-10-29T17:10:49.573Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "82424529713297748091672221437996452297998478024642354993733275253229924918397",
+      "conditionId": "0xfd8f37d52775b8b216e7a1f438358e6e4c5158280e669d58ee5ea5d3d69d9f62",
+      "outcomeIndex": 1,
+      "title": "Dota 2: PARIVISION vs Team Yandex - Game 1 Winner",
+      "outcome": "Team Yandex",
+      "slug": "dota2-pari-ty-2026-10-29-game1",
+      "whalePrice": 0.49,
+      "ourPrice": 0.3522504892367906,
+      "shares": 283.8888888888889,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-29T15:42:21.792Z",
+      "proceeds": 283.8888888888889,
+      "pnl": 183.8888888888889,
+      "closedAt": "2026-10-29T17:21:49.306Z"
     }
   ]
 }
