@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793307796,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793310201,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793310817,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793305791,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793310136,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793310712,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793307817,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -1890,25 +1890,6 @@
       "lagS": 289,
       "rules": 2,
       "openedAt": "2026-10-29T17:06:30.188Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:46016502434042885816548626198071549101522355576725923641163219204101202627462": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
-      "conditionId": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
-      "outcomeIndex": 1,
-      "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
-      "outcome": "GamerLegion",
-      "slug": "dota2-og-gl-2026-10-29-game2",
-      "eventSlug": "dota2-og-gl-2026-10-29",
-      "whalePrice": 0.5,
-      "whaleUsd": 1203.125,
-      "ourPrice": 0.48683701988182776,
-      "shares": 205.40755102040816,
-      "stake": 100,
-      "lagS": 174,
-      "rules": 2,
-      "openedAt": "2026-10-29T20:29:37.201Z"
     }
   },
   "closed": [
@@ -8392,6 +8373,29 @@
       "pnl": -2.7397260273972677,
       "closedAt": "2026-10-29T21:06:39.347Z",
       "note": "whale sold @0.720, we exit @0.710"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+      "conditionId": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+      "outcomeIndex": 1,
+      "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+      "outcome": "GamerLegion",
+      "slug": "dota2-og-gl-2026-10-29-game2",
+      "eventSlug": "dota2-og-gl-2026-10-29",
+      "whalePrice": 0.5,
+      "whaleUsd": 1203.125,
+      "ourPrice": 0.48683701988182776,
+      "shares": 205.40755102040816,
+      "stake": 100,
+      "lagS": 174,
+      "rules": 2,
+      "openedAt": "2026-10-29T20:29:37.201Z",
+      "proceeds": 205.40755102040816,
+      "pnl": 105.40755102040816,
+      "closedAt": "2026-10-29T21:46:51.314Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
