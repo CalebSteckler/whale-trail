@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793283049,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793283466,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793282287,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793283127,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793283748,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
@@ -11278,23 +11278,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T11:57:12.486Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:112647332633164024411603280327576033616559677958853002258111658794446167135158": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "112647332633164024411603280327576033616559677958853002258111658794446167135158",
-      "conditionId": "0x74038beb464549359e12d1d91ab0d96ac35a88306c415fc9e37b391ba8fd3614",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: FaZe vs GamerLegion - Map 2 Winner",
-      "outcome": "GamerLegion",
-      "slug": "cs2-faze-gl1-2026-10-29-game2",
-      "whalePrice": 0.3954762981,
-      "ourPrice": 0.3954762981,
-      "shares": 252.85965424586337,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T12:18:14.140Z"
-    },
     "longdated:0xfbedb045813457be883ad83dd1078e88a2a1a665:8077351031134730167836761678618167504307708651130165095377248922919635337796": {
       "reason": "longdated",
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -16556,6 +16539,26 @@
       "proceeds": 161.82177638220566,
       "pnl": 61.821776382205655,
       "closedAt": "2026-10-29T13:51:37.131Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "112647332633164024411603280327576033616559677958853002258111658794446167135158",
+      "conditionId": "0x74038beb464549359e12d1d91ab0d96ac35a88306c415fc9e37b391ba8fd3614",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: FaZe vs GamerLegion - Map 2 Winner",
+      "outcome": "GamerLegion",
+      "slug": "cs2-faze-gl1-2026-10-29-game2",
+      "whalePrice": 0.3954762981,
+      "ourPrice": 0.3954762981,
+      "shares": 252.85965424586337,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T12:18:14.140Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T14:24:37.269Z"
     }
   ]
 }
