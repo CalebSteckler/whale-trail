@@ -4501,3 +4501,5 @@
 {"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be $3.0T or greater at market close on IPO day?","outcome":"No","note":"whale paid 0.991"}
 {"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic not IPO by December 31, 2027?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-29T05:07:10.216Z","type":"skip","name":"qwen4.1.fund","title":"Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?","outcome":"No","note":"whale paid 0.985"}
+{"t":"2026-10-29T06:19:11.912Z","type":"close","name":"zerone777","title":"Will the Tampa Bay Rays win the 2026 World Series?","outcome":"No","note":"+$37.31 (resolved WIN)"}
+{"t":"2026-10-29T06:19:11.912Z","type":"close","name":"SpringlyFawl","title":"Will the Tampa Bay Rays win the 2026 World Series?","outcome":"No","note":"+$16.69 (resolved WIN)"}
