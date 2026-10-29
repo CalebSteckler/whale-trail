@@ -4594,3 +4594,4 @@
 {"t":"2026-10-29T15:07:20.236Z","type":"skip","name":"zerone777","title":"Will the Democrats win the Texas governor race in 2026?","outcome":"No","note":"already $200 on texas-governor-winner"}
 {"t":"2026-10-29T15:09:19.674Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win fewer than 6 seats in the 2026 Knesset elections?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-29T15:09:19.674Z","type":"skip","name":"qwen4.1.fund","title":"Will Joint List win 12 or more seats in the 2026 Knesset elections?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T15:23:21.935Z","type":"copy","name":"zerone777","title":"Will Mary Peltola win the Alaska Senate race in 2026?","outcome":"No","note":"whale $265 @0.290 -> us @0.299 (3.0% worse, 184s lag)"}
