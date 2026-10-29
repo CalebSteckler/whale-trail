@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793263223,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793265193,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793261234,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793264986,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793265622,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793265029,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793265289,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793258039,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793264656,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793265202,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793231597,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793231627,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793264896
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793265695
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1774,25 +1774,6 @@
       "lagS": 144,
       "rules": 2,
       "openedAt": "2026-10-28T14:32:28.489Z"
-    },
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:44089792521661089095008399285029604300218900166006128603768454441352836613537": {
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "44089792521661089095008399285029604300218900166006128603768454441352836613537",
-      "conditionId": "0xb78db74a5c830ee1e00761877a394cd24b971fb352c2d90c390a88fe215bfde7",
-      "outcomeIndex": 0,
-      "title": "Will Amazon (AMZN) close above $250 on October 29?",
-      "outcome": "Yes",
-      "slug": "amzn-close-above-250-on-october-29-2026",
-      "eventSlug": "amzn-close-above-on-october-29-2026",
-      "whalePrice": 0.63,
-      "whaleUsd": 699.93,
-      "ourPrice": 0.63,
-      "shares": 158.73015873015873,
-      "stake": 100,
-      "lagS": 144,
-      "rules": 2,
-      "openedAt": "2026-10-28T14:32:28.602Z"
     },
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7:64891847246445173156226710310289211307801660141186167083374165750231162908797": {
       "wallet": "0xb8d757413fe4d4ec4716390938f12100614f5ac7",
@@ -8239,6 +8220,29 @@
       "pnl": 16.686114352392067,
       "closedAt": "2026-10-29T06:19:11.912Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "44089792521661089095008399285029604300218900166006128603768454441352836613537",
+      "conditionId": "0xb78db74a5c830ee1e00761877a394cd24b971fb352c2d90c390a88fe215bfde7",
+      "outcomeIndex": 0,
+      "title": "Will Amazon (AMZN) close above $250 on October 29?",
+      "outcome": "Yes",
+      "slug": "amzn-close-above-250-on-october-29-2026",
+      "eventSlug": "amzn-close-above-on-october-29-2026",
+      "whalePrice": 0.63,
+      "whaleUsd": 699.93,
+      "ourPrice": 0.63,
+      "shares": 158.73015873015873,
+      "stake": 100,
+      "lagS": 144,
+      "rules": 2,
+      "openedAt": "2026-10-28T14:32:28.602Z",
+      "proceeds": 66.2187492063492,
+      "pnl": -33.7812507936508,
+      "closedAt": "2026-10-29T09:17:12.361Z",
+      "note": "whale sold @0.590, we exit @0.417"
     }
   ],
   "shadow": {
@@ -11202,6 +11206,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T09:12:13.135Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:79376490105340204135665423920661653255981132449103444567216720329714488949085": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "79376490105340204135665423920661653255981132449103444567216720329714488949085",
+      "conditionId": "0x7a5f40916856c70b970fd7493c4adf38e85846b143891ae4c9feb0fd7fcf0da6",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs",
+      "outcome": "FUT Esports",
+      "slug": "cs2-fut-nemi1-2026-10-29",
+      "whalePrice": 0.3831527950976345,
+      "ourPrice": 0.3831527950976345,
+      "shares": 260.9924846679459,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T09:22:15.563Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:67131400082356419847479450120569132333914150582589237084185714245405793665198": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "67131400082356419847479450120569132333914150582589237084185714245405793665198",
+      "conditionId": "0x405ab3ae6e95c93093de04bf23355042b023ebd0ca51cbd0e65fb14bf1d83392",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: FUT Esports vs Nemiga - Map 2 Winner",
+      "outcome": "FUT Esports",
+      "slug": "cs2-fut-nemi1-2026-10-29-game2",
+      "whalePrice": 0.52,
+      "ourPrice": 0.52,
+      "shares": 192.3076923076923,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T09:22:15.563Z"
     }
   },
   "shadowClosed": [

@@ -4520,3 +4520,6 @@
 {"t":"2026-10-29T09:11:12.008Z","type":"skip","name":"qwen4.1.fund","title":"Will Tony Mulder win the next Clarence mayoral election?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-29T09:11:12.008Z","type":"skip","name":"qwen4.1.fund","title":"Will Brendan Blomeley win the next Clarence mayoral election?","outcome":"No","note":"whale paid 0.973"}
 {"t":"2026-10-29T09:12:13.135Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: B8 vs HOTU - Map 1 Winner","outcome":"B8","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T09:17:12.361Z","type":"close","name":"thanksforplayin","title":"Will Amazon (AMZN) close above $250 on October 29?","outcome":"Yes","note":"$-33.78 (whale sold @0.590, we exit @0.417)"}
+{"t":"2026-10-29T09:22:15.563Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FUT Esports vs Nemiga (BO3) - PGL Masters Bucharest Playoffs","outcome":"FUT Esports","note":"whale benched (negative edge)"}
+{"t":"2026-10-29T09:22:15.563Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: FUT Esports vs Nemiga - Map 2 Winner","outcome":"FUT Esports","note":"whale benched (negative edge)"}
