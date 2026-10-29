@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793307796,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793309011,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793309445,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793308666,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793309223,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793305791,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -11746,24 +11746,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T17:57:31.411Z"
     },
-    "drift:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:63318650400542223887971741065441644636229626019130797173762671632750539437119": {
-      "reason": "drift",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "63318650400542223887971741065441644636229626019130797173762671632750539437119",
-      "conditionId": "0x82f60a2c98b7effb17b2dd682c1c7817184e783611e2c88b232c12924550c527",
-      "outcomeIndex": 1,
-      "title": "S&P 500 (SPY) closes above $765 on October 29?",
-      "outcome": "No",
-      "slug": "spy-closes-above-765-on-october-29-2026",
-      "whalePrice": 0.14619047619047618,
-      "ourPrice": 0.5094043887147335,
-      "shares": 196.30769230769232,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-29T17:58:31.455Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:72820619922053432516748905329266890906103969024802768151634670763988243600546": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -17332,6 +17314,27 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T20:28:57.216Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "63318650400542223887971741065441644636229626019130797173762671632750539437119",
+      "conditionId": "0x82f60a2c98b7effb17b2dd682c1c7817184e783611e2c88b232c12924550c527",
+      "outcomeIndex": 1,
+      "title": "S&P 500 (SPY) closes above $765 on October 29?",
+      "outcome": "No",
+      "slug": "spy-closes-above-765-on-october-29-2026",
+      "whalePrice": 0.14619047619047618,
+      "ourPrice": 0.5094043887147335,
+      "shares": 196.30769230769232,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-29T17:58:31.455Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T21:35:01.061Z"
     }
   ]
 }
