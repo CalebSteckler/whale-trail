@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793274479,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793273528,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793274685,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793275159,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793274652,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793266559,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793274971,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793274385,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793274784,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793231597,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793271136,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793274563
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793275321
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11158,23 +11158,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T06:49:06.160Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:90865264970100826906877172690188269346706577943790326814648181921100619524318": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "90865264970100826906877172690188269346706577943790326814648181921100619524318",
-      "conditionId": "0x967a09b104b8ed32600bec74338bd5096dc8d96b845ad0b2354cc8595e7fac69",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: B8 vs HOTU (BO3) - Tesla Cup Playoffs",
-      "outcome": "B8",
-      "slug": "cs2-b8-hotu-2026-10-29",
-      "whalePrice": 0.59,
-      "ourPrice": 0.59,
-      "shares": 169.49152542372883,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T09:00:12.553Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:72519790371061340119765172065780798251360397199188255055934152186624799324027": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11208,23 +11191,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T09:51:13.418Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:52820207981642302342074745370531649740954577742648497628794239083499868307486": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "52820207981642302342074745370531649740954577742648497628794239083499868307486",
-      "conditionId": "0x5430b11f0379929df5619c1462592ba5f271815c4217309e9c9122e561432593",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: B8 vs HOTU - Map 2 Winner",
-      "outcome": "B8",
-      "slug": "cs2-b8-hotu-2026-10-29-game2",
-      "whalePrice": 0.46341818181818184,
-      "ourPrice": 0.46341818181818184,
-      "shares": 215.7878217200251,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T10:21:15.915Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:98769766471904163120299870485955086034332124276482976506130841273442668754509": {
       "reason": "benched",
@@ -11361,6 +11327,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T11:52:13.043Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:34079851482053293361932351143019209193108191421795047260065638898939690262262": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "34079851482053293361932351143019209193108191421795047260065638898939690262262",
+      "conditionId": "0x9b9c693020bd625462107ea7963bacfefe73e678dd0e001c2d11388395a3cc2e",
+      "outcomeIndex": 1,
+      "title": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "outcome": "No",
+      "slug": "will-san-antonio-spurs-win-the-2027-nba-finals",
+      "whalePrice": 0.79,
+      "ourPrice": 0.79,
+      "shares": 126.58227848101265,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T11:57:12.486Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:36239502843139056490017972775659052465829376116421868520754321803936920411142": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "36239502843139056490017972775659052465829376116421868520754321803936920411142",
+      "conditionId": "0x422b44717de3606ba08c2e00503d29e8330583b00b0bed63f89772b9c384e41f",
+      "outcomeIndex": 1,
+      "title": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "outcome": "No",
+      "slug": "will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "whalePrice": 0.83,
+      "ourPrice": 0.83,
+      "shares": 120.48192771084338,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T11:57:12.486Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:97145870427475804920099879144757005874334569919702217086108325960474530587280": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "97145870427475804920099879144757005874334569919702217086108325960474530587280",
+      "conditionId": "0xb301db9e7a5e50be0a6a99e0c1285241da8bf35655aa5781edbf7c4a22290811",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: JiJieHao vs SAW Youngsters - Map 2 Winner",
+      "outcome": "JiJieHao",
+      "slug": "cs2-jjh-sawy-2026-10-29-game2",
+      "whalePrice": 0.6179638008904978,
+      "ourPrice": 0.6179638008904978,
+      "shares": 161.82177638220566,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T12:02:13.579Z"
     }
   },
   "shadowClosed": [
@@ -16340,6 +16357,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T11:39:30.836Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "90865264970100826906877172690188269346706577943790326814648181921100619524318",
+      "conditionId": "0x967a09b104b8ed32600bec74338bd5096dc8d96b845ad0b2354cc8595e7fac69",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: B8 vs HOTU (BO3) - Tesla Cup Playoffs",
+      "outcome": "B8",
+      "slug": "cs2-b8-hotu-2026-10-29",
+      "whalePrice": 0.59,
+      "ourPrice": 0.59,
+      "shares": 169.49152542372883,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T09:00:12.553Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T12:01:32.821Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "52820207981642302342074745370531649740954577742648497628794239083499868307486",
+      "conditionId": "0x5430b11f0379929df5619c1462592ba5f271815c4217309e9c9122e561432593",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: B8 vs HOTU - Map 2 Winner",
+      "outcome": "B8",
+      "slug": "cs2-b8-hotu-2026-10-29-game2",
+      "whalePrice": 0.46341818181818184,
+      "ourPrice": 0.46341818181818184,
+      "shares": 215.7878217200251,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T10:21:15.915Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T12:01:32.936Z"
     }
   ]
 }
