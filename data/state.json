@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793295068,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793294923,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793295061,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793295737,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793295638,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793295550,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793294995,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793295056,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793294422,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793295443,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793295325,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793294566,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793295529,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793294033,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793288704,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793293685,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793295146
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793295604
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11235,23 +11235,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T09:51:13.418Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:98769766471904163120299870485955086034332124276482976506130841273442668754509": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "98769766471904163120299870485955086034332124276482976506130841273442668754509",
-      "conditionId": "0xb35cbcdc0e1e75f6402e8731be1f9f1d069dfc28ca8f8ae3531ddec80c73f264",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: PRIV (-1.5) vs Fire Flux Esports (+1.5)",
-      "outcome": "PRIVATE",
-      "slug": "cs2-ff-priv-2026-10-29-map-handicap-home-1pt5",
-      "whalePrice": 0.51,
-      "ourPrice": 0.51,
-      "shares": 196.078431372549,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T10:42:16.867Z"
-    },
     "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:3744195159354026658240894722825572606729800574799066853162466280387526160790": {
       "reason": "longdated",
       "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
@@ -11693,6 +11676,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T17:35:31.166Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:71610581811588451243087930916572592402913705975252472987256607890992191263885": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "71610581811588451243087930916572592402913705975252472987256607890992191263885",
+      "conditionId": "0x3fd189cac9280dfc49a07115581e8d4c9e0b7e1c1e8580a44e9ff3d74e39cf2d",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the Michigan Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republicans-win-the-michigan-senate-race-in-2026",
+      "whalePrice": 0.73,
+      "ourPrice": 0.73,
+      "shares": 136.986301369863,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:36:30.472Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:105723311934484955172955513230650442434787665012079490482859569659895196527032": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "105723311934484955172955513230650442434787665012079490482859569659895196527032",
+      "conditionId": "0x76922bec5bcd9c88beb445b8ca03345a3cfa2fa19d9f6e4f63f164835b21f0bd",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: paiN vs naocopulas - Map 2 Winner",
+      "outcome": "paiN",
+      "slug": "cs2-pain-ncp-2026-10-29-game2",
+      "whalePrice": 0.7879312375198266,
+      "ourPrice": 0.7879312375198266,
+      "shares": 126.91462812766541,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:40:31.614Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:95252367600281507596344836181865815438501117918893090192086518833093354668395": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "95252367600281507596344836181865815438501117918893090192086518833093354668395",
+      "conditionId": "0xa585342f6ca26da392e69c9263e5e7d5aa94acff8b518031aa8a6a779dc6b7e7",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: 100 Thieves vs Bounty Hunters Esports - Map 2 Winner",
+      "outcome": "100 Thieves",
+      "slug": "cs2-100t-bhe-2026-10-29-game2",
+      "whalePrice": 0.8252869839000001,
+      "ourPrice": 0.8252869839000001,
+      "shares": 121.16997111409306,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:40:31.614Z"
     }
   },
   "shadowClosed": [
@@ -17014,6 +17048,26 @@
       "proceeds": 283.8888888888889,
       "pnl": 183.8888888888889,
       "closedAt": "2026-10-29T17:21:49.306Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "98769766471904163120299870485955086034332124276482976506130841273442668754509",
+      "conditionId": "0xb35cbcdc0e1e75f6402e8731be1f9f1d069dfc28ca8f8ae3531ddec80c73f264",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: PRIV (-1.5) vs Fire Flux Esports (+1.5)",
+      "outcome": "PRIVATE",
+      "slug": "cs2-ff-priv-2026-10-29-map-handicap-home-1pt5",
+      "whalePrice": 0.51,
+      "ourPrice": 0.51,
+      "shares": 196.078431372549,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T10:42:16.867Z",
+      "proceeds": 196.078431372549,
+      "pnl": 96.078431372549,
+      "closedAt": "2026-10-29T17:43:48.558Z"
     }
   ]
 }
