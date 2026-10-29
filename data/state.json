@@ -2,24 +2,24 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793305047,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793305372,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793305977,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793296082,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793305377,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793304571,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793306026,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793305791,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793305084,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793305930,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793294033,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793294161,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793288704,
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793305857,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793293685,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793302870
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793305861
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1909,6 +1909,25 @@
       "lagS": 289,
       "rules": 2,
       "openedAt": "2026-10-29T17:06:30.188Z"
+    },
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:46016502434042885816548626198071549101522355576725923641163219204101202627462": {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "46016502434042885816548626198071549101522355576725923641163219204101202627462",
+      "conditionId": "0x24fb5e1cdc4c7986beaff51db380fa58cc0cc14db6fc4824fe62e83ab3b57b86",
+      "outcomeIndex": 1,
+      "title": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+      "outcome": "GamerLegion",
+      "slug": "dota2-og-gl-2026-10-29-game2",
+      "eventSlug": "dota2-og-gl-2026-10-29",
+      "whalePrice": 0.5,
+      "whaleUsd": 1203.125,
+      "ourPrice": 0.48683701988182776,
+      "shares": 205.40755102040816,
+      "stake": 100,
+      "lagS": 174,
+      "rules": 2,
+      "openedAt": "2026-10-29T20:29:37.201Z"
     }
   },
   "closed": [
@@ -11587,23 +11606,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T17:18:31.369Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:75591875554249812889628182384062184150409107276116593276090489058825803634479": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "75591875554249812889628182384062184150409107276116593276090489058825803634479",
-      "conditionId": "0x962f3c30f56570f372ab7bb322090627ce28870aa01fa0069c4e43ccadeeeb6b",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: HOTU vs GamerLegion - Map 2 Winner",
-      "outcome": "GamerLegion",
-      "slug": "cs2-hotu-gl1-2026-10-29-game2",
-      "whalePrice": 0.5802335718356774,
-      "ourPrice": 0.5802335718356774,
-      "shares": 172.34438828424095,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T17:35:31.166Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:71610581811588451243087930916572592402913705975252472987256607890992191263885": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11774,6 +11776,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T19:53:35.678Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:114033095271617070714983865791504478906266507670567428753203001241312040895286": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "114033095271617070714983865791504478906266507670567428753203001241312040895286",
+      "conditionId": "0x684e5b72d4e407695397a79ed75ef37273c2655ca2548791a4153233d3744696",
+      "outcomeIndex": 1,
+      "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "outcome": "No",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "whalePrice": 0.39,
+      "ourPrice": 0.39,
+      "shares": 256.4102564102564,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T20:33:37.374Z"
     }
   },
   "shadowClosed": [
@@ -17255,6 +17274,26 @@
       "proceeds": 208.40584263220595,
       "pnl": 108.40584263220595,
       "closedAt": "2026-10-29T19:55:56.917Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "75591875554249812889628182384062184150409107276116593276090489058825803634479",
+      "conditionId": "0x962f3c30f56570f372ab7bb322090627ce28870aa01fa0069c4e43ccadeeeb6b",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: HOTU vs GamerLegion - Map 2 Winner",
+      "outcome": "GamerLegion",
+      "slug": "cs2-hotu-gl1-2026-10-29-game2",
+      "whalePrice": 0.5802335718356774,
+      "ourPrice": 0.5802335718356774,
+      "shares": 172.34438828424095,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:35:31.166Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T20:28:57.216Z"
     }
   ]
 }
