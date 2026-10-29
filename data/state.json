@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793281274,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793281874,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793279225,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793281142,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793281748,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793280728,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793281118,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793281447,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -9474,24 +9474,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T14:42:00.684Z"
     },
-    "drift:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:89870028115074799430880762858196015863339414209272246410504202913063619644475": {
-      "reason": "drift",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "89870028115074799430880762858196015863339414209272246410504202913063619644475",
-      "conditionId": "0x6b4dc927f13ebeca13b3e18312871fe3da325d6bff347b91a81c9a8503cc3546",
-      "outcomeIndex": 0,
-      "title": "Will Microsoft Corporation (MSFT) hit (HIGH) $540 in October?",
-      "outcome": "Yes",
-      "slug": "will-msft-reach-540-in-october-2026-from-october-16",
-      "whalePrice": 0.62,
-      "ourPrice": 0.7947448184008089,
-      "shares": 125.82655172413794,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-26T14:45:00.389Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:95330850088652964045342754396500611430491328230261187321150789382210939939481": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -11295,23 +11277,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T11:57:12.486Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:97145870427475804920099879144757005874334569919702217086108325960474530587280": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "97145870427475804920099879144757005874334569919702217086108325960474530587280",
-      "conditionId": "0xb301db9e7a5e50be0a6a99e0c1285241da8bf35655aa5781edbf7c4a22290811",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: JiJieHao vs SAW Youngsters - Map 2 Winner",
-      "outcome": "JiJieHao",
-      "slug": "cs2-jjh-sawy-2026-10-29-game2",
-      "whalePrice": 0.6179638008904978,
-      "ourPrice": 0.6179638008904978,
-      "shares": 161.82177638220566,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T12:02:13.579Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:112647332633164024411603280327576033616559677958853002258111658794446167135158": {
       "reason": "benched",
@@ -16533,6 +16498,47 @@
       "proceeds": 212.37045899213817,
       "pnl": 112.37045899213817,
       "closedAt": "2026-10-29T13:07:34.303Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "89870028115074799430880762858196015863339414209272246410504202913063619644475",
+      "conditionId": "0x6b4dc927f13ebeca13b3e18312871fe3da325d6bff347b91a81c9a8503cc3546",
+      "outcomeIndex": 0,
+      "title": "Will Microsoft Corporation (MSFT) hit (HIGH) $540 in October?",
+      "outcome": "Yes",
+      "slug": "will-msft-reach-540-in-october-2026-from-october-16",
+      "whalePrice": 0.62,
+      "ourPrice": 0.7947448184008089,
+      "shares": 125.82655172413794,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-26T14:45:00.389Z",
+      "proceeds": 125.82655172413794,
+      "pnl": 25.826551724137943,
+      "closedAt": "2026-10-29T13:51:31.863Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "97145870427475804920099879144757005874334569919702217086108325960474530587280",
+      "conditionId": "0xb301db9e7a5e50be0a6a99e0c1285241da8bf35655aa5781edbf7c4a22290811",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: JiJieHao vs SAW Youngsters - Map 2 Winner",
+      "outcome": "JiJieHao",
+      "slug": "cs2-jjh-sawy-2026-10-29-game2",
+      "whalePrice": 0.6179638008904978,
+      "ourPrice": 0.6179638008904978,
+      "shares": 161.82177638220566,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T12:02:13.579Z",
+      "proceeds": 161.82177638220566,
+      "pnl": 61.821776382205655,
+      "closedAt": "2026-10-29T13:51:37.131Z"
     }
   ]
 }
