@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793270521,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793269805,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793270323,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793270848,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793271067,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793270920,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793270140,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793271125,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793266559,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -18,8 +18,8 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793231597,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793231627,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793270491
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793271136,
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793270590
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11175,23 +11175,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T09:00:12.553Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:100077313961807575341145794480444494512791612269459074608038526210890430891165": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "100077313961807575341145794480444494512791612269459074608038526210890430891165",
-      "conditionId": "0xecc47c1dd279e4e8c05f4d06b7dbf5137e6c1e19b793dd4198939550bc5bdf14",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: B8 vs HOTU - Map 1 Winner",
-      "outcome": "B8",
-      "slug": "cs2-b8-hotu-2026-10-29-game1",
-      "whalePrice": 0.4679508728,
-      "ourPrice": 0.4679508728,
-      "shares": 213.69764608333048,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T09:12:13.135Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:72519790371061340119765172065780798251360397199188255055934152186624799324027": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11276,6 +11259,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T10:42:16.867Z"
+    },
+    "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:3744195159354026658240894722825572606729800574799066853162466280387526160790": {
+      "reason": "longdated",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "3744195159354026658240894722825572606729800574799066853162466280387526160790",
+      "conditionId": "0xd7788f99870e1139c4afdb8c761259adb7c7790f1ce620089f7ac68b86e2f09b",
+      "outcomeIndex": 0,
+      "title": "Will Ra'am win 8 or more seats in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-raam-win-8-or-more-seats-in-the-2026-knesset-elections",
+      "whalePrice": 0.2466692543,
+      "ourPrice": 0.2466692543,
+      "shares": 405.401152582963,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T10:48:09.341Z"
+    },
+    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:79877081933164489421474029636657256385350779192086284162525646876002972808549": {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "79877081933164489421474029636657256385350779192086284162525646876002972808549",
+      "conditionId": "0xda324f046902cf28af7b0043d2f39d1273b08ca4b9352afa844ccc745f50c098",
+      "outcomeIndex": 1,
+      "title": "Dota 2: Team Liquid vs Astra Invicta - Game 2 Winner",
+      "outcome": "Astra Invicta",
+      "slug": "dota2-liquid-ai1-2026-10-29-game2",
+      "whalePrice": 0.37,
+      "ourPrice": 0.37,
+      "shares": 270.27027027027026,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T10:53:10.302Z"
     }
   },
   "shadowClosed": [
@@ -16215,6 +16232,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T10:32:34.227Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "100077313961807575341145794480444494512791612269459074608038526210890430891165",
+      "conditionId": "0xecc47c1dd279e4e8c05f4d06b7dbf5137e6c1e19b793dd4198939550bc5bdf14",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: B8 vs HOTU - Map 1 Winner",
+      "outcome": "B8",
+      "slug": "cs2-b8-hotu-2026-10-29-game1",
+      "whalePrice": 0.4679508728,
+      "ourPrice": 0.4679508728,
+      "shares": 213.69764608333048,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T09:12:13.135Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-29T10:44:28.080Z"
     }
   ]
 }
