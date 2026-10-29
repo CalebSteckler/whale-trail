@@ -1,12 +1,12 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793284103,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793284604,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793282287,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793284312,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793285003,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793283923,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793285020,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793280728,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793280860,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793271136,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793282326
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793284499
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11210,23 +11210,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T10:48:09.341Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:32819195558172415469610311697358991831040716188308610621664150556878319360425": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "32819195558172415469610311697358991831040716188308610621664150556878319360425",
-      "conditionId": "0x086976bf80da5d535578de716a8fb6ef6b056b0a14b414694edd5f3ddb4f7390",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: JiJieHao vs SAW Youngsters (BO3) - Circuito Retake Group A",
-      "outcome": "JiJieHao",
-      "slug": "cs2-jjh-sawy-2026-10-29",
-      "whalePrice": 0.8689694747895775,
-      "ourPrice": 0.8689694747895775,
-      "shares": 115.07884097334394,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T11:08:11.881Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:100965401820238560292011503543834205298588334859536142057486338070550323881409": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11379,6 +11362,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T13:57:17.928Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:108826400404544410440069809111517986111829746839003598997293147184628697980340": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "108826400404544410440069809111517986111829746839003598997293147184628697980340",
+      "conditionId": "0xa1d51b6742b5a6770a09c7250e01d6c4a686b431406655fb6b28eb284fe4a04a",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Inner Circle Esports vs Astralis - Map 2 Winner",
+      "outcome": "Inner Circle Esports",
+      "slug": "cs2-ice-ast10-2026-10-29-game2",
+      "whalePrice": 0.5554546308074456,
+      "ourPrice": 0.5554546308074456,
+      "shares": 180.03270555982832,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T14:35:19.868Z"
     }
   },
   "shadowClosed": [
@@ -16559,6 +16559,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T14:24:37.269Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "32819195558172415469610311697358991831040716188308610621664150556878319360425",
+      "conditionId": "0x086976bf80da5d535578de716a8fb6ef6b056b0a14b414694edd5f3ddb4f7390",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: JiJieHao vs SAW Youngsters (BO3) - Circuito Retake Group A",
+      "outcome": "JiJieHao",
+      "slug": "cs2-jjh-sawy-2026-10-29",
+      "whalePrice": 0.8689694747895775,
+      "ourPrice": 0.8689694747895775,
+      "shares": 115.07884097334394,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T11:08:11.881Z",
+      "proceeds": 115.07884097334394,
+      "pnl": 15.078840973343944,
+      "closedAt": "2026-10-29T14:35:37.517Z"
     }
   ]
 }
