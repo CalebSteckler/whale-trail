@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793291422,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793291881,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793290778,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793291365,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793291968,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1792540775,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793220490,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793291423,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793287217,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793291681,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793291926,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793291423,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793291905,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793205239,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793210393,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793220407,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793288704,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793271136,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793290706
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793292241
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1907,6 +1907,25 @@
       "lagS": 184,
       "rules": 2,
       "openedAt": "2026-10-29T15:23:21.935Z"
+    },
+    "0xe949065b6c64308369c26dc590121623a5a4dea6:11957039860047287352850698370191849800593069989221304732854582129110809407260": {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "11957039860047287352850698370191849800593069989221304732854582129110809407260",
+      "conditionId": "0xe64ec54460a1f1b250c9785968e6ebecfb0fd542a34300a161f64460c7a811df",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the NC-11 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-nc-11-house-seat",
+      "eventSlug": "nc-11-house-election-winner",
+      "whalePrice": 0.83,
+      "whaleUsd": 864.0880999999999,
+      "ourPrice": 0.8693644945544806,
+      "shares": 115.02655172413795,
+      "stake": 100,
+      "lagS": 125,
+      "rules": 2,
+      "openedAt": "2026-10-29T16:40:30.919Z"
     }
   },
   "closed": [
@@ -11331,23 +11350,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T13:17:16.848Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:20056693635204148136417794051822727596609133195422611969309349096160808480702": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "20056693635204148136417794051822727596609133195422611969309349096160808480702",
-      "conditionId": "0x1585fbc37673963dd5b6ac1abaf7c706ca1d4fefc37f05165a47723f52671ccd",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Fire Flux Esports vs PRIVATE - Map 1 Winner",
-      "outcome": "PRIVATE",
-      "slug": "cs2-ff-priv-2026-10-29-game1",
-      "whalePrice": 0.4243368325,
-      "ourPrice": 0.4243368325,
-      "shares": 235.66184300063088,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T13:57:17.928Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:72484470323457781490418074887818414956328925259630173408815876344351328006429": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -11569,6 +11571,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T16:22:31.033Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:83223618708711172974634403657597942054659060635164702778415090589890117196514": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "83223618708711172974634403657597942054659060635164702778415090589890117196514",
+      "conditionId": "0x06fd4dbecf645d9285bd425cd908cfaf1658ec91cc6bc3e6ef7bb7bb8b512d65",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: paiN vs naocopulas - Map 1 Winner",
+      "outcome": "paiN",
+      "slug": "cs2-pain-ncp-2026-10-29-game1",
+      "whalePrice": 0.6962520703499225,
+      "ourPrice": 0.6962520703499225,
+      "shares": 143.6261438328535,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T16:39:29.301Z"
     }
   },
   "shadowClosed": [
@@ -16829,6 +16848,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-29T15:52:41.426Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "20056693635204148136417794051822727596609133195422611969309349096160808480702",
+      "conditionId": "0x1585fbc37673963dd5b6ac1abaf7c706ca1d4fefc37f05165a47723f52671ccd",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Fire Flux Esports vs PRIVATE - Map 1 Winner",
+      "outcome": "PRIVATE",
+      "slug": "cs2-ff-priv-2026-10-29-game1",
+      "whalePrice": 0.4243368325,
+      "ourPrice": 0.4243368325,
+      "shares": 235.66184300063088,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T13:57:17.928Z",
+      "proceeds": 235.66184300063088,
+      "pnl": 135.66184300063088,
+      "closedAt": "2026-10-29T16:37:49.872Z"
     }
   ]
 }
