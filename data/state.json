@@ -11558,23 +11558,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T16:22:31.033Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:83223618708711172974634403657597942054659060635164702778415090589890117196514": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "83223618708711172974634403657597942054659060635164702778415090589890117196514",
-      "conditionId": "0x06fd4dbecf645d9285bd425cd908cfaf1658ec91cc6bc3e6ef7bb7bb8b512d65",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: paiN vs naocopulas - Map 1 Winner",
-      "outcome": "paiN",
-      "slug": "cs2-pain-ncp-2026-10-29-game1",
-      "whalePrice": 0.6962520703499225,
-      "ourPrice": 0.6962520703499225,
-      "shares": 143.6261438328535,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T16:39:29.301Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:100040459161457857945545926450918554608244290757710456441003183549222366879367": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11591,23 +11574,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T17:01:31.517Z"
-    },
-    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:87703313696858923130909374749812692243633689652229003020443523484982972531472": {
-      "reason": "benched",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "87703313696858923130909374749812692243633689652229003020443523484982972531472",
-      "conditionId": "0x8c0c8e5d73e9f5dbe229eb7d5fa1d64487aeb664da6e05a4b155e5cf87c67472",
-      "outcomeIndex": 0,
-      "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
-      "outcome": "PARIVISION",
-      "slug": "dota2-pari-ty-2026-10-29-game2",
-      "whalePrice": 0.55,
-      "ourPrice": 0.55,
-      "shares": 181.8181818181818,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T17:08:33.470Z"
     },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:10277704609125478851700737087208068296053671303350323820139852044377875806176": {
       "reason": "benched",
@@ -17205,6 +17171,46 @@
       "proceeds": 196.078431372549,
       "pnl": 96.078431372549,
       "closedAt": "2026-10-29T17:43:48.558Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "83223618708711172974634403657597942054659060635164702778415090589890117196514",
+      "conditionId": "0x06fd4dbecf645d9285bd425cd908cfaf1658ec91cc6bc3e6ef7bb7bb8b512d65",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: paiN vs naocopulas - Map 1 Winner",
+      "outcome": "paiN",
+      "slug": "cs2-pain-ncp-2026-10-29-game1",
+      "whalePrice": 0.6962520703499225,
+      "ourPrice": 0.6962520703499225,
+      "shares": 143.6261438328535,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T16:39:29.301Z",
+      "proceeds": 143.6261438328535,
+      "pnl": 43.6261438328535,
+      "closedAt": "2026-10-29T18:05:51.966Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "87703313696858923130909374749812692243633689652229003020443523484982972531472",
+      "conditionId": "0x8c0c8e5d73e9f5dbe229eb7d5fa1d64487aeb664da6e05a4b155e5cf87c67472",
+      "outcomeIndex": 0,
+      "title": "Dota 2: PARIVISION vs Team Yandex - Game 2 Winner",
+      "outcome": "PARIVISION",
+      "slug": "dota2-pari-ty-2026-10-29-game2",
+      "whalePrice": 0.55,
+      "ourPrice": 0.55,
+      "shares": 181.8181818181818,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T17:08:33.470Z",
+      "proceeds": 181.8181818181818,
+      "pnl": 81.81818181818181,
+      "closedAt": "2026-10-29T18:05:52.163Z"
     }
   ]
 }
