@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793314486,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793296178,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793323246,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793323699,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793318689,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793323786,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793322852,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -11829,23 +11829,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T23:38:44.959Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:29671745933570764754892274660653430851856774899428217993517095668386696989906": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "29671745933570764754892274660653430851856774899428217993517095668386696989906",
-      "conditionId": "0x570521eb3951ce33850f39d49b5e625fe1b4076a1373154fd6bfc730e34011e5",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: NRG vs Procyon Gaming - Map 1 Winner",
-      "outcome": "NRG",
-      "slug": "cs2-nrg-pcy-2026-10-29-game1",
-      "whalePrice": 0.7524616604,
-      "ourPrice": 0.7524616604,
-      "shares": 132.89713650904307,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T23:43:45.773Z"
     }
   },
   "shadowClosed": [
@@ -17488,6 +17471,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-30T00:21:03.934Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "29671745933570764754892274660653430851856774899428217993517095668386696989906",
+      "conditionId": "0x570521eb3951ce33850f39d49b5e625fe1b4076a1373154fd6bfc730e34011e5",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: NRG vs Procyon Gaming - Map 1 Winner",
+      "outcome": "NRG",
+      "slug": "cs2-nrg-pcy-2026-10-29-game1",
+      "whalePrice": 0.7524616604,
+      "ourPrice": 0.7524616604,
+      "shares": 132.89713650904307,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T23:43:45.773Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T01:27:08.194Z"
     }
   ]
 }
