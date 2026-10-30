@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793384673,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793384973,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793379934,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793384557,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793385058,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793381995,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793382726,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793364580,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793383786
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793385099
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11998,23 +11998,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T14:34:56.626Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:100928372101610062223841489371085312066858202269868246975824586361850707170781": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "100928372101610062223841489371085312066858202269868246975824586361850707170781",
-      "conditionId": "0xd54ab598791633e900a51014de0f74046c0340e21b0b1d809f21edfd40fd6055",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
-      "outcome": "MOUZ",
-      "slug": "cs2-mouz-furia-2026-10-30",
-      "whalePrice": 0.6235126571,
-      "ourPrice": 0.6235126571,
-      "shares": 160.38166805643823,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T15:12:58.710Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:27981071375617368337708490679889122076396948738480116081138487638151270957765": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -12235,23 +12218,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T17:05:02.482Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:113870786768552189452016462669045406665234196162319899408564137657347064814839": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "113870786768552189452016462669045406665234196162319899408564137657347064814839",
-      "conditionId": "0x2bd526862f67a86f2017f1595dca470250062d094668b9aedb4437403e585200",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Signatus vs Isurus - Map 2 Winner",
-      "outcome": "Isurus",
-      "slug": "cs2-sig1-isg-2026-10-30-game2",
-      "whalePrice": 0.9564755224999999,
-      "ourPrice": 0.9564755224999999,
-      "shares": 104.55050615265485,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:08:03.256Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:14842895655846399093341512931745771873991496689022876919275219214453878036935": {
       "reason": "benched",
@@ -18633,6 +18599,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-30T18:11:46.319Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "100928372101610062223841489371085312066858202269868246975824586361850707170781",
+      "conditionId": "0xd54ab598791633e900a51014de0f74046c0340e21b0b1d809f21edfd40fd6055",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: MOUZ vs FURIA (BO3) - PGL Masters Bucharest Playoffs",
+      "outcome": "MOUZ",
+      "slug": "cs2-mouz-furia-2026-10-30",
+      "whalePrice": 0.6235126571,
+      "ourPrice": 0.6235126571,
+      "shares": 160.38166805643823,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T15:12:58.710Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T18:33:46.954Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "113870786768552189452016462669045406665234196162319899408564137657347064814839",
+      "conditionId": "0x2bd526862f67a86f2017f1595dca470250062d094668b9aedb4437403e585200",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Signatus vs Isurus - Map 2 Winner",
+      "outcome": "Isurus",
+      "slug": "cs2-sig1-isg-2026-10-30-game2",
+      "whalePrice": 0.9564755224999999,
+      "ourPrice": 0.9564755224999999,
+      "shares": 104.55050615265485,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:08:03.256Z",
+      "proceeds": 104.55050615265485,
+      "pnl": 4.550506152654847,
+      "closedAt": "2026-10-30T18:33:49.063Z"
     }
   ]
 }
