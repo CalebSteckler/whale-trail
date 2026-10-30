@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793372994,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793374149,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793370574,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793373175,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793374026,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793366911,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793316481,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793364580,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793372926
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793373834
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11872,23 +11872,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T08:53:44.090Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:52676832465012817998772975636482917206088192401248951140614171760776204856819": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "52676832465012817998772975636482917206088192401248951140614171760776204856819",
-      "conditionId": "0xbef64b3ed42aa4b1ccaac7c47efffd4512abbc97c5e5cdec69dba2c2d2c659e3",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Gatorian vs UNiTY esports - Map 2 Winner",
-      "outcome": "UNiTY esports",
-      "slug": "cs2-gat-unity-2026-10-30-game2",
-      "whalePrice": 0.5607900368256091,
-      "ourPrice": 0.5607900368256091,
-      "shares": 178.3198584733369,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T11:06:52.520Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:4838125637334705542173889316081496273672608137129505235601784688056788006093": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -18046,6 +18029,26 @@
       "proceeds": 144.36333329754618,
       "pnl": 44.36333329754618,
       "closedAt": "2026-10-30T15:04:32.855Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "52676832465012817998772975636482917206088192401248951140614171760776204856819",
+      "conditionId": "0xbef64b3ed42aa4b1ccaac7c47efffd4512abbc97c5e5cdec69dba2c2d2c659e3",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Gatorian vs UNiTY esports - Map 2 Winner",
+      "outcome": "UNiTY esports",
+      "slug": "cs2-gat-unity-2026-10-30-game2",
+      "whalePrice": 0.5607900368256091,
+      "ourPrice": 0.5607900368256091,
+      "shares": 178.3198584733369,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T11:06:52.520Z",
+      "proceeds": 178.3198584733369,
+      "pnl": 78.3198584733369,
+      "closedAt": "2026-10-30T15:26:37.476Z"
     }
   ]
 }
