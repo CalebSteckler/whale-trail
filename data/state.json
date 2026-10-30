@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793386359,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793394439,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793394903,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -10,13 +10,13 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793391151,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793392396,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793394622,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793383072,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793362333,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793381839,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793381995,
+    "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793387088,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793394166,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793386944
@@ -1644,25 +1644,6 @@
       "lagS": 341,
       "rules": 2,
       "openedAt": "2026-10-28T13:49:27.226Z"
-    },
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e:4068878296238585951411504750287746676435520542938057717655994953167565690800": {
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "4068878296238585951411504750287746676435520542938057717655994953167565690800",
-      "conditionId": "0x8ad7b291941d1fdc34743befe5693aeac3f5e5a3e369516469ab1da9b42b5027",
-      "outcomeIndex": 1,
-      "title": "Republican House odds dip to 7% by October 31?",
-      "outcome": "No",
-      "slug": "republican-house-odds-dip-to-7-by-october-31",
-      "eventSlug": "republican-house-odds-hit-by-october-31",
-      "whalePrice": 0.85,
-      "whaleUsd": 336.719,
-      "ourPrice": 0.86,
-      "shares": 116.27906976744187,
-      "stake": 100,
-      "lagS": 186,
-      "rules": 2,
-      "openedAt": "2026-10-28T20:49:53.684Z"
     },
     "0xfbedb045813457be883ad83dd1078e88a2a1a665:54743173400191373818547682740700297683169841200363505623023527116388816282328": {
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -8557,6 +8538,29 @@
       "pnl": 9.890109890109883,
       "closedAt": "2026-10-30T20:02:27.886Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "4068878296238585951411504750287746676435520542938057717655994953167565690800",
+      "conditionId": "0x8ad7b291941d1fdc34743befe5693aeac3f5e5a3e369516469ab1da9b42b5027",
+      "outcomeIndex": 1,
+      "title": "Republican House odds dip to 7% by October 31?",
+      "outcome": "No",
+      "slug": "republican-house-odds-dip-to-7-by-october-31",
+      "eventSlug": "republican-house-odds-hit-by-october-31",
+      "whalePrice": 0.85,
+      "whaleUsd": 336.719,
+      "ourPrice": 0.86,
+      "shares": 116.27906976744187,
+      "stake": 100,
+      "lagS": 186,
+      "rules": 2,
+      "openedAt": "2026-10-28T20:49:53.684Z",
+      "proceeds": 0.6976744186046512,
+      "pnl": -99.30232558139535,
+      "closedAt": "2026-10-30T21:17:25.254Z",
+      "note": "whale sold @0.013, we exit @0.006"
     }
   ],
   "shadow": {
@@ -12404,23 +12408,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T18:23:05.273Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:61146328705437135218216261350240675500994738121370430166316186086970344489436": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "61146328705437135218216261350240675500994738121370430166316186086970344489436",
-      "conditionId": "0x37b0fa4a8f087d9bd1e07ea20197915a64a20fc84fa24c0d87816787548c33a6",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Wildcard vs Hacha Esports (BO3) - FiReSPORTS Last Chance Group D",
-      "outcome": "Wildcard",
-      "slug": "cs2-wc1-hachae-2026-10-30",
-      "whalePrice": 0.9567461955902958,
-      "ourPrice": 0.9567461955902958,
-      "shares": 104.52092776632546,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T18:48:07.242Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:94483965432909797688470702512207472940215538148754820061518518664128018848687": {
       "reason": "benched",
@@ -18773,6 +18760,26 @@
       "proceeds": 350.8537931034483,
       "pnl": 250.8537931034483,
       "closedAt": "2026-10-30T20:13:43.199Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "61146328705437135218216261350240675500994738121370430166316186086970344489436",
+      "conditionId": "0x37b0fa4a8f087d9bd1e07ea20197915a64a20fc84fa24c0d87816787548c33a6",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Wildcard vs Hacha Esports (BO3) - FiReSPORTS Last Chance Group D",
+      "outcome": "Wildcard",
+      "slug": "cs2-wc1-hachae-2026-10-30",
+      "whalePrice": 0.9567461955902958,
+      "ourPrice": 0.9567461955902958,
+      "shares": 104.52092776632546,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T18:48:07.242Z",
+      "proceeds": 104.52092776632546,
+      "pnl": 4.520927766325457,
+      "closedAt": "2026-10-30T21:19:42.582Z"
     }
   ]
 }
