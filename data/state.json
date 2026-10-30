@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793386168,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793386590,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793386359,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793386564,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793387151,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -17,9 +17,9 @@
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793381839,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793381995,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793382726,
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793387088,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793364580,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793385915
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793386944
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1948,25 +1948,6 @@
       "lagS": 82,
       "rules": 2,
       "openedAt": "2026-10-30T16:27:01.955Z"
-    },
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:90776770437624487464994248057068312525501522979001417834225341039236742577532": {
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "90776770437624487464994248057068312525501522979001417834225341039236742577532",
-      "conditionId": "0xd4d8fbfe088b6c62a21c394f9d7d2f4f316e0f089335867b0915878361d5320f",
-      "outcomeIndex": 1,
-      "title": "Dota 2: Team Spirit vs Team Liquid - Game 1 Winner",
-      "outcome": "Team Liquid",
-      "slug": "dota2-ts8-liquid-2026-10-30-game1",
-      "eventSlug": "dota2-ts8-liquid-2026-10-30",
-      "whalePrice": 0.21682939150000002,
-      "whaleUsd": 588.117200035025,
-      "ourPrice": 0.22,
-      "shares": 454.54545454545456,
-      "stake": 100,
-      "lagS": 118,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:54:04.384Z"
     }
   },
   "closed": [
@@ -8541,6 +8522,29 @@
       "pnl": -100,
       "closedAt": "2026-10-30T03:50:53.759Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "90776770437624487464994248057068312525501522979001417834225341039236742577532",
+      "conditionId": "0xd4d8fbfe088b6c62a21c394f9d7d2f4f316e0f089335867b0915878361d5320f",
+      "outcomeIndex": 1,
+      "title": "Dota 2: Team Spirit vs Team Liquid - Game 1 Winner",
+      "outcome": "Team Liquid",
+      "slug": "dota2-ts8-liquid-2026-10-30-game1",
+      "eventSlug": "dota2-ts8-liquid-2026-10-30",
+      "whalePrice": 0.21682939150000002,
+      "whaleUsd": 588.117200035025,
+      "ourPrice": 0.22,
+      "shares": 454.54545454545456,
+      "stake": 100,
+      "lagS": 118,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:54:04.384Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T19:06:26.309Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -12185,23 +12189,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T16:27:01.957Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:25910298795696018492768440935499449206387011943295690799619003812462421598823": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "25910298795696018492768440935499449206387011943295690799619003812462421598823",
-      "conditionId": "0x8dc0a07080fee2666b090e5bce06598b49abf8a2ecbe412958f5c31aea4ff5a9",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Metizport vs SNITKO Esports (BO1) - Circuito Retake Group D",
-      "outcome": "Metizport",
-      "slug": "cs2-mzp-se2-2026-10-30",
-      "whalePrice": 0.8934780031,
-      "ourPrice": 0.8934780031,
-      "shares": 111.9221734089046,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T16:45:01.660Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:29325796725835595233248959141781678283333671747585575704574349029087876455067": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12270,23 +12257,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T17:15:02.282Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:92327089598537727582492514220496222443332954355740352219139217957670220701869": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "92327089598537727582492514220496222443332954355740352219139217957670220701869",
-      "conditionId": "0x5749a3aacd8606ccb4eb9a0f76473fda1c5481b8237e445ec86d2cfb18c2cbac",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Low Cortisol vs ALKA - Map 2 Winner",
-      "outcome": "Low Cortisol",
-      "slug": "cs2-lowcor1-alkaa-2026-10-30-game2",
-      "whalePrice": 0.7155664335616783,
-      "ourPrice": 0.7155664335616783,
-      "shares": 139.74942829872202,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:25:03.721Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:102490352960826289878203626922376022882491041625339900488317693005473902922874": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12337,23 +12307,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T17:40:03.901Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:66245902553491584112005668172243860678325554669506517749559584163818105990546": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "66245902553491584112005668172243860678325554669506517749559584163818105990546",
-      "conditionId": "0x509c387c607d8f41ded572bc71c45b63e59e8e2b4e8ccb1428d898a546a6a714",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: fnatic vs Eternal Fire - Map 3 Winner",
-      "outcome": "fnatic",
-      "slug": "cs2-fnc-ef1-2026-10-30-game3",
-      "whalePrice": 0.6358539945,
-      "ourPrice": 0.6358539945,
-      "shares": 157.26880835062522,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:42:03.402Z"
     },
     "longdated:0x0c0e270cf879583d6a0142fc817e05b768d0434e:64567203262874493228125345172786119741751988350727082094309463494623975963306": {
       "reason": "longdated",
@@ -12473,6 +12426,24 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T18:48:07.242Z"
+    },
+    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:31095630768986058557600171279306103305385092763122644511864519084400052643404": {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "31095630768986058557600171279306103305385092763122644511864519084400052643404",
+      "conditionId": "0x75ad4646cd77f6d9c30ad0d747d6d7b56dc43c2e72ef9102a36b1800f2b6aae1",
+      "outcomeIndex": 1,
+      "title": "Dota 2: Team Spirit vs Team Liquid - Game 2 Winner",
+      "outcome": "Team Liquid",
+      "slug": "dota2-ts8-liquid-2026-10-30-game2",
+      "whalePrice": 0.4379578821497376,
+      "ourPrice": 0.285019007819349,
+      "shares": 350.8537931034483,
+      "stake": 100,
+      "note": "moved for us",
+      "rules": 2,
+      "openedAt": "2026-10-30T19:09:08.123Z"
     }
   },
   "shadowClosed": [
@@ -18656,6 +18627,66 @@
       "proceeds": 104.55050615265485,
       "pnl": 4.550506152654847,
       "closedAt": "2026-10-30T18:33:49.063Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "25910298795696018492768440935499449206387011943295690799619003812462421598823",
+      "conditionId": "0x8dc0a07080fee2666b090e5bce06598b49abf8a2ecbe412958f5c31aea4ff5a9",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Metizport vs SNITKO Esports (BO1) - Circuito Retake Group D",
+      "outcome": "Metizport",
+      "slug": "cs2-mzp-se2-2026-10-30",
+      "whalePrice": 0.8934780031,
+      "ourPrice": 0.8934780031,
+      "shares": 111.9221734089046,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T16:45:01.660Z",
+      "proceeds": 111.9221734089046,
+      "pnl": 11.922173408904598,
+      "closedAt": "2026-10-30T19:06:49.346Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "92327089598537727582492514220496222443332954355740352219139217957670220701869",
+      "conditionId": "0x5749a3aacd8606ccb4eb9a0f76473fda1c5481b8237e445ec86d2cfb18c2cbac",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Low Cortisol vs ALKA - Map 2 Winner",
+      "outcome": "Low Cortisol",
+      "slug": "cs2-lowcor1-alkaa-2026-10-30-game2",
+      "whalePrice": 0.7155664335616783,
+      "ourPrice": 0.7155664335616783,
+      "shares": 139.74942829872202,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:25:03.721Z",
+      "proceeds": 139.74942829872202,
+      "pnl": 39.74942829872202,
+      "closedAt": "2026-10-30T19:06:50.350Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "66245902553491584112005668172243860678325554669506517749559584163818105990546",
+      "conditionId": "0x509c387c607d8f41ded572bc71c45b63e59e8e2b4e8ccb1428d898a546a6a714",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: fnatic vs Eternal Fire - Map 3 Winner",
+      "outcome": "fnatic",
+      "slug": "cs2-fnc-ef1-2026-10-30-game3",
+      "whalePrice": 0.6358539945,
+      "ourPrice": 0.6358539945,
+      "shares": 157.26880835062522,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:42:03.402Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T19:06:51.089Z"
     }
   ]
 }

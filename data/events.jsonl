@@ -4855,3 +4855,5 @@
 {"t":"2026-10-30T18:46:05.292Z","type":"skip","name":"qwen4.1.fund","title":"Will SpaceX have the highest IPO Market Cap 2026?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-30T18:46:05.292Z","type":"skip","name":"qwen4.1.fund","title":"Will OpenAI have the highest IPO Market Cap 2026?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-30T18:48:07.242Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Wildcard vs Hacha Esports (BO3) - FiReSPORTS Last Chance Group D","outcome":"Wildcard","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T19:06:26.309Z","type":"close","name":"THEHIGHLIFE","title":"Dota 2: Team Spirit vs Team Liquid - Game 1 Winner","outcome":"Team Liquid","note":"$-100.00 (resolved LOSS)"}
+{"t":"2026-10-30T19:09:08.122Z","type":"skip","name":"THEHIGHLIFE","title":"Dota 2: Team Spirit vs Team Liquid - Game 2 Winner","outcome":"Team Liquid","note":"price moved 0.438 -> 0.285 before we saw it"}
