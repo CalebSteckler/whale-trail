@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793371827,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793372764,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793370574,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793372224,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793372785,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793370516,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793372371,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793371791,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793372089,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793372755,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793317059,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793362333,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793366911,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793316481,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793364580,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793372002
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793372353
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12026,23 +12026,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T13:01:54.606Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:13651081416004265257642433070377024981099876261829683925938263920655869273120": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "13651081416004265257642433070377024981099876261829683925938263920655869273120",
-      "conditionId": "0x0b8b3c44f48c2c15b9461ad91b76010eb73fceeb3c9a9816d46f6f70ff4d32b5",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: QUINTESSÊNCIA vs naocopulas - Map 1 Winner",
-      "outcome": "naocopulas",
-      "slug": "cs2-quin-nao-2026-10-30-game1",
-      "whalePrice": 0.6926966683007433,
-      "ourPrice": 0.6926966683007433,
-      "shares": 144.36333329754618,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T13:01:54.606Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:79914065938137441050831141741377104065403480264130605034345050410775866776622": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -12110,6 +12093,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T14:44:57.191Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:6610651826590504791838715989958965210079134468833157392967395343182293708150": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "6610651826590504791838715989958965210079134468833157392967395343182293708150",
+      "conditionId": "0xaefaf695ee244912fd94752542bebccf598393bcba5905609d44e029efba66ee",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Betclic Apogee Esports vs ILLYRIANS (BO3) - CCT Europe Series #12 Playoffs",
+      "outcome": "Betclic Apogee Esports",
+      "slug": "cs2-bca-ill4-2026-10-30",
+      "whalePrice": 0.6987772891,
+      "ourPrice": 0.6987772891,
+      "shares": 143.10711232300693,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T15:00:58.784Z"
     }
   },
   "shadowClosed": [
@@ -17992,6 +17992,26 @@
       "proceeds": 192.7982838918326,
       "pnl": 92.7982838918326,
       "closedAt": "2026-10-30T14:42:36.210Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "13651081416004265257642433070377024981099876261829683925938263920655869273120",
+      "conditionId": "0x0b8b3c44f48c2c15b9461ad91b76010eb73fceeb3c9a9816d46f6f70ff4d32b5",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: QUINTESSÊNCIA vs naocopulas - Map 1 Winner",
+      "outcome": "naocopulas",
+      "slug": "cs2-quin-nao-2026-10-30-game1",
+      "whalePrice": 0.6926966683007433,
+      "ourPrice": 0.6926966683007433,
+      "shares": 144.36333329754618,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T13:01:54.606Z",
+      "proceeds": 144.36333329754618,
+      "pnl": 44.36333329754618,
+      "closedAt": "2026-10-30T15:04:32.855Z"
     }
   ]
 }
