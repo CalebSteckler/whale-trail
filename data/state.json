@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793396074,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793401569,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793402310,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793400948,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793401857,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793396875,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793400460,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793400262,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793402031,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793396908
   },
   "open": {
@@ -12428,23 +12428,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T21:03:24.839Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:85959222201383946578856006125225301552490984958666864416592160449678558172511": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "85959222201383946578856006125225301552490984958666864416592160449678558172511",
-      "conditionId": "0x8413fcfd4d8bac3ce80af1305b11b8deb536e52a42158745c99a1275d79cbc4d",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Wildcard vs BESTIA - Map 1 Winner",
-      "outcome": "BESTIA",
-      "slug": "cs2-wc1-bst-2026-10-30-game1",
-      "whalePrice": 0.6036275453948937,
-      "ourPrice": 0.6036275453948937,
-      "shares": 165.66507072598867,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T21:51:27.754Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:47591100899041404909370279193081997651507741300143168870268204575817136832723": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12513,6 +12496,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T22:44:28.379Z"
+    },
+    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:63308249665484781866910798124877093099400086085882310931897450615793659626901": {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "63308249665484781866910798124877093099400086085882310931897450615793659626901",
+      "conditionId": "0xadf5ef593973c0f9a024e827bb3f16021b4099a9c3888e94fddc7f00704aad63",
+      "outcomeIndex": 0,
+      "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
+      "outcome": "Hanwha Life Esports",
+      "slug": "lol-hle1-g2-2026-10-30-game1",
+      "whalePrice": 0.69,
+      "ourPrice": 0.69,
+      "shares": 144.92753623188406,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T23:15:29.604Z"
     }
   },
   "shadowClosed": [
@@ -18897,6 +18897,26 @@
       "proceeds": 140.84507042253523,
       "pnl": 40.84507042253523,
       "closedAt": "2026-10-30T22:03:47.121Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "85959222201383946578856006125225301552490984958666864416592160449678558172511",
+      "conditionId": "0x8413fcfd4d8bac3ce80af1305b11b8deb536e52a42158745c99a1275d79cbc4d",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Wildcard vs BESTIA - Map 1 Winner",
+      "outcome": "BESTIA",
+      "slug": "cs2-wc1-bst-2026-10-30-game1",
+      "whalePrice": 0.6036275453948937,
+      "ourPrice": 0.6036275453948937,
+      "shares": 165.66507072598867,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T21:51:27.754Z",
+      "proceeds": 165.66507072598867,
+      "pnl": 65.66507072598867,
+      "closedAt": "2026-10-30T23:20:50.596Z"
     }
   ]
 }
