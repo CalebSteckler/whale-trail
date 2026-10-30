@@ -4879,3 +4879,6 @@
 {"t":"2026-10-30T21:51:27.754Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Wildcard vs BESTIA - Map 1 Winner","outcome":"BESTIA","note":"whale benched (negative edge)"}
 {"t":"2026-10-30T22:01:26.777Z","type":"skip","name":"Kch-Temp","title":"Knicks vs. 76ers","outcome":"76ers","note":"whale benched (negative edge)"}
 {"t":"2026-10-30T22:18:26.934Z","type":"skip","name":"qwen4.1.fund","title":"Will Dan Sullivan win the Alaska Senate race in 2026?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T22:36:28.204Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage","outcome":"LOS","note":"price moved 0.334 -> 0.810 before we saw it"}
+{"t":"2026-10-30T22:38:29.521Z","type":"copy","name":"SpringlyFawl","title":"Will the Republican Party win the FL-14 House seat?","outcome":"No","note":"whale $288 @0.750 -> us @0.780 (4.0% worse, 166s lag)"}
+{"t":"2026-10-30T22:41:28.516Z","type":"skip","name":"THEHIGHLIFE","title":"LoL: Team Liquid vs LOS (BO3) - Worlds Group Stage","outcome":"LOS","note":"price moved 0.347 -> 0.550 before we saw it"}
