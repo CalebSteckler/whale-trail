@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793396074,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793397415,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793398038,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793396875,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793397412,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793397862,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793383072,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793362333,
@@ -12205,23 +12205,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T16:27:01.957Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:29325796725835595233248959141781678283333671747585575704574349029087876455067": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "29325796725835595233248959141781678283333671747585575704574349029087876455067",
-      "conditionId": "0xf9d7504ba1cdf24dfea2456cb4b602e731e7452578f8ff04e83d01100874605c",
-      "outcomeIndex": 1,
-      "title": "Lyngby BK vs. Randers FC: O/U 2.5",
-      "outcome": "Under",
-      "slug": "den-lyn-ran-2026-10-30-total-2pt5",
-      "whalePrice": 0.4045751481,
-      "ourPrice": 0.4045751481,
-      "shares": 247.17286879737534,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:05:02.482Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:14842895655846399093341512931745771873991496689022876919275219214453878036935": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -12272,23 +12255,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T17:30:03.192Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:108027678136725087739398856726587743646969230908801878041126214472444202797930": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "108027678136725087739398856726587743646969230908801878041126214472444202797930",
-      "conditionId": "0xfdcbcfaf583c979a5cea9665817810624958beb0e06608bd85e6d75605e99997",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B",
-      "outcome": "Imperial",
-      "slug": "cs2-imp11-pain-2026-10-30",
-      "whalePrice": 0.71,
-      "ourPrice": 0.71,
-      "shares": 140.84507042253523,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:31:03.162Z"
     },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:58925648755677431099575336056609059258073385695910061552702116433655348019521": {
       "reason": "benched",
@@ -18820,6 +18786,46 @@
       "proceeds": 113.63636363636364,
       "pnl": 13.63636363636364,
       "closedAt": "2026-10-30T21:52:46.116Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "29325796725835595233248959141781678283333671747585575704574349029087876455067",
+      "conditionId": "0xf9d7504ba1cdf24dfea2456cb4b602e731e7452578f8ff04e83d01100874605c",
+      "outcomeIndex": 1,
+      "title": "Lyngby BK vs. Randers FC: O/U 2.5",
+      "outcome": "Under",
+      "slug": "den-lyn-ran-2026-10-30-total-2pt5",
+      "whalePrice": 0.4045751481,
+      "ourPrice": 0.4045751481,
+      "shares": 247.17286879737534,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:05:02.482Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T22:03:46.739Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "108027678136725087739398856726587743646969230908801878041126214472444202797930",
+      "conditionId": "0xfdcbcfaf583c979a5cea9665817810624958beb0e06608bd85e6d75605e99997",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Imperial vs paiN (BO3) - Gamers Club Masters Group B",
+      "outcome": "Imperial",
+      "slug": "cs2-imp11-pain-2026-10-30",
+      "whalePrice": 0.71,
+      "ourPrice": 0.71,
+      "shares": 140.84507042253523,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:31:03.162Z",
+      "proceeds": 140.84507042253523,
+      "pnl": 40.84507042253523,
+      "closedAt": "2026-10-30T22:03:47.121Z"
     }
   ]
 }
