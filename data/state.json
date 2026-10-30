@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793358186,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793357140,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793358258,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793358820,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793358753,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -11872,23 +11872,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T08:53:44.090Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:57200111399493813213900420206449324595654190725737630347123618141246964165098": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "57200111399493813213900420206449324595654190725737630347123618141246964165098",
-      "conditionId": "0x51d85f7873264092198d5535ca3ddfc569bd8a1567d3ede36cf57202bdaacb35",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: GenOne vs BakS eSports - Map 1 Winner",
-      "outcome": "BakS eSports",
-      "slug": "cs2-g1-baks-2026-10-30-game1",
-      "whalePrice": 0.4740465116279069,
-      "ourPrice": 0.4740465116279069,
-      "shares": 210.94976452119312,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T09:19:45.609Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:35574826134580197872231883783447451051554757278161716628636069880388336231924": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -17658,6 +17641,26 @@
       "proceeds": 120.48192771084338,
       "pnl": 20.48192771084338,
       "closedAt": "2026-10-30T02:44:01.733Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "57200111399493813213900420206449324595654190725737630347123618141246964165098",
+      "conditionId": "0x51d85f7873264092198d5535ca3ddfc569bd8a1567d3ede36cf57202bdaacb35",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: GenOne vs BakS eSports - Map 1 Winner",
+      "outcome": "BakS eSports",
+      "slug": "cs2-g1-baks-2026-10-30-game1",
+      "whalePrice": 0.4740465116279069,
+      "ourPrice": 0.4740465116279069,
+      "shares": 210.94976452119312,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T09:19:45.609Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T11:12:07.311Z"
     }
   ]
 }
