@@ -1,7 +1,7 @@
 Paper copies: 397 ($39700 staked) | closed 294, open 103
-Realized +$62 | open marked to bid -$527 | total -$465
+Realized +$62 | open marked to bid -$695 | total -$633
 Median price vs whale: 1.7% worse | avg detection lag 235s
-Capital tied up now: $10300 in 103 positions | peak at once $11100 | avg days locked per copy 2.4
+Capital tied up now: $10300 in 103 positions | peak at once $11100 | avg days locked per copy 2.5
 Wins/losses closed: 167/127
 Without the 5 best trades: -$1324 (is it a strategy or a few lucky long shots?)
 
@@ -27,26 +27,26 @@ By whale (benched = 20+ closed with negative edge, no longer copied):
   THEHIGHLIFE                 14 closed  +$453  edge +16.2c ±12.7c  |  0 open +$0
   Kch-Temp                    52 closed  +$325  edge -2.3c ±7.2c    |  1 open -$100  BENCHED
   Tokenn                       5 closed  +$206  edge +26.8c ±15.3c  |  0 open +$0
-  bitbe                        1 closed   +$52  edge +34.0c ±0.0c   |  2 open -$99
-  Bigggggggg                   4 closed   +$44  edge +9.6c ±2.6c    | 21 open -$2
-  ethBELIVER                   0 closed    +$0  edge       n/a      |  2 open -$119
-  The Spirit of Ukraine>UMA    0 closed    +$0  edge       n/a      | 11 open +$8
+  bitbe                        1 closed   +$52  edge +34.0c ±0.0c   |  2 open -$101
+  Bigggggggg                   4 closed   +$44  edge +9.6c ±2.6c    | 21 open -$28
+  ethBELIVER                   0 closed    +$0  edge       n/a      |  2 open -$121
+  The Spirit of Ukraine>UMA    0 closed    +$0  edge       n/a      | 11 open -$83
   para-Vision                 36 closed   -$26  edge -0.1c ±8.2c    |  0 open +$0  BENCHED
-  SpringlyFawl                 6 closed   -$39  edge -5.5c ±15.7c   |  6 open +$5
+  SpringlyFawl                 6 closed   -$39  edge -5.5c ±15.7c   |  6 open -$0
   JohnLKellyJr                61 closed   -$39  edge -1.1c ±6.1c    |  0 open +$0  BENCHED
-  zerone777                    5 closed   -$40  edge -6.4c ±18.9c   | 23 open -$77
+  zerone777                    5 closed   -$40  edge -6.4c ±18.9c   | 23 open -$103
   tiger105                    29 closed   -$64  edge -2.2c ±9.3c    |  0 open +$0  BENCHED
   DelidelaDele                25 closed   -$79  edge -0.4c ±9.9c    |  0 open +$0  BENCHED
-  qwen4.1.fund                24 closed   -$87  edge -3.2c ±7.8c    | 33 open -$77  BENCHED
+  qwen4.1.fund                24 closed   -$87  edge -3.2c ±7.8c    | 33 open -$85  BENCHED
   WoofMaster                   1 closed  -$100  edge -42.0c ±0.0c   |  0 open +$0
   gangmusic                    3 closed  -$131  edge -22.0c ±31.5c  |  0 open +$0
-  defillama7                   8 closed  -$201  edge -16.6c ±10.3c  |  3 open -$74
-  thanksforplayin             20 closed  -$212  edge -6.5c ±5.9c    |  1 open +$7  BENCHED
+  defillama7                   8 closed  -$201  edge -16.6c ±10.3c  |  3 open -$55
+  thanksforplayin             20 closed  -$212  edge -6.5c ±5.9c    |  1 open -$19  BENCHED
 
-Skipped bets, had we taken them (198 still open, held to resolution):
+Skipped bets, had we taken them (215 still open, held to resolution):
 
 
-  benched                     161 closed  -$1316  roi  -8.2%  edge -4.8c ±3.7c
+  benched                     166 closed  -$1454  roi  -8.8%  edge -5.1c ±3.7c
   topic                        82 closed  +$1010  roi  12.3%  edge +0.9c ±4.7c
   drift (moved against us)     22 closed    +$93  roi   4.2%  edge -1.3c ±10.7c
   drift (moved for us)         18 closed   -$356  roi -19.8%  edge -1.8c ±10.0c
