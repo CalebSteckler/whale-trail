@@ -4749,3 +4749,5 @@
 {"t":"2026-10-30T12:20:52.326Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the March 2027 meeting?","outcome":"No","note":"whale paid 0.990"}
 {"t":"2026-10-30T12:20:52.326Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the March 2027 meeting?","outcome":"No","note":"whale paid 0.987"}
 {"t":"2026-10-30T12:20:52.326Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the March 2027 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T12:30:52.840Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republicans win the South Carolina Senate race in 2026?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T12:38:53.672Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Nemiga vs Vitality - Map 1 Winner","outcome":"Vitality","note":"whale benched (negative edge)"}
