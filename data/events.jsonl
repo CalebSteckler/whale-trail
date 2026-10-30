@@ -4861,3 +4861,5 @@
 {"t":"2026-10-30T19:17:06.480Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
 {"t":"2026-10-30T19:17:06.480Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.994"}
 {"t":"2026-10-30T19:17:06.480Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T19:28:19.870Z","type":"close","name":"qwen4.1.fund","title":"Will \"Choosin' Texas - Ella Langley\" be the #2 US song this week?","outcome":"No","note":"+$7.53 (resolved WIN)"}
+{"t":"2026-10-30T19:28:24.664Z","type":"close","name":"The Spirit of Ukraine>UMA","title":"Republican Senate odds dip to 30% by October 31?","outcome":"No","note":"$-100.00 (resolved LOSS)"}
