@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793361076,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793358820,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793361300,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793361598,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793361694,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793361898,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793335699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793316481,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793359879,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793358243
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793361984
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -11956,6 +11956,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T11:58:51.242Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:101936862843527399170972232304784395687127007208118155209166450549556470557637": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "101936862843527399170972232304784395687127007208118155209166450549556470557637",
+      "conditionId": "0x86deca4a7adfdf1fcdf2b73f51ed3bb69ba1fcd27f4e079f109398fcb1333385",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: QUINTESSÊNCIA vs naocopulas (BO3) - Gamers Club Masters Group B",
+      "outcome": "naocopulas",
+      "slug": "cs2-quin-nao-2026-10-30",
+      "whalePrice": 0.771154423565544,
+      "ourPrice": 0.771154423565544,
+      "shares": 129.6757133774005,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T12:06:52.619Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:38290505153883598863391715034894090303554158675072884779106834201186724789406": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "38290505153883598863391715034894090303554158675072884779106834201186724789406",
+      "conditionId": "0x0aede9ec1980eda9fd544750d574e1d9f11a602fe3027dfda98954174417c116",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Falcons Force vs Invicta (BO3) - European Pro League Series 10 Closed Qualifier Group D",
+      "outcome": "Falcons Force",
+      "slug": "cs2-fal-invict1-2026-10-30",
+      "whalePrice": 0.7428888329,
+      "ourPrice": 0.7428888329,
+      "shares": 134.60964221205487,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T12:06:52.619Z"
     }
   },
   "shadowClosed": [
