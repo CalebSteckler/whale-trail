@@ -4801,3 +4801,5 @@
 {"t":"2026-10-30T15:43:58.462Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party hold 57 or more Senate seats after the 2026 midterm elections?","outcome":"No","note":"whale paid 0.996"}
 {"t":"2026-10-30T15:43:58.462Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party hold exactly 56 Senate seats after the 2026 midterm elections?","outcome":"No","note":"whale paid 0.999"}
 {"t":"2026-10-30T15:43:58.462Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party hold exactly 49 Senate seats after the 2026 midterm elections?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T15:53:59.351Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 400-419 tweets from October 23 to October 30, 2026?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-30T15:54:59.193Z","type":"skip","name":"Kch-Temp","title":"Stoke City FC vs. Preston North End FC: O/U 2.5","outcome":"Over","note":"whale benched (negative edge)"}
