@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793396074,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793396212,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793396844,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793394634,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793391151,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793396875,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793396221,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793396956,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793383072,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793362333,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793387088,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793394166,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793386944
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793396908
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12443,23 +12443,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T19:57:21.725Z"
     },
-    "benched:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:85543476470953168407944939964526607803015412577953034344591525636977499202040": {
-      "reason": "benched",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "85543476470953168407944939964526607803015412577953034344591525636977499202040",
-      "conditionId": "0x3953f09ca491cc7b92c3313b7b56bed07224c5670098c41b4aae8325d5307cb5",
-      "outcomeIndex": 0,
-      "title": "Will Microsoft (MSFT) close at $510-$520 on the final day of trading of the week of Oct 26 – Oct 30?",
-      "outcome": "Yes",
-      "slug": "will-msft-close-between-510-and-520-week-october-30-2026",
-      "whalePrice": 0.22309859154929576,
-      "ourPrice": 0.22309859154929576,
-      "shares": 448.23232323232327,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T19:58:21.507Z"
-    },
     "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:78423874673285913757301516283224890728277754026522019355323851485141158780617": {
       "reason": "benched",
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -12476,6 +12459,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T21:03:24.839Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:85959222201383946578856006125225301552490984958666864416592160449678558172511": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "85959222201383946578856006125225301552490984958666864416592160449678558172511",
+      "conditionId": "0x8413fcfd4d8bac3ce80af1305b11b8deb536e52a42158745c99a1275d79cbc4d",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Wildcard vs BESTIA - Map 1 Winner",
+      "outcome": "BESTIA",
+      "slug": "cs2-wc1-bst-2026-10-30-game1",
+      "whalePrice": 0.6036275453948937,
+      "ourPrice": 0.6036275453948937,
+      "shares": 165.66507072598867,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T21:51:27.754Z"
     }
   },
   "shadowClosed": [
@@ -18780,6 +18780,26 @@
       "proceeds": 104.52092776632546,
       "pnl": 4.520927766325457,
       "closedAt": "2026-10-30T21:19:42.582Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "85543476470953168407944939964526607803015412577953034344591525636977499202040",
+      "conditionId": "0x3953f09ca491cc7b92c3313b7b56bed07224c5670098c41b4aae8325d5307cb5",
+      "outcomeIndex": 0,
+      "title": "Will Microsoft (MSFT) close at $510-$520 on the final day of trading of the week of Oct 26 – Oct 30?",
+      "outcome": "Yes",
+      "slug": "will-msft-close-between-510-and-520-week-october-30-2026",
+      "whalePrice": 0.22309859154929576,
+      "ourPrice": 0.22309859154929576,
+      "shares": 448.23232323232327,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T19:58:21.507Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-30T21:41:45.195Z"
     }
   ]
 }
