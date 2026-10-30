@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793386359,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793390143,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793390817,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793386500,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793389515,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793390487,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793383072,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793362333,
@@ -1378,25 +1378,6 @@
       "lagS": 218,
       "rules": 2,
       "openedAt": "2026-10-26T00:19:38.490Z"
-    },
-    "0x511f9c771449162349795d17becf8b37031acbe1:62515920872894868582715018123458148292756941965969805207325571405441641724635": {
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "62515920872894868582715018123458148292756941965969805207325571405441641724635",
-      "conditionId": "0xcf277aae6aa365ca371a4cf99cb4b21ba08442423695d0cb733a4c278e991f08",
-      "outcomeIndex": 1,
-      "title": "Will MOUZ Win the PGL Masters Bucharest 2026?",
-      "outcome": "No",
-      "slug": "will-mouz-win-the-pgl-masters-bucharest-2026",
-      "eventSlug": "pgl-masters-bucharest-2026-winner",
-      "whalePrice": 0.91,
-      "whaleUsd": 614.25,
-      "ourPrice": 0.91,
-      "shares": 109.89010989010988,
-      "stake": 100,
-      "lagS": 132,
-      "rules": 2,
-      "openedAt": "2026-10-26T09:04:51.936Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:51971221506050097243705792157899572281015127216972300934938845878155423445294": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -8553,6 +8534,29 @@
       "pnl": -100,
       "closedAt": "2026-10-30T19:28:24.664Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "62515920872894868582715018123458148292756941965969805207325571405441641724635",
+      "conditionId": "0xcf277aae6aa365ca371a4cf99cb4b21ba08442423695d0cb733a4c278e991f08",
+      "outcomeIndex": 1,
+      "title": "Will MOUZ Win the PGL Masters Bucharest 2026?",
+      "outcome": "No",
+      "slug": "will-mouz-win-the-pgl-masters-bucharest-2026",
+      "eventSlug": "pgl-masters-bucharest-2026-winner",
+      "whalePrice": 0.91,
+      "whaleUsd": 614.25,
+      "ourPrice": 0.91,
+      "shares": 109.89010989010988,
+      "stake": 100,
+      "lagS": 132,
+      "rules": 2,
+      "openedAt": "2026-10-26T09:04:51.936Z",
+      "proceeds": 109.89010989010988,
+      "pnl": 9.890109890109883,
+      "closedAt": "2026-10-30T20:02:27.886Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
