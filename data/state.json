@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793314486,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793329479,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793330650,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793331232,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -11816,6 +11816,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T01:57:49.846Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:33485925353171072312284533208639606685310281710515007938376691890027292332545": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "33485925353171072312284533208639606685310281710515007938376691890027292332545",
+      "conditionId": "0x4de72138204727d2821bff847d8158819ab5b591db1b5b263676126cbb3a0430",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the South Carolina Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-south-carolina-senate-race-in-2026",
+      "whalePrice": 0.74,
+      "ourPrice": 0.74,
+      "shares": 135.13513513513513,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T03:34:43.978Z"
     }
   },
   "shadowClosed": [
