@@ -1,16 +1,16 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793375961,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793376945,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793370574,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793376483,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793377105,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793375707,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793374048,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793376957,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793376556,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793375748,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793376978,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793317059,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793362333,
@@ -11992,23 +11992,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T13:36:55.490Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:16961609494797244926200144246878971744443210175428581029927100928139399900936": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "16961609494797244926200144246878971744443210175428581029927100928139399900936",
-      "conditionId": "0xa610264103d6450082119f3eeaecf420e7ac71449e22fe76be9e8084d2ee0181",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: ShindeN vs Isurus (BO3) - FiReSPORTS Last Chance Group C",
-      "outcome": "ShindeN",
-      "slug": "cs2-shin-isg-2026-10-30",
-      "whalePrice": 0.8849550321484689,
-      "ourPrice": 0.8849550321484689,
-      "shares": 113.00009194503681,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T13:51:56.767Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:20160045409161777720130990464729626776154916512995488274600278470331473172355": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12161,6 +12144,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T16:05:00.934Z"
+    },
+    "longdated:0x511f9c771449162349795d17becf8b37031acbe1:457836433146742264739122676529651928498068127567692657861695374504278746262": {
+      "reason": "longdated",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "457836433146742264739122676529651928498068127567692657861695374504278746262",
+      "conditionId": "0x7044a9f0a1d98f566283b205b72b6bd6728ba5adb712f30e071462e5d0552568",
+      "outcomeIndex": 1,
+      "title": "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?",
+      "outcome": "No",
+      "slug": "will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014",
+      "whalePrice": 0.37946671080094524,
+      "ourPrice": 0.37946671080094524,
+      "shares": 263.52772760732745,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T16:11:59.649Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:457836433146742264739122676529651928498068127567692657861695374504278746262": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "457836433146742264739122676529651928498068127567692657861695374504278746262",
+      "conditionId": "0x7044a9f0a1d98f566283b205b72b6bd6728ba5adb712f30e071462e5d0552568",
+      "outcomeIndex": 1,
+      "title": "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?",
+      "outcome": "No",
+      "slug": "will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014",
+      "whalePrice": 0.39723483871935483,
+      "ourPrice": 0.39723483871935483,
+      "shares": 251.74025602182815,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T16:13:59.504Z"
     }
   },
   "shadowClosed": [
@@ -18123,6 +18140,26 @@
       "proceeds": 141.27224461950212,
       "pnl": 41.27224461950212,
       "closedAt": "2026-10-30T15:59:41.339Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "16961609494797244926200144246878971744443210175428581029927100928139399900936",
+      "conditionId": "0xa610264103d6450082119f3eeaecf420e7ac71449e22fe76be9e8084d2ee0181",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: ShindeN vs Isurus (BO3) - FiReSPORTS Last Chance Group C",
+      "outcome": "ShindeN",
+      "slug": "cs2-shin-isg-2026-10-30",
+      "whalePrice": 0.8849550321484689,
+      "ourPrice": 0.8849550321484689,
+      "shares": 113.00009194503681,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T13:51:56.767Z",
+      "proceeds": 113.00009194503681,
+      "pnl": 13.000091945036814,
+      "closedAt": "2026-10-30T16:10:38.402Z"
     }
   ]
 }

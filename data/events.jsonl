@@ -4804,3 +4804,7 @@
 {"t":"2026-10-30T15:53:59.351Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 400-419 tweets from October 23 to October 30, 2026?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-30T15:54:59.193Z","type":"skip","name":"Kch-Temp","title":"Stoke City FC vs. Preston North End FC: O/U 2.5","outcome":"Over","note":"whale benched (negative edge)"}
 {"t":"2026-10-30T16:05:00.934Z","type":"skip","name":"Kch-Temp","title":"Will Aston Villa FC win on 2026-10-31?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T16:11:59.649Z","type":"skip","name":"Bigggggggg","title":"Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?","outcome":"No","note":"resolves in 39 days"}
+{"t":"2026-10-30T16:13:59.504Z","type":"skip","name":"qwen4.1.fund","title":"Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the December interest rate announcement?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-30T16:13:59.504Z","type":"skip","name":"qwen4.1.fund","title":"Will the Bank of Canada increase the target for the overnight rate by 50+ bps at the December interest rate announcement?","outcome":"No","note":"whale paid 0.999"}
+{"t":"2026-10-30T16:13:59.504Z","type":"skip","name":"qwen4.1.fund","title":"Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?","outcome":"No","note":"whale benched (negative edge)"}
