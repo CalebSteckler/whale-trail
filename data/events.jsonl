@@ -4841,3 +4841,6 @@
 {"t":"2026-10-30T17:40:03.901Z","type":"skip","name":"Kch-Temp","title":"Brentford FC vs. Nottingham Forest FC: O/U 2.5","outcome":"Over","note":"whale benched (negative edge)"}
 {"t":"2026-10-30T17:42:03.401Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: fnatic vs Eternal Fire - Map 3 Winner","outcome":"fnatic","note":"whale benched (negative edge)"}
 {"t":"2026-10-30T17:43:03.545Z","type":"skip","name":"The Spirit of Ukraine>UMA","title":"US-Iran Final Nuclear Deal by November 30, 2026?","outcome":"No","note":"resolves in 31 days"}
+{"t":"2026-10-30T17:54:04.384Z","type":"copy","name":"THEHIGHLIFE","title":"Dota 2: Team Spirit vs Team Liquid - Game 1 Winner","outcome":"Team Liquid","note":"whale $588 @0.217 -> us @0.220 (1.5% worse, 118s lag)"}
+{"t":"2026-10-30T17:55:03.624Z","type":"skip","name":"qwen4.1.fund","title":"Will the Democratic Party control the Senate after the 2026 Midterm elections?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-30T18:00:06.630Z","type":"skip","name":"JohnLKellyJr","title":"Map Handicap: DEN (-1.5) vs Turma do Pagode (+1.5)","outcome":"DENDELE CS","note":"whale benched (negative edge)"}
