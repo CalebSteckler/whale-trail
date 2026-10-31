@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793444374,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793444263,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793444995,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793444335,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793444877,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793441610,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793443801,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793444967,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793415043,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793400460,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793443176,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793444442
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793444796
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -183,24 +183,6 @@
       "stake": 100,
       "lagS": 268,
       "openedAt": "2026-10-18T20:43:46.875Z"
-    },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:112324356880616445721412112250580716582983292253496558403120979906941600263645": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "112324356880616445721412112250580716582983292253496558403120979906941600263645",
-      "conditionId": "0xb4401733eed8e257ceba7f6133de1793bb7d409d1e44864a789c31824460a374",
-      "outcomeIndex": 1,
-      "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-      "outcome": "No",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "eventSlug": "largest-company-end-of-october-2026",
-      "whalePrice": 0.784,
-      "whaleUsd": 475.09616,
-      "ourPrice": 0.788,
-      "shares": 126.90355329949239,
-      "stake": 100,
-      "lagS": 78,
-      "openedAt": "2026-10-18T21:00:47.108Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:35291645172588917457521605652032084946130296187859859151580316412122619317107": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -8618,6 +8600,28 @@
       "pnl": -99.30232558139535,
       "closedAt": "2026-10-30T21:17:25.254Z",
       "note": "whale sold @0.013, we exit @0.006"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "112324356880616445721412112250580716582983292253496558403120979906941600263645",
+      "conditionId": "0xb4401733eed8e257ceba7f6133de1793bb7d409d1e44864a789c31824460a374",
+      "outcomeIndex": 1,
+      "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
+      "outcome": "No",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "eventSlug": "largest-company-end-of-october-2026",
+      "whalePrice": 0.784,
+      "whaleUsd": 475.09616,
+      "ourPrice": 0.788,
+      "shares": 126.90355329949239,
+      "stake": 100,
+      "lagS": 78,
+      "openedAt": "2026-10-18T21:00:47.108Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-31T11:06:50.011Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -9963,23 +9967,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T20:58:16.441Z"
-    },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:112324356880616445721412112250580716582983292253496558403120979906941600263645": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "112324356880616445721412112250580716582983292253496558403120979906941600263645",
-      "conditionId": "0xb4401733eed8e257ceba7f6133de1793bb7d409d1e44864a789c31824460a374",
-      "outcomeIndex": 1,
-      "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-      "outcome": "No",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "whalePrice": 0.922,
-      "ourPrice": 0.922,
-      "shares": 108.45986984815617,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T21:44:18.575Z"
     },
     "longdated:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:67195436741524645658281305805764372654429922578574371658265901008745116070994": {
       "reason": "longdated",
@@ -11359,23 +11346,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T09:41:13.215Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:112324356880616445721412112250580716582983292253496558403120979906941600263645": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "112324356880616445721412112250580716582983292253496558403120979906941600263645",
-      "conditionId": "0xb4401733eed8e257ceba7f6133de1793bb7d409d1e44864a789c31824460a374",
-      "outcomeIndex": 1,
-      "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
-      "outcome": "No",
-      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "whalePrice": 0.8338226096545868,
-      "ourPrice": 0.8338226096545868,
-      "shares": 119.92958555228583,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T09:51:13.418Z"
     },
     "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:3744195159354026658240894722825572606729800574799066853162466280387526160790": {
       "reason": "longdated",
@@ -12925,6 +12895,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T10:45:48.163Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:41422321508708271175508162880442023453274856516244168008290700951326770444024": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "41422321508708271175508162880442023453274856516244168008290700951326770444024",
+      "conditionId": "0xa0597d5db071043faaab8efc5f360fa3aa038544cdf8ddce99b0d25bdc2be28b",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Nemiga vs FURIA - Map 1 Winner",
+      "outcome": "FURIA",
+      "slug": "cs2-nemi1-furia-2026-10-31-game1",
+      "whalePrice": 0.4,
+      "ourPrice": 0.4,
+      "shares": 250,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T11:07:49.021Z"
     }
   },
   "shadowClosed": [
@@ -19630,6 +19617,46 @@
       "proceeds": 147.05882352941177,
       "pnl": 47.05882352941177,
       "closedAt": "2026-10-31T10:23:24.617Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "112324356880616445721412112250580716582983292253496558403120979906941600263645",
+      "conditionId": "0xb4401733eed8e257ceba7f6133de1793bb7d409d1e44864a789c31824460a374",
+      "outcomeIndex": 1,
+      "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
+      "outcome": "No",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "whalePrice": 0.922,
+      "ourPrice": 0.922,
+      "shares": 108.45986984815617,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T21:44:18.575Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-31T11:06:50.011Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "112324356880616445721412112250580716582983292253496558403120979906941600263645",
+      "conditionId": "0xb4401733eed8e257ceba7f6133de1793bb7d409d1e44864a789c31824460a374",
+      "outcomeIndex": 1,
+      "title": "Will Apple be the largest company in the world by market cap on October 31, 2026?",
+      "outcome": "No",
+      "slug": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "whalePrice": 0.8338226096545868,
+      "ourPrice": 0.8338226096545868,
+      "shares": 119.92958555228583,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T09:51:13.418Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-31T11:06:50.011Z"
     }
   ]
 }
