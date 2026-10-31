@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793438935,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793439685,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -12737,6 +12737,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T09:11:44.268Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:3794934729887722009064270657479127335936139765185603535062916570850054727280": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "3794934729887722009064270657479127335936139765185603535062916570850054727280",
+      "conditionId": "0x4ae082b11a9ed76d71d9792d7aebbf063fb3104d0fb325b34730d50d803c6230",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 165-189 tweets from October 29 to October 31, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-29-october-31-2026-165-189",
+      "whalePrice": 0.9226800333,
+      "ourPrice": 0.9226800333,
+      "shares": 108.37993279462894,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T09:43:44.854Z"
     }
   },
   "shadowClosed": [
