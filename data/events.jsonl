@@ -5161,3 +5161,6 @@
 {"t":"2026-10-31T13:02:54.299Z","type":"copy","name":"SpringlyFawl","title":"Will the Republicans win the Oregon governor race in 2026?","outcome":"No","note":"whale $270 @0.840 -> us @0.840 (0.0% better, 314s lag)"}
 {"t":"2026-10-31T13:02:54.474Z","type":"copy","name":"SpringlyFawl","title":"Will the Republicans win the Florida governor race in 2026?","outcome":"Yes","note":"whale $309 @0.650 -> us @0.650 (0.0% better, 137s lag)"}
 {"t":"2026-10-31T13:03:54.403Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: naocopulas vs paiN - Map 1 Winner","outcome":"paiN","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T13:08:54.956Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Betclic Apogee Esports vs 9INE - Map 2 Winner","outcome":"Betclic Apogee Esports","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T13:13:54.032Z","type":"skip","name":"Tokenn","title":"Dota 2: Team Yandex vs GamerLegion - Game 1 Winner","outcome":"GamerLegion","note":"price moved 0.260 -> 0.300 before we saw it"}
+{"t":"2026-10-31T13:13:55.732Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: 1WIN vs 5star - Map 1 Winner","outcome":"1WIN","note":"whale benched (negative edge)"}
