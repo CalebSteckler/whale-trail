@@ -5312,3 +5312,8 @@
 {"t":"2026-10-31T22:55:14.618Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republicans win the Texas governor race in 2026?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-31T23:11:15.664Z","type":"skip","name":"para-Vision","title":"LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner","outcome":"Hanwha Life Esports","note":"whale benched (negative edge)"}
 {"t":"2026-10-31T23:11:15.664Z","type":"skip","name":"para-Vision","title":"LoL: Hanwha Life Esports vs Bilibili Gaming - Game 2 Winner","outcome":"Bilibili Gaming","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T23:27:11.897Z","type":"close","name":"Bigggggggg","title":"Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?","outcome":"No","note":"+$62.60 (resolved WIN)"}
+{"t":"2026-10-31T23:32:08.670Z","type":"skip","name":"para-Vision","title":"Will HLE be number 1 on the end of year Global Power Rankings?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T23:35:08.455Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.994"}
+{"t":"2026-10-31T23:35:08.455Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-10-31T23:35:08.456Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?","outcome":"No","note":"whale paid 0.985"}

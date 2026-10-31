@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793464024,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793480976,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793488939,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793489550,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793468067,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793487975,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793482327,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793489202,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793488924,
@@ -18,7 +18,7 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793486623,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793488177,
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793489355,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793482432
   },
   "open": {
@@ -291,24 +291,6 @@
       "stake": 100,
       "lagS": 209,
       "openedAt": "2026-10-19T18:19:26.057Z"
-    },
-    "0x511f9c771449162349795d17becf8b37031acbe1:57742256856248000050883894902521902517029635628575388314389121618186791473379": {
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "57742256856248000050883894902521902517029635628575388314389121618186791473379",
-      "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
-      "outcomeIndex": 1,
-      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
-      "outcome": "No",
-      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
-      "eventSlug": "israel-election-likud-of-seats",
-      "whalePrice": 0.6149999999999999,
-      "whaleUsd": 1811.5255499999998,
-      "ourPrice": 0.615,
-      "shares": 162.60162601626016,
-      "stake": 100,
-      "lagS": 52,
-      "openedAt": "2026-10-19T20:40:30.815Z"
     },
     "0x511f9c771449162349795d17becf8b37031acbe1:76534533206845031490970004248492420264232597964930956713754229960409415623966": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -8730,6 +8712,28 @@
       "pnl": 8.695652173913032,
       "closedAt": "2026-10-31T22:20:25.025Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "57742256856248000050883894902521902517029635628575388314389121618186791473379",
+      "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
+      "outcomeIndex": 1,
+      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
+      "eventSlug": "israel-election-likud-of-seats",
+      "whalePrice": 0.6149999999999999,
+      "whaleUsd": 1811.5255499999998,
+      "ourPrice": 0.615,
+      "shares": 162.60162601626016,
+      "stake": 100,
+      "lagS": 52,
+      "openedAt": "2026-10-19T20:40:30.815Z",
+      "proceeds": 162.60162601626016,
+      "pnl": 62.601626016260155,
+      "closedAt": "2026-10-31T23:27:11.897Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -9208,23 +9212,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T18:02:40.028Z"
-    },
-    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:57742256856248000050883894902521902517029635628575388314389121618186791473379": {
-      "reason": "topic",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "57742256856248000050883894902521902517029635628575388314389121618186791473379",
-      "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
-      "outcomeIndex": 1,
-      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
-      "outcome": "No",
-      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
-      "whalePrice": 0.7360000000000001,
-      "ourPrice": 0.7360000000000001,
-      "shares": 135.86956521739128,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-24T18:02:40.029Z"
     },
     "longdated:0xfbedb045813457be883ad83dd1078e88a2a1a665:37090128566507509913630589460372620352013766554886380785463533062224343545231": {
       "reason": "longdated",
@@ -10059,23 +10046,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T10:40:59.648Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:57742256856248000050883894902521902517029635628575388314389121618186791473379": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "57742256856248000050883894902521902517029635628575388314389121618186791473379",
-      "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
-      "outcomeIndex": 1,
-      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
-      "outcome": "No",
-      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
-      "whalePrice": 0.6899268292620488,
-      "ourPrice": 0.6899268292620488,
-      "shares": 144.9429066368687,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T12:26:03.407Z"
-    },
     "longdated:0xfbedb045813457be883ad83dd1078e88a2a1a665:95857328899006698426560952919509163544152315663112942013127648104914930931076": {
       "reason": "longdated",
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
@@ -10228,23 +10198,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T22:08:47.250Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:65331923130563696431404700503186397058780298200487967800190302554654140679472": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "65331923130563696431404700503186397058780298200487967800190302554654140679472",
-      "conditionId": "0x78b3aec55f914a149fc110ffd4dcfb008ff94e2df4a451b396f7c14a572d6aa7",
-      "outcomeIndex": 1,
-      "title": "Will Likud win 35 or more seats in the 2026 Israeli legislative election?",
-      "outcome": "No",
-      "slug": "will-likud-win-35-or-more-seats-in-the-2026-israeli-legislative-election",
-      "whalePrice": 0.958761306631703,
-      "ourPrice": 0.958761306631703,
-      "shares": 104.30124714911324,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T23:14:49.800Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:72820619922053432516748905329266890906103969024802768151634670763988243600546": {
       "reason": "benched",
@@ -12579,6 +12532,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T23:11:15.664Z"
+    },
+    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:79732197274331323100050833178410901890719540419403949634899597688375398285369": {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "79732197274331323100050833178410901890719540419403949634899597688375398285369",
+      "conditionId": "0x62a98ae70cb7d8f5c4880dc440d17e4db3b6c60c266795da868c039142d88965",
+      "outcomeIndex": 1,
+      "title": "Will HLE be number 1 on the end of year Global Power Rankings?",
+      "outcome": "No",
+      "slug": "will-hle-be-number-1-on-the-end-of-year-global-power-rankings-20260729165154425",
+      "whalePrice": 0.8536853685,
+      "ourPrice": 0.8536853685,
+      "shares": 117.13917526278887,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T23:32:08.670Z"
     }
   },
   "shadowClosed": [
@@ -20750,6 +20720,66 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-31T23:15:43.690Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "57742256856248000050883894902521902517029635628575388314389121618186791473379",
+      "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
+      "outcomeIndex": 1,
+      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.7360000000000001,
+      "ourPrice": 0.7360000000000001,
+      "shares": 135.86956521739128,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T18:02:40.029Z",
+      "proceeds": 135.86956521739128,
+      "pnl": 35.86956521739128,
+      "closedAt": "2026-10-31T23:27:11.897Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "57742256856248000050883894902521902517029635628575388314389121618186791473379",
+      "conditionId": "0xb3c97c349eca27060cbbfa2bc1beec1df512fc90a859f08439318785c461dc86",
+      "outcomeIndex": 1,
+      "title": "Will Likud win fewer than 20 seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.6899268292620488,
+      "ourPrice": 0.6899268292620488,
+      "shares": 144.9429066368687,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T12:26:03.407Z",
+      "proceeds": 144.9429066368687,
+      "pnl": 44.94290663686871,
+      "closedAt": "2026-10-31T23:27:11.897Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "65331923130563696431404700503186397058780298200487967800190302554654140679472",
+      "conditionId": "0x78b3aec55f914a149fc110ffd4dcfb008ff94e2df4a451b396f7c14a572d6aa7",
+      "outcomeIndex": 1,
+      "title": "Will Likud win 35 or more seats in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-likud-win-35-or-more-seats-in-the-2026-israeli-legislative-election",
+      "whalePrice": 0.958761306631703,
+      "ourPrice": 0.958761306631703,
+      "shares": 104.30124714911324,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T23:14:49.800Z",
+      "proceeds": 104.30124714911324,
+      "pnl": 4.301247149113237,
+      "closedAt": "2026-10-31T23:27:25.566Z"
     }
   ]
 }
