@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793437329,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793437872,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793433637,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793437468,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793435356,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793400460,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793404953,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793437180
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793437900
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12669,6 +12669,74 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T08:51:43.150Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:62429739836658561681890806210725295381032847198203860676410131770167236715491": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "62429739836658561681890806210725295381032847198203860676410131770167236715491",
+      "conditionId": "0x9a52b37e6788be63b0f22221dec8664a1ee4e5a5dfc187ffff78c526b691451f",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: naocopulas vs paiN (BO3) - Gamers Club Masters Group B",
+      "outcome": "paiN",
+      "slug": "cs2-nao-pain-2026-10-31",
+      "whalePrice": 0.8257179749000001,
+      "ourPrice": 0.8257179749000001,
+      "shares": 121.1067253466423,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T09:06:44.035Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:106796838514845143902053692513033990261416978922076798945742411311105734053556": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "106796838514845143902053692513033990261416978922076798945742411311105734053556",
+      "conditionId": "0xea99530a5c34dd37c611f836edc6ad6bda8ed392a22c1138778dcd1c97a751b3",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: WRAITH PCIFIC vs Nuclear TigeRES (BO3) - CyberClash Playoffs",
+      "outcome": "Nuclear TigeRES",
+      "slug": "cs2-wraith-ntr-2026-10-31",
+      "whalePrice": 0.7859073226000001,
+      "ourPrice": 0.7859073226000001,
+      "shares": 127.24146616826546,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T09:06:44.035Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:19483937434467479220108169182510129197311028067786468507884499961811444121492": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "19483937434467479220108169182510129197311028067786468507884499961811444121492",
+      "conditionId": "0x933de1f42b61bbb86a49b79448e36f65f98ae26bfd8d1c07928a2ba0f174aacb",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Vitality vs MOUZ - Map 2 Winner",
+      "outcome": "MOUZ",
+      "slug": "cs2-vit-mouz-2026-10-31-game2",
+      "whalePrice": 0.68,
+      "ourPrice": 0.68,
+      "shares": 147.05882352941177,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T09:11:44.268Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:76808473699562536683616512807327640992582337515111216805505882564257365246959": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "76808473699562536683616512807327640992582337515111216805505882564257365246959",
+      "conditionId": "0x77b0ce3955d35da6a1dc26b3e2b3934251f37b5cc2de5c21dbf18becab1019bc",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Hacha Esports vs Wildcard - Map 1 Winner",
+      "outcome": "Wildcard",
+      "slug": "cs2-hachae-wc1-2026-10-31-game1",
+      "whalePrice": 0.8960364464999999,
+      "ourPrice": 0.8960364464999999,
+      "shares": 111.60260320951132,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T09:11:44.268Z"
     }
   },
   "shadowClosed": [
