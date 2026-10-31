@@ -4945,3 +4945,16 @@
 {"t":"2026-10-31T04:32:34.364Z","type":"skip","name":"Bigggggggg","title":"Will voter turnout in the second round of the 2026 Bulgaria presidential election be 18-20%?","outcome":"No","note":"whale paid 0.998"}
 {"t":"2026-10-31T04:38:34.543Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party win the FL-09 House seat?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-31T05:24:36.321Z","type":"skip","name":"qwen4.1.fund","title":"Will the highest temperature in Qingdao be 20°C on October 31?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Kansas, Maine, and Ohio, and lose Michigan and Texas?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Kansas, Maine, Michigan, and Ohio, and lose Texas?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Kansas, Ohio, and Texas, and lose Maine and Michigan?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Kansas and Texas, and lose Alaska, Iowa, Maine, Michigan, and Ohio?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Kansas and Maine, and lose Alaska, Iowa, Michigan, Ohio, and Texas?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Iowa, Maine, Michigan, Ohio, and Texas, and lose Alaska and Kansas?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-31T06:50:39.470Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Texas, and lose Alaska, Iowa, Kansas, Maine, Michigan, and Ohio?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.471Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Iowa, Ohio, and Texas, and lose Alaska, Kansas, Maine, and Michigan?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-31T06:50:39.471Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Maine, and Texas, and lose Kansas, Michigan, and Ohio?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-31T06:50:39.471Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Kansas, Maine, and Texas, and lose Michigan and Ohio?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T06:50:39.471Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Maine, and Michigan, and lose Kansas, Ohio, and Texas?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-31T06:50:39.471Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Maine, and Ohio, and lose Kansas, Michigan, and Texas?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-10-31T06:50:39.471Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Iowa, Kansas, Maine, Michigan, Ohio, and Texas, and lose Alaska?","outcome":"No","note":"whale paid 0.994"}
