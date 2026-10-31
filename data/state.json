@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793450436,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793458974,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793459521,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793452305,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793456877,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793443176,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793457997
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793459571
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -13003,6 +13003,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T15:03:57.265Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:103027556214330383130597972366918232624526197869233841555357509911412066004958": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "103027556214330383130597972366918232624526197869233841555357509911412066004958",
+      "conditionId": "0x0927035ce6f805c23e758ade103ff02278a89c964eb941da50992e155a24c53e",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: JiJieHao vs BASEMENT BOYS - Map 1 Winner",
+      "outcome": "JiJieHao",
+      "slug": "cs2-jjh-bmb-2026-10-31-game1",
+      "whalePrice": 0.7205472365901988,
+      "ourPrice": 0.7205472365901988,
+      "shares": 138.7834064470552,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T15:12:59.707Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:21445692970027218767393402367191138689339302236914289574694603199364225385216": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "21445692970027218767393402367191138689339302236914289574694603199364225385216",
+      "conditionId": "0x383c9f399b76bf55d183de36e67afe37e01f679c4e9bad61265c78755705aa50",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: WC (-1.5) vs Hacha Esports (+1.5)",
+      "outcome": "Wildcard",
+      "slug": "cs2-hachae-wc1-2026-10-31-map-handicap-home-1pt5",
+      "whalePrice": 0.85,
+      "ourPrice": 0.85,
+      "shares": 117.64705882352942,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T15:12:59.708Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:14990141299672711745869869607803234034297981112779257288755197028049950588349": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "14990141299672711745869869607803234034297981112779257288755197028049950588349",
+      "conditionId": "0x0e963f2c6ad199b3973362df5ebd991a951fda92f30331fb69912d2aefaf15b5",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: FOKUS vs BakS eSports - Map 1 Winner",
+      "outcome": "BakS eSports",
+      "slug": "cs2-fokus-baks-2026-10-31-game1",
+      "whalePrice": 0.3381519147,
+      "ourPrice": 0.3381519147,
+      "shares": 295.72507400621265,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T15:12:59.708Z"
     }
   },
   "shadowClosed": [
