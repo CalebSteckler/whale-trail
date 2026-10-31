@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793444374,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793446707,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793447419,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793446914,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793447283,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793446816,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793446452,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793447458,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793415043,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -12589,23 +12589,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T08:44:43.132Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:20433538001339156567600399206177736958634202926715507435509428098453777891946": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "20433538001339156567600399206177736958634202926715507435509428098453777891946",
-      "conditionId": "0xd17fcd46eb13e6363b1e04acea9f0fc0f7e6ce7560e9ccad5e3d41ac6899711a",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Spirit Academy vs Phantom (BO3) - CCT Europe Series #12 Playoffs",
-      "outcome": "Phantom",
-      "slug": "cs2-tsa-pha-2026-10-31",
-      "whalePrice": 0.5755036227,
-      "ourPrice": 0.5755036227,
-      "shares": 173.7608523311212,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T08:51:43.150Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:55343648243873300757290853352262112523067722542029631998953522536364200130540": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -19692,6 +19675,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-31T11:06:50.011Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "20433538001339156567600399206177736958634202926715507435509428098453777891946",
+      "conditionId": "0xd17fcd46eb13e6363b1e04acea9f0fc0f7e6ce7560e9ccad5e3d41ac6899711a",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Spirit Academy vs Phantom (BO3) - CCT Europe Series #12 Playoffs",
+      "outcome": "Phantom",
+      "slug": "cs2-tsa-pha-2026-10-31",
+      "whalePrice": 0.5755036227,
+      "ourPrice": 0.5755036227,
+      "shares": 173.7608523311212,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T08:51:43.150Z",
+      "proceeds": 173.7608523311212,
+      "pnl": 73.76085233112121,
+      "closedAt": "2026-10-31T11:51:28.297Z"
     }
   ]
 }
