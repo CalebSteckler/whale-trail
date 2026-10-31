@@ -4904,3 +4904,6 @@
 {"t":"2026-10-31T01:30:27.172Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 25 bps after the January 2027 meeting?","outcome":"No","note":"whale paid 0.989"}
 {"t":"2026-10-31T01:30:27.173Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed decrease interest rates by 50+ bps after the January 2027 meeting?","outcome":"No","note":"whale paid 0.995"}
 {"t":"2026-10-31T01:30:27.173Z","type":"skip","name":"qwen4.1.fund","title":"Will the Fed increase interest rates by 50+ bps after the January 2027 meeting?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-10-31T02:31:29.586Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Iowa, Kansas, and Texas, and lose Alaska, Maine, Michigan, and Ohio?","outcome":"No","note":"whale paid 0.985"}
+{"t":"2026-10-31T02:31:29.586Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Iowa and Ohio, and lose Alaska, Kansas, Maine, Michigan, and Texas?","outcome":"No","note":"whale paid 0.993"}
+{"t":"2026-10-31T02:31:29.586Z","type":"skip","name":"qwen4.1.fund","title":"Will Republicans win Alaska, Iowa, Kansas, Maine, Ohio, and Texas, and lose Michigan?","outcome":"No","note":"whale paid 0.989"}
