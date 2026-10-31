@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793417521,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793418139,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793416612,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793418006,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793416611,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
@@ -11900,23 +11900,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T03:34:43.978Z"
     },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:4838125637334705542173889316081496273672608137129505235601784688056788006093": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "4838125637334705542173889316081496273672608137129505235601784688056788006093",
-      "conditionId": "0xe09c250c2d5ba126bb97b417c55185419600555e9679c9b78cc1a9a4b6e8d151",
-      "outcomeIndex": 1,
-      "title": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "outcome": "No",
-      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "whalePrice": 0.5123703704,
-      "ourPrice": 0.5123703704,
-      "shares": 195.17131703367522,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T11:58:51.242Z"
-    },
     "drift:0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1:36262780300452103077891925796359184254707494258943137242262747420245803370163": {
       "reason": "drift",
       "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
@@ -12427,6 +12410,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T00:53:33.691Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:99297017179170140346377200482589135246732929561508474115635143561823212083079": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "99297017179170140346377200482589135246732929561508474115635143561823212083079",
+      "conditionId": "0x0d603c7d8d123b326efe91b9b945b74a2f472079cc06f189c088ed9bccf6ebc8",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 190-214 tweets from October 29 to October 31, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-29-october-31-2026-190-214",
+      "whalePrice": 0.9350000000000002,
+      "ourPrice": 0.9350000000000002,
+      "shares": 106.951871657754,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T03:41:32.670Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:3794934729887722009064270657479127335936139765185603535062916570850054727280": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "3794934729887722009064270657479127335936139765185603535062916570850054727280",
+      "conditionId": "0x4ae082b11a9ed76d71d9792d7aebbf063fb3104d0fb325b34730d50d803c6230",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 165-189 tweets from October 29 to October 31, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-29-october-31-2026-165-189",
+      "whalePrice": 0.6257202174,
+      "ourPrice": 0.6257202174,
+      "shares": 159.81583656593546,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T03:41:32.671Z"
     }
   },
   "shadowClosed": [
@@ -19092,6 +19109,26 @@
       "proceeds": 200,
       "pnl": 100,
       "closedAt": "2026-10-31T03:24:15.092Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "4838125637334705542173889316081496273672608137129505235601784688056788006093",
+      "conditionId": "0xe09c250c2d5ba126bb97b417c55185419600555e9679c9b78cc1a9a4b6e8d151",
+      "outcomeIndex": 1,
+      "title": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "outcome": "No",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "whalePrice": 0.5123703704,
+      "ourPrice": 0.5123703704,
+      "shares": 195.17131703367522,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T11:58:51.242Z",
+      "proceeds": 195.17131703367522,
+      "pnl": 95.17131703367522,
+      "closedAt": "2026-10-31T03:35:12.693Z"
     }
   ]
 }
