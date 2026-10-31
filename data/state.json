@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793464024,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793480976,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793485362,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793486043,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793468067,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793482327,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793485383,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793485660,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793415043,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -12495,23 +12495,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T16:50:02.410Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:24669914094611216810758482699695603539216638200763043715719794657331182415424": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "24669914094611216810758482699695603539216638200763043715719794657331182415424",
-      "conditionId": "0x3788d4afe3ad6f0281f6b7d631eab9e3738d6ea3c1bf6dfeef1e3ef6723c9b23",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Fluxo vs BARCA (BO3) - FiReSPORTS Last Chance Playoffs",
-      "outcome": "Fluxo",
-      "slug": "cs2-fx-bar2-2026-10-31",
-      "whalePrice": 0.6394174757281553,
-      "ourPrice": 0.6394174757281553,
-      "shares": 156.39234740358336,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T17:19:03.247Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:20687365540102537244630561509387817061319920470844239184459639306977382176440": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12528,23 +12511,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T17:27:03.357Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:60760784804510780782482661931465004860398806765069021141573510015916447350509": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "60760784804510780782482661931465004860398806765069021141573510015916447350509",
-      "conditionId": "0x35239bbbea473c42d51b95c7294166b6e94c86121deb56c2293fa0b7748e1919",
-      "outcomeIndex": 0,
-      "title": "Map Handicap: FX (-1.5) vs BARCA (+1.5)",
-      "outcome": "Fluxo",
-      "slug": "cs2-fx-bar2-2026-10-31-map-handicap-away-1pt5",
-      "whalePrice": 0.3923836565,
-      "ourPrice": 0.3923836565,
-      "shares": 254.85261259855758,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T17:29:04.619Z"
     },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:31587655829508952205475983937584582255036347302810962601937797165224068400814": {
       "reason": "topic",
@@ -20686,6 +20652,46 @@
       "proceeds": 131.57894736842104,
       "pnl": 31.57894736842104,
       "closedAt": "2026-10-31T22:20:44.893Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "24669914094611216810758482699695603539216638200763043715719794657331182415424",
+      "conditionId": "0x3788d4afe3ad6f0281f6b7d631eab9e3738d6ea3c1bf6dfeef1e3ef6723c9b23",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Fluxo vs BARCA (BO3) - FiReSPORTS Last Chance Playoffs",
+      "outcome": "Fluxo",
+      "slug": "cs2-fx-bar2-2026-10-31",
+      "whalePrice": 0.6394174757281553,
+      "ourPrice": 0.6394174757281553,
+      "shares": 156.39234740358336,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T17:19:03.247Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-31T22:31:41.295Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "60760784804510780782482661931465004860398806765069021141573510015916447350509",
+      "conditionId": "0x35239bbbea473c42d51b95c7294166b6e94c86121deb56c2293fa0b7748e1919",
+      "outcomeIndex": 0,
+      "title": "Map Handicap: FX (-1.5) vs BARCA (+1.5)",
+      "outcome": "Fluxo",
+      "slug": "cs2-fx-bar2-2026-10-31-map-handicap-away-1pt5",
+      "whalePrice": 0.3923836565,
+      "ourPrice": 0.3923836565,
+      "shares": 254.85261259855758,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T17:29:04.619Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-31T22:31:41.534Z"
     }
   ]
 }
