@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793442574,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793443138,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793441725,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793442837,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793441610,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793441031,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793442813,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793415043,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -18,8 +18,8 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793400460,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793404953,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793442291
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793443176,
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793443224
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12857,6 +12857,57 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T10:25:47.085Z"
+    },
+    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:40242768984655858223762208618512763037233293055048254732671036874389842608872": {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "40242768984655858223762208618512763037233293055048254732671036874389842608872",
+      "conditionId": "0xc34da1aebe629248fee44409cca9d40ee375c16d29102f2b63178d26725ec296",
+      "outcomeIndex": 1,
+      "title": "Blues vs. Red Wings",
+      "outcome": "Red Wings",
+      "slug": "nhl-stl-det-2026-10-31",
+      "whalePrice": 0.48000000000000004,
+      "ourPrice": 0.48000000000000004,
+      "shares": 208.33333333333331,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T10:40:47.511Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:1649928811010299708689652608382466284926780055597773638147480357363519586304": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "1649928811010299708689652608382466284926780055597773638147480357363519586304",
+      "conditionId": "0x03a5d39cf0a1145727c1cd7e89de1c63cf0000000000000000000000000000",
+      "outcomeIndex": 999,
+      "title": "Counter-Strike: Hacha Esports vs Wildcard (BO3) - FiReSPORTS Last Chance Group D AND Counter-Strike: naocopulas vs paiN (BO3) - Gamers Club Masters Group B AND Counter-Strike: 1WIN vs 5star (BO3) - Moscow Cyber Games Playoffs AND Counter-Strike: ShindeN vs Isurus (BO3) - FiReSPORTS Last Chance Group C",
+      "outcome": "",
+      "slug": "",
+      "whalePrice": 0.5672899999,
+      "ourPrice": 0.5672899999,
+      "shares": 176.27668391409628,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T10:40:47.742Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:1797388035609203099952947686565853690486112285788885441207854868496096690176": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "1797388035609203099952947686565853690486112285788885441207854868496096690176",
+      "conditionId": "0x03f9491b918b99ab5f076d48fc4936bf170000000000000000000000000000",
+      "outcomeIndex": 999,
+      "title": "Counter-Strike: Hacha Esports vs Wildcard (BO3) - FiReSPORTS Last Chance Group D AND Counter-Strike: naocopulas vs paiN (BO3) - Gamers Club Masters Group B AND Counter-Strike: ShindeN vs Isurus (BO3) - FiReSPORTS Last Chance Group C",
+      "outcome": "",
+      "slug": "",
+      "whalePrice": 0.6299579998,
+      "ourPrice": 0.6299579998,
+      "shares": 158.7407414966524,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T10:40:47.743Z"
     }
   },
   "shadowClosed": [
