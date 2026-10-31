@@ -5144,3 +5144,5 @@
 {"t":"2026-10-31T09:43:44.854Z","type":"skip","name":"qwen4.1.fund","title":"Will Elon Musk post 165-189 tweets from October 29 to October 31, 2026?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-10-31T09:44:44.664Z","type":"skip","name":"Kch-Temp","title":"Erzurumspor FK vs. Çorum FK: O/U 2.5","outcome":"Under","note":"whale benched (negative edge)"}
 {"t":"2026-10-31T09:48:46.175Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: HOTU vs The Huns Esports - Map 2 Winner","outcome":"HOTU","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T10:09:45.472Z","type":"skip","name":"qwen4.1.fund","title":"Will Brian Bengs win the South Dakota Senate race in 2026?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-10-31T10:11:46.227Z","type":"skip","name":"ethBELIVER","title":"Will Republicans win Kansas, and lose Alaska, Iowa, Maine, Michigan, Ohio, and Texas?","outcome":"Yes","note":"price moved 0.036 -> 0.045 before we saw it"}
