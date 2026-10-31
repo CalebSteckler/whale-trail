@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793450436,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793457756,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793458284,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793452305,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793456377,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793458089,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793454012,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793457597,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793458254,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793415043,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793394699,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793456877,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793443176,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793457580
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793457997
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12236,23 +12236,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T17:15:01.639Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:102490352960826289878203626922376022882491041625339900488317693005473902922874": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "102490352960826289878203626922376022882491041625339900488317693005473902922874",
-      "conditionId": "0x871c424db72644585e0791b16a865ff4c02118ea9673a00c5a2c7ecac785b582",
-      "outcomeIndex": 1,
-      "title": "Will Chelsea FC win on 2026-10-31?",
-      "outcome": "No",
-      "slug": "epl-che-mun-2026-10-31-che",
-      "whalePrice": 0.5099438188,
-      "ourPrice": 0.5099438188,
-      "shares": 196.1000335984463,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T17:30:03.192Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:58925648755677431099575336056609059258073385695910061552702116433655348019521": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12883,23 +12866,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T13:03:54.404Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:83374477490687732836861299421016390698497419888646437993196793495882827184979": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "83374477490687732836861299421016390698497419888646437993196793495882827184979",
-      "conditionId": "0x0dba0d18d6d2b313a09c6bddfd177e46ecb69f6e52d7a301d903301f5024476e",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: Betclic Apogee Esports vs 9INE - Map 2 Winner",
-      "outcome": "Betclic Apogee Esports",
-      "slug": "cs2-bca-9ine-2026-10-31-game2",
-      "whalePrice": 0.47519455118686255,
-      "ourPrice": 0.47519455118686255,
-      "shares": 210.44012341942158,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T13:08:54.956Z"
     },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:38244315670105194028150697370242444480737726309783932358637543517409074556289": {
       "reason": "benched",
@@ -19963,6 +19929,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-10-31T14:37:35.722Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "102490352960826289878203626922376022882491041625339900488317693005473902922874",
+      "conditionId": "0x871c424db72644585e0791b16a865ff4c02118ea9673a00c5a2c7ecac785b582",
+      "outcomeIndex": 1,
+      "title": "Will Chelsea FC win on 2026-10-31?",
+      "outcome": "No",
+      "slug": "epl-che-mun-2026-10-31-che",
+      "whalePrice": 0.5099438188,
+      "ourPrice": 0.5099438188,
+      "shares": 196.1000335984463,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T17:30:03.192Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-10-31T14:48:32.976Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "83374477490687732836861299421016390698497419888646437993196793495882827184979",
+      "conditionId": "0x0dba0d18d6d2b313a09c6bddfd177e46ecb69f6e52d7a301d903301f5024476e",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Betclic Apogee Esports vs 9INE - Map 2 Winner",
+      "outcome": "Betclic Apogee Esports",
+      "slug": "cs2-bca-9ine-2026-10-31-game2",
+      "whalePrice": 0.47519455118686255,
+      "ourPrice": 0.47519455118686255,
+      "shares": 210.44012341942158,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T13:08:54.956Z",
+      "proceeds": 210.44012341942158,
+      "pnl": 110.44012341942158,
+      "closedAt": "2026-10-31T14:48:37.317Z"
     }
   ]
 }
