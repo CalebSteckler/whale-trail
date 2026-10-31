@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793441343,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793441946,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793441365,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793440207,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793441725,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793441610,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793441031,
@@ -12704,23 +12704,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T09:06:44.035Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:19483937434467479220108169182510129197311028067786468507884499961811444121492": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "19483937434467479220108169182510129197311028067786468507884499961811444121492",
-      "conditionId": "0x933de1f42b61bbb86a49b79448e36f65f98ae26bfd8d1c07928a2ba0f174aacb",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Vitality vs MOUZ - Map 2 Winner",
-      "outcome": "MOUZ",
-      "slug": "cs2-vit-mouz-2026-10-31-game2",
-      "whalePrice": 0.68,
-      "ourPrice": 0.68,
-      "shares": 147.05882352941177,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T09:11:44.268Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:76808473699562536683616512807327640992582337515111216805505882564257365246959": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -12823,6 +12806,40 @@
       "note": "moved against us",
       "rules": 2,
       "openedAt": "2026-10-31T10:11:46.227Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:41840882112142297606602696932537647023114811864602072712743312635792002847544": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "41840882112142297606602696932537647023114811864602072712743312635792002847544",
+      "conditionId": "0x0536145e60528ca32583b13961a328a679b868f9fc6a775c2845776d8aa70cbe",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the NC-13 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-nc-13-house-seat",
+      "whalePrice": 0.4330444827413793,
+      "ourPrice": 0.4330444827413793,
+      "shares": 230.9231591335653,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T10:14:45.677Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:16976595754865702888942253430173145813500518669245701188211359895815715104826": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "16976595754865702888942253430173145813500518669245701188211359895815715104826",
+      "conditionId": "0x3babe91f8d2fac44027f9ba7f0f1a59e61b72419828e6e517f96bbcf4e132498",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the Ohio governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-ohio-governor-race-in-2026",
+      "whalePrice": 0.18999999999999997,
+      "ourPrice": 0.18999999999999997,
+      "shares": 526.3157894736843,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T10:14:45.981Z"
     }
   },
   "shadowClosed": [
@@ -19508,6 +19525,26 @@
       "proceeds": 195.17131703367522,
       "pnl": 95.17131703367522,
       "closedAt": "2026-10-31T03:35:12.693Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "19483937434467479220108169182510129197311028067786468507884499961811444121492",
+      "conditionId": "0x933de1f42b61bbb86a49b79448e36f65f98ae26bfd8d1c07928a2ba0f174aacb",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Vitality vs MOUZ - Map 2 Winner",
+      "outcome": "MOUZ",
+      "slug": "cs2-vit-mouz-2026-10-31-game2",
+      "whalePrice": 0.68,
+      "ourPrice": 0.68,
+      "shares": 147.05882352941177,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T09:11:44.268Z",
+      "proceeds": 147.05882352941177,
+      "pnl": 47.05882352941177,
+      "closedAt": "2026-10-31T10:23:24.617Z"
     }
   ]
 }
