@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793409514,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793410174,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793408086,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793408325,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793410017,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793237723,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793406397,
@@ -12428,23 +12428,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T22:18:26.934Z"
     },
-    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:63308249665484781866910798124877093099400086085882310931897450615793659626901": {
-      "reason": "benched",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "63308249665484781866910798124877093099400086085882310931897450615793659626901",
-      "conditionId": "0xadf5ef593973c0f9a024e827bb3f16021b4099a9c3888e94fddc7f00704aad63",
-      "outcomeIndex": 0,
-      "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
-      "outcome": "Hanwha Life Esports",
-      "slug": "lol-hle1-g2-2026-10-30-game1",
-      "whalePrice": 0.69,
-      "ourPrice": 0.69,
-      "shares": 144.92753623188406,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T23:15:29.604Z"
-    },
     "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:27592083854034690232876713840612026338004188936002394017023956081616224831462": {
       "reason": "benched",
       "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
@@ -19071,6 +19054,26 @@
       "proceeds": 162.05422668029553,
       "pnl": 62.05422668029553,
       "closedAt": "2026-10-31T01:10:56.009Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "63308249665484781866910798124877093099400086085882310931897450615793659626901",
+      "conditionId": "0xadf5ef593973c0f9a024e827bb3f16021b4099a9c3888e94fddc7f00704aad63",
+      "outcomeIndex": 0,
+      "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 1 Winner",
+      "outcome": "Hanwha Life Esports",
+      "slug": "lol-hle1-g2-2026-10-30-game1",
+      "whalePrice": 0.69,
+      "ourPrice": 0.69,
+      "shares": 144.92753623188406,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T23:15:29.604Z",
+      "proceeds": 144.92753623188406,
+      "pnl": 44.92753623188406,
+      "closedAt": "2026-10-31T01:23:11.936Z"
     }
   ]
 }
