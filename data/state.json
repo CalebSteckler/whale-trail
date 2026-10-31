@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793390215,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793408974,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793410813,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793411409,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793313312,
@@ -12445,23 +12445,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T00:00:32.779Z"
     },
-    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:17370756322830484171014915178559727042062930250415840037732686278109385686010": {
-      "reason": "benched",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "17370756322830484171014915178559727042062930250415840037732686278109385686010",
-      "conditionId": "0x6930d30b9c9f6594f572540d99584b843e327f6ea9ce5b2b18afe414c0501c6c",
-      "outcomeIndex": 0,
-      "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner",
-      "outcome": "Hanwha Life Esports",
-      "slug": "lol-hle1-g2-2026-10-30-game2",
-      "whalePrice": 0.6,
-      "ourPrice": 0.6,
-      "shares": 166.66666666666669,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T00:05:31.688Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:80456575204440643570499123641511043765364487572502085512858581574010154701650": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -19074,6 +19057,26 @@
       "proceeds": 144.92753623188406,
       "pnl": 44.92753623188406,
       "closedAt": "2026-10-31T01:23:11.936Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "17370756322830484171014915178559727042062930250415840037732686278109385686010",
+      "conditionId": "0x6930d30b9c9f6594f572540d99584b843e327f6ea9ce5b2b18afe414c0501c6c",
+      "outcomeIndex": 0,
+      "title": "LoL: Hanwha Life Esports vs G2 Esports - Game 2 Winner",
+      "outcome": "Hanwha Life Esports",
+      "slug": "lol-hle1-g2-2026-10-30-game2",
+      "whalePrice": 0.6,
+      "ourPrice": 0.6,
+      "shares": 166.66666666666669,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T00:05:31.688Z",
+      "proceeds": 166.66666666666669,
+      "pnl": 66.66666666666669,
+      "closedAt": "2026-10-31T01:45:11.629Z"
     }
   ]
 }
