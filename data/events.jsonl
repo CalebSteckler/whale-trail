@@ -5450,3 +5450,14 @@
 {"t":"2026-11-01T19:36:42.236Z","type":"skip","name":"Bigggggggg","title":"Will the Republican Party candidate win the 2026 Texas Senate election by 3%-6%?","outcome":"No","note":"already $200 on texas-senate-margin"}
 {"t":"2026-11-01T19:36:42.236Z","type":"skip","name":"Bigggggggg","title":"Will the Democratic Party candidate win the 2026 Texas Senate election by 12% or more?","outcome":"No","note":"whale paid 0.982"}
 {"t":"2026-11-01T19:36:42.236Z","type":"skip","name":"Bigggggggg","title":"Will the Democratic Party candidate win the 2026 Texas Senate election by 9%-12%?","outcome":"No","note":"whale paid 0.978"}
+{"t":"2026-11-01T19:53:42.142Z","type":"skip","name":"qwen4.1.fund","title":"Will Lando Norris win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale paid 0.973"}
+{"t":"2026-11-01T19:53:42.143Z","type":"skip","name":"qwen4.1.fund","title":"Will Charles Leclerc win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T19:53:42.143Z","type":"skip","name":"qwen4.1.fund","title":"Will George Russell win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T19:53:42.143Z","type":"skip","name":"qwen4.1.fund","title":"Will Isack Hadjar win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale paid 0.995"}
+{"t":"2026-11-01T19:53:42.143Z","type":"skip","name":"qwen4.1.fund","title":"Will Oscar Piastri win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale paid 0.998"}
+{"t":"2026-11-01T19:53:42.143Z","type":"skip","name":"qwen4.1.fund","title":"Will Max Verstappen win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T19:53:42.143Z","type":"skip","name":"qwen4.1.fund","title":"Will Lewis Hamilton win the 2026 F1 Mexican Grand Prix?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T19:54:43.247Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: BESTIA vs BARCA (BO3) - FiReSPORTS Last Chance Playoffs","outcome":"BESTIA","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T19:54:43.247Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: BESTIA vs BARCA - Map 2 Winner","outcome":"BESTIA","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T20:00:43.137Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Metizport vs WBT Academy (BO3) - Circuito Retake Playoffs AND Counter-Strike: BESTIA vs BARCA (BO3) - FiReSPORTS Last Chance Playoffs","outcome":"","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T20:00:43.137Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Metizport vs WBT Academy (BO3) - Circuito Retake Playoffs","outcome":"Metizport","note":"whale benched (negative edge)"}
