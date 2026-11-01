@@ -5346,3 +5346,4 @@
 {"t":"2026-11-01T01:57:28.162Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party hold between 200 and 204 House seats after the 2026 midterm elections?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-11-01T01:57:28.162Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party hold between 195 and 199 House seats after the 2026 midterm elections?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-11-01T01:57:28.162Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party hold 230 or more House seats after the 2026 midterm elections?","outcome":"No","note":"whale paid 0.997"}
+{"t":"2026-11-01T06:00:23.291Z","type":"copy","name":"SpringlyFawl","title":"Will the Democratic Party win the NY-01 House seat?","outcome":"No","note":"whale $445 @0.810 -> us @0.830 (2.5% worse, 89s lag)"}
