@@ -5351,3 +5351,5 @@
 {"t":"2026-11-01T06:37:31.750Z","type":"close","name":"The Spirit of Ukraine>UMA","title":"Republican Senate odds dip to 25% by October 31?","outcome":"No","note":"+$3.61 (resolved WIN)"}
 {"t":"2026-11-01T06:37:31.892Z","type":"close","name":"The Spirit of Ukraine>UMA","title":"Republican House odds dip to 5% by October 31?","outcome":"No","note":"+$2.89 (resolved WIN)"}
 {"t":"2026-11-01T06:40:24.254Z","type":"skip","name":"Kch-Temp","title":"1. FC Union Berlin vs. 1. FC Köln: O/U 2.5","outcome":"Under","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T07:13:24.934Z","type":"skip","name":"qwen4.1.fund","title":"Will the price of Ethereum be between $2,300 and $2,400 on November 1?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T07:13:24.935Z","type":"skip","name":"qwen4.1.fund","title":"Will the price of Ethereum be between $2,100 and $2,200 on November 1?","outcome":"No","note":"whale paid 0.989"}
