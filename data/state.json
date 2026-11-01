@@ -2,12 +2,12 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793552500,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793551543,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793552694,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793553267,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793552272,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793551903,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793553126,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793552499,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793550490,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793549010,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793552667
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793553594
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12563,23 +12563,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T01:57:28.162Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:88094395169388017944276275902155522864829225802831362855024032699934800249137": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "88094395169388017944276275902155522864829225802831362855024032699934800249137",
-      "conditionId": "0x83c7e0b98b43339e638fb92389ab80f476a38251145565f7319d4f8d80c2cf5d",
-      "outcomeIndex": 1,
-      "title": "Will the price of Ethereum be between $2,300 and $2,400 on November 1?",
-      "outcome": "No",
-      "slug": "will-the-price-of-ethereum-be-between-2300-2400-on-november-1-2026",
-      "whalePrice": 0.9599999999999999,
-      "ourPrice": 0.9599999999999999,
-      "shares": 104.16666666666669,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T07:13:24.935Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:73630441207450952671311709496968047822430081439027440055068987506866337364140": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -12886,6 +12869,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T17:07:35.847Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:64025664961497419708095468282573682984741903075312816516046832361290996190088": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "64025664961497419708095468282573682984741903075312816516046832361290996190088",
+      "conditionId": "0xbfeb6d4cf3eab6071e204219b0647c8224d63a12778df467311b5f2a4b3a5bd4",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the Michigan Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026",
+      "whalePrice": 0.2445273466,
+      "ourPrice": 0.2445273466,
+      "shares": 408.9522149176259,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T17:13:36.068Z"
     }
   },
   "shadowClosed": [
@@ -21817,6 +21817,26 @@
       "proceeds": 178.57142857142856,
       "pnl": 78.57142857142856,
       "closedAt": "2026-11-01T17:06:57.726Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "88094395169388017944276275902155522864829225802831362855024032699934800249137",
+      "conditionId": "0x83c7e0b98b43339e638fb92389ab80f476a38251145565f7319d4f8d80c2cf5d",
+      "outcomeIndex": 1,
+      "title": "Will the price of Ethereum be between $2,300 and $2,400 on November 1?",
+      "outcome": "No",
+      "slug": "will-the-price-of-ethereum-be-between-2300-2400-on-november-1-2026",
+      "whalePrice": 0.9599999999999999,
+      "ourPrice": 0.9599999999999999,
+      "shares": 104.16666666666669,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T07:13:24.935Z",
+      "proceeds": 104.16666666666669,
+      "pnl": 4.166666666666686,
+      "closedAt": "2026-11-01T17:17:57.890Z"
     }
   ]
 }
