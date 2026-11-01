@@ -1,8 +1,8 @@
 {
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793464024,
-    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793530657,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793530245,
+    "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793531196,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793531151,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793468067,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793486623,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793491209,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793529007
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793531029
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12647,6 +12647,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T10:29:27.141Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:55037487363954096368135513261670210978514580073358730297756835838144283724857": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "55037487363954096368135513261670210978514580073358730297756835838144283724857",
+      "conditionId": "0x76b95600939d25a82ec6b25754f74c9e24628010599b65e6fa8b1f9aa2d832d5",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Betclic Apogee Esports vs Phantom (BO3) - CCT Europe Series #12 Playoffs",
+      "outcome": "Phantom",
+      "slug": "cs2-bca-pha-2026-11-01",
+      "whalePrice": 0.5,
+      "ourPrice": 0.5,
+      "shares": 200,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T11:02:26.846Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:54510600390161606114709828989335102248869905385493667638212231804858082674954": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "54510600390161606114709828989335102248869905385493667638212231804858082674954",
+      "conditionId": "0x69b26b0a5f353de77c926cf302f7f4ca75e971355bc2b0c795bb165b96108db0",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Betclic Apogee Esports vs Phantom - Map 1 Winner",
+      "outcome": "Phantom",
+      "slug": "cs2-bca-pha-2026-11-01-game1",
+      "whalePrice": 0.5029849831443457,
+      "ourPrice": 0.5029849831443457,
+      "shares": 198.813092539787,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T11:07:27.358Z"
     }
   },
   "shadowClosed": [
