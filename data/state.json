@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793560995,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793555077,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793561820,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793562060,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793561619,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793561913,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793560800,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
@@ -12690,23 +12690,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T15:42:37.728Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:99542882723712749681931009795567015875531606294943082060587248995843070532784": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "99542882723712749681931009795567015875531606294943082060587248995843070532784",
-      "conditionId": "0x321d26836e5616cdcdba95fab8db598139365b00a6f6a87fba678dad2717130c",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: JiJieHao vs Iberian Soul (BO3) - Circuito Retake Playoffs",
-      "outcome": "JiJieHao",
-      "slug": "cs2-jjh-is-2026-11-01",
-      "whalePrice": 0.6195715787740211,
-      "ourPrice": 0.6195715787740211,
-      "shares": 161.40185157924006,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T16:12:34.088Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:51701227969789428887035230632719535776456005074786989136462494715055040286631": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12808,23 +12791,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T17:13:36.068Z"
-    },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:3651701368122503935507656424942128992433800625504599258353842447149449798100": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "3651701368122503935507656424942128992433800625504599258353842447149449798100",
-      "conditionId": "0xd4c877f99fbec8fd45cbad53ca2079adb5e7a94383d1ba05f6ff54c0a3c1bed1",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: JiJieHao vs Iberian Soul - Map 2 Winner",
-      "outcome": "JiJieHao",
-      "slug": "cs2-jjh-is-2026-11-01-game2",
-      "whalePrice": 0.57,
-      "ourPrice": 0.57,
-      "shares": 175.43859649122808,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T17:53:38.787Z"
     },
     "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:58940381421240190770836073123220246626333603434755999806899846963100545645353": {
       "reason": "benched",
@@ -22059,6 +22025,46 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-01T19:19:03.308Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "99542882723712749681931009795567015875531606294943082060587248995843070532784",
+      "conditionId": "0x321d26836e5616cdcdba95fab8db598139365b00a6f6a87fba678dad2717130c",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: JiJieHao vs Iberian Soul (BO3) - Circuito Retake Playoffs",
+      "outcome": "JiJieHao",
+      "slug": "cs2-jjh-is-2026-11-01",
+      "whalePrice": 0.6195715787740211,
+      "ourPrice": 0.6195715787740211,
+      "shares": 161.40185157924006,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T16:12:34.088Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-01T19:41:04.126Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "3651701368122503935507656424942128992433800625504599258353842447149449798100",
+      "conditionId": "0xd4c877f99fbec8fd45cbad53ca2079adb5e7a94383d1ba05f6ff54c0a3c1bed1",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: JiJieHao vs Iberian Soul - Map 2 Winner",
+      "outcome": "JiJieHao",
+      "slug": "cs2-jjh-is-2026-11-01-game2",
+      "whalePrice": 0.57,
+      "ourPrice": 0.57,
+      "shares": 175.43859649122808,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T17:53:38.787Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-01T19:41:04.634Z"
     }
   ]
 }
