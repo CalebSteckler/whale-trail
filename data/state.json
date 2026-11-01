@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793563143,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793555077,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793565373,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793566143,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793565171,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793560800,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793565754,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
-    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793565138,
+    "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793565984,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793565952,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793564919,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -12724,23 +12724,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T16:22:34.878Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:38129944640958665439605535794141003133626709675671706976328950240099876243496": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "38129944640958665439605535794141003133626709675671706976328950240099876243496",
-      "conditionId": "0x28d337de28dda49878f7d29ef44b6f1b6637a7a76219e2fca72c740636e852e1",
-      "outcomeIndex": 1,
-      "title": "Colts vs. Jaguars: O/U 46.5",
-      "outcome": "Under",
-      "slug": "nfl-ind-jax-2026-11-01-total-46pt5",
-      "whalePrice": 0.53,
-      "ourPrice": 0.53,
-      "shares": 188.67924528301887,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T16:37:35.177Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:78341101514988059811560741952487966848711278051465501221377122445595562719902": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -13064,6 +13047,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T20:16:43.763Z"
+    },
+    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:93755508598420461745823860603365033870586027786420875401840655590362174031227": {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "93755508598420461745823860603365033870586027786420875401840655590362174031227",
+      "conditionId": "0xa745eff902c48aa61fd7478b3286623b38e979d0a5d89fef46964edf45e46219",
+      "outcomeIndex": 1,
+      "title": "Will Trump and Putin not meet?",
+      "outcome": "No",
+      "slug": "will-trump-and-putin-not-meet-432",
+      "whalePrice": 0.87,
+      "ourPrice": 0.87,
+      "shares": 114.94252873563218,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T20:44:44.361Z"
+    },
+    "benched:0x95c6c9a6727ed203e97230dda61ab19a020e1508:31663598900054508463782497396070370608795457572106150930930960551668295820604": {
+      "reason": "benched",
+      "wallet": "0x95c6c9a6727ed203e97230dda61ab19a020e1508",
+      "name": "DelidelaDele",
+      "asset": "31663598900054508463782497396070370608795457572106150930930960551668295820604",
+      "conditionId": "0xd5f61ea94cc82bcd1fa3e99931033d8f6238b7bc503e20536b33a591ddd81eb8",
+      "outcomeIndex": 0,
+      "title": "Will Atlanta United FC win on 2026-11-01?",
+      "outcome": "Yes",
+      "slug": "mls-atl-tor-2026-11-01-atl",
+      "whalePrice": 0.46,
+      "ourPrice": 0.46,
+      "shares": 217.39130434782606,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T20:50:44.556Z"
     }
   },
   "shadowClosed": [
@@ -22236,6 +22253,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-01T19:41:04.634Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "38129944640958665439605535794141003133626709675671706976328950240099876243496",
+      "conditionId": "0x28d337de28dda49878f7d29ef44b6f1b6637a7a76219e2fca72c740636e852e1",
+      "outcomeIndex": 1,
+      "title": "Colts vs. Jaguars: O/U 46.5",
+      "outcome": "Under",
+      "slug": "nfl-ind-jax-2026-11-01-total-46pt5",
+      "whalePrice": 0.53,
+      "ourPrice": 0.53,
+      "shares": 188.67924528301887,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T16:37:35.177Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-01T20:47:09.643Z"
     }
   ]
 }
