@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793563143,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793568916,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793555077,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793568246,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793569122,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
@@ -17,7 +17,7 @@
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793552577,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793568229,
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793568888,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793558916,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793567100
   },
@@ -12766,23 +12766,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T16:53:36.985Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:46032175510256434028893756378954093075432194615983233494337200719073165215499": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "46032175510256434028893756378954093075432194615983233494337200719073165215499",
-      "conditionId": "0x02536ee0d36eb3b451729c637659850f90f890704be70a5a2387cce8b09668c5",
-      "outcomeIndex": 1,
-      "title": "Browns vs. Steelers",
-      "outcome": "Steelers",
-      "slug": "nfl-cle-pit-2026-11-01",
-      "whalePrice": 0.65,
-      "ourPrice": 0.65,
-      "shares": 153.84615384615384,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T17:07:35.847Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:64025664961497419708095468282573682984741903075312816516046832361290996190088": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -12800,23 +12783,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T17:13:36.068Z"
     },
-    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:58940381421240190770836073123220246626333603434755999806899846963100545645353": {
-      "reason": "benched",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "58940381421240190770836073123220246626333603434755999806899846963100545645353",
-      "conditionId": "0x1cecad283512fa09937db3dfc7106b17bff150dfcc944b0785225eeb7d39ea05",
-      "outcomeIndex": 0,
-      "title": "Raiders vs. Jets",
-      "outcome": "Raiders",
-      "slug": "nfl-lv-nyj-2026-11-01",
-      "whalePrice": 0.4600000000000001,
-      "ourPrice": 0.4600000000000001,
-      "shares": 217.39130434782606,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T18:02:37.970Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:20618257812738886547970495135954413884850871497650550724930993324397567991055": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -12833,23 +12799,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T18:51:40.550Z"
-    },
-    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:20904731047675781517425101354497783626872100601316312073571108855159174653041": {
-      "reason": "benched",
-      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
-      "name": "para-Vision",
-      "asset": "20904731047675781517425101354497783626872100601316312073571108855159174653041",
-      "conditionId": "0x12cff7d2c7c7ef5236dfe9cc760477b4df2a6a900280135d954c56789057b30b",
-      "outcomeIndex": 0,
-      "title": "Vikings vs. Lions",
-      "outcome": "Vikings",
-      "slug": "nfl-min-det-2026-11-01",
-      "whalePrice": 0.46,
-      "ourPrice": 0.46,
-      "shares": 217.39130434782606,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T18:52:40.219Z"
     },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:25172545206000541692667496253531562288536270988826888609620735617040533835056": {
       "reason": "topic",
@@ -22356,6 +22305,66 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-01T21:09:08.729Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "46032175510256434028893756378954093075432194615983233494337200719073165215499",
+      "conditionId": "0x02536ee0d36eb3b451729c637659850f90f890704be70a5a2387cce8b09668c5",
+      "outcomeIndex": 1,
+      "title": "Browns vs. Steelers",
+      "outcome": "Steelers",
+      "slug": "nfl-cle-pit-2026-11-01",
+      "whalePrice": 0.65,
+      "ourPrice": 0.65,
+      "shares": 153.84615384615384,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T17:07:35.847Z",
+      "proceeds": 153.84615384615384,
+      "pnl": 53.84615384615384,
+      "closedAt": "2026-11-01T21:31:55.621Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "58940381421240190770836073123220246626333603434755999806899846963100545645353",
+      "conditionId": "0x1cecad283512fa09937db3dfc7106b17bff150dfcc944b0785225eeb7d39ea05",
+      "outcomeIndex": 0,
+      "title": "Raiders vs. Jets",
+      "outcome": "Raiders",
+      "slug": "nfl-lv-nyj-2026-11-01",
+      "whalePrice": 0.4600000000000001,
+      "ourPrice": 0.4600000000000001,
+      "shares": 217.39130434782606,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T18:02:37.970Z",
+      "proceeds": 217.39130434782606,
+      "pnl": 117.39130434782606,
+      "closedAt": "2026-11-01T21:31:55.722Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "20904731047675781517425101354497783626872100601316312073571108855159174653041",
+      "conditionId": "0x12cff7d2c7c7ef5236dfe9cc760477b4df2a6a900280135d954c56789057b30b",
+      "outcomeIndex": 0,
+      "title": "Vikings vs. Lions",
+      "outcome": "Vikings",
+      "slug": "nfl-min-det-2026-11-01",
+      "whalePrice": 0.46,
+      "ourPrice": 0.46,
+      "shares": 217.39130434782606,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T18:52:40.219Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-01T21:31:55.920Z"
     }
   ]
 }
