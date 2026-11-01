@@ -5362,3 +5362,4 @@
 {"t":"2026-11-01T10:05:32.083Z","type":"skip","name":"qwen4.1.fund","title":"Will Iliana Iotova win the next Bulgarian presidential election?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-11-01T10:29:27.140Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: JiJieHao vs Metizport (BO3) - Circuito Retake Playoffs","outcome":"Metizport","note":"whale benched (negative edge)"}
 {"t":"2026-11-01T10:29:27.141Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: JiJieHao vs Metizport - Map 1 Winner","outcome":"Metizport","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T10:54:26.369Z","type":"copy","name":"Bigggggggg","title":"Will the Republican Party win the NC-13 House seat?","outcome":"No","note":"whale $692 @0.430 -> us @0.430 (0.1% worse, 157s lag)"}
