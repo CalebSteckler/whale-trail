@@ -2,11 +2,11 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793560995,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793555077,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793561238,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793561820,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793560800,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793561619,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793560800,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793550490,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793558916,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793560915
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793561977
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1917,6 +1917,44 @@
       "lagS": 120,
       "rules": 2,
       "openedAt": "2026-11-01T19:06:40.585Z"
+    },
+    "0x511f9c771449162349795d17becf8b37031acbe1:18287586256083445323398279169184869269457143277568976405073561634800769081165": {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "18287586256083445323398279169184869269457143277568976405073561634800769081165",
+      "conditionId": "0x142098ae92954820115639dd79e3840a2a3309967d1973a314645621b46f6940",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party candidate win the 2026 Texas Senate election by 0%-3%?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-candidate-win-the-2026-texas-senate-election-by-0-3",
+      "eventSlug": "texas-senate-margin-of-victory-2026",
+      "whalePrice": 0.8299999999999998,
+      "whaleUsd": 273.0617,
+      "ourPrice": 0.83,
+      "shares": 120.48192771084338,
+      "stake": 100,
+      "lagS": 185,
+      "rules": 2,
+      "openedAt": "2026-11-01T19:36:42.126Z"
+    },
+    "0x511f9c771449162349795d17becf8b37031acbe1:14318768320690154026960385538734290827537114750294450700303866373945933328663": {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "14318768320690154026960385538734290827537114750294450700303866373945933328663",
+      "conditionId": "0x117eb908f789209dbd017ac2f1a814f3f795d3c0d89809c558b56770b9f4f1ad",
+      "outcomeIndex": 1,
+      "title": "Will the Democratic Party candidate win the 2026 Texas Senate election by 6%-9%?",
+      "outcome": "No",
+      "slug": "will-the-democratic-party-candidate-win-the-2026-texas-senate-election-by-6-9",
+      "eventSlug": "texas-senate-margin-of-victory-2026",
+      "whalePrice": 0.8660000000000001,
+      "whaleUsd": 284.90534,
+      "ourPrice": 0.859,
+      "shares": 116.41443538998836,
+      "stake": 100,
+      "lagS": 185,
+      "rules": 2,
+      "openedAt": "2026-11-01T19:36:42.235Z"
     }
   },
   "closed": [
@@ -12872,6 +12910,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T19:20:41.082Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:109285170864917252207472432685991518334643073414250330590324669502203469843082": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "109285170864917252207472432685991518334643073414250330590324669502203469843082",
+      "conditionId": "0xacd8e57ae81e99b37971604e8ee183521c00221da76afbba65465cf732b298e5",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party candidate win the 2026 Texas Senate election by 3%-6%?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-candidate-win-the-2026-texas-senate-election-by-3-6",
+      "whalePrice": 0.9453274263999999,
+      "ourPrice": 0.9453274263999999,
+      "shares": 105.78345365565076,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T19:36:42.236Z"
     }
   },
   "shadowClosed": [
