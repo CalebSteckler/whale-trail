@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793558178,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793555077,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793560051,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793560614,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793559192,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793560800,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793559880,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793479780,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793559631,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793560800,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793415043,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793550490,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793558916,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793559019
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793560692
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12618,23 +12618,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T12:37:29.944Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:85202490301508040792201453697265545101632832034997854108710756333482945674734": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "85202490301508040792201453697265545101632832034997854108710756333482945674734",
-      "conditionId": "0xdda663640d7305c227d40ca790f19eeccd0f129175ba566bf06d6b496351fce4",
-      "outcomeIndex": 0,
-      "title": "Will FC Nordsjælland win on 2026-11-01?",
-      "outcome": "Yes",
-      "slug": "den-nor-mid-2026-11-01-nor",
-      "whalePrice": 0.42999999999999994,
-      "ourPrice": 0.42999999999999994,
-      "shares": 232.55813953488376,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T13:56:34.796Z"
-    },
     "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:67644404087631950323050908945604566388402718814091392759652116897485341396110": {
       "reason": "benched",
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
@@ -12855,6 +12838,40 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T18:52:40.219Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:13192195794932026106666482126985060434860541282248380113911974244971180106959": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "13192195794932026106666482126985060434860541282248380113911974244971180106959",
+      "conditionId": "0x718127cb7159aca67e818f00e5bc42729a43b4248912704b02a4575369b390fd",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: Metizport vs WBT Academy - Map 1 Winner",
+      "outcome": "Metizport",
+      "slug": "cs2-mzp-wbta-2026-11-01-game1",
+      "whalePrice": 0.5099912091,
+      "ourPrice": 0.5099912091,
+      "shares": 196.08181124626373,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T19:19:41.163Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:25172545206000541692667496253531562288536270988826888609620735617040533835056": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "25172545206000541692667496253531562288536270988826888609620735617040533835056",
+      "conditionId": "0x34918035a590555ba1fb1d6a019d766ab6e557d63e7f3140b63b4550eee7f417",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the Texas Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-texas-senate-race-in-2026",
+      "whalePrice": 0.29,
+      "ourPrice": 0.29,
+      "shares": 344.82758620689657,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T19:20:41.082Z"
     }
   },
   "shadowClosed": [
@@ -21967,6 +21984,26 @@
       "proceeds": 158.73015873015876,
       "pnl": 58.73015873015876,
       "closedAt": "2026-11-01T19:08:04.180Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "85202490301508040792201453697265545101632832034997854108710756333482945674734",
+      "conditionId": "0xdda663640d7305c227d40ca790f19eeccd0f129175ba566bf06d6b496351fce4",
+      "outcomeIndex": 0,
+      "title": "Will FC Nordsjælland win on 2026-11-01?",
+      "outcome": "Yes",
+      "slug": "den-nor-mid-2026-11-01-nor",
+      "whalePrice": 0.42999999999999994,
+      "ourPrice": 0.42999999999999994,
+      "shares": 232.55813953488376,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T13:56:34.796Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-01T19:19:03.308Z"
     }
   ]
 }
