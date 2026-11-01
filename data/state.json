@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793464024,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793542909,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793548467,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793548897,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
@@ -18,8 +18,8 @@
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793486623,
-    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793538927,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793548455
+    "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793549010,
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793548651
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -12716,23 +12716,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T13:29:33.806Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:68398973459048771491659759839345304675705906317953087677141471470880276977167": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "68398973459048771491659759839345304675705906317953087677141471470880276977167",
-      "conditionId": "0x904adc6039721cd2542b4cd25cbc9b6a0835b917c58b48fc45f4a66024d8080e",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: HOTU vs 1WIN - Map 1 Winner",
-      "outcome": "1WIN",
-      "slug": "cs2-hotu-1win-2026-11-01-game1",
-      "whalePrice": 0.6686604752,
-      "ourPrice": 0.6686604752,
-      "shares": 149.5527307339191,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T13:29:33.806Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:96650955551238621243272459700709035838288897167148799629152013101430943166784": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -12868,6 +12851,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T15:54:38.989Z"
+    },
+    "benched:0x676c1bb692c76b57b06f1b93817515acfa5ce139:65359790062443545346835298735577241161100877353035631665298259359652585827725": {
+      "reason": "benched",
+      "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+      "name": "para-Vision",
+      "asset": "65359790062443545346835298735577241161100877353035631665298259359652585827725",
+      "conditionId": "0x4f86e7e13089d33446c734bacc94f14e88ea1a4fd01581858747bf7285065328",
+      "outcomeIndex": 0,
+      "title": "Dota 2: Team Yandex vs Team Spirit - Game 3 Winner",
+      "outcome": "Team Yandex",
+      "slug": "dota2-ty-ts8-2026-11-01-game3",
+      "whalePrice": 0.54,
+      "ourPrice": 0.54,
+      "shares": 185.18518518518516,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T16:06:34.280Z"
     }
   },
   "shadowClosed": [
@@ -21639,6 +21639,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-01T15:16:01.616Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "68398973459048771491659759839345304675705906317953087677141471470880276977167",
+      "conditionId": "0x904adc6039721cd2542b4cd25cbc9b6a0835b917c58b48fc45f4a66024d8080e",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: HOTU vs 1WIN - Map 1 Winner",
+      "outcome": "1WIN",
+      "slug": "cs2-hotu-1win-2026-11-01-game1",
+      "whalePrice": 0.6686604752,
+      "ourPrice": 0.6686604752,
+      "shares": 149.5527307339191,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T13:29:33.806Z",
+      "proceeds": 149.5527307339191,
+      "pnl": 49.552730733919105,
+      "closedAt": "2026-11-01T16:00:57.756Z"
     }
   ]
 }
