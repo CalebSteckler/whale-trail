@@ -12631,23 +12631,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T10:29:27.140Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:62786400460548566567394613543715412118815984230900651831140708145503675938406": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "62786400460548566567394613543715412118815984230900651831140708145503675938406",
-      "conditionId": "0x5ef71cfa1022d2a2f2a7f4178ddbb3ad33d12b04230505c073829d24b13bc11a",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: JiJieHao vs Metizport - Map 1 Winner",
-      "outcome": "Metizport",
-      "slug": "cs2-jjh-mzp-2026-11-01-game1",
-      "whalePrice": 0.4629888173729306,
-      "ourPrice": 0.4629888173729306,
-      "shares": 215.987938040092,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T10:29:27.141Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:55037487363954096368135513261670210978514580073358730297756835838144283724857": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -21411,6 +21394,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-01T04:36:10.935Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "62786400460548566567394613543715412118815984230900651831140708145503675938406",
+      "conditionId": "0x5ef71cfa1022d2a2f2a7f4178ddbb3ad33d12b04230505c073829d24b13bc11a",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: JiJieHao vs Metizport - Map 1 Winner",
+      "outcome": "Metizport",
+      "slug": "cs2-jjh-mzp-2026-11-01-game1",
+      "whalePrice": 0.4629888173729306,
+      "ourPrice": 0.4629888173729306,
+      "shares": 215.987938040092,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T10:29:27.141Z",
+      "proceeds": 215.987938040092,
+      "pnl": 115.98793804009199,
+      "closedAt": "2026-11-01T12:41:53.335Z"
     }
   ]
 }
