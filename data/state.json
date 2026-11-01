@@ -2,22 +2,22 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793568916,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793555077,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793569122,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793569528,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793568103,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793569639,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793566489,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793566231,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793568492,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793569327,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793564919,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793441185,
     "0x924379a79c64b77ad5816ad362122a5f6228658e": 1793552577,
     "0x916f7165c2c836aba22edb6453cdbb5f3ea253ba": 1792926140,
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793461372,
-    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793568888,
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793569416,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793558916,
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793567100
   },
@@ -1974,6 +1974,25 @@
       "lagS": 358,
       "rules": 2,
       "openedAt": "2026-11-01T21:29:47.474Z"
+    },
+    "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:60716031700844383920984095188811000177844184720572802625499881807461128522142": {
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "60716031700844383920984095188811000177844184720572802625499881807461128522142",
+      "conditionId": "0xe62a1d4531e48bfef506db8f28626cf60accedbcfe7547adeb93ed6e806bf90a",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: DENDELE CS vs Imperial - Map 2 Winner",
+      "outcome": "Imperial",
+      "slug": "cs2-dendel-imp11-2026-11-01-game2",
+      "eventSlug": "cs2-dendel-imp11-2026-11-01",
+      "whalePrice": 0.5690491719177405,
+      "whaleUsd": 2706.4946,
+      "ourPrice": 0.61,
+      "shares": 163.9344262295082,
+      "stake": 100,
+      "lagS": 89,
+      "rules": 2,
+      "openedAt": "2026-11-01T21:44:33.760Z"
     }
   },
   "closed": [
@@ -12783,23 +12802,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T17:13:36.068Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:20618257812738886547970495135954413884850871497650550724930993324397567991055": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "20618257812738886547970495135954413884850871497650550724930993324397567991055",
-      "conditionId": "0x1297c18a2563f3e29a155a53dc1b7a161fdb754cd12f68c8d793e628d00c280a",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: prodigy vs Ducks (BO3) - CCT Europe Contenders #10 Playoffs",
-      "outcome": "prodigy",
-      "slug": "cs2-prodig-ducks1-2026-11-01",
-      "whalePrice": 0.803609169,
-      "ourPrice": 0.803609169,
-      "shares": 124.43860007774501,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T18:51:40.550Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:25172545206000541692667496253531562288536270988826888609620735617040533835056": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -13073,6 +13075,23 @@
       "note": "moved for us",
       "rules": 2,
       "openedAt": "2026-11-01T21:24:47.292Z"
+    },
+    "topic:0x511f9c771449162349795d17becf8b37031acbe1:99220906444298013371226777146644050291379719076770320084582228070538502763816": {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "99220906444298013371226777146644050291379719076770320084582228070538502763816",
+      "conditionId": "0x27f7602aa092339531af08da100d2b8d52254898cfd2de7b3c3bd98e716d05ce",
+      "outcomeIndex": 1,
+      "title": "Will Top Esports win Worlds 2026?",
+      "outcome": "No",
+      "slug": "will-top-esports-win-worlds-2026",
+      "whalePrice": 0.9690000000000001,
+      "ourPrice": 0.9690000000000001,
+      "shares": 103.19917440660474,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T21:47:33.244Z"
     }
   },
   "shadowClosed": [
@@ -22365,6 +22384,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-01T21:31:55.920Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "20618257812738886547970495135954413884850871497650550724930993324397567991055",
+      "conditionId": "0x1297c18a2563f3e29a155a53dc1b7a161fdb754cd12f68c8d793e628d00c280a",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: prodigy vs Ducks (BO3) - CCT Europe Contenders #10 Playoffs",
+      "outcome": "prodigy",
+      "slug": "cs2-prodig-ducks1-2026-11-01",
+      "whalePrice": 0.803609169,
+      "ourPrice": 0.803609169,
+      "shares": 124.43860007774501,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T18:51:40.550Z",
+      "proceeds": 124.43860007774501,
+      "pnl": 24.438600077745008,
+      "closedAt": "2026-11-01T21:42:54.627Z"
     }
   ]
 }
