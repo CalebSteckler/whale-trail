@@ -5481,3 +5481,5 @@
 {"t":"2026-11-01T21:10:45.543Z","type":"skip","name":"JohnLKellyJr","title":"Counter-Strike: Metizport vs WBT Academy (BO3) - Circuito Retake Playoffs","outcome":"Metizport","note":"whale benched (negative edge)"}
 {"t":"2026-11-01T21:14:46.818Z","type":"copy","name":"THEHIGHLIFE","title":"Counter-Strike: DENDELE CS vs Imperial - Map 2 Winner","outcome":"Imperial","note":"whale $679 @0.579 -> us @0.629 (8.7% worse, 72s lag)"}
 {"t":"2026-11-01T21:19:47.070Z","type":"close","name":"THEHIGHLIFE","title":"Counter-Strike: DENDELE CS vs Imperial - Map 2 Winner","outcome":"Imperial","note":"$-0.84 (whale sold @0.580, we exit @0.624)"}
+{"t":"2026-11-01T21:24:47.292Z","type":"skip","name":"THEHIGHLIFE","title":"Titans vs. Bengals","outcome":"Titans","note":"price moved 0.630 -> 0.360 before we saw it"}
+{"t":"2026-11-01T21:29:47.474Z","type":"copy","name":"THEHIGHLIFE","title":"Titans vs. Bengals","outcome":"Titans","note":"whale $1850 @0.370 -> us @0.400 (8.1% worse, 358s lag)"}
