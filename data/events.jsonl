@@ -5324,3 +5324,7 @@
 {"t":"2026-10-31T23:56:18.101Z","type":"skip","name":"qwen4.1.fund","title":"Will Karmine Corp win Worlds 2026?","outcome":"No","note":"whale paid 0.986"}
 {"t":"2026-10-31T23:56:18.101Z","type":"skip","name":"qwen4.1.fund","title":"Will LYON win Worlds 2026?","outcome":"No","note":"whale paid 0.992"}
 {"t":"2026-11-01T00:01:17.994Z","type":"skip","name":"qwen4.1.fund","title":"Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-01T00:33:24.770Z","type":"copy","name":"zerone777","title":"Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?","outcome":"No","note":"whale $448 @0.895 -> us @0.902 (0.8% worse, 117s lag)"}
+{"t":"2026-11-01T00:33:24.937Z","type":"copy","name":"zerone777","title":"Will Republicans win Kansas, and lose Alaska, Iowa, Maine, Michigan, Ohio, and Texas?","outcome":"No","note":"whale $477 @0.952 -> us @0.957 (0.5% worse, 117s lag)"}
+{"t":"2026-11-01T00:33:24.938Z","type":"skip","name":"zerone777","title":"Will Republicans win the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?","outcome":"No","note":"already $200 on which-tossup-senate"}
+{"t":"2026-11-01T00:33:24.939Z","type":"skip","name":"zerone777","title":"Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?","outcome":"No","note":"already $200 on which-tossup-senate"}
