@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793652187,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793652739,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793639883,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793651788,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793652765,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793629005,
@@ -13268,6 +13268,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T19:22:47.702Z"
+    },
+    "benched:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:31885880601698225173443067738486136369202470856702377004820829253043810527889": {
+      "reason": "benched",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "31885880601698225173443067738486136369202470856702377004820829253043810527889",
+      "conditionId": "0xda804f013fa8ca24f52f67c1d589c262b653fa1eb7cf7659fb82768424aa5af9",
+      "outcomeIndex": 0,
+      "title": "Will Meta (META) close above $610 on November 2?",
+      "outcome": "Yes",
+      "slug": "meta-close-above-610-on-november-2-2026",
+      "whalePrice": 0.23972906403940886,
+      "ourPrice": 0.23972906403940886,
+      "shares": 417.1375732045618,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T20:48:47.684Z"
     }
   },
   "shadowClosed": [
