@@ -7,7 +7,7 @@
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793599711,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793599287,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793601025,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793579826,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793600043,
@@ -12898,6 +12898,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T05:44:01.551Z"
+    },
+    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:83106526449876874573813297184176954494008138834292248374570211745966785088569": {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "83106526449876874573813297184176954494008138834292248374570211745966785088569",
+      "conditionId": "0x22492ab0d5c936a0c8b24e241bcbe959ee4d7e52f227a8d128d38a025316eb85",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the Florida governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-florida-governor-race-in-2026",
+      "whalePrice": 0.63,
+      "ourPrice": 0.63,
+      "shares": 158.73015873015873,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T06:33:02.822Z"
     }
   },
   "shadowClosed": [
