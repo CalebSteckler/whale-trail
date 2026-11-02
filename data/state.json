@@ -1,13 +1,13 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793645052,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793646583,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793639883,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793646028,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793646283,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793629005,
     "0x511f9c771449162349795d17becf8b37031acbe1": 1793643681,
-    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793644513,
+    "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793646696,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793579826,
     "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793646034,
@@ -19,7 +19,7 @@
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e": 1793639839,
     "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": 1793625055,
     "0x676c1bb692c76b57b06f1b93817515acfa5ce139": 1793629368,
-    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793644366
+    "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793646384
   },
   "open": {
     "0xe949065b6c64308369c26dc590121623a5a4dea6:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
@@ -1689,25 +1689,6 @@
       "lagS": 137,
       "rules": 2,
       "openedAt": "2026-10-31T13:02:54.474Z"
-    },
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e:15731355030794333387658668012976279762276670840930812439550576440876776483413": {
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "15731355030794333387658668012976279762276670840930812439550576440876776483413",
-      "conditionId": "0x7f31e3415894289f0274070e0f3afcde1118cff33605d44f741c5c675bf7147e",
-      "outcomeIndex": 1,
-      "title": "Democratic Senate odds 62-64% on November 2?",
-      "outcome": "No",
-      "slug": "democratic-senate-odds-62-64-on-november-2",
-      "eventSlug": "democratic-senate-odds-on-november-2",
-      "whalePrice": 0.9540000000000001,
-      "whaleUsd": 400.68,
-      "ourPrice": 0.9970428388746803,
-      "shares": 100.29659318637275,
-      "stake": 100,
-      "lagS": 207,
-      "rules": 2,
-      "openedAt": "2026-10-31T15:46:00.396Z"
     },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:38883886691124225989332035378913105158890603529288875957747834557386418386450": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -9074,6 +9055,29 @@
       "pnl": 16.059195402298855,
       "closedAt": "2026-11-02T18:27:53.517Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "15731355030794333387658668012976279762276670840930812439550576440876776483413",
+      "conditionId": "0x7f31e3415894289f0274070e0f3afcde1118cff33605d44f741c5c675bf7147e",
+      "outcomeIndex": 1,
+      "title": "Democratic Senate odds 62-64% on November 2?",
+      "outcome": "No",
+      "slug": "democratic-senate-odds-62-64-on-november-2",
+      "eventSlug": "democratic-senate-odds-on-november-2",
+      "whalePrice": 0.9540000000000001,
+      "whaleUsd": 400.68,
+      "ourPrice": 0.9970428388746803,
+      "shares": 100.29659318637275,
+      "stake": 100,
+      "lagS": 207,
+      "rules": 2,
+      "openedAt": "2026-10-31T15:46:00.396Z",
+      "proceeds": 100.29659318637275,
+      "pnl": 0.29659318637274623,
+      "closedAt": "2026-11-02T19:11:56.096Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -12396,23 +12400,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T16:50:02.410Z"
     },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:31587655829508952205475983937584582255036347302810962601937797165224068400814": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "31587655829508952205475983937584582255036347302810962601937797165224068400814",
-      "conditionId": "0x1770252f14998e82c6ee248961b719bb9847fbc50e50f83b106c8fda0d7b357a",
-      "outcomeIndex": 1,
-      "title": "Will Elon Musk post 140-164 tweets from October 31 to November 2, 2026?",
-      "outcome": "No",
-      "slug": "elon-musk-of-tweets-october-31-november-2-2026-140-164",
-      "whalePrice": 0.9015978246,
-      "ourPrice": 0.9015978246,
-      "shares": 110.91419840588644,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T18:11:03.980Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:26866909181398172943498464848395970419894283621025178268717544424022978925540": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -13262,6 +13249,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T18:32:46.941Z"
+    },
+    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:103134648664304714389517194624894690199934711462972661092432651007770139133040": {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "103134648664304714389517194624894690199934711462972661092432651007770139133040",
+      "conditionId": "0x2fcae58f945c1a15dd6ecf048c49074661f1757d0c3941493b0a244f078e8494",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: ex-ENCE vs SINQU - Map 2 Winner",
+      "outcome": "ex-ENCE",
+      "slug": "cs2-ence1-sinqu-2026-11-02-game2",
+      "whalePrice": 0.779862069004138,
+      "ourPrice": 0.779862069004138,
+      "shares": 128.22780331872943,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T19:05:47.555Z"
     }
   },
   "shadowClosed": [
@@ -23220,6 +23224,26 @@
       "proceeds": 198.67807692307696,
       "pnl": 98.67807692307696,
       "closedAt": "2026-11-02T16:59:58.730Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "31587655829508952205475983937584582255036347302810962601937797165224068400814",
+      "conditionId": "0x1770252f14998e82c6ee248961b719bb9847fbc50e50f83b106c8fda0d7b357a",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 140-164 tweets from October 31 to November 2, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-31-november-2-2026-140-164",
+      "whalePrice": 0.9015978246,
+      "ourPrice": 0.9015978246,
+      "shares": 110.91419840588644,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T18:11:03.980Z",
+      "proceeds": 110.91419840588644,
+      "pnl": 10.914198405886438,
+      "closedAt": "2026-11-02T19:12:08.142Z"
     }
   ]
 }
