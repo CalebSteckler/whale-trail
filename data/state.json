@@ -1,6 +1,6 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793636641,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793637051,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793635863,
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793636622,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793635213,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793579826,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793636559,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793636560,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793631415,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793582959,
@@ -13157,6 +13157,23 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T15:43:40.543Z"
+    },
+    "benched:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:12990648116253556011930669485500187798536699124996794561457361007002805808004": {
+      "reason": "benched",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "12990648116253556011930669485500187798536699124996794561457361007002805808004",
+      "conditionId": "0x01075d7f61ebea7a2f743ab51487ea4d1099eef3a8dfad2d74cf1cd2c6fc94a4",
+      "outcomeIndex": 0,
+      "title": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $174 Week of November 2 2026?",
+      "outcome": "Yes",
+      "slug": "will-pltr-dip-to-174-by-november-2-2026",
+      "whalePrice": 0.622,
+      "ourPrice": 0.622,
+      "shares": 160.77170418006432,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T16:34:41.185Z"
     }
   },
   "shadowClosed": [
