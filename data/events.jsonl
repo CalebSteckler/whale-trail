@@ -5553,3 +5553,12 @@
 {"t":"2026-11-02T13:58:24.864Z","type":"skip","name":"qwen4.1.fund","title":"Will there be a Hormuz agreement and the Republicans win the Senate?","outcome":"No","note":"whale paid 0.989"}
 {"t":"2026-11-02T14:28:36.313Z","type":"skip","name":"qwen4.1.fund","title":"Will the Republican Party control the Senate after the 2026 Midterm elections?","outcome":"No","note":"whale benched (negative edge)"}
 {"t":"2026-11-02T15:23:38.658Z","type":"skip","name":"qwen4.1.fund","title":"Will the Democratic Party win the SC-02 House seat?","outcome":"No","note":"whale benched (negative edge)"}
+{"t":"2026-11-02T15:25:38.821Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?","outcome":"No","note":"whale paid 0.987"}
+{"t":"2026-11-02T15:25:38.821Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be $3.0T or greater at market close on IPO day?","outcome":"No","note":"whale paid 0.992"}
+{"t":"2026-11-02T15:25:38.936Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?","outcome":"No","note":"resolves in 425 days"}
+{"t":"2026-11-02T15:25:38.936Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?","outcome":"No","note":"whale paid 0.982"}
+{"t":"2026-11-02T15:25:38.947Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be less than $1.25T at market close on IPO day?","outcome":"No","note":"resolves in 425 days"}
+{"t":"2026-11-02T15:25:38.958Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?","outcome":"No","note":"resolves in 425 days"}
+{"t":"2026-11-02T15:25:38.964Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?","outcome":"No","note":"resolves in 425 days"}
+{"t":"2026-11-02T15:25:38.974Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?","outcome":"No","note":"resolves in 425 days"}
+{"t":"2026-11-02T15:25:38.975Z","type":"skip","name":"Bigggggggg","title":"Will Anthropic not IPO by December 31, 2027?","outcome":"No","note":"whale paid 0.990"}
