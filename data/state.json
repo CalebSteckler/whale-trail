@@ -2,15 +2,15 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793621919,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793614846,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793622007,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793622390,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793611678,
-    "0x511f9c771449162349795d17becf8b37031acbe1": 1793621725,
+    "0x511f9c771449162349795d17becf8b37031acbe1": 1793622124,
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793621092,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793579826,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793621755,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793622610,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793586631,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793582959,
@@ -13022,23 +13022,6 @@
       "rules": 2,
       "openedAt": "2026-11-02T10:12:16.302Z"
     },
-    "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:43391372875703114954183491904856400804897847980023940244039276914423959247162": {
-      "reason": "benched",
-      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
-      "name": "JohnLKellyJr",
-      "asset": "43391372875703114954183491904856400804897847980023940244039276914423959247162",
-      "conditionId": "0xb8df6213180b057c646712dbb64aa2c8a03ae33847fe14b487a01efdee99d0ed",
-      "outcomeIndex": 0,
-      "title": "Counter-Strike: MOUZ vs TYLOO - Map 2 Winner",
-      "outcome": "MOUZ",
-      "slug": "cs2-mouz-tyloo-2026-11-02-game2",
-      "whalePrice": 0.82,
-      "ourPrice": 0.82,
-      "shares": 121.95121951219512,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T11:24:20.026Z"
-    },
     "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:1337123143861361613883572670093078284361532761465949583341340428966274606564": {
       "reason": "drift",
       "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
@@ -22920,6 +22903,26 @@
       "proceeds": 121.56791263689819,
       "pnl": 21.567912636898185,
       "closedAt": "2026-11-02T11:18:03.987Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
+      "name": "JohnLKellyJr",
+      "asset": "43391372875703114954183491904856400804897847980023940244039276914423959247162",
+      "conditionId": "0xb8df6213180b057c646712dbb64aa2c8a03ae33847fe14b487a01efdee99d0ed",
+      "outcomeIndex": 0,
+      "title": "Counter-Strike: MOUZ vs TYLOO - Map 2 Winner",
+      "outcome": "MOUZ",
+      "slug": "cs2-mouz-tyloo-2026-11-02-game2",
+      "whalePrice": 0.82,
+      "ourPrice": 0.82,
+      "shares": 121.95121951219512,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T11:24:20.026Z",
+      "proceeds": 121.95121951219512,
+      "pnl": 21.951219512195124,
+      "closedAt": "2026-11-02T12:24:06.245Z"
     }
   ]
 }
