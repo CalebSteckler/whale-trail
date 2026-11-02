@@ -2,7 +2,7 @@
   "since": {
     "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793576551,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793587185,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793592700,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793593404,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793542617,
@@ -13000,24 +13000,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T03:12:02.201Z"
-    },
-    "drift:0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5:82837835894012316129055450599168911054104967271963295075374495171485670654976": {
-      "reason": "drift",
-      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-      "name": "THEHIGHLIFE",
-      "asset": "82837835894012316129055450599168911054104967271963295075374495171485670654976",
-      "conditionId": "0x261491be53c3afad948f36a2ded0f23536f93dc651b28f17c949b89089affeb5",
-      "outcomeIndex": 1,
-      "title": "Counter-Strike: Legacy vs TheMongolz - Map 2 Winner",
-      "outcome": "TheMongolz",
-      "slug": "cs2-lgc-mglz-2026-11-02-game2",
-      "whalePrice": 0.5,
-      "ourPrice": 0.588156716849394,
-      "shares": 170.0227118644068,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-11-02T03:26:57.345Z"
     }
   },
   "shadowClosed": [
@@ -22612,6 +22594,27 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-02T04:18:20.286Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+      "name": "THEHIGHLIFE",
+      "asset": "82837835894012316129055450599168911054104967271963295075374495171485670654976",
+      "conditionId": "0x261491be53c3afad948f36a2ded0f23536f93dc651b28f17c949b89089affeb5",
+      "outcomeIndex": 1,
+      "title": "Counter-Strike: Legacy vs TheMongolz - Map 2 Winner",
+      "outcome": "TheMongolz",
+      "slug": "cs2-lgc-mglz-2026-11-02-game2",
+      "whalePrice": 0.5,
+      "ourPrice": 0.588156716849394,
+      "shares": 170.0227118644068,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-11-02T03:26:57.345Z",
+      "proceeds": 170.0227118644068,
+      "pnl": 70.0227118644068,
+      "closedAt": "2026-11-02T04:29:23.950Z"
     }
   ]
 }
