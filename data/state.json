@@ -1,8 +1,8 @@
 {
   "since": {
-    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793638141,
+    "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c": 1793638831,
     "0xa3a417e434923aeaf97afe9a61b10ff9364e5106": 1793635863,
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793637717,
+    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f": 1793639058,
     "0xd8860bbbdf24d02b74d875b2d987986f62b96f88": 1792181269,
     "0xb6192410f9c651ee55eb0bc98d695d732cc86586": 1793312908,
     "0x55d94368a50750f264cf42096e9034315d9c832c": 1793629005,
@@ -10,7 +10,7 @@
     "0xe949065b6c64308369c26dc590121623a5a4dea6": 1793637717,
     "0xb8d757413fe4d4ec4716390938f12100614f5ac7": 1793219449,
     "0x95c6c9a6727ed203e97230dda61ab19a020e1508": 1793579826,
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793638320,
+    "0xfbedb045813457be883ad83dd1078e88a2a1a665": 1793638609,
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f": 1793631415,
     "0x0d23fc6838433dbff11e4667ef5991e9dd9d2d56": 1792805579,
     "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": 1793582959,
@@ -10653,24 +10653,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T10:00:10.335Z"
-    },
-    "drift:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:67022306552380164902784180071167952556161279126119343265719918594976247130849": {
-      "reason": "drift",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "67022306552380164902784180071167952556161279126119343265719918594976247130849",
-      "conditionId": "0x59cf7c1e790c34991047ab3d7aaf64bfc61315a714412bfd80d9c9ac33c4d616",
-      "outcomeIndex": 0,
-      "title": "Will Joint List win 10-11 seats in the 2026 Knesset elections?",
-      "outcome": "Yes",
-      "slug": "will-joint-list-win-10-11-seats-in-the-2026-knesset-elections",
-      "whalePrice": 0.4451428353,
-      "ourPrice": 0.5033267965378859,
-      "shares": 198.67807692307696,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-28T10:43:11.423Z"
     },
     "drift:0xe949065b6c64308369c26dc590121623a5a4dea6:24959653607113340785506959156117592172741342295444505742946774150269950471104": {
       "reason": "drift",
@@ -23111,6 +23093,27 @@
       "proceeds": 135.67296621999955,
       "pnl": 35.67296621999955,
       "closedAt": "2026-11-02T14:14:50.422Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "67022306552380164902784180071167952556161279126119343265719918594976247130849",
+      "conditionId": "0x59cf7c1e790c34991047ab3d7aaf64bfc61315a714412bfd80d9c9ac33c4d616",
+      "outcomeIndex": 0,
+      "title": "Will Joint List win 10-11 seats in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-joint-list-win-10-11-seats-in-the-2026-knesset-elections",
+      "whalePrice": 0.4451428353,
+      "ourPrice": 0.5033267965378859,
+      "shares": 198.67807692307696,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-28T10:43:11.423Z",
+      "proceeds": 198.67807692307696,
+      "pnl": 98.67807692307696,
+      "closedAt": "2026-11-02T16:59:58.730Z"
     }
   ]
 }
