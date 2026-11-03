@@ -10472,23 +10472,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T04:55:04.220Z"
     },
-    "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:31456625552112484124712152575561207082555496403300264248422454735973869672096": {
-      "reason": "longdated",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "31456625552112484124712152575561207082555496403300264248422454735973869672096",
-      "conditionId": "0xdbc8bb83821f4225252c34822baf5f216e13480d59f911edacf6424bb1f65887",
-      "outcomeIndex": 0,
-      "title": "Will The Joint List win 7.5% or more of the vote in the 2026 Knesset elections?",
-      "outcome": "Yes",
-      "slug": "will-the-joint-list-win-7pt5-percent-or-more-of-the-vote-in-the-2026-knesset-elections",
-      "whalePrice": 0.8979535951,
-      "ourPrice": 0.8979535951,
-      "shares": 111.36432945497988,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T06:05:06.807Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:44228841638106976312311756070964931486206207912533799720886034328840862003816": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -23397,6 +23380,26 @@
       "proceeds": 105.26315789473685,
       "pnl": 5.26315789473685,
       "closedAt": "2026-11-03T08:30:44.226Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "31456625552112484124712152575561207082555496403300264248422454735973869672096",
+      "conditionId": "0xdbc8bb83821f4225252c34822baf5f216e13480d59f911edacf6424bb1f65887",
+      "outcomeIndex": 0,
+      "title": "Will The Joint List win 7.5% or more of the vote in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-the-joint-list-win-7pt5-percent-or-more-of-the-vote-in-the-2026-knesset-elections",
+      "whalePrice": 0.8979535951,
+      "ourPrice": 0.8979535951,
+      "shares": 111.36432945497988,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T06:05:06.807Z",
+      "proceeds": 111.36432945497988,
+      "pnl": 11.364329454979881,
+      "closedAt": "2026-11-03T09:28:18.019Z"
     }
   ]
 }
