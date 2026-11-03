@@ -11102,23 +11102,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T09:41:13.215Z"
     },
-    "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:3744195159354026658240894722825572606729800574799066853162466280387526160790": {
-      "reason": "longdated",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "3744195159354026658240894722825572606729800574799066853162466280387526160790",
-      "conditionId": "0xd7788f99870e1139c4afdb8c761259adb7c7790f1ce620089f7ac68b86e2f09b",
-      "outcomeIndex": 0,
-      "title": "Will Ra'am win 8 or more seats in the 2026 Knesset elections?",
-      "outcome": "Yes",
-      "slug": "will-raam-win-8-or-more-seats-in-the-2026-knesset-elections",
-      "whalePrice": 0.2466692543,
-      "ourPrice": 0.2466692543,
-      "shares": 405.401152582963,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T10:48:09.341Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:100965401820238560292011503543834205298588334859536142057486338070550323881409": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -23418,6 +23401,26 @@
       "proceeds": 113.63636363636365,
       "pnl": 13.636363636363654,
       "closedAt": "2026-11-03T19:07:59.751Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "3744195159354026658240894722825572606729800574799066853162466280387526160790",
+      "conditionId": "0xd7788f99870e1139c4afdb8c761259adb7c7790f1ce620089f7ac68b86e2f09b",
+      "outcomeIndex": 0,
+      "title": "Will Ra'am win 8 or more seats in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-raam-win-8-or-more-seats-in-the-2026-knesset-elections",
+      "whalePrice": 0.2466692543,
+      "ourPrice": 0.2466692543,
+      "shares": 405.401152582963,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T10:48:09.341Z",
+      "proceeds": 405.401152582963,
+      "pnl": 305.401152582963,
+      "closedAt": "2026-11-03T23:11:44.962Z"
     }
   ]
 }
