@@ -11800,23 +11800,6 @@
       "rules": 2,
       "openedAt": "2026-10-30T16:27:01.956Z"
     },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:25167168609964044975289453822361667881912927681417244412113387265979797006906": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "25167168609964044975289453822361667881912927681417244412113387265979797006906",
-      "conditionId": "0x049def5f757b754163f937ad3adcd5e5bb4a32aa67bd7bf7f94984e80fd5ddb1",
-      "outcomeIndex": 1,
-      "title": "Will Elon Musk post 360-379 tweets from October 27 to November 3, 2026?",
-      "outcome": "No",
-      "slug": "elon-musk-of-tweets-october-27-november-3-2026-360-379",
-      "whalePrice": 0.8329769431,
-      "ourPrice": 0.8329769431,
-      "shares": 120.05134215100941,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T16:27:01.956Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:7460135427449732904576356760230900129867174153902425498858162192072114116274": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23403,6 +23386,26 @@
       "proceeds": 160.77170418006432,
       "pnl": 60.77170418006432,
       "closedAt": "2026-11-03T14:58:27.030Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "25167168609964044975289453822361667881912927681417244412113387265979797006906",
+      "conditionId": "0x049def5f757b754163f937ad3adcd5e5bb4a32aa67bd7bf7f94984e80fd5ddb1",
+      "outcomeIndex": 1,
+      "title": "Will Elon Musk post 360-379 tweets from October 27 to November 3, 2026?",
+      "outcome": "No",
+      "slug": "elon-musk-of-tweets-october-27-november-3-2026-360-379",
+      "whalePrice": 0.8329769431,
+      "ourPrice": 0.8329769431,
+      "shares": 120.05134215100941,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T16:27:01.956Z",
+      "proceeds": 120.05134215100941,
+      "pnl": 20.051342151009408,
+      "closedAt": "2026-11-03T15:10:02.135Z"
     }
   ]
 }
