@@ -13005,23 +13005,6 @@
       "rules": 2,
       "openedAt": "2026-11-02T12:48:22.254Z"
     },
-    "benched:0x924379a79c64b77ad5816ad362122a5f6228658e:4368267925960636565297259469193885304887204800688729118086279204216913563518": {
-      "reason": "benched",
-      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
-      "name": "Kch-Temp",
-      "asset": "4368267925960636565297259469193885304887204800688729118086279204216913563518",
-      "conditionId": "0x395223faa4bd0468a2c44fe8ba6ff0ef0ea5a98f2dc09cb68dd4d0a1a1c5bccc",
-      "outcomeIndex": 0,
-      "title": "Rolex Paris Masters: Ugo Humbert vs Botic van de Zandschulp",
-      "outcome": "Ugo Humbert",
-      "slug": "atp-humbert-zandsch-2026-11-02",
-      "whalePrice": 0.6,
-      "ourPrice": 0.6,
-      "shares": 166.66666666666669,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T13:33:24.836Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:108587038225191871355030577171066853142535232042155117887981453750193713427381": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -23372,6 +23355,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-02T23:28:33.693Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+      "name": "Kch-Temp",
+      "asset": "4368267925960636565297259469193885304887204800688729118086279204216913563518",
+      "conditionId": "0x395223faa4bd0468a2c44fe8ba6ff0ef0ea5a98f2dc09cb68dd4d0a1a1c5bccc",
+      "outcomeIndex": 0,
+      "title": "Rolex Paris Masters: Ugo Humbert vs Botic van de Zandschulp",
+      "outcome": "Ugo Humbert",
+      "slug": "atp-humbert-zandsch-2026-11-02",
+      "whalePrice": 0.6,
+      "ourPrice": 0.6,
+      "shares": 166.66666666666669,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T13:33:24.836Z",
+      "proceeds": 166.66666666666669,
+      "pnl": 66.66666666666669,
+      "closedAt": "2026-11-03T00:14:45.871Z"
     }
   ]
 }
