@@ -12941,23 +12941,6 @@
       "rules": 2,
       "openedAt": "2026-11-02T15:25:38.974Z"
     },
-    "benched:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:12990648116253556011930669485500187798536699124996794561457361007002805808004": {
-      "reason": "benched",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "12990648116253556011930669485500187798536699124996794561457361007002805808004",
-      "conditionId": "0x01075d7f61ebea7a2f743ab51487ea4d1099eef3a8dfad2d74cf1cd2c6fc94a4",
-      "outcomeIndex": 0,
-      "title": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $174 Week of November 2 2026?",
-      "outcome": "Yes",
-      "slug": "will-pltr-dip-to-174-by-november-2-2026",
-      "whalePrice": 0.622,
-      "ourPrice": 0.622,
-      "shares": 160.77170418006432,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T16:34:41.185Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:8077351031134730167836761678618167504307708651130165095377248922919635337796": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23400,6 +23383,26 @@
       "proceeds": 111.36432945497988,
       "pnl": 11.364329454979881,
       "closedAt": "2026-11-03T09:28:18.019Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "12990648116253556011930669485500187798536699124996794561457361007002805808004",
+      "conditionId": "0x01075d7f61ebea7a2f743ab51487ea4d1099eef3a8dfad2d74cf1cd2c6fc94a4",
+      "outcomeIndex": 0,
+      "title": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $174 Week of November 2 2026?",
+      "outcome": "Yes",
+      "slug": "will-pltr-dip-to-174-by-november-2-2026",
+      "whalePrice": 0.622,
+      "ourPrice": 0.622,
+      "shares": 160.77170418006432,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T16:34:41.185Z",
+      "proceeds": 160.77170418006432,
+      "pnl": 60.77170418006432,
+      "closedAt": "2026-11-03T14:58:27.030Z"
     }
   ]
 }
