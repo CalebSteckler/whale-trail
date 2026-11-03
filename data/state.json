@@ -12648,23 +12648,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T01:57:28.162Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:73630441207450952671311709496968047822430081439027440055068987506866337364140": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "73630441207450952671311709496968047822430081439027440055068987506866337364140",
-      "conditionId": "0x413a8e74f4bd531f6cf0835789ce37d53c3370d6b10e7f8d0e21cbdfd0de010f",
-      "outcomeIndex": 1,
-      "title": "Will \"Clayface\" 2nd Weekend Box Office be between 8m and 10m?",
-      "outcome": "No",
-      "slug": "will-clayface-2nd-weekend-box-office-be-between-8m-and-10m",
-      "whalePrice": 0.9254399999966667,
-      "ourPrice": 0.9254399999966667,
-      "shares": 108.0567081608318,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T12:37:29.944Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:64025664961497419708095468282573682984741903075312816516046832361290996190088": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -23375,6 +23358,26 @@
       "proceeds": 166.66666666666669,
       "pnl": 66.66666666666669,
       "closedAt": "2026-11-03T00:14:45.871Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "73630441207450952671311709496968047822430081439027440055068987506866337364140",
+      "conditionId": "0x413a8e74f4bd531f6cf0835789ce37d53c3370d6b10e7f8d0e21cbdfd0de010f",
+      "outcomeIndex": 1,
+      "title": "Will \"Clayface\" 2nd Weekend Box Office be between 8m and 10m?",
+      "outcome": "No",
+      "slug": "will-clayface-2nd-weekend-box-office-be-between-8m-and-10m",
+      "whalePrice": 0.9254399999966667,
+      "ourPrice": 0.9254399999966667,
+      "shares": 108.0567081608318,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T12:37:29.944Z",
+      "proceeds": 108.0567081608318,
+      "pnl": 8.056708160831803,
+      "closedAt": "2026-11-03T00:49:24.299Z"
     }
   ]
 }
