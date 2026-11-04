@@ -11007,23 +11007,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T05:07:10.216Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:82608334051864142932873144348121852324089451792525985503537377336006986101897": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "82608334051864142932873144348121852324089451792525985503537377336006986101897",
-      "conditionId": "0xccd6eb4ec0c8ac284e280ab6ceedcdd1a1813d1e130892ed1b6e98189077013e",
-      "outcomeIndex": 1,
-      "title": "Will the Democrats win the Oklahoma governor race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-democrats-win-the-oklahoma-governor-race-in-2026",
-      "whalePrice": 0.91,
-      "ourPrice": 0.91,
-      "shares": 109.89010989010988,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T06:49:06.160Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:72519790371061340119765172065780798251360397199188255055934152186624799324027": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -23591,6 +23574,26 @@
       "proceeds": 136.986301369863,
       "pnl": 36.986301369863014,
       "closedAt": "2026-11-04T07:50:24.146Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "82608334051864142932873144348121852324089451792525985503537377336006986101897",
+      "conditionId": "0xccd6eb4ec0c8ac284e280ab6ceedcdd1a1813d1e130892ed1b6e98189077013e",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the Oklahoma governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-oklahoma-governor-race-in-2026",
+      "whalePrice": 0.91,
+      "ourPrice": 0.91,
+      "shares": 109.89010989010988,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T06:49:06.160Z",
+      "proceeds": 109.89010989010988,
+      "pnl": 9.890109890109883,
+      "closedAt": "2026-11-04T08:02:08.323Z"
     }
   ]
 }
