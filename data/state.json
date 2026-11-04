@@ -706,24 +706,6 @@
       "lagS": 52,
       "openedAt": "2026-10-22T16:00:45.905Z"
     },
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e:50723444598226195342754184700957904925325694503103795593830038565334198169540": {
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "50723444598226195342754184700957904925325694503103795593830038565334198169540",
-      "conditionId": "0xbc6530ac376b0e2f5bc07bc1c34884295d378fd694383a36714b85350520ab12",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party win the IA-02 House seat?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-win-the-ia-02-house-seat",
-      "eventSlug": "ia-02-house-election-winner",
-      "whalePrice": 0.6191638796,
-      "whaleUsd": 2221.5600000048,
-      "ourPrice": 0.6540481617282727,
-      "shares": 152.89393939393938,
-      "stake": 100,
-      "lagS": 299,
-      "openedAt": "2026-10-22T16:25:47.459Z"
-    },
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e:48595994389294380413605252588038399089739882614541392889205137632817333951567": {
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
       "name": "The Spirit of Ukraine>UMA",
@@ -9208,6 +9190,28 @@
       "proceeds": 106.38297872340426,
       "pnl": 6.382978723404264,
       "closedAt": "2026-11-04T08:24:56.658Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "50723444598226195342754184700957904925325694503103795593830038565334198169540",
+      "conditionId": "0xbc6530ac376b0e2f5bc07bc1c34884295d378fd694383a36714b85350520ab12",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the IA-02 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-ia-02-house-seat",
+      "eventSlug": "ia-02-house-election-winner",
+      "whalePrice": 0.6191638796,
+      "whaleUsd": 2221.5600000048,
+      "ourPrice": 0.6540481617282727,
+      "shares": 152.89393939393938,
+      "stake": 100,
+      "lagS": 299,
+      "openedAt": "2026-10-22T16:25:47.459Z",
+      "proceeds": 152.89393939393938,
+      "pnl": 52.89393939393938,
+      "closedAt": "2026-11-04T08:36:25.914Z",
       "note": "resolved WIN"
     }
   ],
