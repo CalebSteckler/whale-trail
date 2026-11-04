@@ -10017,23 +10017,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T13:14:57.038Z"
     },
-    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:21751592182844506854888300983366969454047459626660080578603559577479850847803": {
-      "reason": "topic",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "21751592182844506854888300983366969454047459626660080578603559577479850847803",
-      "conditionId": "0xce825ce82163ced995908127e4d3d6d1c557169ed3776d04ac14b78e43711661",
-      "outcomeIndex": 1,
-      "title": "Will oil be below $85 on November 2 and the Democrats win the Senate?",
-      "outcome": "No",
-      "slug": "oil-below-85-on-november-2-and-the-democrats-win-the-senate",
-      "whalePrice": 0.9679999999999999,
-      "ourPrice": 0.9679999999999999,
-      "shares": 103.30578512396696,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T13:50:58.226Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:95330850088652964045342754396500611430491328230261187321150789382210939939481": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23824,6 +23807,26 @@
       "proceeds": 135.13513513513513,
       "pnl": 35.13513513513513,
       "closedAt": "2026-11-04T17:56:50.085Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "21751592182844506854888300983366969454047459626660080578603559577479850847803",
+      "conditionId": "0xce825ce82163ced995908127e4d3d6d1c557169ed3776d04ac14b78e43711661",
+      "outcomeIndex": 1,
+      "title": "Will oil be below $85 on November 2 and the Democrats win the Senate?",
+      "outcome": "No",
+      "slug": "oil-below-85-on-november-2-and-the-democrats-win-the-senate",
+      "whalePrice": 0.9679999999999999,
+      "ourPrice": 0.9679999999999999,
+      "shares": 103.30578512396696,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T13:50:58.226Z",
+      "proceeds": 103.30578512396696,
+      "pnl": 3.305785123966956,
+      "closedAt": "2026-11-04T22:17:09.348Z"
     }
   ]
 }
