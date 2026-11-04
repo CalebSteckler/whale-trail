@@ -1289,25 +1289,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T06:00:23.291Z"
     },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:110210117869221972962310848272994384668558691417609052791067099235013051529979": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "110210117869221972962310848272994384668558691417609052791067099235013051529979",
-      "conditionId": "0xa9cd0c9ef05fd4d9654ee8d960a84c4d6b68761137484289c89400742b1c98d5",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party win the TX-23 House seat?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-win-the-tx-23-house-seat",
-      "eventSlug": "tx-23-house-election-winner",
-      "whalePrice": 0.4600000000000001,
-      "whaleUsd": 414.713,
-      "ourPrice": 0.48,
-      "shares": 208.33333333333334,
-      "stake": 100,
-      "lagS": 96,
-      "rules": 2,
-      "openedAt": "2026-11-01T08:10:27.853Z"
-    },
     "0x511f9c771449162349795d17becf8b37031acbe1:41840882112142297606602696932537647023114811864602072712743312635792002847544": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
       "name": "Bigggggggg",
@@ -9217,6 +9198,29 @@
       "pnl": -100,
       "closedAt": "2026-11-04T09:10:56.886Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "110210117869221972962310848272994384668558691417609052791067099235013051529979",
+      "conditionId": "0xa9cd0c9ef05fd4d9654ee8d960a84c4d6b68761137484289c89400742b1c98d5",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the TX-23 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-tx-23-house-seat",
+      "eventSlug": "tx-23-house-election-winner",
+      "whalePrice": 0.4600000000000001,
+      "whaleUsd": 414.713,
+      "ourPrice": 0.48,
+      "shares": 208.33333333333334,
+      "stake": 100,
+      "lagS": 96,
+      "rules": 2,
+      "openedAt": "2026-11-01T08:10:27.853Z",
+      "proceeds": 208.33333333333334,
+      "pnl": 108.33333333333334,
+      "closedAt": "2026-11-04T09:22:28.034Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
