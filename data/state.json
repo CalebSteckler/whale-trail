@@ -12630,23 +12630,6 @@
       "rules": 2,
       "openedAt": "2026-11-02T03:11:56.424Z"
     },
-    "topic:0x0c0e270cf879583d6a0142fc817e05b768d0434e:82410058691149830741200014405570918770267839390767234397030380747995715352939": {
-      "reason": "topic",
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "82410058691149830741200014405570918770267839390767234397030380747995715352939",
-      "conditionId": "0xfc5c740e4617eb9908ceada7c91bfbe1cd41f172d703ef811d544e60a7a70bb5",
-      "outcomeIndex": 0,
-      "title": "Will the Democrats win the New Hampshire Senate race in 2026?",
-      "outcome": "Yes",
-      "slug": "will-the-democrats-win-the-new-hampshire-senate-race-in-2026",
-      "whalePrice": 0.94,
-      "ourPrice": 0.94,
-      "shares": 106.38297872340426,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T03:11:56.609Z"
-    },
     "topic:0x0c0e270cf879583d6a0142fc817e05b768d0434e:48368039124533504674394545622809320495392482760644292167644042386014017726777": {
       "reason": "topic",
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
@@ -23439,6 +23422,26 @@
       "proceeds": 107.52688172043008,
       "pnl": 7.526881720430083,
       "closedAt": "2026-11-04T04:27:40.358Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "82410058691149830741200014405570918770267839390767234397030380747995715352939",
+      "conditionId": "0xfc5c740e4617eb9908ceada7c91bfbe1cd41f172d703ef811d544e60a7a70bb5",
+      "outcomeIndex": 0,
+      "title": "Will the Democrats win the New Hampshire Senate race in 2026?",
+      "outcome": "Yes",
+      "slug": "will-the-democrats-win-the-new-hampshire-senate-race-in-2026",
+      "whalePrice": 0.94,
+      "ourPrice": 0.94,
+      "shares": 106.38297872340426,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T03:11:56.609Z",
+      "proceeds": 106.38297872340426,
+      "pnl": 6.382978723404264,
+      "closedAt": "2026-11-04T04:39:23.796Z"
     }
   ]
 }
