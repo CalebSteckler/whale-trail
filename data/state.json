@@ -40,24 +40,6 @@
       "lagS": 174,
       "openedAt": "2026-10-17T06:37:48.401Z"
     },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:76313209944639250426806286965492886883353059598478633315707597639545615999446": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "76313209944639250426806286965492886883353059598478633315707597639545615999446",
-      "conditionId": "0xb63fbd776203cada01a13bb21b3c52c500bcf904bdfc71627022db1f891f95c5",
-      "outcomeIndex": 1,
-      "title": "Will the Republicans win the Nevada governor race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-republicans-win-the-nevada-governor-race-in-2026",
-      "eventSlug": "nevada-governor-winner-2026",
-      "whalePrice": 0.53,
-      "whaleUsd": 541.8985,
-      "ourPrice": 0.55,
-      "shares": 181.8181818181818,
-      "stake": 100,
-      "lagS": 37,
-      "openedAt": "2026-10-17T09:15:54.053Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:63644763464034691367428527733393916036342796100129702980469514153898496549749": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -345,24 +327,6 @@
       "stake": 100,
       "lagS": 82,
       "openedAt": "2026-10-21T12:21:55.308Z"
-    },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:76313209944639250426806286965492886883353059598478633315707597639545615999446": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "76313209944639250426806286965492886883353059598478633315707597639545615999446",
-      "conditionId": "0xb63fbd776203cada01a13bb21b3c52c500bcf904bdfc71627022db1f891f95c5",
-      "outcomeIndex": 1,
-      "title": "Will the Republicans win the Nevada governor race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-republicans-win-the-nevada-governor-race-in-2026",
-      "eventSlug": "nevada-governor-winner-2026",
-      "whalePrice": 0.6359332668648392,
-      "whaleUsd": 656.77280002,
-      "ourPrice": 0.64,
-      "shares": 156.25,
-      "stake": 100,
-      "lagS": 197,
-      "openedAt": "2026-10-21T14:27:49.686Z"
     },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:96946924849083334305927282157964366883943166557749464331842222956652388915265": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -9297,6 +9261,50 @@
       "pnl": 3.938733125649023,
       "closedAt": "2026-11-04T12:35:39.106Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "76313209944639250426806286965492886883353059598478633315707597639545615999446",
+      "conditionId": "0xb63fbd776203cada01a13bb21b3c52c500bcf904bdfc71627022db1f891f95c5",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the Nevada governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republicans-win-the-nevada-governor-race-in-2026",
+      "eventSlug": "nevada-governor-winner-2026",
+      "whalePrice": 0.53,
+      "whaleUsd": 541.8985,
+      "ourPrice": 0.55,
+      "shares": 181.8181818181818,
+      "stake": 100,
+      "lagS": 37,
+      "openedAt": "2026-10-17T09:15:54.053Z",
+      "proceeds": 181.8181818181818,
+      "pnl": 81.81818181818181,
+      "closedAt": "2026-11-04T13:44:35.682Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "76313209944639250426806286965492886883353059598478633315707597639545615999446",
+      "conditionId": "0xb63fbd776203cada01a13bb21b3c52c500bcf904bdfc71627022db1f891f95c5",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the Nevada governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republicans-win-the-nevada-governor-race-in-2026",
+      "eventSlug": "nevada-governor-winner-2026",
+      "whalePrice": 0.6359332668648392,
+      "whaleUsd": 656.77280002,
+      "ourPrice": 0.64,
+      "shares": 156.25,
+      "stake": 100,
+      "lagS": 197,
+      "openedAt": "2026-10-21T14:27:49.686Z",
+      "proceeds": 156.25,
+      "pnl": 56.25,
+      "closedAt": "2026-11-04T13:44:35.682Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -9996,23 +10004,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T13:14:57.038Z"
-    },
-    "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:52976406602865599963758944789606566237954478886452471541786742167523846203839": {
-      "reason": "topic",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "52976406602865599963758944789606566237954478886452471541786742167523846203839",
-      "conditionId": "0xef0933538fa1bbb54b5f81a833178e125bb4289fc3905fe565cf90ada59c0521",
-      "outcomeIndex": 1,
-      "title": "Will oil be below $85 on November 2 and the Republicans win the Senate?",
-      "outcome": "No",
-      "slug": "oil-below-85-on-november-2-and-the-republicans-win-the-senate",
-      "whalePrice": 0.964,
-      "ourPrice": 0.964,
-      "shares": 103.7344398340249,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T13:50:58.225Z"
     },
     "topic:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:21751592182844506854888300983366969454047459626660080578603559577479850847803": {
       "reason": "topic",
@@ -23789,6 +23780,26 @@
       "proceeds": 103.84215991692628,
       "pnl": 3.8421599169262777,
       "closedAt": "2026-11-04T12:35:39.106Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "52976406602865599963758944789606566237954478886452471541786742167523846203839",
+      "conditionId": "0xef0933538fa1bbb54b5f81a833178e125bb4289fc3905fe565cf90ada59c0521",
+      "outcomeIndex": 1,
+      "title": "Will oil be below $85 on November 2 and the Republicans win the Senate?",
+      "outcome": "No",
+      "slug": "oil-below-85-on-november-2-and-the-republicans-win-the-senate",
+      "whalePrice": 0.964,
+      "ourPrice": 0.964,
+      "shares": 103.7344398340249,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T13:50:58.225Z",
+      "proceeds": 103.7344398340249,
+      "pnl": 3.734439834024897,
+      "closedAt": "2026-11-04T13:44:45.079Z"
     }
   ]
 }
