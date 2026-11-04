@@ -11875,23 +11875,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T07:54:40.510Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:69975697607439985475728016095706749612060905267125933380755060370332287585393": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "69975697607439985475728016095706749612060905267125933380755060370332287585393",
-      "conditionId": "0x68acb5646c4c275a600092285dbca2177903f9f74440744ae9c05771fb7accc5",
-      "outcomeIndex": 1,
-      "title": "Will Brian Bengs win the South Dakota Senate race in 2026?",
-      "outcome": "No",
-      "slug": "will-person-a-win-the-south-dakota-senate-race-in-2026",
-      "whalePrice": 0.9386943535933828,
-      "ourPrice": 0.9386943535933828,
-      "shares": 106.53094867055876,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T10:09:45.472Z"
-    },
     "drift:0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1:102091531681045158740664600873689799645669591714793341309006782106160471139029": {
       "reason": "drift",
       "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
@@ -23594,6 +23577,26 @@
       "proceeds": 109.89010989010988,
       "pnl": 9.890109890109883,
       "closedAt": "2026-11-04T08:02:08.323Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "69975697607439985475728016095706749612060905267125933380755060370332287585393",
+      "conditionId": "0x68acb5646c4c275a600092285dbca2177903f9f74440744ae9c05771fb7accc5",
+      "outcomeIndex": 1,
+      "title": "Will Brian Bengs win the South Dakota Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-person-a-win-the-south-dakota-senate-race-in-2026",
+      "whalePrice": 0.9386943535933828,
+      "ourPrice": 0.9386943535933828,
+      "shares": 106.53094867055876,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T10:09:45.472Z",
+      "proceeds": 106.53094867055876,
+      "pnl": 6.530948670558757,
+      "closedAt": "2026-11-04T08:13:38.141Z"
     }
   ]
 }
