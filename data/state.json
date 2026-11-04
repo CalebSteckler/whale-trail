@@ -400,24 +400,6 @@
       "lagS": 90,
       "openedAt": "2026-10-22T05:21:18.618Z"
     },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:25869296386911654049715489068824757745174681288397238521780118949553760488529": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
-      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
-      "outcomeIndex": 1,
-      "title": "2026 Balance of Power: R Senate, R House",
-      "outcome": "No",
-      "slug": "2026-balance-of-power-r-senate-r-house-537",
-      "eventSlug": "balance-of-power-2026-midterms",
-      "whalePrice": 0.92,
-      "whaleUsd": 1931.6136,
-      "ourPrice": 0.92,
-      "shares": 108.69565217391303,
-      "stake": 100,
-      "lagS": 90,
-      "openedAt": "2026-10-22T05:21:18.719Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:28628507049809987278691795493655231122318393131634058160244684296796434947288": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9305,6 +9287,28 @@
       "pnl": 56.25,
       "closedAt": "2026-11-04T13:44:35.682Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
+      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+      "outcomeIndex": 1,
+      "title": "2026 Balance of Power: R Senate, R House",
+      "outcome": "No",
+      "slug": "2026-balance-of-power-r-senate-r-house-537",
+      "eventSlug": "balance-of-power-2026-midterms",
+      "whalePrice": 0.92,
+      "whaleUsd": 1931.6136,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "lagS": 90,
+      "openedAt": "2026-10-22T05:21:18.719Z",
+      "proceeds": 108.69565217391303,
+      "pnl": 8.695652173913032,
+      "closedAt": "2026-11-04T17:21:51.539Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -10515,23 +10519,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T12:27:18.381Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:25869296386911654049715489068824757745174681288397238521780118949553760488529": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
-      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
-      "outcomeIndex": 1,
-      "title": "2026 Balance of Power: R Senate, R House",
-      "outcome": "No",
-      "slug": "2026-balance-of-power-r-senate-r-house-537",
-      "whalePrice": 0.93,
-      "ourPrice": 0.93,
-      "shares": 107.5268817204301,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T15:49:31.489Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:8077351031134730167836761678618167504307708651130165095377248922919635337796": {
       "reason": "benched",
@@ -12048,23 +12035,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T18:02:44.752Z"
-    },
-    "topic:0x0c0e270cf879583d6a0142fc817e05b768d0434e:25869296386911654049715489068824757745174681288397238521780118949553760488529": {
-      "reason": "topic",
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
-      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
-      "outcomeIndex": 1,
-      "title": "2026 Balance of Power: R Senate, R House",
-      "outcome": "No",
-      "slug": "2026-balance-of-power-r-senate-r-house-537",
-      "whalePrice": 0.95,
-      "ourPrice": 0.95,
-      "shares": 105.26315789473685,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T19:22:47.702Z"
     }
   },
   "shadowClosed": [
@@ -23803,6 +23773,46 @@
       "proceeds": 132.62773765913752,
       "pnl": 32.62773765913752,
       "closedAt": "2026-11-04T16:35:00.114Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
+      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+      "outcomeIndex": 1,
+      "title": "2026 Balance of Power: R Senate, R House",
+      "outcome": "No",
+      "slug": "2026-balance-of-power-r-senate-r-house-537",
+      "whalePrice": 0.93,
+      "ourPrice": 0.93,
+      "shares": 107.5268817204301,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T15:49:31.489Z",
+      "proceeds": 107.5268817204301,
+      "pnl": 7.526881720430097,
+      "closedAt": "2026-11-04T17:21:51.540Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "25869296386911654049715489068824757745174681288397238521780118949553760488529",
+      "conditionId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+      "outcomeIndex": 1,
+      "title": "2026 Balance of Power: R Senate, R House",
+      "outcome": "No",
+      "slug": "2026-balance-of-power-r-senate-r-house-537",
+      "whalePrice": 0.95,
+      "ourPrice": 0.95,
+      "shares": 105.26315789473685,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T19:22:47.702Z",
+      "proceeds": 105.26315789473685,
+      "pnl": 5.26315789473685,
+      "closedAt": "2026-11-04T17:21:51.540Z"
     }
   ]
 }
