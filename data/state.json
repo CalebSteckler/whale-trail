@@ -909,25 +909,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T20:53:16.144Z"
     },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:6136336712352911156426560180855478229745540927722899997193789497766196705020": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "6136336712352911156426560180855478229745540927722899997193789497766196705020",
-      "conditionId": "0x66bbf6d55e0296278858b3147689f3df9259374f158f9f028b608baa322a639c",
-      "outcomeIndex": 1,
-      "title": "Will the Democrats win the Maine Senate race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-democrats-win-the-maine-senate-race-in-2026",
-      "eventSlug": "maine-senate-election-winner",
-      "whalePrice": 0.44,
-      "whaleUsd": 251.27080000000004,
-      "ourPrice": 0.46539261313001284,
-      "shares": 214.87234042553192,
-      "stake": 100,
-      "lagS": 277,
-      "rules": 2,
-      "openedAt": "2026-10-26T20:58:16.752Z"
-    },
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e:67102598924726349989742049657609063097299442010642912942032681022413402597017": {
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
       "name": "The Spirit of Ukraine>UMA",
@@ -9213,6 +9194,29 @@
       "pnl": 52.89393939393938,
       "closedAt": "2026-11-04T08:36:25.914Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "6136336712352911156426560180855478229745540927722899997193789497766196705020",
+      "conditionId": "0x66bbf6d55e0296278858b3147689f3df9259374f158f9f028b608baa322a639c",
+      "outcomeIndex": 1,
+      "title": "Will the Democrats win the Maine Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-democrats-win-the-maine-senate-race-in-2026",
+      "eventSlug": "maine-senate-election-winner",
+      "whalePrice": 0.44,
+      "whaleUsd": 251.27080000000004,
+      "ourPrice": 0.46539261313001284,
+      "shares": 214.87234042553192,
+      "stake": 100,
+      "lagS": 277,
+      "rules": 2,
+      "openedAt": "2026-10-26T20:58:16.752Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-04T09:10:56.886Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -9453,23 +9457,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-23T20:45:21.986Z"
-    },
-    "longdated:0x0c0e270cf879583d6a0142fc817e05b768d0434e:39304778737903437923367588791275882452466557469208611430474206291179458010087": {
-      "reason": "longdated",
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "39304778737903437923367588791275882452466557469208611430474206291179458010087",
-      "conditionId": "0xed4fd09a24f20a3afc1d722ace811fffff3cffd9a56a3fbffc47f4d3d47a88ed",
-      "outcomeIndex": 0,
-      "title": "Blue wave in 2026?",
-      "outcome": "Yes",
-      "slug": "blue-wave-in-2026",
-      "whalePrice": 0.85,
-      "ourPrice": 0.85,
-      "shares": 117.64705882352942,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T21:03:23.644Z"
     },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:97835730826504088023775585649282026423448935249156759049180415585128284134832": {
       "reason": "longdated",
@@ -11460,23 +11447,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T20:33:37.374Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:43295283577056639281694071578249936735369407445693289764095672178175084599787": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "43295283577056639281694071578249936735369407445693289764095672178175084599787",
-      "conditionId": "0x2c00cb09722a0f0501c5e49131b898ed57bb5c075db4dc2bcbc14908f45b8c48",
-      "outcomeIndex": 1,
-      "title": "Will the Republicans win the Maine Senate race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
-      "whalePrice": 0.65,
-      "ourPrice": 0.65,
-      "shares": 153.84615384615384,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T20:43:37.397Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:558600218792430158020964384658762756367786275998757133304987611939841005404": {
       "reason": "benched",
@@ -23609,6 +23579,46 @@
       "proceeds": 106.53094867055876,
       "pnl": 6.530948670558757,
       "closedAt": "2026-11-04T08:13:38.141Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "39304778737903437923367588791275882452466557469208611430474206291179458010087",
+      "conditionId": "0xed4fd09a24f20a3afc1d722ace811fffff3cffd9a56a3fbffc47f4d3d47a88ed",
+      "outcomeIndex": 0,
+      "title": "Blue wave in 2026?",
+      "outcome": "Yes",
+      "slug": "blue-wave-in-2026",
+      "whalePrice": 0.85,
+      "ourPrice": 0.85,
+      "shares": 117.64705882352942,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T21:03:23.644Z",
+      "proceeds": 117.64705882352942,
+      "pnl": 17.64705882352942,
+      "closedAt": "2026-11-04T09:11:00.472Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "43295283577056639281694071578249936735369407445693289764095672178175084599787",
+      "conditionId": "0x2c00cb09722a0f0501c5e49131b898ed57bb5c075db4dc2bcbc14908f45b8c48",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the Maine Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republicans-win-the-maine-senate-race-in-2026",
+      "whalePrice": 0.65,
+      "ourPrice": 0.65,
+      "shares": 153.84615384615384,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T20:43:37.397Z",
+      "proceeds": 153.84615384615384,
+      "pnl": 53.84615384615384,
+      "closedAt": "2026-11-04T09:11:07.228Z"
     }
   ]
 }
