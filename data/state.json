@@ -10660,23 +10660,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T11:01:28.084Z"
     },
-    "longdated:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:85185991195642705768270347924786090300929356459076559678213645826163610056188": {
-      "reason": "longdated",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "85185991195642705768270347924786090300929356459076559678213645826163610056188",
-      "conditionId": "0x897da588e08a508aa20f38df67e6e05cbd1a1c496bb417f7f4c1c65924180e05",
-      "outcomeIndex": 0,
-      "title": "Will Ra'am win exactly 7 seats in the 2026 Knesset elections?",
-      "outcome": "Yes",
-      "slug": "will-raam-win-exactly-7-seats-in-the-2026-knesset-elections",
-      "whalePrice": 0.6414685254,
-      "ourPrice": 0.6414685254,
-      "shares": 155.8922940726407,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T12:27:14.974Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:80102020816948874990281244763622796626307511191913956449145713999698405713815": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23421,6 +23404,26 @@
       "proceeds": 405.401152582963,
       "pnl": 305.401152582963,
       "closedAt": "2026-11-03T23:11:44.962Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "85185991195642705768270347924786090300929356459076559678213645826163610056188",
+      "conditionId": "0x897da588e08a508aa20f38df67e6e05cbd1a1c496bb417f7f4c1c65924180e05",
+      "outcomeIndex": 0,
+      "title": "Will Ra'am win exactly 7 seats in the 2026 Knesset elections?",
+      "outcome": "Yes",
+      "slug": "will-raam-win-exactly-7-seats-in-the-2026-knesset-elections",
+      "whalePrice": 0.6414685254,
+      "ourPrice": 0.6414685254,
+      "shares": 155.8922940726407,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T12:27:14.974Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-04T01:12:24.500Z"
     }
   ]
 }
