@@ -382,24 +382,6 @@
       "lagS": 210,
       "openedAt": "2026-10-22T03:20:14.003Z"
     },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:558600218792430158020964384658762756367786275998757133304987611939841005404": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "558600218792430158020964384658762756367786275998757133304987611939841005404",
-      "conditionId": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
-      "outcomeIndex": 1,
-      "title": "2026 Balance of Power: R Senate, D House",
-      "outcome": "No",
-      "slug": "2026-balance-of-power-r-senate-d-house-444",
-      "eventSlug": "balance-of-power-2026-midterms",
-      "whalePrice": 0.75,
-      "whaleUsd": 1574.685,
-      "ourPrice": 0.75,
-      "shares": 133.33333333333334,
-      "stake": 100,
-      "lagS": 90,
-      "openedAt": "2026-10-22T05:21:18.618Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:28628507049809987278691795493655231122318393131634058160244684296796434947288": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9309,6 +9291,28 @@
       "pnl": 8.695652173913032,
       "closedAt": "2026-11-04T17:21:51.539Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "558600218792430158020964384658762756367786275998757133304987611939841005404",
+      "conditionId": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+      "outcomeIndex": 1,
+      "title": "2026 Balance of Power: R Senate, D House",
+      "outcome": "No",
+      "slug": "2026-balance-of-power-r-senate-d-house-444",
+      "eventSlug": "balance-of-power-2026-midterms",
+      "whalePrice": 0.75,
+      "whaleUsd": 1574.685,
+      "ourPrice": 0.75,
+      "shares": 133.33333333333334,
+      "stake": 100,
+      "lagS": 90,
+      "openedAt": "2026-10-22T05:21:18.618Z",
+      "proceeds": 133.33333333333334,
+      "pnl": 33.33333333333334,
+      "closedAt": "2026-11-04T17:56:50.085Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -11165,23 +11169,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-29T20:33:37.374Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:558600218792430158020964384658762756367786275998757133304987611939841005404": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "558600218792430158020964384658762756367786275998757133304987611939841005404",
-      "conditionId": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
-      "outcomeIndex": 1,
-      "title": "2026 Balance of Power: R Senate, D House",
-      "outcome": "No",
-      "slug": "2026-balance-of-power-r-senate-d-house-444",
-      "whalePrice": 0.74,
-      "ourPrice": 0.74,
-      "shares": 135.13513513513513,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T23:20:43.507Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:49636903774656609002827178834903567411153682608112580794161452009917896529249": {
       "reason": "benched",
@@ -23813,6 +23800,26 @@
       "proceeds": 105.26315789473685,
       "pnl": 5.26315789473685,
       "closedAt": "2026-11-04T17:21:51.540Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "558600218792430158020964384658762756367786275998757133304987611939841005404",
+      "conditionId": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+      "outcomeIndex": 1,
+      "title": "2026 Balance of Power: R Senate, D House",
+      "outcome": "No",
+      "slug": "2026-balance-of-power-r-senate-d-house-444",
+      "whalePrice": 0.74,
+      "ourPrice": 0.74,
+      "shares": 135.13513513513513,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T23:20:43.507Z",
+      "proceeds": 135.13513513513513,
+      "pnl": 35.13513513513513,
+      "closedAt": "2026-11-04T17:56:50.085Z"
     }
   ]
 }
