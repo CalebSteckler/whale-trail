@@ -10802,23 +10802,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T04:10:08.033Z"
     },
-    "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:99655040067292753693448676958121989757561886043736853458079391478756360529457": {
-      "reason": "topic",
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "99655040067292753693448676958121989757561886043736853458079391478756360529457",
-      "conditionId": "0x2fb2b4f6d030ed03404e844400cf763a5dfc70275a3d6bd03770287cd7bced56",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party hold exactly 49 Senate seats after the 2026 midterm elections?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-hold-exactly-49-senate-seats-after-the-2026-midterm-elections-189",
-      "whalePrice": 0.87,
-      "ourPrice": 0.87,
-      "shares": 114.94252873563218,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T04:10:08.034Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:13252834053551265193423367782105768647137147152782298741699538367303862527786": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11363,23 +11346,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T12:51:53.247Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:99655040067292753693448676958121989757561886043736853458079391478756360529457": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "99655040067292753693448676958121989757561886043736853458079391478756360529457",
-      "conditionId": "0x2fb2b4f6d030ed03404e844400cf763a5dfc70275a3d6bd03770287cd7bced56",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party hold exactly 49 Senate seats after the 2026 midterm elections?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-hold-exactly-49-senate-seats-after-the-2026-midterm-elections-189",
-      "whalePrice": 0.9,
-      "ourPrice": 0.9,
-      "shares": 111.11111111111111,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T15:43:58.462Z"
     },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:457836433146742264739122676529651928498068127567692657861695374504278746262": {
       "reason": "longdated",
@@ -23750,6 +23716,46 @@
       "proceeds": 123.48063353254388,
       "pnl": 23.480633532543877,
       "closedAt": "2026-11-04T11:38:09.425Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "99655040067292753693448676958121989757561886043736853458079391478756360529457",
+      "conditionId": "0x2fb2b4f6d030ed03404e844400cf763a5dfc70275a3d6bd03770287cd7bced56",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party hold exactly 49 Senate seats after the 2026 midterm elections?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-hold-exactly-49-senate-seats-after-the-2026-midterm-elections-189",
+      "whalePrice": 0.87,
+      "ourPrice": 0.87,
+      "shares": 114.94252873563218,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T04:10:08.034Z",
+      "proceeds": 114.94252873563218,
+      "pnl": 14.94252873563218,
+      "closedAt": "2026-11-04T12:12:46.059Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "99655040067292753693448676958121989757561886043736853458079391478756360529457",
+      "conditionId": "0x2fb2b4f6d030ed03404e844400cf763a5dfc70275a3d6bd03770287cd7bced56",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party hold exactly 49 Senate seats after the 2026 midterm elections?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-hold-exactly-49-senate-seats-after-the-2026-midterm-elections-189",
+      "whalePrice": 0.9,
+      "ourPrice": 0.9,
+      "shares": 111.11111111111111,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T15:43:58.462Z",
+      "proceeds": 111.11111111111111,
+      "pnl": 11.111111111111114,
+      "closedAt": "2026-11-04T12:12:46.059Z"
     }
   ]
 }
