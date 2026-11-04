@@ -22,24 +22,6 @@
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793646384
   },
   "open": {
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665:67933292644373744581888685518110880721664485231071869823090699958992859556569": {
-      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
-      "name": "SpringlyFawl",
-      "asset": "67933292644373744581888685518110880721664485231071869823090699958992859556569",
-      "conditionId": "0xd88213e25cb330a0afe25f4f440bb71238d9aa66b4c66d816539d07516951c7c",
-      "outcomeIndex": 0,
-      "title": "Will there be no Hormuz agreement by October 23 or oil at least $80, and the Democrats win the Senate?",
-      "outcome": "Yes",
-      "slug": "no-hormuz-agreement-by-oct-23-or-oil-at-least-80-and-the-democrats-win-the-senate",
-      "eventSlug": "who-wins-the-senate-pending-hormuz-agreement-by-oct-23-and-oil-below-80",
-      "whalePrice": 0.628,
-      "whaleUsd": 271.924,
-      "ourPrice": 0.636,
-      "shares": 157.2327044025157,
-      "stake": 100,
-      "lagS": 174,
-      "openedAt": "2026-10-17T06:37:48.401Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:63644763464034691367428527733393916036342796100129702980469514153898496549749": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9312,6 +9294,28 @@
       "proceeds": 133.33333333333334,
       "pnl": 33.33333333333334,
       "closedAt": "2026-11-04T17:56:50.085Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "67933292644373744581888685518110880721664485231071869823090699958992859556569",
+      "conditionId": "0xd88213e25cb330a0afe25f4f440bb71238d9aa66b4c66d816539d07516951c7c",
+      "outcomeIndex": 0,
+      "title": "Will there be no Hormuz agreement by October 23 or oil at least $80, and the Democrats win the Senate?",
+      "outcome": "Yes",
+      "slug": "no-hormuz-agreement-by-oct-23-or-oil-at-least-80-and-the-democrats-win-the-senate",
+      "eventSlug": "who-wins-the-senate-pending-hormuz-agreement-by-oct-23-and-oil-below-80",
+      "whalePrice": 0.628,
+      "whaleUsd": 271.924,
+      "ourPrice": 0.636,
+      "shares": 157.2327044025157,
+      "stake": 100,
+      "lagS": 174,
+      "openedAt": "2026-10-17T06:37:48.401Z",
+      "proceeds": 157.2327044025157,
+      "pnl": 57.23270440251571,
+      "closedAt": "2026-11-04T19:07:09.801Z",
       "note": "resolved WIN"
     }
   ],
