@@ -10430,23 +10430,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T00:15:51.912Z"
     },
-    "topic:0x38d812aff0b79f3bf5da2a477f780bcc163eea7c:18656569549224492512832964734478974105123776928625538288282926247651507908588": {
-      "reason": "topic",
-      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
-      "name": "thanksforplayin",
-      "asset": "18656569549224492512832964734478974105123776928625538288282926247651507908588",
-      "conditionId": "0x63cd9c2958f51124e948206dc063f9cabaaa263dd241c4c4c16086c567084c6d",
-      "outcomeIndex": 1,
-      "title": "Will parties below the electoral threshold receive between 6% and 8% of the vote in the 2026 Israeli legislative election?",
-      "outcome": "No",
-      "slug": "will-parties-below-the-electoral-threshold-receive-between-6-and-8-of-the-vote-in-the-2026-israeli-legislative-election-20261019152743816",
-      "whalePrice": 0.7539900911,
-      "ourPrice": 0.7539900911,
-      "shares": 132.62773765913752,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-28T04:17:02.770Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:41172147410497568317287168104523317681793924121563263796045393602696305609910": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -23800,6 +23783,26 @@
       "proceeds": 103.7344398340249,
       "pnl": 3.734439834024897,
       "closedAt": "2026-11-04T13:44:45.079Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x38d812aff0b79f3bf5da2a477f780bcc163eea7c",
+      "name": "thanksforplayin",
+      "asset": "18656569549224492512832964734478974105123776928625538288282926247651507908588",
+      "conditionId": "0x63cd9c2958f51124e948206dc063f9cabaaa263dd241c4c4c16086c567084c6d",
+      "outcomeIndex": 1,
+      "title": "Will parties below the electoral threshold receive between 6% and 8% of the vote in the 2026 Israeli legislative election?",
+      "outcome": "No",
+      "slug": "will-parties-below-the-electoral-threshold-receive-between-6-and-8-of-the-vote-in-the-2026-israeli-legislative-election-20261019152743816",
+      "whalePrice": 0.7539900911,
+      "ourPrice": 0.7539900911,
+      "shares": 132.62773765913752,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-28T04:17:02.770Z",
+      "proceeds": 132.62773765913752,
+      "pnl": 32.62773765913752,
+      "closedAt": "2026-11-04T16:35:00.114Z"
     }
   ]
 }
