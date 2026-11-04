@@ -22,24 +22,6 @@
     "0xddc38b82423310f5bbf2e2dc58745661a624029c": 1793646384
   },
   "open": {
-    "0xfbedb045813457be883ad83dd1078e88a2a1a665:88124433300559247959309048268928728970816174095213461359357515260826164605193": {
-      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
-      "name": "SpringlyFawl",
-      "asset": "88124433300559247959309048268928728970816174095213461359357515260826164605193",
-      "conditionId": "0x8ccbfc876e2f979a0ab1423589abea04bb71512cc6bd5d9dbeef7f820b8f8e69",
-      "outcomeIndex": 1,
-      "title": "Will the Republicans win the Arizona governor race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-republican-win-the-arizona-governor-race-in-2026",
-      "eventSlug": "arizona-governor-winner-2026",
-      "whalePrice": 0.8999999999999999,
-      "whaleUsd": 576.9,
-      "ourPrice": 0.92,
-      "shares": 108.69565217391303,
-      "stake": 100,
-      "lagS": 246,
-      "openedAt": "2026-10-17T02:24:59.630Z"
-    },
     "0xfbedb045813457be883ad83dd1078e88a2a1a665:67933292644373744581888685518110880721664485231071869823090699958992859556569": {
       "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
       "name": "SpringlyFawl",
@@ -780,25 +762,6 @@
       "lagS": 8,
       "rules": 2,
       "openedAt": "2026-10-25T19:57:32.613Z"
-    },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:88124433300559247959309048268928728970816174095213461359357515260826164605193": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "88124433300559247959309048268928728970816174095213461359357515260826164605193",
-      "conditionId": "0x8ccbfc876e2f979a0ab1423589abea04bb71512cc6bd5d9dbeef7f820b8f8e69",
-      "outcomeIndex": 1,
-      "title": "Will the Republicans win the Arizona governor race in 2026?",
-      "outcome": "No",
-      "slug": "will-the-republican-win-the-arizona-governor-race-in-2026",
-      "eventSlug": "arizona-governor-winner-2026",
-      "whalePrice": 0.88,
-      "whaleUsd": 484,
-      "ourPrice": 0.92,
-      "shares": 108.69565217391303,
-      "stake": 100,
-      "lagS": 167,
-      "rules": 2,
-      "openedAt": "2026-10-26T20:53:16.144Z"
     },
     "0x0c0e270cf879583d6a0142fc817e05b768d0434e:67102598924726349989742049657609063097299442010642912942032681022413402597017": {
       "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
@@ -9257,6 +9220,51 @@
       "pnl": 8.577633007600426,
       "closedAt": "2026-11-04T11:15:07.684Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "88124433300559247959309048268928728970816174095213461359357515260826164605193",
+      "conditionId": "0x8ccbfc876e2f979a0ab1423589abea04bb71512cc6bd5d9dbeef7f820b8f8e69",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the Arizona governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republican-win-the-arizona-governor-race-in-2026",
+      "eventSlug": "arizona-governor-winner-2026",
+      "whalePrice": 0.8999999999999999,
+      "whaleUsd": 576.9,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "lagS": 246,
+      "openedAt": "2026-10-17T02:24:59.630Z",
+      "proceeds": 108.69565217391303,
+      "pnl": 8.695652173913032,
+      "closedAt": "2026-11-04T11:26:35.729Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "88124433300559247959309048268928728970816174095213461359357515260826164605193",
+      "conditionId": "0x8ccbfc876e2f979a0ab1423589abea04bb71512cc6bd5d9dbeef7f820b8f8e69",
+      "outcomeIndex": 1,
+      "title": "Will the Republicans win the Arizona governor race in 2026?",
+      "outcome": "No",
+      "slug": "will-the-republican-win-the-arizona-governor-race-in-2026",
+      "eventSlug": "arizona-governor-winner-2026",
+      "whalePrice": 0.88,
+      "whaleUsd": 484,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "lagS": 167,
+      "rules": 2,
+      "openedAt": "2026-10-26T20:53:16.144Z",
+      "proceeds": 108.69565217391303,
+      "pnl": 8.695652173913032,
+      "closedAt": "2026-11-04T11:26:35.729Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -12085,23 +12093,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T03:11:56.195Z"
-    },
-    "topic:0x0c0e270cf879583d6a0142fc817e05b768d0434e:48368039124533504674394545622809320495392482760644292167644042386014017726777": {
-      "reason": "topic",
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "48368039124533504674394545622809320495392482760644292167644042386014017726777",
-      "conditionId": "0xaf874c80349379303164629c3962b1456f667ca1d44edf95e0474dd13483a4b3",
-      "outcomeIndex": 0,
-      "title": "Will the Democrats win the Arizona governor race in 2026?",
-      "outcome": "Yes",
-      "slug": "will-the-democrat-win-the-arizona-governor-race-in-2026",
-      "whalePrice": 0.93,
-      "ourPrice": 0.93,
-      "shares": 107.5268817204301,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T03:11:56.609Z"
     },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:104084245438748951729954885358093397408921562980143848327787212335107366554264": {
       "reason": "longdated",
@@ -23710,6 +23701,26 @@
       "proceeds": 108.69565217391303,
       "pnl": 8.695652173913032,
       "closedAt": "2026-11-04T11:15:14.777Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "48368039124533504674394545622809320495392482760644292167644042386014017726777",
+      "conditionId": "0xaf874c80349379303164629c3962b1456f667ca1d44edf95e0474dd13483a4b3",
+      "outcomeIndex": 0,
+      "title": "Will the Democrats win the Arizona governor race in 2026?",
+      "outcome": "Yes",
+      "slug": "will-the-democrat-win-the-arizona-governor-race-in-2026",
+      "whalePrice": 0.93,
+      "ourPrice": 0.93,
+      "shares": 107.5268817204301,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T03:11:56.609Z",
+      "proceeds": 107.5268817204301,
+      "pnl": 7.526881720430097,
+      "closedAt": "2026-11-04T11:26:49.805Z"
     }
   ]
 }
