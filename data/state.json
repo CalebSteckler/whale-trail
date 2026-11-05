@@ -11599,23 +11599,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T01:56:29.111Z"
     },
-    "topic:0x511f9c771449162349795d17becf8b37031acbe1:66528408760708879746002787389405554394995959656331652859367394447910291935169": {
-      "reason": "topic",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "66528408760708879746002787389405554394995959656331652859367394447910291935169",
-      "conditionId": "0x7ff4e4b2f389acdd96ef18bb34684b9219a972b7ef0cde5856d28f5d5325f3d4",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party hold between 200 and 204 House seats after the 2026 midterm elections?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-hold-between-200-and-204-house-seats-after-the-2026-midterm-elections",
-      "whalePrice": 0.9005554662,
-      "ourPrice": 0.9005554662,
-      "shares": 111.04257733503277,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T01:56:29.111Z"
-    },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:65987535647596362321220801366147935730786543051104441957847323449315063332845": {
       "reason": "topic",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -11632,23 +11615,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-01T01:56:29.112Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:66528408760708879746002787389405554394995959656331652859367394447910291935169": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "66528408760708879746002787389405554394995959656331652859367394447910291935169",
-      "conditionId": "0x7ff4e4b2f389acdd96ef18bb34684b9219a972b7ef0cde5856d28f5d5325f3d4",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party hold between 200 and 204 House seats after the 2026 midterm elections?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-hold-between-200-and-204-house-seats-after-the-2026-midterm-elections",
-      "whalePrice": 0.900914461678832,
-      "ourPrice": 0.900914461678832,
-      "shares": 110.99832920170073,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T01:57:28.162Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:65987535647596362321220801366147935730786543051104441957847323449315063332845": {
       "reason": "benched",
@@ -23864,6 +23830,46 @@
       "proceeds": 112.35955056179775,
       "pnl": 12.359550561797747,
       "closedAt": "2026-11-04T23:15:48.438Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "66528408760708879746002787389405554394995959656331652859367394447910291935169",
+      "conditionId": "0x7ff4e4b2f389acdd96ef18bb34684b9219a972b7ef0cde5856d28f5d5325f3d4",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party hold between 200 and 204 House seats after the 2026 midterm elections?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-hold-between-200-and-204-house-seats-after-the-2026-midterm-elections",
+      "whalePrice": 0.9005554662,
+      "ourPrice": 0.9005554662,
+      "shares": 111.04257733503277,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T01:56:29.111Z",
+      "proceeds": 111.04257733503277,
+      "pnl": 11.042577335032774,
+      "closedAt": "2026-11-05T12:39:25.545Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "66528408760708879746002787389405554394995959656331652859367394447910291935169",
+      "conditionId": "0x7ff4e4b2f389acdd96ef18bb34684b9219a972b7ef0cde5856d28f5d5325f3d4",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party hold between 200 and 204 House seats after the 2026 midterm elections?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-hold-between-200-and-204-house-seats-after-the-2026-midterm-elections",
+      "whalePrice": 0.900914461678832,
+      "ourPrice": 0.900914461678832,
+      "shares": 110.99832920170073,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T01:57:28.162Z",
+      "proceeds": 110.99832920170073,
+      "pnl": 10.998329201700727,
+      "closedAt": "2026-11-05T12:39:25.545Z"
     }
   ]
 }
