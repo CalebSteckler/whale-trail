@@ -11526,23 +11526,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T23:56:18.101Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:105171868481302721406414902711796379313728379634038427438846735562489922509288": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "105171868481302721406414902711796379313728379634038427438846735562489922509288",
-      "conditionId": "0x79361c2379eda2645213973ee61ab00b51ef78eaa142ebc0363e24d8e0666acd",
-      "outcomeIndex": 1,
-      "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
-      "outcome": "No",
-      "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
-      "whalePrice": 0.8782345805999999,
-      "ourPrice": 0.8782345805999999,
-      "shares": 113.86479445125143,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-01T00:01:17.995Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:49636903774656609002827178834903567411153682608112580794161452009917896529249": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23888,6 +23871,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-05T20:08:04.480Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "105171868481302721406414902711796379313728379634038427438846735562489922509288",
+      "conditionId": "0x79361c2379eda2645213973ee61ab00b51ef78eaa142ebc0363e24d8e0666acd",
+      "outcomeIndex": 1,
+      "title": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
+      "outcome": "No",
+      "slug": "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
+      "whalePrice": 0.8782345805999999,
+      "ourPrice": 0.8782345805999999,
+      "shares": 113.86479445125143,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-01T00:01:17.995Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-05T21:11:05.118Z"
     }
   ]
 }
