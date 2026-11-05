@@ -10487,24 +10487,6 @@
       "rules": 2,
       "openedAt": "2026-10-28T04:55:04.220Z"
     },
-    "drift:0xe949065b6c64308369c26dc590121623a5a4dea6:24959653607113340785506959156117592172741342295444505742946774150269950471104": {
-      "reason": "drift",
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "24959653607113340785506959156117592172741342295444505742946774150269950471104",
-      "conditionId": "0x31727e0e298757e552661f62733cc401c6066b80a7d2607d2ac56b729eb15a00",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party win the NC-09 House seat?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-      "whalePrice": 0.33,
-      "ourPrice": 0.5823249570658718,
-      "shares": 171.72542372881355,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-28T11:01:19.353Z"
-    },
     "benched:0xddc38b82423310f5bbf2e2dc58745661a624029c:56314212532255126194430762704693508249675151961456380254606869084529786466517": {
       "reason": "benched",
       "wallet": "0xddc38b82423310f5bbf2e2dc58745661a624029c",
@@ -10640,23 +10622,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-28T22:56:57.565Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:24959653607113340785506959156117592172741342295444505742946774150269950471104": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "24959653607113340785506959156117592172741342295444505742946774150269950471104",
-      "conditionId": "0x31727e0e298757e552661f62733cc401c6066b80a7d2607d2ac56b729eb15a00",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party win the NC-09 House seat?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-win-the-nc-09-house-seat",
-      "whalePrice": 0.32,
-      "ourPrice": 0.32,
-      "shares": 312.5,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T00:11:58.149Z"
     },
     "topic:0x511f9c771449162349795d17becf8b37031acbe1:78614077321660003058400012802047790822463386544514810757305414854639906455618": {
       "reason": "topic",
@@ -23891,6 +23856,47 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-05T21:11:05.118Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "24959653607113340785506959156117592172741342295444505742946774150269950471104",
+      "conditionId": "0x31727e0e298757e552661f62733cc401c6066b80a7d2607d2ac56b729eb15a00",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the NC-09 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+      "whalePrice": 0.33,
+      "ourPrice": 0.5823249570658718,
+      "shares": 171.72542372881355,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-28T11:01:19.353Z",
+      "proceeds": 171.72542372881355,
+      "pnl": 71.72542372881355,
+      "closedAt": "2026-11-05T22:54:21.487Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "24959653607113340785506959156117592172741342295444505742946774150269950471104",
+      "conditionId": "0x31727e0e298757e552661f62733cc401c6066b80a7d2607d2ac56b729eb15a00",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the NC-09 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-nc-09-house-seat",
+      "whalePrice": 0.32,
+      "ourPrice": 0.32,
+      "shares": 312.5,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T00:11:58.149Z",
+      "proceeds": 312.5,
+      "pnl": 212.5,
+      "closedAt": "2026-11-05T22:54:21.487Z"
     }
   ]
 }
