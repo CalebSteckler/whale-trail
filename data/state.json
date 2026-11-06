@@ -436,24 +436,6 @@
       "lagS": 256,
       "openedAt": "2026-10-22T13:09:39.015Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:58507084608782512565480280053882807505189448738098588563704773804344223603355": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "58507084608782512565480280053882807505189448738098588563704773804344223603355",
-      "conditionId": "0x694595d0a008f10e4701285d071e4b08407495f6f8a6bd8cbdd7de522fa9b463",
-      "outcomeIndex": 1,
-      "title": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
-      "outcome": "No",
-      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876",
-      "eventSlug": "los-angeles-mayoral-election-117",
-      "whalePrice": 0.5139999999999999,
-      "whaleUsd": 334.45466,
-      "ourPrice": 0.5369397621326969,
-      "shares": 186.24063079777363,
-      "stake": 100,
-      "lagS": 264,
-      "openedAt": "2026-10-22T13:35:39.822Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:38238853415091862898962255269265024438691527563819771109347513864527055230130": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9348,6 +9330,28 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-06T00:37:36.172Z",
+      "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "58507084608782512565480280053882807505189448738098588563704773804344223603355",
+      "conditionId": "0x694595d0a008f10e4701285d071e4b08407495f6f8a6bd8cbdd7de522fa9b463",
+      "outcomeIndex": 1,
+      "title": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
+      "outcome": "No",
+      "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876",
+      "eventSlug": "los-angeles-mayoral-election-117",
+      "whalePrice": 0.5139999999999999,
+      "whaleUsd": 334.45466,
+      "ourPrice": 0.5369397621326969,
+      "shares": 186.24063079777363,
+      "stake": 100,
+      "lagS": 264,
+      "openedAt": "2026-10-22T13:35:39.822Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-06T01:11:58.759Z",
       "note": "resolved LOSS"
     }
   ],
