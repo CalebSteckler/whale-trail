@@ -674,25 +674,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T01:32:50.642Z"
     },
-    "0x511f9c771449162349795d17becf8b37031acbe1:32990395069552839491629863127374320424549572177026718623273227951659002466770": {
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "32990395069552839491629863127374320424549572177026718623273227951659002466770",
-      "conditionId": "0xda6443c47be5c76cfe19a36b6de027558fbf669c825b7aa20c0642b753127b58",
-      "outcomeIndex": 1,
-      "title": "Will the Democratic Party win the NJ-02 House seat?",
-      "outcome": "No",
-      "slug": "will-the-democratic-party-win-the-nj-02-house-seat",
-      "eventSlug": "nj-02-house-election-winner",
-      "whalePrice": 0.7111154987,
-      "whaleUsd": 318.74329998230104,
-      "ourPrice": 0.74,
-      "shares": 135.13513513513513,
-      "stake": 100,
-      "lagS": 47,
-      "rules": 2,
-      "openedAt": "2026-10-27T02:07:50.036Z"
-    },
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:76554435351712744933103563779334623391051223240580491931622345690225036618406": {
       "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
       "name": "defillama7",
@@ -9345,6 +9326,29 @@
       "pnl": 20.48192771084338,
       "closedAt": "2026-11-05T20:19:26.414Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "32990395069552839491629863127374320424549572177026718623273227951659002466770",
+      "conditionId": "0xda6443c47be5c76cfe19a36b6de027558fbf669c825b7aa20c0642b753127b58",
+      "outcomeIndex": 1,
+      "title": "Will the Democratic Party win the NJ-02 House seat?",
+      "outcome": "No",
+      "slug": "will-the-democratic-party-win-the-nj-02-house-seat",
+      "eventSlug": "nj-02-house-election-winner",
+      "whalePrice": 0.7111154987,
+      "whaleUsd": 318.74329998230104,
+      "ourPrice": 0.74,
+      "shares": 135.13513513513513,
+      "stake": 100,
+      "lagS": 47,
+      "rules": 2,
+      "openedAt": "2026-10-27T02:07:50.036Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-06T00:37:36.172Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
