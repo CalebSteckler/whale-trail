@@ -256,24 +256,6 @@
       "lagS": 142,
       "openedAt": "2026-10-21T06:32:57.224Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:30669271320870251893129736156586825338211544209888851524967241257282084382538": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "30669271320870251893129736156586825338211544209888851524967241257282084382538",
-      "conditionId": "0x9701031ec5d3edd99a5b75e7303bea5885c750c76a963cfa74aae53153ebcfce",
-      "outcomeIndex": 1,
-      "title": "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?",
-      "outcome": "No",
-      "slug": "will-a-team-from-lec-europe-emea-win-lol-worlds-2026-944",
-      "eventSlug": "lol-worlds-2026-winning-region-226",
-      "whalePrice": 0.96,
-      "whaleUsd": 1043.1648,
-      "ourPrice": 0.96,
-      "shares": 104.16666666666667,
-      "stake": 100,
-      "lagS": 142,
-      "openedAt": "2026-10-21T06:32:57.323Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:101996110023306359267215939819928021406998500989415641847320025626005179879667": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9356,6 +9338,28 @@
       "proceeds": 109.89010989010988,
       "pnl": 9.890109890109883,
       "closedAt": "2026-11-07T00:46:50.542Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "30669271320870251893129736156586825338211544209888851524967241257282084382538",
+      "conditionId": "0x9701031ec5d3edd99a5b75e7303bea5885c750c76a963cfa74aae53153ebcfce",
+      "outcomeIndex": 1,
+      "title": "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?",
+      "outcome": "No",
+      "slug": "will-a-team-from-lec-europe-emea-win-lol-worlds-2026-944",
+      "eventSlug": "lol-worlds-2026-winning-region-226",
+      "whalePrice": 0.96,
+      "whaleUsd": 1043.1648,
+      "ourPrice": 0.96,
+      "shares": 104.16666666666667,
+      "stake": 100,
+      "lagS": 142,
+      "openedAt": "2026-10-21T06:32:57.323Z",
+      "proceeds": 104.16666666666667,
+      "pnl": 4.166666666666671,
+      "closedAt": "2026-11-07T04:52:15.353Z",
       "note": "resolved WIN"
     }
   ],
