@@ -637,25 +637,6 @@
       "rules": 2,
       "openedAt": "2026-10-25T19:57:32.613Z"
     },
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e:67102598924726349989742049657609063097299442010642912942032681022413402597017": {
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "67102598924726349989742049657609063097299442010642912942032681022413402597017",
-      "conditionId": "0x3738ad9665480991affe3ba286cd035516e17d1f8b7703e05088ec19c70c21a4",
-      "outcomeIndex": 0,
-      "title": "US x Iran ceasefire continues through October 31?",
-      "outcome": "Yes",
-      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
-      "eventSlug": "us-iran-ceasefire-continues-throughptptpt",
-      "whalePrice": 0.9,
-      "whaleUsd": 3265.614,
-      "ourPrice": 0.91,
-      "shares": 109.89010989010988,
-      "stake": 100,
-      "lagS": 494,
-      "rules": 2,
-      "openedAt": "2026-10-27T01:32:50.642Z"
-    },
     "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:76554435351712744933103563779334623391051223240580491931622345690225036618406": {
       "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
       "name": "defillama7",
@@ -9353,6 +9334,29 @@
       "pnl": -100,
       "closedAt": "2026-11-06T01:11:58.759Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "67102598924726349989742049657609063097299442010642912942032681022413402597017",
+      "conditionId": "0x3738ad9665480991affe3ba286cd035516e17d1f8b7703e05088ec19c70c21a4",
+      "outcomeIndex": 0,
+      "title": "US x Iran ceasefire continues through October 31?",
+      "outcome": "Yes",
+      "slug": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+      "eventSlug": "us-iran-ceasefire-continues-throughptptpt",
+      "whalePrice": 0.9,
+      "whaleUsd": 3265.614,
+      "ourPrice": 0.91,
+      "shares": 109.89010989010988,
+      "stake": 100,
+      "lagS": 494,
+      "rules": 2,
+      "openedAt": "2026-10-27T01:32:50.642Z",
+      "proceeds": 109.89010989010988,
+      "pnl": 9.890109890109883,
+      "closedAt": "2026-11-07T00:46:50.542Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
