@@ -638,25 +638,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T13:03:05.332Z"
     },
-    "0x511f9c771449162349795d17becf8b37031acbe1:483357016241601695914606850728293960978288823992392355557509100922536138729": {
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "483357016241601695914606850728293960978288823992392355557509100922536138729",
-      "conditionId": "0xb3ffd5b3e237eb93660c2fba751d63ea9765a71421d35df234fa307ef3b2cb5e",
-      "outcomeIndex": 1,
-      "title": "Will Gadi Eizenkot receive the first mandate to form a government after the 2026 Israeli election?",
-      "outcome": "No",
-      "slug": "will-gadi-eizenkot-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
-      "eventSlug": "who-will-receive-the-first-mandate-to-form-israels-next-government-20261019144924877",
-      "whalePrice": 0.4,
-      "whaleUsd": 603.8560000000001,
-      "ourPrice": 0.4,
-      "shares": 250,
-      "stake": 100,
-      "lagS": 244,
-      "rules": 2,
-      "openedAt": "2026-10-27T22:20:48.050Z"
-    },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:38274379050640062523611849065721372699838119672720475300345842413156391540232": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
       "name": "zerone777",
@@ -9361,6 +9342,29 @@
       "pnl": 4.166666666666671,
       "closedAt": "2026-11-07T04:52:15.353Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "483357016241601695914606850728293960978288823992392355557509100922536138729",
+      "conditionId": "0xb3ffd5b3e237eb93660c2fba751d63ea9765a71421d35df234fa307ef3b2cb5e",
+      "outcomeIndex": 1,
+      "title": "Will Gadi Eizenkot receive the first mandate to form a government after the 2026 Israeli election?",
+      "outcome": "No",
+      "slug": "will-gadi-eizenkot-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
+      "eventSlug": "who-will-receive-the-first-mandate-to-form-israels-next-government-20261019144924877",
+      "whalePrice": 0.4,
+      "whaleUsd": 603.8560000000001,
+      "ourPrice": 0.4,
+      "shares": 250,
+      "stake": 100,
+      "lagS": 244,
+      "rules": 2,
+      "openedAt": "2026-10-27T22:20:48.050Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-08T17:48:56.326Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -10298,23 +10302,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-27T13:42:07.833Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:94476436683794962312325483029388966223314896883087390545315075158530856004904": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "94476436683794962312325483029388966223314896883087390545315075158530856004904",
-      "conditionId": "0x461da5bf6bc117cefdc6f00141ea1164da85e1e4459b97479fe48116b9a66cc6",
-      "outcomeIndex": 1,
-      "title": "Will Benjamin Netanyahu receive the first mandate to form a government after the 2026 Israeli election?",
-      "outcome": "No",
-      "slug": "will-benjamin-netanyahu-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
-      "whalePrice": 0.7501882142678572,
-      "ourPrice": 0.7501882142678572,
-      "shares": 133.29988141388566,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T18:05:26.010Z"
     },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:237763258922607372441531444917004095393088620081027503878022776727831982596": {
       "reason": "benched",
@@ -23943,6 +23930,26 @@
       "proceeds": 107.29590298039732,
       "pnl": 7.295902980397315,
       "closedAt": "2026-11-08T13:30:37.097Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "94476436683794962312325483029388966223314896883087390545315075158530856004904",
+      "conditionId": "0x461da5bf6bc117cefdc6f00141ea1164da85e1e4459b97479fe48116b9a66cc6",
+      "outcomeIndex": 1,
+      "title": "Will Benjamin Netanyahu receive the first mandate to form a government after the 2026 Israeli election?",
+      "outcome": "No",
+      "slug": "will-benjamin-netanyahu-receive-the-first-mandate-to-form-a-government-after-the-2026-israeli-election-20261019144924877",
+      "whalePrice": 0.7501882142678572,
+      "ourPrice": 0.7501882142678572,
+      "shares": 133.29988141388566,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T18:05:26.010Z",
+      "proceeds": 133.29988141388566,
+      "pnl": 33.29988141388566,
+      "closedAt": "2026-11-08T17:49:01.554Z"
     }
   ]
 }
