@@ -1,5 +1,5 @@
 Paper copies: 424 ($42400 staked) | closed 385, open 39
-Realized -$935 | open marked to bid -$407 | total -$1342
+Realized -$935 | open marked to bid -$409 | total -$1344
 Median price vs whale: 1.7% worse | avg detection lag 229s
 Capital tied up now: $3900 in 39 positions | peak at once $11100 | avg days locked per copy 3.9
 Wins/losses closed: 231/154
@@ -28,7 +28,7 @@ By whale (benched = 20+ closed with negative edge, no longer copied):
   THEHIGHLIFE                 18 closed  +$152  edge +5.7c ±11.1c   |  0 open +$0
   SpringlyFawl                17 closed  +$139  edge +6.4c ±7.7c    |  1 open +$36
   Tokenn                       6 closed  +$106  edge +19.5c ±14.5c  |  0 open +$0
-  Bigggggggg                  23 closed   -$10  edge +1.7c ±6.6c    | 10 open +$47
+  Bigggggggg                  23 closed   -$10  edge +1.7c ±6.6c    | 10 open +$41
   bitbe                        3 closed   -$22  edge -1.7c ±29.4c   |  0 open +$0
   para-Vision                 36 closed   -$26  edge -0.1c ±8.2c    |  0 open +$0  BENCHED
   zerone777                   29 closed   -$30  edge +2.8c ±6.6c    |  6 open -$31
@@ -41,13 +41,13 @@ By whale (benched = 20+ closed with negative edge, no longer copied):
   gangmusic                    3 closed  -$131  edge -22.0c ±31.5c  |  0 open +$0
   thanksforplayin             21 closed  -$196  edge -5.6c ±5.7c    |  0 open +$0  BENCHED
   defillama7                   9 closed  -$301  edge -22.9c ±11.1c  |  2 open -$124
-  qwen4.1.fund                41 closed  -$496  edge -6.2c ±5.8c    | 16 open -$167  BENCHED
+  qwen4.1.fund                41 closed  -$496  edge -6.2c ±5.8c    | 16 open -$162  BENCHED
 
-Skipped bets, had we taken them (137 still open, held to resolution):
+Skipped bets, had we taken them (134 still open, held to resolution):
 
 
-  benched                     381 closed   -$893  roi  -2.3%  edge -1.4c ±2.3c
-  topic                       163 closed  +$1263  roi   7.7%  edge +0.9c ±3.2c
+  benched                     382 closed   -$885  roi  -2.3%  edge -1.4c ±2.3c
+  topic                       165 closed  +$1275  roi   7.7%  edge +0.9c ±3.1c
   drift (moved against us)     35 closed   +$211  roi   6.0%  edge +5.7c ±7.5c
   drift (moved for us)         24 closed   -$474  roi -19.7%  edge -3.2c ±8.7c
   longdated                     6 closed   +$343  roi  57.1%  edge +17.5c ±18.9c
