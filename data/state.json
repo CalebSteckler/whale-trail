@@ -9542,23 +9542,6 @@
       "rules": 2,
       "openedAt": "2026-10-23T19:19:18.896Z"
     },
-    "longdated:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:905394989938198172512127709348972716907601860140952318625999173320689517414": {
-      "reason": "longdated",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "905394989938198172512127709348972716907601860140952318625999173320689517414",
-      "conditionId": "0xc577fc8f1910dd6db9ae759059e302c7a98f5ee62bd8ff2325c38ffc274596f4",
-      "outcomeIndex": 1,
-      "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
-      "outcome": "No",
-      "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
-      "whalePrice": 0.94,
-      "ourPrice": 0.94,
-      "shares": 106.38297872340426,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-23T20:45:21.986Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:97835730826504088023775585649282026423448935249156759049180415585128284134832": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23960,6 +23943,26 @@
       "proceeds": 119.04761904761905,
       "pnl": 19.04761904761905,
       "closedAt": "2026-11-09T03:49:25.335Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "905394989938198172512127709348972716907601860140952318625999173320689517414",
+      "conditionId": "0xc577fc8f1910dd6db9ae759059e302c7a98f5ee62bd8ff2325c38ffc274596f4",
+      "outcomeIndex": 1,
+      "title": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
+      "outcome": "No",
+      "slug": "will-no-qualifying-russia-x-ukraine-peace-talks-take-place-by-december-31-2027",
+      "whalePrice": 0.94,
+      "ourPrice": 0.94,
+      "shares": 106.38297872340426,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-23T20:45:21.986Z",
+      "proceeds": 106.38297872340426,
+      "pnl": 6.382978723404264,
+      "closedAt": "2026-11-10T11:01:22.328Z"
     }
   ]
 }
