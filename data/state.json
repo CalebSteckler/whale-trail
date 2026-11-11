@@ -11489,23 +11489,6 @@
       "rules": 2,
       "openedAt": "2026-11-02T12:19:21.321Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:88780047866652978986390910428406128981955725790722015925404114737192507291432": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "88780047866652978986390910428406128981955725790722015925404114737192507291432",
-      "conditionId": "0xd4bc06a5741c9c61b3d89563cd455f81d362ec4311d057092e196bf149394d83",
-      "outcomeIndex": 1,
-      "title": "Will the Democratic Party win the SC-02 House seat?",
-      "outcome": "No",
-      "slug": "will-the-democratic-party-win-the-sc-02-house-seat",
-      "whalePrice": 0.8689999999999999,
-      "ourPrice": 0.8689999999999999,
-      "shares": 115.07479861910244,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T15:23:38.659Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:58554368714684779496337541114704698505747242960798409159457418202978802963408": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -23974,6 +23957,26 @@
       "proceeds": 281.8545233619679,
       "pnl": 181.8545233619679,
       "closedAt": "2026-11-10T23:11:30.416Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "88780047866652978986390910428406128981955725790722015925404114737192507291432",
+      "conditionId": "0xd4bc06a5741c9c61b3d89563cd455f81d362ec4311d057092e196bf149394d83",
+      "outcomeIndex": 1,
+      "title": "Will the Democratic Party win the SC-02 House seat?",
+      "outcome": "No",
+      "slug": "will-the-democratic-party-win-the-sc-02-house-seat",
+      "whalePrice": 0.8689999999999999,
+      "ourPrice": 0.8689999999999999,
+      "shares": 115.07479861910244,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T15:23:38.659Z",
+      "proceeds": 115.07479861910244,
+      "pnl": 15.074798619102438,
+      "closedAt": "2026-11-11T19:29:49.680Z"
     }
   ]
 }
