@@ -65,7 +65,7 @@ console.log(`Wins/losses closed: ${s.closed.filter((p) => p.pnl > 0).length}/${s
 const best = [...s.closed].sort((a, b) => b.pnl - a.pnl).slice(0, 5);
 console.log(`Without the 5 best trades: ${$(realized - best.reduce((t, p) => t + p.pnl, 0))} (is it a strategy or a few lucky long shots?)`);
 
-table('By rules version (v2 = out of sample, frozen 2026-10-23):', s.closed, (p) => `v${p.rules ?? 1}`);
+table('By rules version (v3 = out of sample, frozen 2026-11-11):', s.closed, (p) => `v${p.rules ?? 1}`);
 table('By category:', s.closed, cat);
 table('By entry price:', s.closed, (p) => (p.ourPrice < 0.3 ? 'a <30c' : p.ourPrice < 0.5 ? 'b 30-50c' : p.ourPrice < 0.7 ? 'c 50-70c' : p.ourPrice < 0.85 ? 'd 70-85c' : 'e 85c+'));
 

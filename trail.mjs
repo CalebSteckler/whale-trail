@@ -15,18 +15,21 @@ const STAKE_USD = 100;
 const MIN_WHALE_USD = 250;
 const MAX_ENTRY_PRICE = 0.97; // above this there is almost nothing left to win
 const MAX_DRIFT = 0.10; // if the price moved >10% since the whale's fill, the game changed (live sports); it is not their bet anymore
-const MAX_PER_EVENT_USD = 200; // correlated whales pile into one event (Lula No + Flavio Yes); cap the book's exposure to it
+const MAX_PER_EVENT_USD = Infinity; // v3: cap removed (v2 shadow showed skipped topic-cap trades made +7.9% ROI). Was 200; // correlated whales pile into one event (Lula No + Flavio Yes); cap the book's exposure to it
 // Polymarket splits one story into several events (brazil-presidential-election vs ...-second-round-margin-of-victory),
 // so the cap applies to the first three slug words, not the exact event.
 const topic = (slug) => (slug || '').split('-').slice(0, 3).join('-');
 const RUN_MIN = +process.env.RUN_MIN || Infinity; // CI runners have a job time limit; exit cleanly before it
-// Rules version, stamped on every position. v2 started 2026-10-23 and is frozen until the review on ~2026-11-06,
-// so its results are out of sample. Change a rule = bump this, so the report never mixes rule sets.
-const RULES = 2;
+// Rules version, stamped on every position. v3 started 2026-11-11 and is frozen until the review on ~2026-11-18,
+// so its results are out of sample (v2 lost -14.9% ROI, edge -6.8c). Change a rule = bump this, so the report never mixes rule sets.
+const RULES = 3;
+// v3 filters, chosen from v2 results: politics (-8.5% ROI) and 70-85c entries (-9.0% ROI) are skipped and shadow-tracked.
+const isPolitics = (t) => /election|senate|house|trump|president|governor|mayor|party|vote|parliament/.test(`${t.slug || ''} ${t.title}`.toLowerCase());
+const SKIP_PRICE_LO = 0.70, SKIP_PRICE_HI = 0.85;
 // Bench a whale once its closed copies prove a negative edge (avg profit per share we bought below zero).
 const BENCH_MIN_CLOSED = 20;
 // Skips worth learning from are paper-tracked as shadows, so the report can say whether each skip rule helps.
-const SHADOW_REASONS = new Set(['drift', 'topic', 'benched', 'longdated']);
+const SHADOW_REASONS = new Set(['drift', 'topic', 'benched', 'longdated', 'politics', 'midprice']);
 // Money in a market that resolves months out earns nothing and teaches us nothing inside a two-week test.
 const MAX_DAYS_TO_END = 30;
 
@@ -113,6 +116,7 @@ async function pollWallet(w) {
       if (state.open[key] || t.usd < MIN_WHALE_USD) continue;
       if (whalePrice > MAX_ENTRY_PRICE) { log('skip', { name, title: t.title, outcome: t.outcome, note: `whale paid ${whalePrice.toFixed(3)}` }); continue; }
       if (benched(w.wallet)) { log('skip', { name, title: t.title, outcome: t.outcome, note: 'whale benched (negative edge)' }); shadow('benched', w, t, whalePrice); continue; }
+      if (isPolitics(t)) { log('skip', { name, title: t.title, outcome: t.outcome, note: 'politics (v3 filter)' }); shadow('politics', w, t, whalePrice); continue; }
       const onEvent = Object.values(state.open).filter((p) => p.eventSlug && topic(p.eventSlug) === topic(t.eventSlug)).reduce((s, p) => s + p.stake, 0);
       if (onEvent + STAKE_USD > MAX_PER_EVENT_USD) { log('skip', { name, title: t.title, outcome: t.outcome, note: `already $${onEvent} on ${topic(t.eventSlug)}` }); shadow('topic', w, t, whalePrice); continue; }
       const days = await daysToEnd(t.conditionId);
@@ -124,6 +128,7 @@ async function pollWallet(w) {
         shadow('drift', w, t, f.avg, f.avg > whalePrice ? 'moved against us' : 'moved for us');
         continue;
       }
+      if (f.avg >= SKIP_PRICE_LO && f.avg < SKIP_PRICE_HI) { log('skip', { name, title: t.title, outcome: t.outcome, note: `entry ${f.avg.toFixed(3)} in 70-85c dead zone (v3 filter)` }); shadow('midprice', w, t, f.avg); continue; }
       const lagS = nowS() - t.timestamp;
       state.open[key] = { wallet: w.wallet, name, asset: t.asset, conditionId: t.conditionId, outcomeIndex: t.outcomeIndex,
         title: t.title, outcome: t.outcome, slug: t.slug, eventSlug: t.eventSlug, whalePrice, whaleUsd: t.usd, ourPrice: f.avg, shares: f.shares,
