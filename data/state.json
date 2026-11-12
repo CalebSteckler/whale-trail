@@ -10264,23 +10264,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T13:42:07.833Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:237763258922607372441531444917004095393088620081027503878022776727831982596": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "237763258922607372441531444917004095393088620081027503878022776727831982596",
-      "conditionId": "0x515155dc9997b73728b424721ea4538cad0de3aad6dd1ceba6277e9fc882276d",
-      "outcomeIndex": 1,
-      "title": "Will the Republican Party win the NC-03 House seat?",
-      "outcome": "No",
-      "slug": "will-the-republican-party-win-the-nc-03-house-seat",
-      "whalePrice": 0.57,
-      "ourPrice": 0.57,
-      "shares": 175.43859649122808,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-27T19:36:29.920Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:1507744758511144558263623459899956467548763419522526462308518027912401299177": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -11249,24 +11232,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-31T10:45:48.163Z"
-    },
-    "drift:0x511f9c771449162349795d17becf8b37031acbe1:98499574761886365453998968930580922157047205428386778755185928872667615598010": {
-      "reason": "drift",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "98499574761886365453998968930580922157047205428386778755185928872667615598010",
-      "conditionId": "0xa74ddc3ce66416b679703e087afd5d2047a58a2974d7730cab76a0176eda6933",
-      "outcomeIndex": 1,
-      "title": "Will the Democratic Party win the NC-03 House seat?",
-      "outcome": "No",
-      "slug": "will-the-democratic-party-win-the-nc-03-house-seat",
-      "whalePrice": 0.6,
-      "ourPrice": 0.6726013847675568,
-      "shares": 148.6764705882353,
-      "stake": 100,
-      "note": "moved against us",
-      "rules": 2,
-      "openedAt": "2026-10-31T11:43:50.158Z"
     },
     "longdated:0xe949065b6c64308369c26dc590121623a5a4dea6:37461417265919800563099829598896496437436229231955379584818921535241120965562": {
       "reason": "longdated",
@@ -23977,6 +23942,47 @@
       "proceeds": 115.07479861910244,
       "pnl": 15.074798619102438,
       "closedAt": "2026-11-11T19:29:49.680Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "237763258922607372441531444917004095393088620081027503878022776727831982596",
+      "conditionId": "0x515155dc9997b73728b424721ea4538cad0de3aad6dd1ceba6277e9fc882276d",
+      "outcomeIndex": 1,
+      "title": "Will the Republican Party win the NC-03 House seat?",
+      "outcome": "No",
+      "slug": "will-the-republican-party-win-the-nc-03-house-seat",
+      "whalePrice": 0.57,
+      "ourPrice": 0.57,
+      "shares": 175.43859649122808,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-27T19:36:29.920Z",
+      "proceeds": 175.43859649122808,
+      "pnl": 75.43859649122808,
+      "closedAt": "2026-11-12T05:49:02.268Z"
+    },
+    {
+      "reason": "drift",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "98499574761886365453998968930580922157047205428386778755185928872667615598010",
+      "conditionId": "0xa74ddc3ce66416b679703e087afd5d2047a58a2974d7730cab76a0176eda6933",
+      "outcomeIndex": 1,
+      "title": "Will the Democratic Party win the NC-03 House seat?",
+      "outcome": "No",
+      "slug": "will-the-democratic-party-win-the-nc-03-house-seat",
+      "whalePrice": 0.6,
+      "ourPrice": 0.6726013847675568,
+      "shares": 148.6764705882353,
+      "stake": 100,
+      "note": "moved against us",
+      "rules": 2,
+      "openedAt": "2026-10-31T11:43:50.158Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-12T05:49:06.287Z"
     }
   ]
 }
