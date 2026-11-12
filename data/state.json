@@ -640,25 +640,6 @@
       "lagS": 185,
       "rules": 2,
       "openedAt": "2026-11-01T19:36:42.235Z"
-    },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:115344862533823877787593931582052527994258645729917868626175818881592688447868": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "115344862533823877787593931582052527994258645729917868626175818881592688447868",
-      "conditionId": "0x28621f3082ebe46c9a7ffbdb3fc07f3601d3e4e2d6f5975199abb0ef48c4e9d4",
-      "outcomeIndex": 1,
-      "title": "Will the Democratic Party win the ME-02 House seat?",
-      "outcome": "No",
-      "slug": "will-the-democratic-party-win-the-me-01-house-seat-20260720160014016",
-      "eventSlug": "me-02-house-election-winner-20260720160226434",
-      "whalePrice": 0.53,
-      "whaleUsd": 256.3292,
-      "ourPrice": 0.54,
-      "shares": 185.18518518518516,
-      "stake": 100,
-      "lagS": 166,
-      "rules": 2,
-      "openedAt": "2026-11-02T09:17:14.368Z"
     }
   },
   "closed": [
@@ -9377,6 +9358,29 @@
       "pnl": -100,
       "closedAt": "2026-11-10T23:11:14.989Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "115344862533823877787593931582052527994258645729917868626175818881592688447868",
+      "conditionId": "0x28621f3082ebe46c9a7ffbdb3fc07f3601d3e4e2d6f5975199abb0ef48c4e9d4",
+      "outcomeIndex": 1,
+      "title": "Will the Democratic Party win the ME-02 House seat?",
+      "outcome": "No",
+      "slug": "will-the-democratic-party-win-the-me-01-house-seat-20260720160014016",
+      "eventSlug": "me-02-house-election-winner-20260720160226434",
+      "whalePrice": 0.53,
+      "whaleUsd": 256.3292,
+      "ourPrice": 0.54,
+      "shares": 185.18518518518516,
+      "stake": 100,
+      "lagS": 166,
+      "rules": 2,
+      "openedAt": "2026-11-02T09:17:14.368Z",
+      "proceeds": 185.18518518518516,
+      "pnl": 85.18518518518516,
+      "closedAt": "2026-11-12T20:56:05.334Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
