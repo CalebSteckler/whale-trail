@@ -454,24 +454,6 @@
       "lagS": 187,
       "openedAt": "2026-10-22T17:13:48.243Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:15859382751346746343939036525053853077867668968518299817855187651744506002496": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "15859382751346746343939036525053853077867668968518299817855187651744506002496",
-      "conditionId": "0x9aba5bf074182d803c1b6a10814497875562ebb1c62483b36d2a305fc49e0792",
-      "outcomeIndex": 1,
-      "title": "Will Bernadette Wilson win the 2026 Alaska governor election?",
-      "outcome": "No",
-      "slug": "will-bernadette-wilson-win-the-2026-alaska-governor-election",
-      "eventSlug": "alaska-governor-election-winner",
-      "whalePrice": 0.9,
-      "whaleUsd": 405,
-      "ourPrice": 0.92,
-      "shares": 108.69565217391303,
-      "stake": 100,
-      "lagS": 81,
-      "openedAt": "2026-10-23T03:25:33.448Z"
-    },
     "0x511f9c771449162349795d17becf8b37031acbe1:63295916941072153819254862715217707355212712280349679290098809403087096728046": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
       "name": "Bigggggggg",
@@ -9380,6 +9362,28 @@
       "proceeds": 185.18518518518516,
       "pnl": 85.18518518518516,
       "closedAt": "2026-11-12T20:56:05.334Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "15859382751346746343939036525053853077867668968518299817855187651744506002496",
+      "conditionId": "0x9aba5bf074182d803c1b6a10814497875562ebb1c62483b36d2a305fc49e0792",
+      "outcomeIndex": 1,
+      "title": "Will Bernadette Wilson win the 2026 Alaska governor election?",
+      "outcome": "No",
+      "slug": "will-bernadette-wilson-win-the-2026-alaska-governor-election",
+      "eventSlug": "alaska-governor-election-winner",
+      "whalePrice": 0.9,
+      "whaleUsd": 405,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "lagS": 81,
+      "openedAt": "2026-10-23T03:25:33.448Z",
+      "proceeds": 108.69565217391303,
+      "pnl": 8.695652173913032,
+      "closedAt": "2026-11-14T08:07:51.901Z",
       "note": "resolved WIN"
     }
   ],
