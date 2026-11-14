@@ -292,24 +292,6 @@
       "lagS": 159,
       "openedAt": "2026-10-21T19:21:03.919Z"
     },
-    "0x0c0e270cf879583d6a0142fc817e05b768d0434e:20244362049417025533374049121400436676833898969884666612361039499958684857530": {
-      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-      "name": "The Spirit of Ukraine>UMA",
-      "asset": "20244362049417025533374049121400436676833898969884666612361039499958684857530",
-      "conditionId": "0x43cedce4a6af0136d37d53408fc965388baee3145db6da72a5b5da8d2746ced3",
-      "outcomeIndex": 0,
-      "title": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
-      "outcome": "Yes",
-      "slug": "will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election",
-      "eventSlug": "alaska-governor-election-winner",
-      "whalePrice": 0.7901135469,
-      "whaleUsd": 25396.011350575587,
-      "ourPrice": 0.834,
-      "shares": 119.90407673860912,
-      "stake": 100,
-      "lagS": 210,
-      "openedAt": "2026-10-22T03:20:14.003Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:28628507049809987278691795493655231122318393131634058160244684296796434947288": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9385,6 +9367,28 @@
       "pnl": 8.695652173913032,
       "closedAt": "2026-11-14T08:07:51.901Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+      "name": "The Spirit of Ukraine>UMA",
+      "asset": "20244362049417025533374049121400436676833898969884666612361039499958684857530",
+      "conditionId": "0x43cedce4a6af0136d37d53408fc965388baee3145db6da72a5b5da8d2746ced3",
+      "outcomeIndex": 0,
+      "title": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+      "outcome": "Yes",
+      "slug": "will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election",
+      "eventSlug": "alaska-governor-election-winner",
+      "whalePrice": 0.7901135469,
+      "whaleUsd": 25396.011350575587,
+      "ourPrice": 0.834,
+      "shares": 119.90407673860912,
+      "stake": 100,
+      "lagS": 210,
+      "openedAt": "2026-10-22T03:20:14.003Z",
+      "proceeds": 119.90407673860912,
+      "pnl": 19.90407673860912,
+      "closedAt": "2026-11-14T08:42:27.455Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
@@ -9829,23 +9833,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-26T02:40:43.573Z"
-    },
-    "topic:0xfbedb045813457be883ad83dd1078e88a2a1a665:20244362049417025533374049121400436676833898969884666612361039499958684857530": {
-      "reason": "topic",
-      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
-      "name": "SpringlyFawl",
-      "asset": "20244362049417025533374049121400436676833898969884666612361039499958684857530",
-      "conditionId": "0x43cedce4a6af0136d37d53408fc965388baee3145db6da72a5b5da8d2746ced3",
-      "outcomeIndex": 0,
-      "title": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
-      "outcome": "Yes",
-      "slug": "will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election",
-      "whalePrice": 0.8695380435,
-      "ourPrice": 0.8695380435,
-      "shares": 115.00359385943302,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T05:21:49.904Z"
     },
     "longdated:0x676c1bb692c76b57b06f1b93817515acfa5ce139:35018437165125254956927767138387710450173566248362420011510696931332345783539": {
       "reason": "longdated",
@@ -23991,6 +23978,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-12T05:49:06.287Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "20244362049417025533374049121400436676833898969884666612361039499958684857530",
+      "conditionId": "0x43cedce4a6af0136d37d53408fc965388baee3145db6da72a5b5da8d2746ced3",
+      "outcomeIndex": 0,
+      "title": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+      "outcome": "Yes",
+      "slug": "will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election",
+      "whalePrice": 0.8695380435,
+      "ourPrice": 0.8695380435,
+      "shares": 115.00359385943302,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T05:21:49.904Z",
+      "proceeds": 115.00359385943302,
+      "pnl": 15.003593859433025,
+      "closedAt": "2026-11-14T08:42:27.455Z"
     }
   ]
 }
