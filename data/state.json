@@ -220,24 +220,6 @@
       "lagS": 341,
       "openedAt": "2026-10-20T21:17:47.923Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:45993050615878682688227575860255511835379389831434793742769053348825525182248": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "45993050615878682688227575860255511835379389831434793742769053348825525182248",
-      "conditionId": "0xcede29c8af89d8bd2118088768dcee36736ed43af143e70d59f60d7b365a98ef",
-      "outcomeIndex": 1,
-      "title": "Will a team from LPL (China) win LoL Worlds 2026?",
-      "outcome": "No",
-      "slug": "will-a-team-from-lpl-china-win-lol-worlds-2026-779",
-      "eventSlug": "lol-worlds-2026-winning-region-226",
-      "whalePrice": 0.7721472873858795,
-      "whaleUsd": 954.8605,
-      "ourPrice": 0.7808515433184806,
-      "shares": 128.0653164556962,
-      "stake": 100,
-      "lagS": 142,
-      "openedAt": "2026-10-21T06:32:57.224Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:96946924849083334305927282157964366883943166557749464331842222956652388915265": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9393,6 +9375,28 @@
       "pnl": 49.25373134328356,
       "closedAt": "2026-11-15T02:04:01.872Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "45993050615878682688227575860255511835379389831434793742769053348825525182248",
+      "conditionId": "0xcede29c8af89d8bd2118088768dcee36736ed43af143e70d59f60d7b365a98ef",
+      "outcomeIndex": 1,
+      "title": "Will a team from LPL (China) win LoL Worlds 2026?",
+      "outcome": "No",
+      "slug": "will-a-team-from-lpl-china-win-lol-worlds-2026-779",
+      "eventSlug": "lol-worlds-2026-winning-region-226",
+      "whalePrice": 0.7721472873858795,
+      "whaleUsd": 954.8605,
+      "ourPrice": 0.7808515433184806,
+      "shares": 128.0653164556962,
+      "stake": 100,
+      "lagS": 142,
+      "openedAt": "2026-10-21T06:32:57.224Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-15T03:23:27.705Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -9650,23 +9654,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-24T02:24:36.199Z"
-    },
-    "topic:0xfbedb045813457be883ad83dd1078e88a2a1a665:45993050615878682688227575860255511835379389831434793742769053348825525182248": {
-      "reason": "topic",
-      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
-      "name": "SpringlyFawl",
-      "asset": "45993050615878682688227575860255511835379389831434793742769053348825525182248",
-      "conditionId": "0xcede29c8af89d8bd2118088768dcee36736ed43af143e70d59f60d7b365a98ef",
-      "outcomeIndex": 1,
-      "title": "Will a team from LPL (China) win LoL Worlds 2026?",
-      "outcome": "No",
-      "slug": "will-a-team-from-lpl-china-win-lol-worlds-2026-779",
-      "whalePrice": 0.83,
-      "ourPrice": 0.83,
-      "shares": 120.48192771084338,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-24T07:12:37.404Z"
     },
     "longdated:0xfbedb045813457be883ad83dd1078e88a2a1a665:37090128566507509913630589460372620352013766554886380785463533062224343545231": {
       "reason": "longdated",
@@ -24017,6 +24004,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-15T02:04:04.185Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0xfbedb045813457be883ad83dd1078e88a2a1a665",
+      "name": "SpringlyFawl",
+      "asset": "45993050615878682688227575860255511835379389831434793742769053348825525182248",
+      "conditionId": "0xcede29c8af89d8bd2118088768dcee36736ed43af143e70d59f60d7b365a98ef",
+      "outcomeIndex": 1,
+      "title": "Will a team from LPL (China) win LoL Worlds 2026?",
+      "outcome": "No",
+      "slug": "will-a-team-from-lpl-china-win-lol-worlds-2026-779",
+      "whalePrice": 0.83,
+      "ourPrice": 0.83,
+      "shares": 120.48192771084338,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-24T07:12:37.404Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-15T03:23:27.705Z"
     }
   ]
 }
