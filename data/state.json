@@ -220,24 +220,6 @@
       "lagS": 341,
       "openedAt": "2026-10-20T21:17:47.923Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:96946924849083334305927282157964366883943166557749464331842222956652388915265": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "96946924849083334305927282157964366883943166557749464331842222956652388915265",
-      "conditionId": "0x228ecb86402fb569c8f32e2807d81d0526d8cdd0e4856eda94db5a53ca015917",
-      "outcomeIndex": 1,
-      "title": "Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?",
-      "outcome": "No",
-      "slug": "will-klemen-bostjancic-win-the-2026-ljubljana-mayoral-election",
-      "eventSlug": "ljubljana-mayoral-election-winner-2026",
-      "whalePrice": 0.97,
-      "whaleUsd": 970,
-      "ourPrice": 0.97,
-      "shares": 103.09278350515464,
-      "stake": 100,
-      "lagS": 159,
-      "openedAt": "2026-10-21T19:21:03.765Z"
-    },
     "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:86518940039892178675190350795231406679028630218658985031744644246673358976737": {
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
       "name": "qwen4.1.fund",
@@ -9397,6 +9379,28 @@
       "pnl": -100,
       "closedAt": "2026-11-15T03:23:27.705Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "96946924849083334305927282157964366883943166557749464331842222956652388915265",
+      "conditionId": "0x228ecb86402fb569c8f32e2807d81d0526d8cdd0e4856eda94db5a53ca015917",
+      "outcomeIndex": 1,
+      "title": "Will Klemen Boštjančič win the 2026 Ljubljana mayoral election?",
+      "outcome": "No",
+      "slug": "will-klemen-bostjancic-win-the-2026-ljubljana-mayoral-election",
+      "eventSlug": "ljubljana-mayoral-election-winner-2026",
+      "whalePrice": 0.97,
+      "whaleUsd": 970,
+      "ourPrice": 0.97,
+      "shares": 103.09278350515464,
+      "stake": 100,
+      "lagS": 159,
+      "openedAt": "2026-10-21T19:21:03.765Z",
+      "proceeds": 103.09278350515464,
+      "pnl": 3.0927835051546424,
+      "closedAt": "2026-11-16T11:43:18.132Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
