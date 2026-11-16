@@ -310,24 +310,6 @@
       "lagS": 256,
       "openedAt": "2026-10-22T13:09:39.015Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:38238853415091862898962255269265024438691527563819771109347513864527055230130": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "38238853415091862898962255269265024438691527563819771109347513864527055230130",
-      "conditionId": "0x7eb5fde072782612d015d882bd99c396168f96c21c6c7260e2f24d9832a82a9b",
-      "outcomeIndex": 1,
-      "title": "Jacob Elordi announced as next James Bond?",
-      "outcome": "No",
-      "slug": "jacob-elordi-announced-as-next-james-bond",
-      "eventSlug": "next-james-bond-actor-398",
-      "whalePrice": 0.92,
-      "whaleUsd": 276,
-      "ourPrice": 0.92,
-      "shares": 108.69565217391303,
-      "stake": 100,
-      "lagS": 166,
-      "openedAt": "2026-10-22T15:57:45.399Z"
-    },
     "0xe949065b6c64308369c26dc590121623a5a4dea6:35414596740213378069170625791446991875990905907136131620747277699691527960887": {
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
       "name": "zerone777",
@@ -9400,6 +9382,28 @@
       "proceeds": 103.09278350515464,
       "pnl": 3.0927835051546424,
       "closedAt": "2026-11-16T11:43:18.132Z",
+      "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "38238853415091862898962255269265024438691527563819771109347513864527055230130",
+      "conditionId": "0x7eb5fde072782612d015d882bd99c396168f96c21c6c7260e2f24d9832a82a9b",
+      "outcomeIndex": 1,
+      "title": "Jacob Elordi announced as next James Bond?",
+      "outcome": "No",
+      "slug": "jacob-elordi-announced-as-next-james-bond",
+      "eventSlug": "next-james-bond-actor-398",
+      "whalePrice": 0.92,
+      "whaleUsd": 276,
+      "ourPrice": 0.92,
+      "shares": 108.69565217391303,
+      "stake": 100,
+      "lagS": 166,
+      "openedAt": "2026-10-22T15:57:45.399Z",
+      "proceeds": 108.69565217391303,
+      "pnl": 8.695652173913032,
+      "closedAt": "2026-11-16T17:13:23.132Z",
       "note": "resolved WIN"
     }
   ],
