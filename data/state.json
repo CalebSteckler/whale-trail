@@ -476,25 +476,6 @@
       "rules": 2,
       "openedAt": "2026-10-27T13:03:05.332Z"
     },
-    "0xe949065b6c64308369c26dc590121623a5a4dea6:38274379050640062523611849065721372699838119672720475300345842413156391540232": {
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "38274379050640062523611849065721372699838119672720475300345842413156391540232",
-      "conditionId": "0x19d2ff72e389d190c183e6b114817301d29eba651d67d75a38ee201a05188fd9",
-      "outcomeIndex": 1,
-      "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-      "outcome": "No",
-      "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
-      "eventSlug": "alaska-senate-election-winner",
-      "whalePrice": 0.2899999999999999,
-      "whaleUsd": 264.94399999999996,
-      "ourPrice": 0.2987729395373202,
-      "shares": 334.70233333333334,
-      "stake": 100,
-      "lagS": 184,
-      "rules": 2,
-      "openedAt": "2026-10-29T15:23:21.935Z"
-    },
     "0x511f9c771449162349795d17becf8b37031acbe1:18287586256083445323398279169184869269457143277568976405073561634800769081165": {
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
       "name": "Bigggggggg",
@@ -9405,6 +9386,29 @@
       "pnl": 8.695652173913032,
       "closedAt": "2026-11-16T17:13:23.132Z",
       "note": "resolved WIN"
+    },
+    {
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "38274379050640062523611849065721372699838119672720475300345842413156391540232",
+      "conditionId": "0x19d2ff72e389d190c183e6b114817301d29eba651d67d75a38ee201a05188fd9",
+      "outcomeIndex": 1,
+      "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+      "eventSlug": "alaska-senate-election-winner",
+      "whalePrice": 0.2899999999999999,
+      "whaleUsd": 264.94399999999996,
+      "ourPrice": 0.2987729395373202,
+      "shares": 334.70233333333334,
+      "stake": 100,
+      "lagS": 184,
+      "rules": 2,
+      "openedAt": "2026-10-29T15:23:21.935Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-18T06:42:01.568Z",
+      "note": "resolved LOSS"
     }
   ],
   "shadow": {
@@ -11005,23 +11009,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-10-30T19:17:06.480Z"
-    },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:64264976954058187238724333554507208255303776435657387002861226761784169752307": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "64264976954058187238724333554507208255303776435657387002861226761784169752307",
-      "conditionId": "0x741bb46008b72234857c5118c8365ab3c2f69dbf28b30b59de04f173b8a778de",
-      "outcomeIndex": 1,
-      "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
-      "outcome": "No",
-      "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
-      "whalePrice": 0.71,
-      "ourPrice": 0.71,
-      "shares": 140.84507042253523,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-30T22:18:26.934Z"
     },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:80456575204440643570499123641511043765364487572502085512858581574010154701650": {
       "reason": "longdated",
@@ -24032,6 +24019,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-15T03:23:27.705Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "64264976954058187238724333554507208255303776435657387002861226761784169752307",
+      "conditionId": "0x741bb46008b72234857c5118c8365ab3c2f69dbf28b30b59de04f173b8a778de",
+      "outcomeIndex": 1,
+      "title": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+      "outcome": "No",
+      "slug": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+      "whalePrice": 0.71,
+      "ourPrice": 0.71,
+      "shares": 140.84507042253523,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-30T22:18:26.934Z",
+      "proceeds": 140.84507042253523,
+      "pnl": 40.84507042253523,
+      "closedAt": "2026-11-18T06:42:13.077Z"
     }
   ]
 }
