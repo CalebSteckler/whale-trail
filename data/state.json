@@ -11265,23 +11265,6 @@
       "rules": 2,
       "openedAt": "2026-11-01T21:04:46.065Z"
     },
-    "topic:0x4c8cdcdd4c92bf44e74a642254f7414de14de36f:13535941900723044344907002451427688051727855016747811259193368015899108383450": {
-      "reason": "topic",
-      "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
-      "name": "defillama7",
-      "asset": "13535941900723044344907002451427688051727855016747811259193368015899108383450",
-      "conditionId": "0xa32317ba83c3c83dc43ef260c3744c22ed8000db53d30bc09372c45cff5fb07a",
-      "outcomeIndex": 0,
-      "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-      "outcome": "Yes",
-      "slug": "2026-senate-map-r-none",
-      "whalePrice": 0.31865917970897883,
-      "ourPrice": 0.31865917970897883,
-      "shares": 313.814904348046,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T03:11:56.195Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:104084245438748951729954885358093397408921562980143848327787212335107366554264": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -24039,6 +24022,26 @@
       "proceeds": 140.84507042253523,
       "pnl": 40.84507042253523,
       "closedAt": "2026-11-18T06:42:13.077Z"
+    },
+    {
+      "reason": "topic",
+      "wallet": "0x4c8cdcdd4c92bf44e74a642254f7414de14de36f",
+      "name": "defillama7",
+      "asset": "13535941900723044344907002451427688051727855016747811259193368015899108383450",
+      "conditionId": "0xa32317ba83c3c83dc43ef260c3744c22ed8000db53d30bc09372c45cff5fb07a",
+      "outcomeIndex": 0,
+      "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+      "outcome": "Yes",
+      "slug": "2026-senate-map-r-none",
+      "whalePrice": 0.31865917970897883,
+      "ourPrice": 0.31865917970897883,
+      "shares": 313.814904348046,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T03:11:56.195Z",
+      "proceeds": 313.814904348046,
+      "pnl": 213.814904348046,
+      "closedAt": "2026-11-18T08:01:18.511Z"
     }
   ]
 }
