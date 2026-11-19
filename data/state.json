@@ -10109,23 +10109,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T16:10:03.425Z"
     },
-    "longdated:0x511f9c771449162349795d17becf8b37031acbe1:62480265706565855251270013876643477324885325217067177350973133984798255771180": {
-      "reason": "longdated",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "62480265706565855251270013876643477324885325217067177350973133984798255771180",
-      "conditionId": "0x504a33da236817ce4ffb63421f899d1030bb843d496fee11aff31dca3fea397c",
-      "outcomeIndex": 1,
-      "title": "Will Anthropic's IPO valuation be between $1.25T and $1.50T?",
-      "outcome": "No",
-      "slug": "will-anthropics-ipo-valuation-be-between-1pt25t-and-1pt50t-12",
-      "whalePrice": 0.958525899994,
-      "ourPrice": 0.958525899994,
-      "shares": 104.32686273853004,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T16:15:03.867Z"
-    },
     "longdated:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:67195436741524645658281305805764372654429922578574371658265901008745116070994": {
       "reason": "longdated",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -24045,6 +24028,26 @@
       "proceeds": 114.94252873563218,
       "pnl": 14.94252873563218,
       "closedAt": "2026-11-18T13:38:45.714Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "62480265706565855251270013876643477324885325217067177350973133984798255771180",
+      "conditionId": "0x504a33da236817ce4ffb63421f899d1030bb843d496fee11aff31dca3fea397c",
+      "outcomeIndex": 1,
+      "title": "Will Anthropic's IPO valuation be between $1.25T and $1.50T?",
+      "outcome": "No",
+      "slug": "will-anthropics-ipo-valuation-be-between-1pt25t-and-1pt50t-12",
+      "whalePrice": 0.958525899994,
+      "ourPrice": 0.958525899994,
+      "shares": 104.32686273853004,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T16:15:03.867Z",
+      "proceeds": 104.32686273853004,
+      "pnl": 4.326862738530039,
+      "closedAt": "2026-11-19T19:19:22.469Z"
     }
   ]
 }
