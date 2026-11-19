@@ -10500,23 +10500,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T05:07:10.216Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:3534217138466393056068976587378368469062131689371219036718760569645526127832": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "3534217138466393056068976587378368469062131689371219036718760569645526127832",
-      "conditionId": "0x8e4cfba82d83a14165a4fa84ca61c2ca83975dff28ca4fc65c96ffb6b206beb6",
-      "outcomeIndex": 1,
-      "title": "Will Anthropic not IPO by December 31, 2027?",
-      "outcome": "No",
-      "slug": "will-anthropic-not-ipo-by-december-31-2027-539",
-      "whalePrice": 0.9639999999999999,
-      "ourPrice": 0.9639999999999999,
-      "shares": 103.73443983402491,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T05:07:10.216Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:34079851482053293361932351143019209193108191421795047260065638898939690262262": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -24048,6 +24031,26 @@
       "proceeds": 104.32686273853004,
       "pnl": 4.326862738530039,
       "closedAt": "2026-11-19T19:19:22.469Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "3534217138466393056068976587378368469062131689371219036718760569645526127832",
+      "conditionId": "0x8e4cfba82d83a14165a4fa84ca61c2ca83975dff28ca4fc65c96ffb6b206beb6",
+      "outcomeIndex": 1,
+      "title": "Will Anthropic not IPO by December 31, 2027?",
+      "outcome": "No",
+      "slug": "will-anthropic-not-ipo-by-december-31-2027-539",
+      "whalePrice": 0.9639999999999999,
+      "ourPrice": 0.9639999999999999,
+      "shares": 103.73443983402491,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T05:07:10.216Z",
+      "proceeds": 103.73443983402491,
+      "pnl": 3.7344398340249114,
+      "closedAt": "2026-11-19T21:02:14.992Z"
     }
   ]
 }
