@@ -400,25 +400,6 @@
       "lagS": 150,
       "openedAt": "2026-10-23T16:06:50.468Z"
     },
-    "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:64471248570849216527930760195792427678756698953538640287320344095590228286893": {
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "64471248570849216527930760195792427678756698953538640287320344095590228286893",
-      "conditionId": "0x5a973df09e30d899042a40b5693625e631817919b6dcdb5c0acb56f53123f62c",
-      "outcomeIndex": 1,
-      "title": "Will David Eby be the next Premier of British Columbia?",
-      "outcome": "No",
-      "slug": "will-david-eby-be-the-next-premier-of-british-columbia",
-      "eventSlug": "next-premier-of-british-columbia",
-      "whalePrice": 0.8979999999999999,
-      "whaleUsd": 403.81264,
-      "ourPrice": 0.9007572738142686,
-      "shares": 111.01769911504425,
-      "stake": 100,
-      "lagS": 61,
-      "rules": 2,
-      "openedAt": "2026-10-25T00:53:52.138Z"
-    },
     "0x924379a79c64b77ad5816ad362122a5f6228658e:74628329841011909674872704681128884694740504845886408181727145389216018083705": {
       "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
       "name": "Kch-Temp",
@@ -9409,6 +9390,29 @@
       "pnl": -100,
       "closedAt": "2026-11-18T06:42:01.568Z",
       "note": "resolved LOSS"
+    },
+    {
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "64471248570849216527930760195792427678756698953538640287320344095590228286893",
+      "conditionId": "0x5a973df09e30d899042a40b5693625e631817919b6dcdb5c0acb56f53123f62c",
+      "outcomeIndex": 1,
+      "title": "Will David Eby be the next Premier of British Columbia?",
+      "outcome": "No",
+      "slug": "will-david-eby-be-the-next-premier-of-british-columbia",
+      "eventSlug": "next-premier-of-british-columbia",
+      "whalePrice": 0.8979999999999999,
+      "whaleUsd": 403.81264,
+      "ourPrice": 0.9007572738142686,
+      "shares": 111.01769911504425,
+      "stake": 100,
+      "lagS": 61,
+      "rules": 2,
+      "openedAt": "2026-10-25T00:53:52.138Z",
+      "proceeds": 111.01769911504425,
+      "pnl": 11.017699115044252,
+      "closedAt": "2026-11-20T20:32:55.635Z",
+      "note": "resolved WIN"
     }
   ],
   "shadow": {
