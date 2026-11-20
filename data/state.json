@@ -10959,23 +10959,6 @@
       "rules": 2,
       "openedAt": "2026-10-31T10:45:48.163Z"
     },
-    "longdated:0xe949065b6c64308369c26dc590121623a5a4dea6:37461417265919800563099829598896496437436229231955379584818921535241120965562": {
-      "reason": "longdated",
-      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
-      "name": "zerone777",
-      "asset": "37461417265919800563099829598896496437436229231955379584818921535241120965562",
-      "conditionId": "0xe96dbaceb816e80063bec945a76ac915cba4341bdf1ef704f722bfc9054aad09",
-      "outcomeIndex": 1,
-      "title": "Will Anthropic have the highest IPO Market Cap 2026?",
-      "outcome": "No",
-      "slug": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
-      "whalePrice": 0.585,
-      "ourPrice": 0.585,
-      "shares": 170.94017094017096,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-31T16:50:02.410Z"
-    },
     "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:26866909181398172943498464848395970419894283621025178268717544424022978925540": {
       "reason": "benched",
       "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
@@ -24078,6 +24061,26 @@
       "proceeds": 0,
       "pnl": -100,
       "closedAt": "2026-11-20T00:48:59.565Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
+      "name": "zerone777",
+      "asset": "37461417265919800563099829598896496437436229231955379584818921535241120965562",
+      "conditionId": "0xe96dbaceb816e80063bec945a76ac915cba4341bdf1ef704f722bfc9054aad09",
+      "outcomeIndex": 1,
+      "title": "Will Anthropic have the highest IPO Market Cap 2026?",
+      "outcome": "No",
+      "slug": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
+      "whalePrice": 0.585,
+      "ourPrice": 0.585,
+      "shares": 170.94017094017096,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-31T16:50:02.410Z",
+      "proceeds": 170.94017094017096,
+      "pnl": 70.94017094017096,
+      "closedAt": "2026-11-20T01:46:25.700Z"
     }
   ]
 }
