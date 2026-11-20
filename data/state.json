@@ -10364,23 +10364,6 @@
       "rules": 2,
       "openedAt": "2026-10-29T04:32:08.553Z"
     },
-    "benched:0xb0c85813a7a4428f1139ff91d3118a92c391fe7f:58554368714684779496337541114704698505747242960798409159457418202978802963408": {
-      "reason": "benched",
-      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
-      "name": "qwen4.1.fund",
-      "asset": "58554368714684779496337541114704698505747242960798409159457418202978802963408",
-      "conditionId": "0x67644dafb1cb9f5dda7cc1b5666e93c1ca539da38cafb17b4ebca6493a04e25b",
-      "outcomeIndex": 1,
-      "title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-      "outcome": "No",
-      "slug": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
-      "whalePrice": 0.938,
-      "ourPrice": 0.938,
-      "shares": 106.60980810234543,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-29T05:07:10.216Z"
-    },
     "topic:0xe949065b6c64308369c26dc590121623a5a4dea6:34079851482053293361932351143019209193108191421795047260065638898939690262262": {
       "reason": "topic",
       "wallet": "0xe949065b6c64308369c26dc590121623a5a4dea6",
@@ -11162,23 +11145,6 @@
       "stake": 100,
       "rules": 2,
       "openedAt": "2026-11-02T12:19:21.321Z"
-    },
-    "longdated:0x511f9c771449162349795d17becf8b37031acbe1:58554368714684779496337541114704698505747242960798409159457418202978802963408": {
-      "reason": "longdated",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "58554368714684779496337541114704698505747242960798409159457418202978802963408",
-      "conditionId": "0x67644dafb1cb9f5dda7cc1b5666e93c1ca539da38cafb17b4ebca6493a04e25b",
-      "outcomeIndex": 1,
-      "title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-      "outcome": "No",
-      "slug": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
-      "whalePrice": 0.9132615171999999,
-      "ourPrice": 0.9132615171999999,
-      "shares": 109.4976609838915,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-11-02T15:25:38.974Z"
     },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:8077351031134730167836761678618167504307708651130165095377248922919635337796": {
       "reason": "longdated",
@@ -24072,6 +24038,46 @@
       "proceeds": 103.46435842338664,
       "pnl": 3.464358423386642,
       "closedAt": "2026-11-19T23:17:09.789Z"
+    },
+    {
+      "reason": "benched",
+      "wallet": "0xb0c85813a7a4428f1139ff91d3118a92c391fe7f",
+      "name": "qwen4.1.fund",
+      "asset": "58554368714684779496337541114704698505747242960798409159457418202978802963408",
+      "conditionId": "0x67644dafb1cb9f5dda7cc1b5666e93c1ca539da38cafb17b4ebca6493a04e25b",
+      "outcomeIndex": 1,
+      "title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+      "outcome": "No",
+      "slug": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
+      "whalePrice": 0.938,
+      "ourPrice": 0.938,
+      "shares": 106.60980810234543,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-29T05:07:10.216Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-20T00:48:59.565Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "58554368714684779496337541114704698505747242960798409159457418202978802963408",
+      "conditionId": "0x67644dafb1cb9f5dda7cc1b5666e93c1ca539da38cafb17b4ebca6493a04e25b",
+      "outcomeIndex": 1,
+      "title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+      "outcome": "No",
+      "slug": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
+      "whalePrice": 0.9132615171999999,
+      "ourPrice": 0.9132615171999999,
+      "shares": 109.4976609838915,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-11-02T15:25:38.974Z",
+      "proceeds": 0,
+      "pnl": -100,
+      "closedAt": "2026-11-20T00:48:59.565Z"
     }
   ]
 }
