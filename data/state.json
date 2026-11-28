@@ -9875,23 +9875,6 @@
       "rules": 2,
       "openedAt": "2026-10-26T13:14:57.038Z"
     },
-    "longdated:0x511f9c771449162349795d17becf8b37031acbe1:95330850088652964045342754396500611430491328230261187321150789382210939939481": {
-      "reason": "longdated",
-      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
-      "name": "Bigggggggg",
-      "asset": "95330850088652964045342754396500611430491328230261187321150789382210939939481",
-      "conditionId": "0x484d3e1f00df54f5084984da97d330cfc1a898f952d7fe87278944b459864ba9",
-      "outcomeIndex": 1,
-      "title": "Will Inter Miami CF win the 2026 MLS Cup?",
-      "outcome": "No",
-      "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
-      "whalePrice": 0.8384128742999999,
-      "ourPrice": 0.8384128742999999,
-      "shares": 119.27297762870245,
-      "stake": 100,
-      "rules": 2,
-      "openedAt": "2026-10-26T16:10:03.330Z"
-    },
     "longdated:0x511f9c771449162349795d17becf8b37031acbe1:5826568493066105614989459498433637387489967454167907705715384678370846750087": {
       "reason": "longdated",
       "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
@@ -24085,6 +24068,26 @@
       "proceeds": 170.94017094017096,
       "pnl": 70.94017094017096,
       "closedAt": "2026-11-20T01:46:25.700Z"
+    },
+    {
+      "reason": "longdated",
+      "wallet": "0x511f9c771449162349795d17becf8b37031acbe1",
+      "name": "Bigggggggg",
+      "asset": "95330850088652964045342754396500611430491328230261187321150789382210939939481",
+      "conditionId": "0x484d3e1f00df54f5084984da97d330cfc1a898f952d7fe87278944b459864ba9",
+      "outcomeIndex": 1,
+      "title": "Will Inter Miami CF win the 2026 MLS Cup?",
+      "outcome": "No",
+      "slug": "will-inter-miami-cf-win-the-2026-mls-cup",
+      "whalePrice": 0.8384128742999999,
+      "ourPrice": 0.8384128742999999,
+      "shares": 119.27297762870245,
+      "stake": 100,
+      "rules": 2,
+      "openedAt": "2026-10-26T16:10:03.330Z",
+      "proceeds": 119.27297762870245,
+      "pnl": 19.27297762870245,
+      "closedAt": "2026-11-28T06:25:54.786Z"
     }
   ]
 }
